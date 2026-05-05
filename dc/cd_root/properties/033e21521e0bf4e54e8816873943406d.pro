@@ -1,0 +1,7 @@
+"Cartridge.MD5" "033e21521e0bf4e54e8816873943406d"
+"Cartridge.Manufacturer" "20th Century Fox Video Games, Dan Thompson"
+"Cartridge.ModelNo" "11020"
+"Cartridge.Name" "Earth Dies Screaming, The (1983) (20th Century Fox)"
+"Cartridge.Note" "The Day the Earth Stood Still"
+"Display.YStart" "29"
+""

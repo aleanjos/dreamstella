@@ -1,0 +1,5 @@
+"Cartridge.MD5" "1e587ca91518a47753a28217cd4fd586"
+"Cartridge.Manufacturer" "Telesys, Jim Rupp, Jack Woodman"
+"Cartridge.ModelNo" "1001"
+"Cartridge.Name" "Coco Nuts (1982) (Telesys)"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e5fcc62e1d73706be7b895e887e90f84"
+"Cartridge.Name" "Air-Sea Battle (Unknown) (PAL) (4K)"
+"Display.YStart" "40"
+"Display.Height" "260"
+""

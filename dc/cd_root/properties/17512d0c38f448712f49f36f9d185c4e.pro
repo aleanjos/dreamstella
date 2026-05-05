@@ -1,0 +1,6 @@
+"Cartridge.MD5" "17512d0c38f448712f49f36f9d185c4e"
+"Cartridge.Manufacturer" "Retroactive"
+"Cartridge.Name" "Qb (Release Candidate #1) (Retroactive)"
+"Cartridge.Rarity" "New Release"
+"Display.Phosphor" "YES"
+""

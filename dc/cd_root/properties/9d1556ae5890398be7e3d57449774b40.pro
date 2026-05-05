@@ -1,0 +1,6 @@
+"Cartridge.MD5" "9d1556ae5890398be7e3d57449774b40"
+"Cartridge.Manufacturer" "Activision, David Crane"
+"Cartridge.ModelNo" "AG-001"
+"Cartridge.Name" "Dragster (1980) (Activision) (8K)"
+"Display.YStart" "27"
+""

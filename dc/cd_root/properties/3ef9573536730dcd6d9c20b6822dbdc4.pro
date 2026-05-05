@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3ef9573536730dcd6d9c20b6822dbdc4"
+"Cartridge.Manufacturer" "Atari, Larry Wagner, Bob Whitehead"
+"Cartridge.ModelNo" "CX2645, CX2645P"
+"Cartridge.Name" "Video Chess (1979) (Atari) (PAL)"
+""

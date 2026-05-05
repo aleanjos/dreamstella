@@ -1,0 +1,8 @@
+"Cartridge.MD5" "504688d49a41bf03d8a955512609f3f2"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "SWOOPS! (TJ)"
+"Cartridge.Note" "Uses the Joystick (L) and Paddle (R) Controllers"
+"Cartridge.Rarity" "Homebrew"
+"Controller.Right" "PADDLES"
+"Display.YStart" "30"
+""

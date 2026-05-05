@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6805734a0b7bcc8925d9305b071bf147"
+"Cartridge.Manufacturer" "Bit Corporation"
+"Cartridge.ModelNo" "PGP229"
+"Cartridge.Name" "Kung Fu (4 Game in One Dark Green) (1983) (BitCorp) (PAL)"
+"Cartridge.Note" "AKA Karate"
+""

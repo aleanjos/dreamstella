@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b23ebf427713dd0198b7ef47dbd07ef4"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Sky Diver (Jone Yuan) (4K) (Hack)"
+"Cartridge.Note" "2600 Screen Search Console"
+"Cartridge.Rarity" "Hack"
+""

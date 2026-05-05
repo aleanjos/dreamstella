@@ -1,0 +1,8 @@
+"Cartridge.MD5" "eaacfcdc1d4ee1258429b7ae7f084125"
+"Cartridge.Manufacturer" "Telegames"
+"Cartridge.ModelNo" "6057 A227"
+"Cartridge.Name" "Quest for Quintana Roo (1989) (Telegames)"
+"Cartridge.Note" "Genesis controller (B is action button, C chooses tool or weapon)"
+"Cartridge.Rarity" "Hack of Quest for Quintana Roo"
+"Controller.Left" "GENESIS"
+""

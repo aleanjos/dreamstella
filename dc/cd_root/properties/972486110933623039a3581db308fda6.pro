@@ -1,0 +1,5 @@
+"Cartridge.MD5" "972486110933623039a3581db308fda6"
+"Cartridge.Name" "Xeno Plus (Hack)"
+"Cartridge.Note" "Hack of Xenophobe"
+"Cartridge.Rarity" "Hack"
+""

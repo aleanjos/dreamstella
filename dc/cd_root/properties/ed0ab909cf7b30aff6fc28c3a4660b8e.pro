@@ -1,0 +1,6 @@
+"Cartridge.MD5" "ed0ab909cf7b30aff6fc28c3a4660b8e"
+"Cartridge.Manufacturer" "Panda"
+"Cartridge.ModelNo" "105"
+"Cartridge.Name" "Stunt Man (1983) (Panda)"
+"Cartridge.Note" "AKA Nightmare"
+""

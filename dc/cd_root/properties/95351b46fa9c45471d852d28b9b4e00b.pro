@@ -1,0 +1,5 @@
+"Cartridge.MD5" "95351b46fa9c45471d852d28b9b4e00b"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Golf (32 in 1) (1988) (Atari) (PAL)"
+""

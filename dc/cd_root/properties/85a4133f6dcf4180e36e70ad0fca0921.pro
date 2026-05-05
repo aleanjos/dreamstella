@@ -1,0 +1,5 @@
+"Cartridge.MD5" "85a4133f6dcf4180e36e70ad0fca0921"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-827"
+"Cartridge.Name" "Chopper Command (1983) (CCE)"
+""

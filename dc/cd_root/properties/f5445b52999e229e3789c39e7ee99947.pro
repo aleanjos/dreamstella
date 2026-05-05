@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f5445b52999e229e3789c39e7ee99947"
+"Cartridge.Manufacturer" "Atari, Jim Huether"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Flag Capture (32 in 1) (1988) (Atari) (PAL)"
+""

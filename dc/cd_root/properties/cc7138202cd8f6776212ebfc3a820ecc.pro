@@ -1,0 +1,8 @@
+"Cartridge.MD5" "cc7138202cd8f6776212ebfc3a820ecc"
+"Cartridge.Manufacturer" "Atari, Christopher H. Omarzu, Preston Stuart, Bruce Williams"
+"Cartridge.ModelNo" "CX26101"
+"Cartridge.Name" "Oscar's Trash Race (03-30-1983) (Atari) (Prototype)"
+"Cartridge.Note" "Uses the Keypad Controllers"
+"Controller.Left" "KEYBOARD"
+"Controller.Right" "KEYBOARD"
+""

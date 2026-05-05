@@ -1,0 +1,6 @@
+"Cartridge.MD5" "63e783994df824caf289b69a084cbf3e"
+"Cartridge.Manufacturer" "David Marli"
+"Cartridge.Name" "Fat Albert (David Marli) (Hack)"
+"Cartridge.Note" "Hack of Fast Food"
+"Cartridge.Rarity" "Hack"
+""

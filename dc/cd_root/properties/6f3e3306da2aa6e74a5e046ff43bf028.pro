@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6f3e3306da2aa6e74a5e046ff43bf028"
+"Cartridge.Name" "Defender Arcade (Genesis)"
+"Cartridge.Note" "Genesis controller (C is smartbomb)"
+"Cartridge.Rarity" "Hack of Defender 2"
+"Controller.Left" "GENESIS"
+""

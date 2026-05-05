@@ -1,0 +1,5 @@
+"Cartridge.MD5" "1ede4f365ce1386d58f121b15a775e24"
+"Cartridge.Manufacturer" "Parker Brothers, Dave Hampton, Tom Sloper"
+"Cartridge.ModelNo" "931517"
+"Cartridge.Name" "Q-bert (1983) (Parker Bros) (PAL) [a]"
+""

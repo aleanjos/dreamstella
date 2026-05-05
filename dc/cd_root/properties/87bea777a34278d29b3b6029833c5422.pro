@@ -1,0 +1,6 @@
+"Cartridge.MD5" "87bea777a34278d29b3b6029833c5422"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Polaris (1983) (Thomas Jentzsch)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Homebrew"
+""

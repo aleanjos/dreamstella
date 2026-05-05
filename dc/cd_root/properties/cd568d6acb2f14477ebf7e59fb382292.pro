@@ -1,0 +1,6 @@
+"Cartridge.MD5" "cd568d6acb2f14477ebf7e59fb382292"
+"Cartridge.Manufacturer" "Videospielkassette - Ariola"
+"Cartridge.ModelNo" "PGP235"
+"Cartridge.Name" "Fussball (Ariola) (PAL)"
+"Cartridge.Note" "AKA International Soccer"
+""

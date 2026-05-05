@@ -1,0 +1,5 @@
+"Cartridge.MD5" "25bb080457351be724aac8a02021aa92"
+"Cartridge.Manufacturer" "CBS Electronics"
+"Cartridge.ModelNo" "4L1784, 4L1786, 4L1787, 4L2277"
+"Cartridge.Name" "Zaxxon (1982) (CBS Electronics) (PAL)"
+""

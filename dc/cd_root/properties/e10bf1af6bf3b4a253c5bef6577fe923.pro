@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e10bf1af6bf3b4a253c5bef6577fe923"
+"Cartridge.Manufacturer" "Rob Kudla"
+"Cartridge.Name" "Space Invaders (1978) (Atari) [h1]"
+"Cartridge.Note" "Hack of Space Invaders (Atari)"
+"Cartridge.Rarity" "New Release (Hack)"
+""

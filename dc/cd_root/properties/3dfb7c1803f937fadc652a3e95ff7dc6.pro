@@ -1,0 +1,6 @@
+"Cartridge.MD5" "3dfb7c1803f937fadc652a3e95ff7dc6"
+"Cartridge.Manufacturer" "Dimax - Sinmax"
+"Cartridge.ModelNo" "SM8001"
+"Cartridge.Name" "Space Robot (Dimax - Sinmax)"
+"Display.Phosphor" "YES"
+""

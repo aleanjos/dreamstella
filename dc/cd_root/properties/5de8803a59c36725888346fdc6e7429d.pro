@@ -1,0 +1,5 @@
+"Cartridge.MD5" "5de8803a59c36725888346fdc6e7429d"
+"Cartridge.Manufacturer" "Atari, John Dunn - Sears"
+"Cartridge.ModelNo" "CX2631 - 49-75152"
+"Cartridge.Name" "Superman (1979) (Atari) [fixed]"
+""

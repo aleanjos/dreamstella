@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2c45c3eb819a797237820a1816c532eb"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Boxing (32 in 1) (1988) (Atari) (PAL)"
+""

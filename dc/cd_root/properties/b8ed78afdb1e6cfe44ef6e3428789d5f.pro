@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b8ed78afdb1e6cfe44ef6e3428789d5f"
+"Cartridge.Manufacturer" "Data Age"
+"Cartridge.ModelNo" "112-007"
+"Cartridge.Name" "Bermuda Triangle (1982) (Data Age)"
+"Cartridge.Rarity" "Rare"
+""

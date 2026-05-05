@@ -1,0 +1,5 @@
+"Cartridge.MD5" "898748d5eaac3164b0391a64ae1e0e32"
+"Cartridge.Name" "Hangman Man 4letter (Hack)"
+"Cartridge.Note" "Hack of Hangman"
+"Cartridge.Rarity" "Hack"
+""

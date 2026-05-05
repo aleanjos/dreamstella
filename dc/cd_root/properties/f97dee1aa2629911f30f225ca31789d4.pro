@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f97dee1aa2629911f30f225ca31789d4"
+"Cartridge.Manufacturer" "Avalon Hill, Jean Baer, Bill 'Rebecca Ann' Heineman, Jim Jacob"
+"Cartridge.ModelNo" "5005002"
+"Cartridge.Name" "Out of Control (1983) (Avalon Hill)"
+""

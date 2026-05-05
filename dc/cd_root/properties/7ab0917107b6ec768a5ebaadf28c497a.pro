@@ -1,0 +1,6 @@
+"Cartridge.MD5" "7ab0917107b6ec768a5ebaadf28c497a"
+"Cartridge.Name" "Santa's Helper (Hack)"
+"Cartridge.Note" "Hack of Kaboom!"
+"Cartridge.Rarity" "Hack"
+"Controller.Left" "PADDLES"
+""

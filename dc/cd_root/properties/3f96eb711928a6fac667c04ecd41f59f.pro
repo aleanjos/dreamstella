@@ -1,0 +1,6 @@
+"Cartridge.MD5" "3f96eb711928a6fac667c04ecd41f59f"
+"Cartridge.Manufacturer" "Bit Corporation"
+"Cartridge.ModelNo" "PGP218"
+"Cartridge.Name" "Rodeo Champ (4 Game in One Dark Green) (1983) (BitCorp) (PAL)"
+"Cartridge.Note" "AKA Stampede"
+""

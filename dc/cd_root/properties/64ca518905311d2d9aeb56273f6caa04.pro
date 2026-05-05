@@ -1,0 +1,5 @@
+"Cartridge.MD5" "64ca518905311d2d9aeb56273f6caa04"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.Name" "Cubo Magico (CCE)"
+"Cartridge.Note" "AKA Cubicolor"
+""

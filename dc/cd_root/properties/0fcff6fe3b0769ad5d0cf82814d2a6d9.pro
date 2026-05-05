@@ -1,0 +1,5 @@
+"Cartridge.MD5" "0fcff6fe3b0769ad5d0cf82814d2a6d9"
+"Cartridge.Manufacturer" "Suntek"
+"Cartridge.ModelNo" "SS-027"
+"Cartridge.Name" "Zoo Fun (Suntek) (PAL)"
+""

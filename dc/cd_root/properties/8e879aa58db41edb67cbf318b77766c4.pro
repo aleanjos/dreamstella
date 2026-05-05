@@ -1,0 +1,7 @@
+"Cartridge.MD5" "8e879aa58db41edb67cbf318b77766c4"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Cosmic Commuter (Thomas Jentzsch) (PAL60)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Hack"
+"Display.Format" "PAL60"
+""

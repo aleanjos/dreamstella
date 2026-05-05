@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2f16663b01591539624d0ef52934a17d"
+"Cartridge.Manufacturer" "M Network"
+"Cartridge.Name" "Rocky and Bullwinkle"
+"Cartridge.Rarity" "Prototype"
+""

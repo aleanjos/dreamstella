@@ -1,0 +1,5 @@
+"Cartridge.MD5" "d7b58303ec8d8c4dbcbf54d3b9734c7e"
+"Cartridge.Name" "Paddle Demo (Joe Grand) (PD)"
+"Controller.Left" "PADDLES"
+"Controller.Right" "PADDLES"
+""

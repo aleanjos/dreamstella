@@ -1,0 +1,5 @@
+"Cartridge.MD5" "d39e29b03af3c28641084dd1528aae05"
+"Cartridge.Manufacturer" "Funvision - Fund. Int'l Co."
+"Cartridge.Name" "Spider Monster (1982) (Funvision) (PAL)"
+"Cartridge.Note" "AKA Spider Kong"
+""

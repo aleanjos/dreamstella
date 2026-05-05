@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f661f129644f338b13d9f4510d816c03"
+"Cartridge.Manufacturer" "Atari, David Crane"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Outlaw (32 in 1) (1988) (Atari) (PAL) (4K)"
+""

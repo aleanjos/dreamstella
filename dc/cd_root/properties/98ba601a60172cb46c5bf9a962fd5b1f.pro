@@ -1,0 +1,5 @@
+"Cartridge.MD5" "98ba601a60172cb46c5bf9a962fd5b1f"
+"Cartridge.Name" "Gorilla Kong (Hack)"
+"Cartridge.Note" "Hack of Donkey Kong"
+"Cartridge.Rarity" "Hack"
+""

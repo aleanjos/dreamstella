@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2854e5dfb84173fafc5bf485c3e69d5a"
+"Cartridge.Manufacturer" "Canal 3 - Intellivision"
+"Cartridge.ModelNo" "C 3004"
+"Cartridge.Name" "Moon Patrol (Canal 3)"
+""

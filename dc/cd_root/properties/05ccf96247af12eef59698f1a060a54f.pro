@@ -1,0 +1,6 @@
+"Cartridge.MD5" "05ccf96247af12eef59698f1a060a54f"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "600273"
+"Cartridge.Name" "King Arthur (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Dragonfire (Double-Game Package)"
+""

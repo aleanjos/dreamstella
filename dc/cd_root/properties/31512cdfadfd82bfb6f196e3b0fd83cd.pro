@@ -1,0 +1,5 @@
+"Cartridge.MD5" "31512cdfadfd82bfb6f196e3b0fd83cd"
+"Cartridge.Manufacturer" "Tigervision"
+"Cartridge.ModelNo" "7-004"
+"Cartridge.Name" "River Patrol (1984) (Tigervision)"
+""

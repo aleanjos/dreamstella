@@ -1,0 +1,8 @@
+"Cartridge.MD5" "5be03a1fe7b2c114725150be04b38704"
+"Cartridge.Manufacturer" "Atari, Alan Miller"
+"Cartridge.ModelNo" "CX2642"
+"Cartridge.Name" "Hunt & Score (1978) (Atari) (PAL)"
+"Cartridge.Note" "Uses Keypad Controllers"
+"Controller.Left" "KEYBOARD"
+"Controller.Right" "KEYBOARD"
+""

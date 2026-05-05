@@ -1,0 +1,7 @@
+"Cartridge.MD5" "939ce554f5c0e74cc6e4e62810ec2111"
+"Cartridge.Manufacturer" "ZiMAG - Emag - Vidco"
+"Cartridge.ModelNo" "711-111 - GN-020"
+"Cartridge.Name" "Dishaster (1983) (ZiMAG)"
+"Cartridge.Note" "AKA Dancing Plate"
+"Display.Phosphor" "YES"
+""

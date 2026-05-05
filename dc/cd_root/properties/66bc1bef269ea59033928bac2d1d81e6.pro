@@ -1,0 +1,8 @@
+"Cartridge.MD5" "66bc1bef269ea59033928bac2d1d81e6"
+"Cartridge.Manufacturer" "Arcadia Corporation, Scott Nelson"
+"Cartridge.ModelNo" "AR-4300"
+"Cartridge.Name" "Fireball (Preview) (1982) (Arcadia)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES"
+"Controller.MouseAxis" "01"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "8f88309afad108936ca70f8b2b084718"
+"Cartridge.Manufacturer" "Spectravision, Spectravideo - Quelle"
+"Cartridge.ModelNo" "SA-203 - 413.223 9"
+"Cartridge.Name" "Cross Force (1982) (Spectravision) (PAL)"
+"Cartridge.Note" "AKA Kreuzfeuer (Cross Fire)"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "61dbe94f110f30ca4ec524ae5ce2d026"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-820"
+"Cartridge.Name" "Space Invaders (1983) (CCE)"
+""

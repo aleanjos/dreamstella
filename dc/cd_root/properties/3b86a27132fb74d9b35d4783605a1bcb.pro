@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3b86a27132fb74d9b35d4783605a1bcb"
+"Cartridge.Manufacturer" "Atari, Chris Crawford"
+"Cartridge.Name" "Wizard (1980) (Atari) (Prototype) (4K)"
+"Cartridge.Rarity" "Prototype"
+""

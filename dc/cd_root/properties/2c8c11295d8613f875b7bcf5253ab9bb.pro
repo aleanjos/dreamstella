@@ -1,0 +1,7 @@
+"Cartridge.MD5" "2c8c11295d8613f875b7bcf5253ab9bb"
+"Cartridge.Manufacturer" "Fabrizio Zavagli"
+"Cartridge.Name" "Kool Aid Man (PAL Conversion) (16-11-2002) (Fabrizio Zavagli) (PAL60)"
+"Cartridge.Note" "PAL60 Conversion"
+"Cartridge.Rarity" "Homebrew"
+"Display.Format" "PAL60"
+""

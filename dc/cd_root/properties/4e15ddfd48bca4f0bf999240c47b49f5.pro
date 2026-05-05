@@ -1,0 +1,6 @@
+"Cartridge.MD5" "4e15ddfd48bca4f0bf999240c47b49f5"
+"Cartridge.Manufacturer" "Avalon Hill, Jean Baer, Jim Jacob"
+"Cartridge.ModelNo" "5001002"
+"Cartridge.Name" "Death Trap (1983) (Avalon Hill)"
+"Display.Phosphor" "YES"
+""

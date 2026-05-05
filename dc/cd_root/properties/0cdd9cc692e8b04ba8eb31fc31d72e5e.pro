@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0cdd9cc692e8b04ba8eb31fc31d72e5e"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Wing War (Thomas Jentzsch)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Homebrew"
+""

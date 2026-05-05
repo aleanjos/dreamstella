@@ -1,0 +1,6 @@
+"Cartridge.MD5" "be3f0e827e2f748819dac2a22d6ac823"
+"Cartridge.Manufacturer" "Puzzy - Bit Corporation"
+"Cartridge.ModelNo" "PG202"
+"Cartridge.Name" "Space Tunnel (1982) (Puzzy)"
+"Display.Height" "215"
+""

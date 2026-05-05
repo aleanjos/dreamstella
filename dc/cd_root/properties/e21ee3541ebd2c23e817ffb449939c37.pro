@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e21ee3541ebd2c23e817ffb449939c37"
+"Cartridge.Manufacturer" "Tigervision, Karl T. Olinger"
+"Cartridge.ModelNo" "7-001"
+"Cartridge.Name" "King Kong (1982) (Tigervision)"
+"Display.YStart" "28"
+""

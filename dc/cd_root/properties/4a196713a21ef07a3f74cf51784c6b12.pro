@@ -1,0 +1,6 @@
+"Cartridge.MD5" "4a196713a21ef07a3f74cf51784c6b12"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Frogs and Flies (Jone Yuan) (Hack)"
+"Cartridge.Note" "2600 Screen Search Console"
+"Cartridge.Rarity" "Hack"
+""

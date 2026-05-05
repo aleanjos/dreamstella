@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e77f332b71f13884c84771e7a121182d"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Hey! Stop! (Jone Yuan)"
+"Cartridge.Note" "AKA Keystone Kapers"
+""

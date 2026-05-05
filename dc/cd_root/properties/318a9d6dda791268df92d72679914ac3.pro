@@ -1,0 +1,5 @@
+"Cartridge.MD5" "318a9d6dda791268df92d72679914ac3"
+"Cartridge.Manufacturer" "Activision, Steve Cartwright"
+"Cartridge.ModelNo" "AX-017, AX-017-04"
+"Cartridge.Name" "MegaMania (1982) (Activision)"
+""

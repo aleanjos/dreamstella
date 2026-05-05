@@ -1,0 +1,6 @@
+"Cartridge.MD5" "9364ad51c321e0f15c96a8c0aff47ceb"
+"Cartridge.Manufacturer" "Atari, Rob Fulop"
+"Cartridge.ModelNo" "CX2638"
+"Cartridge.Name" "Missile Command (1981) (Atari) (PAL)"
+"Display.Phosphor" "YES"
+""

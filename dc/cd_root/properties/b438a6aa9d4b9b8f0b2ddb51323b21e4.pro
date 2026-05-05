@@ -1,0 +1,7 @@
+"Cartridge.MD5" "b438a6aa9d4b9b8f0b2ddb51323b21e4"
+"Cartridge.Manufacturer" "Telegames"
+"Cartridge.ModelNo" "5861 A030"
+"Cartridge.Name" "Bogey Blaster (1989) (Telegames) (PAL)"
+"Cartridge.Note" "AKA Air Raiders"
+"Cartridge.Rarity" "Rare"
+""

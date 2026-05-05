@@ -1,0 +1,6 @@
+"Cartridge.MD5" "9f8fad4badcd7be61bbd2bcaeef3c58f"
+"Cartridge.Manufacturer" "Parker Brothers, Charlie Heath"
+"Cartridge.ModelNo" "PB5330"
+"Cartridge.Name" "Reactor (1982) (Parker Bros)"
+"Display.Phosphor" "YES"
+""

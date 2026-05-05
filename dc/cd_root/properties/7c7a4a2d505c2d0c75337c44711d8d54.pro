@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7c7a4a2d505c2d0c75337c44711d8d54"
+"Cartridge.Manufacturer" "Atari, Warren Robinett"
+"Cartridge.Name" "Elf Adventure (04-22-83) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

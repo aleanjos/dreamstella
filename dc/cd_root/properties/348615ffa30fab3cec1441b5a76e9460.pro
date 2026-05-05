@@ -1,0 +1,6 @@
+"Cartridge.MD5" "348615ffa30fab3cec1441b5a76e9460"
+"Cartridge.Manufacturer" "Activision, Alan Miller - Ariola"
+"Cartridge.ModelNo" "EAX-016, PAX-016 - 711 016-725"
+"Cartridge.Name" "StarMaster (1982) (Activision) (PAL) [fixed]"
+"Cartridge.Note" "Use Color/BW switch to change between galactic chart and front views"
+""

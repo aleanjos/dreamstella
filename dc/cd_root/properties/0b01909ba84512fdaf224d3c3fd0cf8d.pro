@@ -1,0 +1,5 @@
+"Cartridge.MD5" "0b01909ba84512fdaf224d3c3fd0cf8d"
+"Cartridge.Name" "Revenge of the Apes (Hack)"
+"Cartridge.Note" "Hack of Planet of the Apes"
+"Cartridge.Rarity" "Hack"
+""

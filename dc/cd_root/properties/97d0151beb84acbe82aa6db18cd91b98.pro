@@ -1,0 +1,6 @@
+"Cartridge.MD5" "97d0151beb84acbe82aa6db18cd91b98"
+"Cartridge.Manufacturer" "Steve Engelhardt"
+"Cartridge.Name" "Lunar Attack (2002) (Steve Engelhardt) (Hack)"
+"Cartridge.Note" "Hack of Z-Tack"
+"Cartridge.Rarity" "Hack"
+""

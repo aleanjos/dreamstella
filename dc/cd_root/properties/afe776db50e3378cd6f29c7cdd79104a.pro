@@ -1,0 +1,8 @@
+"Cartridge.MD5" "afe776db50e3378cd6f29c7cdd79104a"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Bobby is Going Home (TJ)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Homebrew"
+"Display.YStart" "23"
+"Display.Height" "245"
+""

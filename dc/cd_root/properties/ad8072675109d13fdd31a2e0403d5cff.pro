@@ -1,0 +1,5 @@
+"Cartridge.MD5" "ad8072675109d13fdd31a2e0403d5cff"
+"Cartridge.Manufacturer" "Funvision - Fund. International Co."
+"Cartridge.Name" "Tank City (Funvision)"
+"Cartridge.Note" "AKA Thunderground"
+""

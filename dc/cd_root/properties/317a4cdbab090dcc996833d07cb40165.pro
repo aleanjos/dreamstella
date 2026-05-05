@@ -1,0 +1,6 @@
+"Cartridge.MD5" "317a4cdbab090dcc996833d07cb40165"
+"Cartridge.Manufacturer" "Goliath - Hot Shot"
+"Cartridge.ModelNo" "83-312"
+"Cartridge.Name" "Missile War (1983) (Goliath) (PAL)"
+"Cartridge.Note" "AKA Astrowar"
+""

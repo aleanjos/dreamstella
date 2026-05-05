@@ -1,0 +1,8 @@
+"Cartridge.MD5" "8556b42aa05f94bc29ff39c39b11bff4"
+"Cartridge.Manufacturer" "Atari, Craig Nelson - Sears"
+"Cartridge.ModelNo" "CX2617 - 49-75183"
+"Cartridge.Name" "Backgammon (1979) (Atari)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Cartridge.Rarity" "Extremely Rare"
+"Controller.Left" "PADDLES_IAXDR"
+""

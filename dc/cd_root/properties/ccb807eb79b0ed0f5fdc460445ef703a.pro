@@ -1,0 +1,5 @@
+"Cartridge.MD5" "ccb807eb79b0ed0f5fdc460445ef703a"
+"Cartridge.Name" "Superman (Stunt_Cycle_Rules!) (Hack)"
+"Cartridge.Note" "Hack of Superman"
+"Cartridge.Rarity" "Hack"
+""

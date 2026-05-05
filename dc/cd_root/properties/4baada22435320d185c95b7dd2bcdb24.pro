@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4baada22435320d185c95b7dd2bcdb24"
+"Cartridge.Manufacturer" "Atari, Jerome Domurat, Dave Staugas"
+"Cartridge.ModelNo" "CX2682"
+"Cartridge.Name" "Krull (1983) (Atari)"
+""

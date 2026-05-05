@@ -1,0 +1,6 @@
+"Cartridge.MD5" "000509d1ed2b8d30a9d94be1b3b5febb"
+"Cartridge.Manufacturer" "Greg Zumwalt"
+"Cartridge.Name" "Jungle Jane (2003) (Greg Zumwalt) (Hack)"
+"Cartridge.Note" "Hack of Pitfall!"
+"Cartridge.Rarity" "Hack"
+""

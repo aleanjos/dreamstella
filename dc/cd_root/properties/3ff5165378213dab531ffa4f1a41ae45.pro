@@ -1,0 +1,6 @@
+"Cartridge.MD5" "3ff5165378213dab531ffa4f1a41ae45"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "311377"
+"Cartridge.Name" "Pygmy (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Lock 'n' Chase (Double-Game Package)"
+""

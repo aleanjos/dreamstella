@@ -1,0 +1,6 @@
+"Cartridge.MD5" "7af40c1485ce9f29b1a7b069a2eb04a7"
+"Cartridge.Manufacturer" "Amiga"
+"Cartridge.ModelNo" "3120"
+"Cartridge.Name" "Mogul Maniac (1983) (Amiga)"
+"Cartridge.Note" "Uses the Amiga Joyboard"
+""

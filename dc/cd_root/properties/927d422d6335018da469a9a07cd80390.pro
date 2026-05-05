@@ -1,0 +1,5 @@
+"Cartridge.MD5" "927d422d6335018da469a9a07cd80390"
+"Cartridge.Manufacturer" "Activision, Carol Shaw - Ariola"
+"Cartridge.ModelNo" "EAX-020, EAX-020-04B, EAX-020-04I - 711 020-720"
+"Cartridge.Name" "River Raid (1982) (Activision) (PAL)"
+""

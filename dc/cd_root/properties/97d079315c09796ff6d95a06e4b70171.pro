@@ -1,0 +1,5 @@
+"Cartridge.MD5" "97d079315c09796ff6d95a06e4b70171"
+"Cartridge.Manufacturer" "Activision, Garry Kitchen"
+"Cartridge.ModelNo" "AZ-032"
+"Cartridge.Name" "Pressure Cooker (1983) (Activision)"
+""

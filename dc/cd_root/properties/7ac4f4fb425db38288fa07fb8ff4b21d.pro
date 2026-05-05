@@ -1,0 +1,6 @@
+"Cartridge.MD5" "7ac4f4fb425db38288fa07fb8ff4b21d"
+"Cartridge.Manufacturer" "Goliath"
+"Cartridge.ModelNo" "83-213"
+"Cartridge.Name" "Space Eagle (1983) (Goliath) (PAL)"
+"Cartridge.Note" "AKA Exocet"
+""

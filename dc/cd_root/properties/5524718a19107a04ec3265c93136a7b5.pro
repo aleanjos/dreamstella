@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5524718a19107a04ec3265c93136a7b5"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "RealSports Basketball (Thomas Jentzsch)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Homebrew"
+""

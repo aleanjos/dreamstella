@@ -1,0 +1,6 @@
+"Cartridge.MD5" "3f251c50aa7237e61a38ab42315ebed4"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Ikari Warriors (1990) (Thomas Jentzsch)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Homebrew"
+""

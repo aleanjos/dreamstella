@@ -1,0 +1,5 @@
+"Cartridge.MD5" "15fe28d0c8893be9223e8cb2d032e557"
+"Cartridge.Name" "Towering Inferno (208 in 1) (Unknown) (PAL)"
+"Display.YStart" "52"
+"Display.Phosphor" "YES"
+""

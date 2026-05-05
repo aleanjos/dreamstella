@@ -1,0 +1,8 @@
+"Cartridge.MD5" "eafe8b40313a65792e88ff9f2fe2655c"
+"Cartridge.Manufacturer" "Eric Ball"
+"Cartridge.ModelNo" "ELB004"
+"Cartridge.Name" "Skeleton+ (NTSC)"
+"Cartridge.Note" "Stereo sound"
+"Cartridge.Rarity" "Homebrew"
+"Cartridge.Sound" "STEREO"
+""

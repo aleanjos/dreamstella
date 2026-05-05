@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e020f612255e266a8a6a9795a4df0c0f"
+"Cartridge.Manufacturer" "Telegames"
+"Cartridge.ModelNo" "7062 A305"
+"Cartridge.Name" "Universal Chaos (1989) (Telegames) (PAL)"
+"Cartridge.Note" "AKA Targ"
+""

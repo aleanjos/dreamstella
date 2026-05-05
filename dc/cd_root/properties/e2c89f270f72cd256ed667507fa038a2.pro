@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e2c89f270f72cd256ed667507fa038a2"
+"Cartridge.Manufacturer" "Arcadia Corporation, Stephen Harland Landrum"
+"Cartridge.ModelNo" "AR-4101"
+"Cartridge.Name" "Communist Mutants from Space (1982) (Arcadia) (PAL)"
+""

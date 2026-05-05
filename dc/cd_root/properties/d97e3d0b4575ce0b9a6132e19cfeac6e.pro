@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d97e3d0b4575ce0b9a6132e19cfeac6e"
+"Cartridge.Manufacturer" "Fabrizio Zavagli"
+"Cartridge.Name" "Space Treat (061002) (PD)"
+"Cartridge.Note" "Won't work with Stella < V1.2"
+"Cartridge.Rarity" "New Release"
+""

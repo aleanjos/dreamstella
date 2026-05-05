@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f52f40299fd238c6ffd9e6107050dc76"
+"Cartridge.Manufacturer" "Activision, Bob Whitehead - Ariola"
+"Cartridge.ModelNo" "EAG-011, PAG-011 - 711 011-715"
+"Cartridge.Name" "Stampede (1981) (Activision) (PAL) (4K)"
+""

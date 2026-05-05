@@ -1,0 +1,5 @@
+"Cartridge.MD5" "a302b922a8dbec47743f28b7f91d4cd8"
+"Cartridge.Manufacturer" "Arcadia Corporation, Stephen Harland Landrum"
+"Cartridge.ModelNo" "AR-4400"
+"Cartridge.Name" "Dragonstomper (Preview) (1982) (Arcadia)"
+""

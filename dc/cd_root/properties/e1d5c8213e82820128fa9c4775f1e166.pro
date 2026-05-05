@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e1d5c8213e82820128fa9c4775f1e166"
+"Cartridge.Manufacturer" "Jess Ragan"
+"Cartridge.Name" "Jungle King (2003) (Jess Ragan) (Hack)"
+"Cartridge.Note" "Hack of Jungle Hunt"
+"Cartridge.Rarity" "Hack"
+""

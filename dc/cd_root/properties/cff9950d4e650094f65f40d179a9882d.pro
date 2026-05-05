@@ -1,0 +1,7 @@
+"Cartridge.MD5" "cff9950d4e650094f65f40d179a9882d"
+"Cartridge.Manufacturer" "Paul Slocum"
+"Cartridge.Name" "Mr. Roboto (Paul Slocum) (Hack)"
+"Cartridge.Note" "Hack of Berzerk"
+"Cartridge.Rarity" "Hack"
+"Display.Phosphor" "YES"
+""

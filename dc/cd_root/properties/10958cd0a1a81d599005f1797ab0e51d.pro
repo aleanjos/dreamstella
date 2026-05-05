@@ -1,0 +1,5 @@
+"Cartridge.MD5" "10958cd0a1a81d599005f1797ab0e51d"
+"Cartridge.Name" "Centipede 2k (2000) (PD) (Hack)"
+"Cartridge.Note" "Hack of Centipede"
+"Cartridge.Rarity" "Hack"
+""

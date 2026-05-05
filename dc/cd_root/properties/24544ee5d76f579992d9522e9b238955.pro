@@ -1,0 +1,7 @@
+"Cartridge.MD5" "24544ee5d76f579992d9522e9b238955"
+"Cartridge.Manufacturer" "Carrere Video, Tom Sloper - Teldec"
+"Cartridge.ModelNo" "USC2004"
+"Cartridge.Name" "Picnic (1983) (Carrere Video) (PAL)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES"
+""

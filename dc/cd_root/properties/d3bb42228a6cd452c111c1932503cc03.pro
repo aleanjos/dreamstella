@@ -1,0 +1,7 @@
+"Cartridge.MD5" "d3bb42228a6cd452c111c1932503cc03"
+"Cartridge.Manufacturer" "UA Limited"
+"Cartridge.Name" "Funky Fish (1983) (UA Limited) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "38"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "be1922bd8e09d74da471287e1e968653"
+"Cartridge.Manufacturer" "Cropsy"
+"Cartridge.Name" "Hangman Pacman Demo (Cropsy) (Hack)"
+"Cartridge.Note" "Hack of Hangman"
+"Cartridge.Rarity" "Hack"
+""

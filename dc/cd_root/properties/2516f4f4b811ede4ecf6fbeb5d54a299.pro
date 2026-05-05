@@ -1,0 +1,6 @@
+"Cartridge.MD5" "2516f4f4b811ede4ecf6fbeb5d54a299"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "701.134 9"
+"Cartridge.Name" "Schiessbude (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Carnival"
+""

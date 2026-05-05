@@ -1,0 +1,6 @@
+"Cartridge.MD5" "4f7b07ec2bef5ccffe06403a142f80db"
+"Cartridge.Manufacturer" "Apollo - Games by Apollo, Ed Salvo, Byron Parks"
+"Cartridge.ModelNo" "AP-2003"
+"Cartridge.Name" "Racquetball (1981) (Apollo) (PAL)"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "1c5796d277d9e4df3f6648f7012884c4"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "715.853 5"
+"Cartridge.Name" "Wachroboter jagt Jupy (Quelle) (PAL)"
+"Cartridge.Note" "AKA Keystone Kapers"
+""

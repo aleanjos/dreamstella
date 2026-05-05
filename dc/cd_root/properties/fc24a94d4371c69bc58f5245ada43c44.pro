@@ -1,0 +1,5 @@
+"Cartridge.MD5" "fc24a94d4371c69bc58f5245ada43c44"
+"Cartridge.Manufacturer" "Atari - Axlon, Steve DeFrisco"
+"Cartridge.ModelNo" "CX26170"
+"Cartridge.Name" "Secret Quest (1989) (Atari)"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "690a6049db78b9400c13521646708e9c"
+"Cartridge.Manufacturer" "King Tripod Enterprise Co."
+"Cartridge.ModelNo" "SS - 007"
+"Cartridge.Name" "Space Raid (King Tripod) (PAL)"
+"Cartridge.Note" "AKA Challenge of.... Nexar, The"
+""

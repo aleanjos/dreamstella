@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4d2cef8f19cafeec72d142e34a1bbc03"
+"Cartridge.Manufacturer" "HES"
+"Cartridge.ModelNo" "771-422"
+"Cartridge.Name" "2 Pak Special - Star Warrior, Frogger (1990) (HES) (PAL) [a]"
+""

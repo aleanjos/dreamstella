@@ -1,0 +1,5 @@
+"Cartridge.MD5" "cd4423bd9f0763409bae9111f888f7c2"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "River Raid (Jone Yuan)"
+"Cartridge.Note" "2600 Screen Search Console"
+""

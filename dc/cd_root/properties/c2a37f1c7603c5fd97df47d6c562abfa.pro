@@ -1,0 +1,5 @@
+"Cartridge.MD5" "c2a37f1c7603c5fd97df47d6c562abfa"
+"Cartridge.Manufacturer" "Roger Williams"
+"Cartridge.Name" "Bar-Score Demo (2001) (Roger Williams)"
+"Cartridge.Rarity" "Homebrew"
+""

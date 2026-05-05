@@ -1,0 +1,8 @@
+"Cartridge.MD5" "3cbdf71bb9fd261fbc433717f547d738"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-803"
+"Cartridge.Name" "Bobby Is Going Home (1983) (CCE) (PAL)"
+"Cartridge.Note" "AKA Bobby Vai Para Casa"
+"Cartridge.Rarity" "Rare"
+"Display.YStart" "42"
+""

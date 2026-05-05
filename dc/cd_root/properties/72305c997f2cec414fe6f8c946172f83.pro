@@ -1,0 +1,6 @@
+"Cartridge.MD5" "72305c997f2cec414fe6f8c946172f83"
+"Cartridge.Manufacturer" "Arcadia Corporation, Dennis Caswell"
+"Cartridge.ModelNo" "AR-4000, AR-4100"
+"Cartridge.Name" "Phaser Patrol (1982) (Arcadia) (PAL)"
+"Display.Phosphor" "YES"
+""

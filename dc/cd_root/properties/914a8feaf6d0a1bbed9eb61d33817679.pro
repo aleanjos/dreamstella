@@ -1,0 +1,6 @@
+"Cartridge.MD5" "914a8feaf6d0a1bbed9eb61d33817679"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Freeway Chicken (32 in 1) (1988) (Atari) (PAL)"
+"Cartridge.Note" "AKA Freeway"
+""

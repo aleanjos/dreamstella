@@ -1,0 +1,6 @@
+"Cartridge.MD5" "37b98344c8e0746c486caf5aaeec892a"
+"Cartridge.Manufacturer" "K-Tel Vision"
+"Cartridge.ModelNo" "6"
+"Cartridge.Name" "Spider Maze (1982) (K-Tel Vision) (PAL)"
+"Cartridge.Note" "AKA Spider Kong"
+""

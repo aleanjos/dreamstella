@@ -1,0 +1,5 @@
+"Cartridge.MD5" "68c80e7e1d30df98a0cf67ecbf39cc67"
+"Cartridge.Manufacturer" "Hozer Video Games"
+"Cartridge.Name" "Gunfight 2600 - One Step Forward & Two Steps Back (2001) (MP)"
+"Cartridge.Rarity" "New Release"
+""

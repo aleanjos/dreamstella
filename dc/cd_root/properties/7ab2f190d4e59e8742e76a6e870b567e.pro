@@ -1,0 +1,8 @@
+"Cartridge.MD5" "7ab2f190d4e59e8742e76a6e870b567e"
+"Cartridge.Manufacturer" "Apollo, Larry Martin"
+"Cartridge.ModelNo" "AP-2008"
+"Cartridge.Name" "Guardian (1982) (Apollo)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES"
+"Controller.MouseAxis" "01"
+""

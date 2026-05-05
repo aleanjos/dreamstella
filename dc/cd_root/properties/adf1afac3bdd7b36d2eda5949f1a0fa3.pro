@@ -1,0 +1,6 @@
+"Cartridge.MD5" "adf1afac3bdd7b36d2eda5949f1a0fa3"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "495.463 2 - 746381"
+"Cartridge.Name" "Angriff der Luftflotten (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Paris Attack, M.A.D."
+""

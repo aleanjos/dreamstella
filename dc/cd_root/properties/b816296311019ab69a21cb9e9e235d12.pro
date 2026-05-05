@@ -1,0 +1,7 @@
+"Cartridge.MD5" "b816296311019ab69a21cb9e9e235d12"
+"Cartridge.Manufacturer" "Atari, Bob Whitehead - Sears"
+"Cartridge.ModelNo" "CX2652 - 6-99816, 49-75151"
+"Cartridge.Name" "Casino (1979) (Atari)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES_IAXIS"
+""

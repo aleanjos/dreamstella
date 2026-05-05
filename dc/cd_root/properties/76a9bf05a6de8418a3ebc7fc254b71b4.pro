@@ -1,0 +1,5 @@
+"Cartridge.MD5" "76a9bf05a6de8418a3ebc7fc254b71b4"
+"Cartridge.Manufacturer" "VideoSoft, Jerry Lawson, Dan McElroy"
+"Cartridge.ModelNo" "VS1008"
+"Cartridge.Name" "Color Bar Generator (1984) (VideoSoft)"
+""

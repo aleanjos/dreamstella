@@ -1,0 +1,6 @@
+"Cartridge.MD5" "a9cb638cd2cb2e8e0643d7a67db4281c"
+"Cartridge.Manufacturer" "M Network, Larry Zwick - INTV"
+"Cartridge.ModelNo" "MT5861"
+"Cartridge.Name" "Air Raiders (1982) (M Network)"
+"Cartridge.Note" "AKA Air Battle"
+""

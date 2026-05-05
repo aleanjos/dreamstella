@@ -1,0 +1,7 @@
+"Cartridge.MD5" "5f950a2d1eb331a1276819520705df94"
+"Cartridge.Manufacturer" "20th Century Fox Video Games"
+"Cartridge.Name" "Unknown 20th Century Fox Game (1983) (20th Century Fox) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "28"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "cfd6a8b23d12b0462baf6a05ef347cd8"
+"Cartridge.Manufacturer" "Activision, Larry Kaplan"
+"Cartridge.ModelNo" "AX-006"
+"Cartridge.Name" "Bridge (1980) (Activision)"
+""

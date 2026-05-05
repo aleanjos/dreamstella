@@ -1,0 +1,5 @@
+"Cartridge.MD5" "05ebd183ea854c0a1b56c218246fbbae"
+"Cartridge.Manufacturer" "Atari, Dan Hitchens"
+"Cartridge.ModelNo" "CX2656"
+"Cartridge.Name" "SwordQuest - EarthWorld (1982) (Atari) [a]"
+""

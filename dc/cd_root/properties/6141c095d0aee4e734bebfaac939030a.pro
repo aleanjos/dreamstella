@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6141c095d0aee4e734bebfaac939030a"
+"Cartridge.Manufacturer" "Rainbow Vision - Suntek"
+"Cartridge.ModelNo" "SS-017"
+"Cartridge.Name" "Mariana (Rainbow Vision) (PAL)"
+"Cartridge.Note" "AKA Seaquest"
+""

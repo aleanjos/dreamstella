@@ -1,0 +1,5 @@
+"Cartridge.MD5" "683dc64ef7316c13ba04ee4398e2b93a"
+"Cartridge.Manufacturer" "Ed Federmeyer"
+"Cartridge.Name" "Edtris (1995) (Ed Federmeyer)"
+"Cartridge.Rarity" "Extremely Rare"
+""

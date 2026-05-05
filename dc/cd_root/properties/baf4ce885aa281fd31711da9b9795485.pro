@@ -1,0 +1,5 @@
+"Cartridge.MD5" "baf4ce885aa281fd31711da9b9795485"
+"Cartridge.Manufacturer" "Atari, Douglas Neubauer"
+"Cartridge.ModelNo" "CX26176"
+"Cartridge.Name" "Radar Lock (1989) (Atari)"
+""

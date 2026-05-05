@@ -1,0 +1,5 @@
+"Cartridge.MD5" "757f529026696e13838364dea382a4ed"
+"Cartridge.Manufacturer" "Activision, David Crane - Ariola"
+"Cartridge.ModelNo" "EAX-014, PAX-014, EAX-014-04B, EAX-014-04I - 711 014-720"
+"Cartridge.Name" "Grand Prix (1982) (Activision) (PAL)"
+""

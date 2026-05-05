@@ -1,0 +1,5 @@
+"Cartridge.MD5" "d5618464dbdc2981f6aa8b955828eeb4"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-829"
+"Cartridge.Name" "Megamania (1983) (CCE)"
+""

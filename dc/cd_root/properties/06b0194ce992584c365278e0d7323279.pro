@@ -1,0 +1,5 @@
+"Cartridge.MD5" "06b0194ce992584c365278e0d7323279"
+"Cartridge.Manufacturer" "Activision"
+"Cartridge.Name" "Unknown Activision Game #2 (Prototype) (PAL)"
+"Cartridge.Rarity" "Prototype"
+""

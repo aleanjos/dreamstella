@@ -1,0 +1,5 @@
+"Cartridge.MD5" "9853089672116117258097dbbdb939b7"
+"Cartridge.Manufacturer" "Hozer Video Games"
+"Cartridge.Name" "Gunfight 2600 - Cowboy Hair (2001) (MP)"
+"Cartridge.Rarity" "New Release"
+""

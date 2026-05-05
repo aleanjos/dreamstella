@@ -1,0 +1,5 @@
+"Cartridge.MD5" "d078674afdf24a4547b4b32890fdc614"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Laser Blast (Jone Yuan)"
+"Cartridge.Note" "2600 Screen Search Console"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "36e47ed74968c365121eab60f48c6517"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "343.373 7"
+"Cartridge.Name" "Master Builder (1983) (Quelle) (PAL)"
+""

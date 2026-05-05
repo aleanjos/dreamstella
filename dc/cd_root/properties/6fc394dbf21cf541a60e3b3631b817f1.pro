@@ -1,0 +1,5 @@
+"Cartridge.MD5" "6fc394dbf21cf541a60e3b3631b817f1"
+"Cartridge.Manufacturer" "Imagic, Bob Smith"
+"Cartridge.ModelNo" "720020-2A, IA3611P"
+"Cartridge.Name" "Dragonfire (1982) (Imagic) (PAL)"
+""

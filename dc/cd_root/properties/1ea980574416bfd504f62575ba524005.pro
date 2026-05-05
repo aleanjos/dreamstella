@@ -1,0 +1,6 @@
+"Cartridge.MD5" "1ea980574416bfd504f62575ba524005"
+"Cartridge.Manufacturer" "Atari - GCC, Mark Ackerman, Glenn Parker"
+"Cartridge.ModelNo" "CX2675"
+"Cartridge.Name" "Ms. Pac-Man (1982) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

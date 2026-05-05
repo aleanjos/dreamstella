@@ -1,0 +1,5 @@
+"Cartridge.MD5" "15bf2ef7583bfcbbba630847a1dc5539"
+"Cartridge.Manufacturer" "Erik Eid"
+"Cartridge.Name" "Euchre (Jul 15) (2002) (Eric Eid) (PD)"
+"Cartridge.Rarity" "New Release"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "f38358cd8f5ecfedffd5aca1aa939f18"
+"Cartridge.Manufacturer" "Universal Gamex Corporation, Alan Roberts"
+"Cartridge.ModelNo" "1005"
+"Cartridge.Name" "X-Man (1983) (Universal) [a]"
+"Display.YStart" "30"
+""

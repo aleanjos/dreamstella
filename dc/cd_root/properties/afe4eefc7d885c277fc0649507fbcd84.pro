@@ -1,0 +1,7 @@
+"Cartridge.MD5" "afe4eefc7d885c277fc0649507fbcd84"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Ant Party (32 in 1) (1988) (Atari) (PAL)"
+"Cartridge.Note" "AKA Cosmic Swarm"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "cc03c68b8348b62331964d7a3dbec381"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Marauder (Jone Yuan)"
+"Cartridge.Note" "2600 Screen Search Console"
+""

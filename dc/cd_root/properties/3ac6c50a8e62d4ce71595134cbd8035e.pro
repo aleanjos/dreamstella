@@ -1,0 +1,6 @@
+"Cartridge.MD5" "3ac6c50a8e62d4ce71595134cbd8035e"
+"Cartridge.Manufacturer" "Absolute Entertainment, Dan Kitchen"
+"Cartridge.ModelNo" "AK-046-04"
+"Cartridge.Name" "Tomcat (1988) (Absolute)"
+"Display.YStart" "24"
+""

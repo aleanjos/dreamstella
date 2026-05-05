@@ -1,0 +1,6 @@
+"Cartridge.MD5" "08bd4c1dcc843f6a0b563d9fd80b3b11"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "343.273 9"
+"Cartridge.Name" "Phantompanzer II (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Thunderground"
+""

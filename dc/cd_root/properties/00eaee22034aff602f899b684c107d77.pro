@@ -1,0 +1,6 @@
+"Cartridge.MD5" "00eaee22034aff602f899b684c107d77"
+"Cartridge.Manufacturer" "Rainbow Vision - Suntek - Sunteck Corp"
+"Cartridge.ModelNo" "SS-001"
+"Cartridge.Name" "Time Race (Rainbow Vision) (PAL)"
+"Cartridge.Note" "AKA Space Jockey"
+""

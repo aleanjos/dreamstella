@@ -1,0 +1,5 @@
+"Cartridge.MD5" "826481f6fc53ea47c9f272f7050eedf7"
+"Cartridge.Manufacturer" "Imagic, Dennis Koble"
+"Cartridge.ModelNo" "720103-1A, IA3203"
+"Cartridge.Name" "Atlantis II (1982) (Imagic)"
+""

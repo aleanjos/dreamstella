@@ -1,0 +1,7 @@
+"Cartridge.MD5" "1d1d2603ec139867c1d1f5ddf83093f1"
+"Cartridge.Manufacturer" "Atari, Larry Kaplan - Sears"
+"Cartridge.ModelNo" "CX2602 - 99802, 6-99802, 49-75102"
+"Cartridge.Name" "Air-Sea Battle (1977) (Atari) (4K)"
+"Cartridge.Note" "AKA Target Fun (Anti-Aircraft)"
+"Cartridge.Rarity" "Uncommon"
+""

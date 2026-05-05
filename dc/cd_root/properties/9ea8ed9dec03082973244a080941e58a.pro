@@ -1,0 +1,5 @@
+"Cartridge.MD5" "9ea8ed9dec03082973244a080941e58a"
+"Cartridge.Manufacturer" "Eric Mooney, Piero Cavina"
+"Cartridge.Name" "INV+"
+"Cartridge.Rarity" "New Release"
+""

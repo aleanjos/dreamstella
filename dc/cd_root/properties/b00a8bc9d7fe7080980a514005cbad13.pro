@@ -1,0 +1,5 @@
+"Cartridge.MD5" "b00a8bc9d7fe7080980a514005cbad13"
+"Cartridge.Manufacturer" "K-Tel Vision"
+"Cartridge.Name" "Vulture Attack (1982) (K-Tel Vision) (PAL)"
+"Cartridge.Note" "AKA Condor Attack"
+""

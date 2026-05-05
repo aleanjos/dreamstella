@@ -1,0 +1,7 @@
+"Cartridge.MD5" "b5cb9cf6e668ea3f4cc2be00ea70ec3c"
+"Cartridge.Manufacturer" "CommaVid, Irwin Gaines - Ariola"
+"Cartridge.ModelNo" "CM-005 - 712 005-720"
+"Cartridge.Name" "Mines of Minos (1982) (CommaVid) (PAL)"
+"Cartridge.Note" "AKA Im Labyrinth des Roboters"
+"Display.Phosphor" "YES"
+""

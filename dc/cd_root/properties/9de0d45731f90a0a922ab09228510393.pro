@@ -1,0 +1,5 @@
+"Cartridge.MD5" "9de0d45731f90a0a922ab09228510393"
+"Cartridge.Manufacturer" "20th Century Fox Video Games - Sirius, Mark Turmell"
+"Cartridge.ModelNo" "11003"
+"Cartridge.Name" "Fast Eddie (1982) (20th Century Fox)"
+""

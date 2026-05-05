@@ -1,0 +1,5 @@
+"Cartridge.MD5" "73c545db2afd5783d37c46004e4024c2"
+"Cartridge.Manufacturer" "CBS Electronics, Henry Will IV"
+"Cartridge.ModelNo" "4L1767, 4L1768, 4L1769, 4L1770"
+"Cartridge.Name" "Smurf (1982) (CBS Electronics) (PAL)"
+""

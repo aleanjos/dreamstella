@@ -1,0 +1,5 @@
+"Cartridge.MD5" "dfe6aa7443bb813cefa35a4cf4887422"
+"Cartridge.Name" "This Planet Sucks (Greg Troutman) [a1]"
+"Cartridge.Rarity" "New Release"
+"Display.YStart" "37"
+""

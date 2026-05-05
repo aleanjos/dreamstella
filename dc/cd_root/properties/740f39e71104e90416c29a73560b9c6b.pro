@@ -1,0 +1,5 @@
+"Cartridge.MD5" "740f39e71104e90416c29a73560b9c6b"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "TE016643"
+"Cartridge.Name" "Diagnostic Test Cartridge 2.6P (1982) (Atari) (PAL) (4K)"
+""

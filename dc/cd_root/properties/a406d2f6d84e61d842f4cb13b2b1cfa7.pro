@@ -1,0 +1,5 @@
+"Cartridge.MD5" "a406d2f6d84e61d842f4cb13b2b1cfa7"
+"Cartridge.Manufacturer" "Tigervision, John Harris - Teldec"
+"Cartridge.ModelNo" "7-002"
+"Cartridge.Name" "Jawbreaker (1982) (Tigervision) (PAL)"
+""

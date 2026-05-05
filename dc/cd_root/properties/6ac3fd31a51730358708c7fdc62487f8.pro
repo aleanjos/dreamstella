@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6ac3fd31a51730358708c7fdc62487f8"
+"Cartridge.Manufacturer" "Matthias Jaap"
+"Cartridge.Name" "PC Invaders (Matthias Jaap) (Hack)"
+"Cartridge.Note" "Hack of Space Invaders"
+"Cartridge.Rarity" "Hack"
+""

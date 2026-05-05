@@ -1,0 +1,5 @@
+"Cartridge.MD5" "b4e2fd27d3180f0f4eb1065afc0d7fc9"
+"Cartridge.Manufacturer" "Avalon Hill, Jean Baer, Bill 'Rebecca Ann' Heineman, William O. Sheppard"
+"Cartridge.ModelNo" "5002002"
+"Cartridge.Name" "London Blitz (1983) (Avalon Hill)"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2825f4d068feba6973e61c84649489fe"
+"Cartridge.Name" "Boom Bang (Unknown) (PAL)"
+"Cartridge.Note" "AKA Crackpots"
+"Cartridge.Rarity" "Rare"
+""

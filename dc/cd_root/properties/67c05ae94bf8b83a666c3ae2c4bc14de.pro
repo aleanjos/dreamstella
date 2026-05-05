@@ -1,0 +1,6 @@
+"Cartridge.MD5" "67c05ae94bf8b83a666c3ae2c4bc14de"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "NFL Football (32 in 1) (1988) (Atari) (PAL) (4K)"
+"Cartridge.Note" "AKA Football"
+""

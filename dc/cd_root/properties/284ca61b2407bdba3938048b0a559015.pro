@@ -1,0 +1,7 @@
+"Cartridge.MD5" "284ca61b2407bdba3938048b0a559015"
+"Cartridge.Manufacturer" "Atari, Tod Frye"
+"Cartridge.ModelNo" "CX2695"
+"Cartridge.Name" "Xevious (05-25-1983) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "41810dd94bd0de1110bedc5092bef5b0"
+"Cartridge.Manufacturer" "Funvision - Fund. International Co."
+"Cartridge.Name" "Dragon Treasure (Funvision)"
+"Cartridge.Note" "AKA Dragonfire"
+""

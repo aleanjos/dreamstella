@@ -1,0 +1,5 @@
+"Cartridge.MD5" "393e41ca8bdd35b52bf6256a968a9b89"
+"Cartridge.Manufacturer" "U.S. Games Corporation"
+"Cartridge.ModelNo" "VC1012"
+"Cartridge.Name" "M.A.D. (1982) (U.S. Games)"
+""

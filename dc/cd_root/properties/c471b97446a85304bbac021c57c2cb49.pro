@@ -1,0 +1,6 @@
+"Cartridge.MD5" "c471b97446a85304bbac021c57c2cb49"
+"Cartridge.Manufacturer" "First Star Software, Alex Leavens, Shirley Ann Russell"
+"Cartridge.Name" "Boing! (1983) (First Star Software) (PAL)"
+"Cartridge.Note" "AKA Bubbles, Soap Suds, The Emphysema Game"
+"Display.Phosphor" "YES"
+""

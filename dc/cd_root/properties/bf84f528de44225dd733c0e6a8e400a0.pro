@@ -1,0 +1,8 @@
+"Cartridge.MD5" "bf84f528de44225dd733c0e6a8e400a0"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.Name" "Demons to Diamonds (CCE)"
+"Cartridge.Note" "Uses the Paddle Controllers (left only)"
+"Controller.Left" "PADDLES"
+"Controller.SwapPaddles" "YES"
+"Controller.MouseAxis" "10"
+""

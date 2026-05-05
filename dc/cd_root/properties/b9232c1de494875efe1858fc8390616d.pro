@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b9232c1de494875efe1858fc8390616d"
+"Cartridge.Manufacturer" "Panda"
+"Cartridge.ModelNo" "110"
+"Cartridge.Name" "Harbor Escape (1983) (Panda)"
+"Cartridge.Note" "AKA River Raid"
+""

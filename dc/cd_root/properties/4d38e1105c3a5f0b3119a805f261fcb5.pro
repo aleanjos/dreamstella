@@ -1,0 +1,6 @@
+"Cartridge.MD5" "4d38e1105c3a5f0b3119a805f261fcb5"
+"Cartridge.Manufacturer" "Bit Corporation"
+"Cartridge.ModelNo" "PGP212"
+"Cartridge.Name" "Phantom UFO (4 Game in One Light Green) (1983) (BitCorp) (PAL)"
+"Cartridge.Note" "AKA Spider Fighter"
+""

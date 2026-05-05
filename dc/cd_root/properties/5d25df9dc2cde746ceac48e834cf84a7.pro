@@ -1,0 +1,7 @@
+"Cartridge.MD5" "5d25df9dc2cde746ceac48e834cf84a7"
+"Cartridge.Manufacturer" "Activision, Steve 'Jessica' Kitchen"
+"Cartridge.ModelNo" "EAZ-033"
+"Cartridge.Name" "Space Shuttle (1983) (Activision) (SECAM)"
+"Cartridge.Type" "FE"
+"Display.Format" "SECAM"
+""

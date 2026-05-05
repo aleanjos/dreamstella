@@ -1,0 +1,5 @@
+"Cartridge.MD5" "5bd79139a0c03b63f6f2cf00a7d385d2"
+"Cartridge.Manufacturer" "Marc de Smet"
+"Cartridge.Name" "An Exercise In Minimalism (V1) (1999) (Marc de Smet) (PD)"
+"Cartridge.Rarity" "Homebrew"
+""

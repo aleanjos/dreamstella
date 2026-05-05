@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f14d5e96ec3380aef57a4b70132c6677"
+"Cartridge.Manufacturer" "Goliath"
+"Cartridge.ModelNo" "6"
+"Cartridge.Name" "Spider Kong (1983) (Goliath) (PAL) [a]"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3e6dab92009d6034618cb6b7844c5216"
+"Cartridge.Name" "Ed Invaders (Hack)"
+"Cartridge.Note" "Hack of Pepsi Invaders"
+"Cartridge.Rarity" "Hack"
+""

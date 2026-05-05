@@ -1,0 +1,6 @@
+"Cartridge.MD5" "28a2bea8f84936cb2e063f857414cda0"
+"Cartridge.Manufacturer" "Thiago Paiva"
+"Cartridge.Name" "Mega Mania Raid (1999) (Thiago Paiva) (Hack)"
+"Cartridge.Note" "Hack of Megamania"
+"Cartridge.Rarity" "Hack"
+""

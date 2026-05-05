@@ -1,0 +1,8 @@
+"Cartridge.MD5" "d9bd343533b61389b270c0787210943b"
+"Cartridge.Manufacturer" "Atari, Douglas 'Solaris' Neubauer"
+"Cartridge.ModelNo" "CX26134"
+"Cartridge.Name" "Last Starfighter (1984) (Atari) (Prototype)"
+"Cartridge.Note" "Genesis controller (C switches to map mode)"
+"Cartridge.Rarity" "Hack of Last Starfighter (Solaris prototype)"
+"Controller.Left" "GENESIS"
+""

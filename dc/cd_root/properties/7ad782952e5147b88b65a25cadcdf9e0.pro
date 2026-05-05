@@ -1,0 +1,6 @@
+"Cartridge.MD5" "7ad782952e5147b88b65a25cadcdf9e0"
+"Cartridge.Manufacturer" "Imagic, Dave Johnson"
+"Cartridge.ModelNo" "720119-1A, 03211"
+"Cartridge.Name" "Kwibble (1983) (Imagic) (Prototype)"
+"Cartridge.Note" "AKA Quick Step! Beta"
+""

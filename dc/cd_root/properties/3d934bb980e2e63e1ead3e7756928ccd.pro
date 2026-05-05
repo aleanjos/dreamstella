@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3d934bb980e2e63e1ead3e7756928ccd"
+"Cartridge.Manufacturer" "Activision, Steve Cartwright - Ariola"
+"Cartridge.ModelNo" "EAX-017, EAX-017-04I - 711 017-720"
+"Cartridge.Name" "MegaMania (1982) (Activision) (PAL)"
+""

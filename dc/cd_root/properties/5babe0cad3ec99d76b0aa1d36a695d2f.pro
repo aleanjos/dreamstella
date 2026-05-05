@@ -1,0 +1,7 @@
+"Cartridge.MD5" "5babe0cad3ec99d76b0aa1d36a695d2f"
+"Cartridge.Manufacturer" "Coleco, Ed Temple"
+"Cartridge.ModelNo" "2654"
+"Cartridge.Name" "Looping (1983) (Coleco) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "24"
+""

@@ -1,0 +1,7 @@
+"Cartridge.MD5" "fa7ce62e7fd77e02b3e2198d70742f80"
+"Cartridge.Manufacturer" "Atari, Peter C. Niday"
+"Cartridge.ModelNo" "CX26108"
+"Cartridge.Name" "Donald Duck's Speedboat (04-18-1983) (Atari) (Prototype) (PAL)"
+"Cartridge.Note" "AKA Donald Duck's Regatta"
+"Cartridge.Rarity" "Prototype"
+""

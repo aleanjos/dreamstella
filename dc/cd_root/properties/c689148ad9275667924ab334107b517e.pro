@@ -1,0 +1,5 @@
+"Cartridge.MD5" "c689148ad9275667924ab334107b517e"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Space Raid (Jone Yuan)"
+"Cartridge.Note" "AKA MegaMania"
+""

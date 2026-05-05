@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e17699a54c90f3a56ae4820f779f72c4"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "465.302 8"
+"Cartridge.Name" "Vogel Flieh (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Dolphin"
+""

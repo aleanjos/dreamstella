@@ -1,0 +1,6 @@
+"Cartridge.MD5" "a3fee8ce15525ea00d45a06f04c215d1"
+"Cartridge.Manufacturer" "Aaron Curtis"
+"Cartridge.Name" "AStar (PAL60)"
+"Cartridge.Rarity" "Homebrew"
+"Display.Format" "PAL60"
+""

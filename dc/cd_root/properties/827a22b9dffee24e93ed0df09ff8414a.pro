@@ -1,0 +1,6 @@
+"Cartridge.MD5" "827a22b9dffee24e93ed0df09ff8414a"
+"Cartridge.Manufacturer" "CBS Electronics, Stuart Ross"
+"Cartridge.Name" "Wings (10-10-1983) (CBS Electronics) (Prototype) (PAL)"
+"Cartridge.Rarity" "Prototype"
+"Display.Phosphor" "YES"
+""

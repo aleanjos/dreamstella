@@ -1,0 +1,6 @@
+"Cartridge.MD5" "db4eb44bc5d652d9192451383d3249fc"
+"Cartridge.Manufacturer" "CBS Electronics, E.F. Dreyer, Ed Salvo"
+"Cartridge.ModelNo" "4L 2738 0000"
+"Cartridge.Name" "Mountain King (1983) (CBS Electronics)"
+"Display.Phosphor" "YES"
+""

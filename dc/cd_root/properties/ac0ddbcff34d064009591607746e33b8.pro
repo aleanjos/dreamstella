@@ -1,0 +1,6 @@
+"Cartridge.MD5" "ac0ddbcff34d064009591607746e33b8"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Atlantis FH (2003) (TJ) (Hack)"
+"Cartridge.Note" "Hack of Atlantis"
+"Cartridge.Rarity" "Hack"
+""

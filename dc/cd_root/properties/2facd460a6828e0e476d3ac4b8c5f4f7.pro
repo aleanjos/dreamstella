@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2facd460a6828e0e476d3ac4b8c5f4f7"
+"Cartridge.Manufacturer" "Sancho - Tang's Electronic Co."
+"Cartridge.Name" "Words-Attack (1983) (Sancho) (PAL)"
+"Display.Phosphor" "YES"
+""

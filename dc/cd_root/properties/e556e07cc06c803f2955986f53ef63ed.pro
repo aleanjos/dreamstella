@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e556e07cc06c803f2955986f53ef63ed"
+"Cartridge.Manufacturer" "Coleco, Ed Temple"
+"Cartridge.ModelNo" "2665"
+"Cartridge.Name" "Front Line (1984) (Coleco)"
+""

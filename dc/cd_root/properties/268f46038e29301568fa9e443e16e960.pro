@@ -1,0 +1,6 @@
+"Cartridge.MD5" "268f46038e29301568fa9e443e16e960"
+"Cartridge.Manufacturer" "Atarius Maximum"
+"Cartridge.Name" "Pitfall Unlimited (Atarius Maximus) (Hack)"
+"Cartridge.Note" "Hack of Pitfall"
+"Cartridge.Rarity" "Hack"
+""

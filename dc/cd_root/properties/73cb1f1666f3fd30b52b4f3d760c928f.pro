@@ -1,0 +1,5 @@
+"Cartridge.MD5" "73cb1f1666f3fd30b52b4f3d760c928f"
+"Cartridge.Name" "Mines of Minos (Unknown) (PAL)"
+"Display.YStart" "24"
+"Display.Phosphor" "YES"
+""

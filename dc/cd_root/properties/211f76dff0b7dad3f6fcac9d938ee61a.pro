@@ -1,0 +1,7 @@
+"Cartridge.MD5" "211f76dff0b7dad3f6fcac9d938ee61a"
+"Cartridge.Manufacturer" "JSK"
+"Cartridge.Name" "Custer's Viagra (JSK) (Hack) [a]"
+"Cartridge.Note" "Hack of Custer's Revenge"
+"Cartridge.Rarity" "Hack"
+"Display.YStart" "32"
+""

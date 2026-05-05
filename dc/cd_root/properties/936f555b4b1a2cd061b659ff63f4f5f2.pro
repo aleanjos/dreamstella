@@ -1,0 +1,5 @@
+"Cartridge.MD5" "936f555b4b1a2cd061b659ff63f4f5f2"
+"Cartridge.Manufacturer" "HES, David Lubar"
+"Cartridge.ModelNo" "535"
+"Cartridge.Name" "My Golf (1990) (HES) (PAL) [a1]"
+""

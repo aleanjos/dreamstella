@@ -1,0 +1,6 @@
+"Cartridge.MD5" "06b6c5031b8353f3a424a5b86b8fe409"
+"Cartridge.Manufacturer" "Activision, Mike Lorenzen - Ariola"
+"Cartridge.ModelNo" "EAX-023 - 711 023-720"
+"Cartridge.Name" "Oink! (1982) (Activision) (PAL)"
+"Cartridge.Note" "AKA Das Schweinchen und der Wolf"
+""

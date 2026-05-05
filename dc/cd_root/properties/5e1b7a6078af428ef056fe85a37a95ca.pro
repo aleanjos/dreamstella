@@ -1,0 +1,5 @@
+"Cartridge.MD5" "5e1b7a6078af428ef056fe85a37a95ca"
+"Cartridge.Manufacturer" "Activision, David Crane"
+"Cartridge.ModelNo" "AX-014, AX-014-04"
+"Cartridge.Name" "Grand Prix (1982) (Activision) (8K)"
+""

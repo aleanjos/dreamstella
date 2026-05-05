@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3f75a5da3e40d486b21dfc1c8517adc0"
+"Cartridge.Manufacturer" "Atari, Jim Huether"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Sky Diver (32 in 1) (1988) (Atari) (PAL)"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "84535afb9a69712ec0af4947329e08b8"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-868"
+"Cartridge.Name" "Bingo (1983) (CCE) (PAL)"
+"Cartridge.Note" "AKA Dice Puzzle"
+""

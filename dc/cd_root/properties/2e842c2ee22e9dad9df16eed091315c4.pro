@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2e842c2ee22e9dad9df16eed091315c4"
+"Cartridge.Manufacturer" "HES"
+"Cartridge.ModelNo" "0701-157"
+"Cartridge.Name" "2 Pak Special - Motocross, Boom Bang (1990) (HES) (PAL)"
+""

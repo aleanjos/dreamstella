@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f0b7db930ca0e548c41a97160b9f6275"
+"Cartridge.Manufacturer" "Atari, Larry Wagner, Bob Whitehead - Sears"
+"Cartridge.ModelNo" "CX2645 - 49-75181"
+"Cartridge.Name" "Video Chess (1979) (Atari)"
+""

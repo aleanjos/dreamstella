@@ -1,0 +1,5 @@
+"Cartridge.MD5" "79004f84bdeee78d142e445057883169"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-830"
+"Cartridge.Name" "Planet Patrol (1983) (CCE)"
+""

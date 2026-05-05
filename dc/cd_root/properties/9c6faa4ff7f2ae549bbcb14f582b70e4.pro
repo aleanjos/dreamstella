@@ -1,0 +1,8 @@
+"Cartridge.MD5" "9c6faa4ff7f2ae549bbcb14f582b70e4"
+"Cartridge.Manufacturer" "U.S. Games Corporation, Garry Kitchen, Paul Willson - Vidtec"
+"Cartridge.ModelNo" "VC1002"
+"Cartridge.Name" "Sneak 'n Peek (1982) (U.S. Games)"
+"Cartridge.Note" "AKA Hide 'n Seek"
+"Display.YStart" "30"
+"Display.Height" "218"
+""

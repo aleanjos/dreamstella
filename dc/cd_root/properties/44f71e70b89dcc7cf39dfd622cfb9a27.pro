@@ -1,0 +1,5 @@
+"Cartridge.MD5" "44f71e70b89dcc7cf39dfd622cfb9a27"
+"Cartridge.Manufacturer" "Tigervision, Robert H. O'Neil"
+"Cartridge.ModelNo" "7-007"
+"Cartridge.Name" "Polaris (1983) (Tigervision)"
+""

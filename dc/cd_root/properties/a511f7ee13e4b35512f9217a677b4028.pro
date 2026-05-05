@@ -1,0 +1,5 @@
+"Cartridge.MD5" "a511f7ee13e4b35512f9217a677b4028"
+"Cartridge.Manufacturer" "Atari, Jerome Domurat, Howard Scott Warshaw"
+"Cartridge.ModelNo" "CX2674"
+"Cartridge.Name" "E.T. - The Extra-Terrestrial (1982) (Atari) (PAL) [a]"
+""

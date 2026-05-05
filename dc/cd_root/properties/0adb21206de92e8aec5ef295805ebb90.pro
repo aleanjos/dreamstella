@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0adb21206de92e8aec5ef295805ebb90"
+"Cartridge.Name" "Solaris (Genesis)"
+"Cartridge.Note" "Genesis controller (C switches to map mode)"
+"Cartridge.Rarity" "Hack of Solaris"
+"Controller.Left" "GENESIS"
+""

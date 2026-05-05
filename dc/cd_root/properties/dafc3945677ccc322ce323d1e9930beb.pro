@@ -1,0 +1,5 @@
+"Cartridge.MD5" "dafc3945677ccc322ce323d1e9930beb"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.Name" "A-Team (Atari) (Prototype) (PAL)"
+"Cartridge.Rarity" "Prototype"
+""

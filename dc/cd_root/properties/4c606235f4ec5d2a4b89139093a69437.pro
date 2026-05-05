@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4c606235f4ec5d2a4b89139093a69437"
+"Cartridge.Manufacturer" "Andrew Davies"
+"Cartridge.Name" "Andrew Davies early notBoulderDash demo (PAL)"
+"Display.Phosphor" "YES"
+""

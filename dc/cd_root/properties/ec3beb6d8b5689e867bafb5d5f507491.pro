@@ -1,0 +1,6 @@
+"Cartridge.MD5" "ec3beb6d8b5689e867bafb5d5f507491"
+"Cartridge.Manufacturer" "U.S. Games Corporation, Henry Will IV - Vidtec"
+"Cartridge.ModelNo" "VC1003"
+"Cartridge.Name" "Word Zapper (1982) (U.S. Games)"
+"Cartridge.Note" "AKA Word Grabber"
+""

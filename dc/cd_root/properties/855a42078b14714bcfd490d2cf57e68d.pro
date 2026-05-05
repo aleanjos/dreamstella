@@ -1,0 +1,7 @@
+"Cartridge.MD5" "855a42078b14714bcfd490d2cf57e68d"
+"Cartridge.Manufacturer" "Atari, Suki Lee"
+"Cartridge.ModelNo" "CX26113"
+"Cartridge.Name" "Miss Piggy's Wedding (1983) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "24"
+""

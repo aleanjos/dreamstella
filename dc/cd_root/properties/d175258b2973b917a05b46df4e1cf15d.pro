@@ -1,0 +1,7 @@
+"Cartridge.MD5" "d175258b2973b917a05b46df4e1cf15d"
+"Cartridge.Manufacturer" "Suntek"
+"Cartridge.ModelNo" "SS-032"
+"Cartridge.Name" "Walker (Suntek) (PAL) [a]"
+"Cartridge.Note" "AKA Clown Down Town"
+"Display.Height" "230"
+""

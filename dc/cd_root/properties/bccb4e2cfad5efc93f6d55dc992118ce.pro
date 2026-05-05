@@ -1,0 +1,5 @@
+"Cartridge.MD5" "bccb4e2cfad5efc93f6d55dc992118ce"
+"Cartridge.Manufacturer" "Activision, Carol Shaw"
+"Cartridge.ModelNo" "AX-020, AX-020-04"
+"Cartridge.Name" "River Raid (1982) (Activision) (8K)"
+""

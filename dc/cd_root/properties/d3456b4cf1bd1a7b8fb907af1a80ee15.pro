@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d3456b4cf1bd1a7b8fb907af1a80ee15"
+"Cartridge.Manufacturer" "Avalon Hill, Duncan Scott"
+"Cartridge.ModelNo" "5003002"
+"Cartridge.Name" "Wall Ball (1983) (Avalon Hill)"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "0f341d1f4e144e3163d9a5fc5a662b79"
+"Cartridge.Name" "RUN Platform Demo (PD)"
+"Display.YStart" "0"
+"Display.Phosphor" "YES"
+""

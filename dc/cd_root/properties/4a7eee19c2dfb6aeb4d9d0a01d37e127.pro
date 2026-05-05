@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4a7eee19c2dfb6aeb4d9d0a01d37e127"
+"Cartridge.Manufacturer" "Hozer Video Games"
+"Cartridge.Name" "Crazy Valet (Hozer Video Games)"
+"Cartridge.Rarity" "New Release"
+""

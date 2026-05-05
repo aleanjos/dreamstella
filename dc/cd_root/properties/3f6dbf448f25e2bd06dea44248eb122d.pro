@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3f6dbf448f25e2bd06dea44248eb122d"
+"Cartridge.ModelNo" "5687 A279"
+"Cartridge.Name" "Soccer (1989) (Telegames)"
+"Cartridge.Note" "AKA International Soccer"
+""

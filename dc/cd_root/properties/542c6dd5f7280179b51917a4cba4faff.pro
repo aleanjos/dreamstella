@@ -1,0 +1,7 @@
+"Cartridge.MD5" "542c6dd5f7280179b51917a4cba4faff"
+"Cartridge.Manufacturer" "ZiMAG - Emag - Vidco"
+"Cartridge.ModelNo" "GN-080"
+"Cartridge.Name" "Spinning Fireball (1983) (ZiMAG) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "40"
+""

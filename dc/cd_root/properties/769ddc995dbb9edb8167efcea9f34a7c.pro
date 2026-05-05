@@ -1,0 +1,6 @@
+"Cartridge.MD5" "769ddc995dbb9edb8167efcea9f34a7c"
+"Cartridge.Name" "H.E.R.O. (Genesis)"
+"Cartridge.Note" "Genesis controller (B is laser, C is dynamite)"
+"Cartridge.Rarity" "Hack of H.E.R.0."
+"Controller.Left" "GENESIS"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "540075f657d4b244a1f74da1b9e4bf92"
+"Cartridge.Manufacturer" "Bit Corporation"
+"Cartridge.ModelNo" "PGP230"
+"Cartridge.Name" "Festival (4 Game in One Dark Green) (1983) (BitCorp) (PAL)"
+"Cartridge.Note" "AKA Carnival"
+""

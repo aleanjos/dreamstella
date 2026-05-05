@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2880c6b59bd54b153174676e465167c7"
+"Cartridge.Manufacturer" "Tron"
+"Cartridge.Name" "Donkey Kong Jr. (Tron)"
+"Cartridge.Note" "AKA Donkey Kong Junior"
+""

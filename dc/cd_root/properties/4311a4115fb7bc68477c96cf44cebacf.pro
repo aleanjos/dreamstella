@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4311a4115fb7bc68477c96cf44cebacf"
+"Cartridge.Name" "Challenge (Unknown)"
+"Display.YStart" "14"
+"Display.Height" "240"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "681206a6bde73e71c19743607e96c4bb"
+"Cartridge.Name" "Casino (Unknown) (PAL)"
+"Controller.Left" "PADDLES"
+"Display.YStart" "49"
+""

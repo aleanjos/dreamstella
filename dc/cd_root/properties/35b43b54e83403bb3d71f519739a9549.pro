@@ -1,0 +1,5 @@
+"Cartridge.MD5" "35b43b54e83403bb3d71f519739a9549"
+"Cartridge.Manufacturer" "Parker Brothers, Dave Engman, Isabel Garret"
+"Cartridge.Name" "McDonald's (06-06-1983) (Parker Bros) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

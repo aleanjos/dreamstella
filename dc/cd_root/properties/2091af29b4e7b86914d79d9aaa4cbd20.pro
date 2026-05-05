@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2091af29b4e7b86914d79d9aaa4cbd20"
+"Cartridge.Manufacturer" "CBS Electronics, Harley H. Puthuff Jr."
+"Cartridge.ModelNo" "4L1802"
+"Cartridge.Name" "Donkey Kong Junior (1983) (CBS Electronics) (PAL)"
+""

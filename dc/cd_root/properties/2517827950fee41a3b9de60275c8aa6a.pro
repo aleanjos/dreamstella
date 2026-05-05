@@ -1,0 +1,6 @@
+"Cartridge.MD5" "2517827950fee41a3b9de60275c8aa6a"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Fishing (32 in 1) (1988) (Atari) (PAL)"
+"Cartridge.Note" "AKA Fishing Derby"
+""

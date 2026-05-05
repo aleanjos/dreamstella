@@ -1,0 +1,6 @@
+"Cartridge.MD5" "8388d6fe59c38c0b3a6ab2c58420036a"
+"Cartridge.Manufacturer" "Atari, Frank Hausman, Steve Woita"
+"Cartridge.ModelNo" "CX2686"
+"Cartridge.Name" "Quadrun (12-06-1982) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

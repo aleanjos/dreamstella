@@ -1,0 +1,6 @@
+"Cartridge.MD5" "ec407a206b718a0a9f69b03e920a0185"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "876.482 1"
+"Cartridge.Name" "Landung in der Normandie (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Commando Raid"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "77be57d872e3f5b7ecf8d19d97f73281"
+"Cartridge.Name" "Basketball (208 in 1) (Unknown) (PAL)"
+"Cartridge.Note" "Console ports are swapped"
+"Console.SwapPorts" "YES"
+""

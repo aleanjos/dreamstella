@@ -1,0 +1,5 @@
+"Cartridge.MD5" "9c729017dd2f9ccbadcb511187f80e6b"
+"Cartridge.Name" "J-Pac (Hack)"
+"Cartridge.Note" "Hack of Pac-Man"
+"Cartridge.Rarity" "Hack"
+""

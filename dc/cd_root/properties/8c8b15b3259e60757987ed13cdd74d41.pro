@@ -1,0 +1,5 @@
+"Cartridge.MD5" "8c8b15b3259e60757987ed13cdd74d41"
+"Cartridge.Manufacturer" "Supergame"
+"Cartridge.ModelNo" "71"
+"Cartridge.Name" "River Raid (1984) (Supergame)"
+""

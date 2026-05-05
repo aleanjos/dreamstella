@@ -1,0 +1,7 @@
+"Cartridge.MD5" "9245a84e9851565d565cb6c9fac5802b"
+"Cartridge.Manufacturer" "Bomb - Onbase"
+"Cartridge.ModelNo" "CA282"
+"Cartridge.Name" "Great Escape (1983) (Bomb)"
+"Cartridge.Note" "AKA Asteroid Fire"
+"Display.YStart" "28"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "faffd84f3a8eceee2fa5ea5b0a3e6678"
+"Cartridge.Manufacturer" "Suntek"
+"Cartridge.ModelNo" "SS-025"
+"Cartridge.Name" "Spectracube Invasion (Suntek) (PAL)"
+"Cartridge.Note" "AKA Immies & Aggies"
+""

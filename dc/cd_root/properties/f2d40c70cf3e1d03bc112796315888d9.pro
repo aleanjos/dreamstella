@@ -1,0 +1,8 @@
+"Cartridge.MD5" "f2d40c70cf3e1d03bc112796315888d9"
+"Cartridge.Manufacturer" "Atari, Michael Callahan, Preston Stuart"
+"Cartridge.ModelNo" "CX26103"
+"Cartridge.Name" "Alpha Beam with Ernie (1983) (Atari) (PAL)"
+"Cartridge.Rarity" "Rare"
+"Controller.Left" "KEYBOARD"
+"Controller.Right" "KEYBOARD"
+""

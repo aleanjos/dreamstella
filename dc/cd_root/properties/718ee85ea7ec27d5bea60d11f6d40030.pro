@@ -1,0 +1,7 @@
+"Cartridge.MD5" "718ee85ea7ec27d5bea60d11f6d40030"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Ghostbusters II (1992) (Thomas Jentzsch)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Homebrew"
+"Display.Phosphor" "YES"
+""

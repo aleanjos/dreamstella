@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6e179eee3d4631a7434d40cf7aeea6e8"
+"Cartridge.Manufacturer" "Wizard Video Games, Robert Barber, Tim Martin"
+"Cartridge.ModelNo" "007"
+"Cartridge.Name" "Halloween (1983) (Wizard Video Games) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

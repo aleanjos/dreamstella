@@ -1,0 +1,5 @@
+"Cartridge.MD5" "5641c0ff707630d2dd829b26a9f2e98f"
+"Cartridge.Manufacturer" "Joystik"
+"Cartridge.Name" "Motocross (Joystik)"
+"Cartridge.Note" "AKA Motocross Racer"
+""

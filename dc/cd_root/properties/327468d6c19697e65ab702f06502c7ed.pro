@@ -1,0 +1,7 @@
+"Cartridge.MD5" "327468d6c19697e65ab702f06502c7ed"
+"Cartridge.Manufacturer" "Charles Morgan"
+"Cartridge.Name" "Aster-Hawk (2002) (Charles Morgan) (Hack)"
+"Cartridge.Note" "Hack of Asteroids"
+"Cartridge.Rarity" "Hack"
+"Display.Phosphor" "YES"
+""

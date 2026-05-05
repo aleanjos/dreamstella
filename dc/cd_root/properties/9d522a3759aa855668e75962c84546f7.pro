@@ -1,0 +1,5 @@
+"Cartridge.MD5" "9d522a3759aa855668e75962c84546f7"
+"Cartridge.Manufacturer" "Atari, Tom Rudadahl"
+"Cartridge.ModelNo" "CX2634, CX2634P"
+"Cartridge.Name" "Golf (1980) (Atari) (PAL)"
+""

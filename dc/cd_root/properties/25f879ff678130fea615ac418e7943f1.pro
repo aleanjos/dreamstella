@@ -1,0 +1,6 @@
+"Cartridge.MD5" "25f879ff678130fea615ac418e7943f1"
+"Cartridge.Manufacturer" "Activision, Garry Kitchen"
+"Cartridge.ModelNo" "EAX-025"
+"Cartridge.Name" "Keystone Kapers (1983) (Activision) (SECAM)"
+"Display.Format" "SECAM"
+""

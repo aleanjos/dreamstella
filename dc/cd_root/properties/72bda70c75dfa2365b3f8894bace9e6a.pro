@@ -1,0 +1,6 @@
+"Cartridge.MD5" "72bda70c75dfa2365b3f8894bace9e6a"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Atlantis (TJ) (Hack)"
+"Cartridge.Note" "Hack of Atlantis"
+"Cartridge.Rarity" "Hack"
+""

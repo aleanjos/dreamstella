@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e94632b0d863dd76459d689a9865bb33"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Combat (Jone Yuan) (4K)"
+"Cartridge.Note" "2600 Screen Search Console"
+""

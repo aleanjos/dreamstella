@@ -1,0 +1,5 @@
+"Cartridge.MD5" "801ba40f3290fc413e8c816c467c765c"
+"Cartridge.Manufacturer" "Hozer Video Games"
+"Cartridge.Name" "Gunfight 2600 - Westward Ho! (2001) (MP)"
+"Cartridge.Rarity" "New Release"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "4dbf47c7f5ac767a3b07843a530d29a5"
+"Cartridge.Manufacturer" "Ric Pryor"
+"Cartridge.Name" "Breaking News (2002) (Ric Pryor) (Hack)"
+"Cartridge.Note" "Hack of Bump 'n' Jump"
+"Cartridge.Rarity" "Hack"
+""

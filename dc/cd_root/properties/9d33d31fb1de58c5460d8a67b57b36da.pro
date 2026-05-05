@@ -1,0 +1,6 @@
+"Cartridge.MD5" "9d33d31fb1de58c5460d8a67b57b36da"
+"Cartridge.Name" "Star Voyager (Genesis)"
+"Cartridge.Note" "Genesis controller (C is secondary lasers)"
+"Cartridge.Rarity" "Hack of Star Voyager"
+"Controller.Left" "GENESIS"
+""

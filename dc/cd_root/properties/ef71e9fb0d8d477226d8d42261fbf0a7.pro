@@ -1,0 +1,5 @@
+"Cartridge.MD5" "ef71e9fb0d8d477226d8d42261fbf0a7"
+"Cartridge.Manufacturer" "Piero Cavina"
+"Cartridge.Name" "Multi-Sprite Demo V2.0 (Piero Cavina) (PD)"
+"Cartridge.Rarity" "New Release"
+""

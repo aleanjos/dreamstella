@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f0a6e99f5875891246c3dbecbf2d2cea"
+"Cartridge.Manufacturer" "Atari, James Andreasen - Sears"
+"Cartridge.ModelNo" "CX2654 - 49-75141"
+"Cartridge.Name" "Haunted House (1982) (Atari)"
+""

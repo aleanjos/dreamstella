@@ -1,0 +1,7 @@
+"Cartridge.MD5" "8b556c3d9ca8e5e6e665bd759b93ffae"
+"Cartridge.Name" "Synthcart (2002) (Paul Slocum) (PAL) [!]"
+"Cartridge.Note" "Uses Keypad Controllers"
+"Controller.Left" "KEYBOARD"
+"Controller.Right" "KEYBOARD"
+"Display.Phosphor" "YES"
+""

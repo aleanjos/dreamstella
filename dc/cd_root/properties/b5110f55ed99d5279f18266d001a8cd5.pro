@@ -1,0 +1,5 @@
+"Cartridge.MD5" "b5110f55ed99d5279f18266d001a8cd5"
+"Cartridge.Manufacturer" "Eckhard Stolberg"
+"Cartridge.Name" "Auto-mobile Demo (2001) (Eckhard Stolberg)"
+"Cartridge.Rarity" "Homebrew"
+""

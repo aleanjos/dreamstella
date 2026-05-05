@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b17b9cc4103844dcda54f77f44acc93a"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "377.943 6"
+"Cartridge.Name" "Stopp die Gangster (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Gangster Alley"
+""

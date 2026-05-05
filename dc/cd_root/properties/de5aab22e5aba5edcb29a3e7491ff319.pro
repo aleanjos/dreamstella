@@ -1,0 +1,7 @@
+"Cartridge.MD5" "de5aab22e5aba5edcb29a3e7491ff319"
+"Cartridge.Manufacturer" "Star Game"
+"Cartridge.ModelNo" "001"
+"Cartridge.Name" "Donkey Kong (Star Game)"
+"Cartridge.Note" "AKA Spider Kong"
+"Display.YStart" "30"
+""

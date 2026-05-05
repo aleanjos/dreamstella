@@ -1,0 +1,5 @@
+"Cartridge.MD5" "61e0f5e1cc207e98704d0758c68df317"
+"Cartridge.Manufacturer" "Star Game"
+"Cartridge.ModelNo" "007"
+"Cartridge.Name" "Tennis (Star Game)"
+""

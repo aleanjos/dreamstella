@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5b5d04887922b430de0b7b2a21f9cd25"
+"Cartridge.Name" "Omega Race (Genesis)"
+"Cartridge.Note" "Genesis controller (B is thrust, C is fire)"
+"Cartridge.Rarity" "Hack of Omega Race"
+"Controller.Left" "GENESIS"
+""

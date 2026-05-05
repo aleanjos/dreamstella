@@ -1,0 +1,7 @@
+"Cartridge.MD5" "42b2c3b4545f1499a083cfbc4a3b7640"
+"Cartridge.Manufacturer" "U.S. Games Corporation, Todd Marshall, Wes Trager, Henry Will IV"
+"Cartridge.ModelNo" "VC2003"
+"Cartridge.Name" "Eggomania (1982) (U.S. Games)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "c16c79aad6272baffb8aae9a7fff0864"
+"Cartridge.Manufacturer" "U.S. Games Corporation, Sylvia Day, Henry Will IV"
+"Cartridge.ModelNo" "VC2001"
+"Cartridge.Name" "Gopher (1982) (U.S. Games)"
+"Cartridge.Note" "AKA Gopher Attack"
+""

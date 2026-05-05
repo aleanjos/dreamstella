@@ -1,0 +1,6 @@
+"Cartridge.MD5" "c745487828a1a6a743488ecebc55ad44"
+"Cartridge.Manufacturer" "Rainbow Vision - Suntek"
+"Cartridge.ModelNo" "SS-002"
+"Cartridge.Name" "Galactic (Rainbow Vision) (PAL)"
+"Cartridge.Note" "AKA The Challenge of.... Nexar"
+""

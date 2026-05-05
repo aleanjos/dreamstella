@@ -1,0 +1,5 @@
+"Cartridge.MD5" "d1d704a7146e95709b57b6d4cac3f788"
+"Cartridge.Manufacturer" "Atari, Warren Robinett"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Slot Racers (32 in 1) (1988) (Atari) (PAL)"
+""

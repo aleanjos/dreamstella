@@ -1,0 +1,5 @@
+"Cartridge.MD5" "5a80b857eb8b908ab477ec4ef902edc8"
+"Cartridge.Manufacturer" "Activision, Bob Whitehead"
+"Cartridge.ModelNo" "AG-002, CAG-002, AG-002-04"
+"Cartridge.Name" "Boxing (1980) (Activision) (8K)"
+""

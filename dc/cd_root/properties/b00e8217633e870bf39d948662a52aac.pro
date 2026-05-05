@@ -1,0 +1,5 @@
+"Cartridge.MD5" "b00e8217633e870bf39d948662a52aac"
+"Cartridge.Manufacturer" "Konami"
+"Cartridge.ModelNo" "RC 102-X 02"
+"Cartridge.Name" "Marine Wars (1983) (Konami)"
+""

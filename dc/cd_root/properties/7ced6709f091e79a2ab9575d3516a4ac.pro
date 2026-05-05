@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7ced6709f091e79a2ab9575d3516a4ac"
+"Cartridge.Manufacturer" "Activision, Steve Cartwright - Ariola"
+"Cartridge.ModelNo" "EAX-027 - 711 027-722"
+"Cartridge.Name" "Plaque Attack (1983) (Activision) (PAL)"
+""

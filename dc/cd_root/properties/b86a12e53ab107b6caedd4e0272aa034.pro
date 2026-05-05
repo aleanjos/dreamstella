@@ -1,0 +1,5 @@
+"Cartridge.MD5" "b86a12e53ab107b6caedd4e0272aa034"
+"Cartridge.Manufacturer" "Funvision - Fund. International Co."
+"Cartridge.Name" "Treasure Hunting (Funvision)"
+"Cartridge.Note" "AKA Pitfall!"
+""

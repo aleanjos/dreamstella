@@ -1,0 +1,6 @@
+"Cartridge.MD5" "791bc8aceb6b0f4d9990d6062b30adfa"
+"Cartridge.Manufacturer" "Activision, David Crane - Ariola"
+"Cartridge.ModelNo" "EAX-018, EAX-018-04B, EAX-018-04I - 711 018-725"
+"Cartridge.Name" "Pitfall! (1982) (Activision) (PAL)"
+"Cartridge.Note" "Abenteuer im Urwald (Jungle Runner)"
+""

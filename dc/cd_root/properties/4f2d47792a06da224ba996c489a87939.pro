@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4f2d47792a06da224ba996c489a87939"
+"Cartridge.Manufacturer" "HES - Activision"
+"Cartridge.ModelNo" "223"
+"Cartridge.Name" "Super Action Pak - Pitfall, Barnstorming, Grand Prix, Laser Blast (1988) (HES) (PAL)"
+""

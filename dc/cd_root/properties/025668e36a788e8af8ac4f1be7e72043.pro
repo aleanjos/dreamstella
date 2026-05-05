@@ -1,0 +1,8 @@
+"Cartridge.MD5" "025668e36a788e8af8ac4f1be7e72043"
+"Cartridge.Manufacturer" "Atari, Jerome Domurat, Howard Scott Warshaw"
+"Cartridge.ModelNo" "CX2659"
+"Cartridge.Name" "Raiders of the Lost Ark (06-14-82) (Atari) (Prototype)"
+"Cartridge.Note" "Console ports are swapped"
+"Cartridge.Rarity" "Prototype"
+"Console.SwapPorts" "YES"
+""

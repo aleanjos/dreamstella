@@ -1,0 +1,6 @@
+"Cartridge.MD5" "7b3cf0256e1fa0fdc538caf3d5d86337"
+"Cartridge.Manufacturer" "CommaVid, Joseph Biel"
+"Cartridge.ModelNo" "CM-009"
+"Cartridge.Name" "Stronghold (1983) (CommaVid)"
+"Display.YStart" "32"
+""

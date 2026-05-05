@@ -1,0 +1,8 @@
+"Cartridge.MD5" "83f50fa0fbae545e4b88bb53b788c341"
+"Cartridge.Manufacturer" "Atari, Larry Kaplan - Sears"
+"Cartridge.ModelNo" "CX2643 - 6-99815"
+"Cartridge.Name" "Codebreaker (1978) (Atari) (4K)"
+"Cartridge.Note" "Uses Keypad Controllers"
+"Controller.Left" "KEYBOARD"
+"Controller.Right" "KEYBOARD"
+""

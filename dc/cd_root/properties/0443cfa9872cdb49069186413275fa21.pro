@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0443cfa9872cdb49069186413275fa21"
+"Cartridge.Manufacturer" "M Network, Patricia Lewis Du Long, Ron Surratt - INTV"
+"Cartridge.ModelNo" "MT4518"
+"Cartridge.Name" "BurgerTime (1983) (M Network)"
+"Display.YStart" "26"
+""

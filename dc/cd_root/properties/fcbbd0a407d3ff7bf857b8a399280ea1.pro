@@ -1,0 +1,7 @@
+"Cartridge.MD5" "fcbbd0a407d3ff7bf857b8a399280ea1"
+"Cartridge.Manufacturer" "ZiMAG - Emag - Vidco"
+"Cartridge.ModelNo" "GN-070"
+"Cartridge.Name" "Mysterious Thief, A (1983) (ZiMAG) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.Phosphor" "YES"
+""

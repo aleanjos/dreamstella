@@ -1,0 +1,6 @@
+"Cartridge.MD5" "13abc32f803165c458bb086fa57195fb"
+"Cartridge.Manufacturer" "Christian Samuel"
+"Cartridge.Name" "E.T. The Extra-Testical (Christian Samuel) (Hack)"
+"Cartridge.Note" "Hack of E.T. The Extra-Terrestrial"
+"Cartridge.Rarity" "Hack"
+""

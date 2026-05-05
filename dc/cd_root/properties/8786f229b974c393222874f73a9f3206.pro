@@ -1,0 +1,5 @@
+"Cartridge.MD5" "8786f229b974c393222874f73a9f3206"
+"Cartridge.Manufacturer" "Activision, Larry Miller - Ariola"
+"Cartridge.ModelNo" "EAX-021, EAX-021-04I - 711 021-720"
+"Cartridge.Name" "Spider Fighter (1982) (Activision) (PAL)"
+""

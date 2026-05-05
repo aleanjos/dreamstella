@@ -1,0 +1,7 @@
+"Cartridge.MD5" "1cf59fc7b11cdbcefe931e41641772f6"
+"Cartridge.Manufacturer" "Sega"
+"Cartridge.ModelNo" "005-01"
+"Cartridge.Name" "Buck Rogers - Planet of Zoom (1983) (Sega)"
+"Display.YStart" "26"
+"Display.Phosphor" "YES"
+""

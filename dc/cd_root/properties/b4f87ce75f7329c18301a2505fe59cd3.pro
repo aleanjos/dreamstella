@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b4f87ce75f7329c18301a2505fe59cd3"
+"Cartridge.Manufacturer" "Videospielkassett - Ariola"
+"Cartridge.ModelNo" "PGP232"
+"Cartridge.Name" "Autorennen (Ariola) (PAL)"
+"Cartridge.Note" "AKA Grand Prix"
+""

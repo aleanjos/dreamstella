@@ -1,0 +1,5 @@
+"Cartridge.MD5" "48bcf2c5a8c80f18b24c55db96845472"
+"Cartridge.Manufacturer" "Activision, John Van Ryzin - Ariola"
+"Cartridge.ModelNo" "EAZ-036-04, EAZ-036-04B, EAZ-036-04I - 711 036-720"
+"Cartridge.Name" "H.E.R.O. (1984) (Activision) (PAL) (16K)"
+""

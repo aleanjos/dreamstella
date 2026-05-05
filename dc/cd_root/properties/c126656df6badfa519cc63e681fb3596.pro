@@ -1,0 +1,6 @@
+"Cartridge.MD5" "c126656df6badfa519cc63e681fb3596"
+"Cartridge.Manufacturer" "Ron Corcoran"
+"Cartridge.Name" "Space Invaders (2002) (Ron Corcoran) (Hack)"
+"Cartridge.Note" "Hack of Space Invaders"
+"Cartridge.Rarity" "Hack"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "c450a285daa7a3b65188c2c3cf04fb3e"
+"Cartridge.Manufacturer" "Wizard Video Games"
+"Cartridge.ModelNo" "007"
+"Cartridge.Name" "Halloween (1983) (Wizard Video Games) [a]"
+""

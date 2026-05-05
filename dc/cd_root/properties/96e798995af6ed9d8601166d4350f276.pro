@@ -1,0 +1,6 @@
+"Cartridge.MD5" "96e798995af6ed9d8601166d4350f276"
+"Cartridge.Manufacturer" "20th Century Fox Video Games - Videa, David Ross"
+"Cartridge.ModelNo" "11029"
+"Cartridge.Name" "Meltdown (1983) (20th Century Fox) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

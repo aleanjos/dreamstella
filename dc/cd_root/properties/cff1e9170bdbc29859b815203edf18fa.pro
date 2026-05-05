@@ -1,0 +1,5 @@
+"Cartridge.MD5" "cff1e9170bdbc29859b815203edf18fa"
+"Cartridge.Manufacturer" "Retroactive"
+"Cartridge.Name" "Push (V0.01) (1998) (AD)"
+"Display.Phosphor" "YES"
+""

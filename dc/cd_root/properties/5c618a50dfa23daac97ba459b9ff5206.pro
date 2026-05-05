@@ -1,0 +1,8 @@
+"Cartridge.MD5" "5c618a50dfa23daac97ba459b9ff5206"
+"Cartridge.Manufacturer" "Steve Engelhardt"
+"Cartridge.Name" "Berzerk Renegade (2002) (Steve Engelhardt) (Hack)"
+"Cartridge.Note" "Hack of Room of Doom"
+"Cartridge.Rarity" "Hack"
+"Display.YStart" "29"
+"Display.Phosphor" "YES"
+""

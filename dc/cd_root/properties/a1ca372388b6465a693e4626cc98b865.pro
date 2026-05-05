@@ -1,0 +1,6 @@
+"Cartridge.MD5" "a1ca372388b6465a693e4626cc98b865"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "176.543 7"
+"Cartridge.Name" "Der Vielfrass (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Fast Food"
+""

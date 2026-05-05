@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0eebfb60d437796d536039701ec43845"
+"Cartridge.Manufacturer" "Fabrizio Zavagli"
+"Cartridge.Name" "Cakewalk (Fabrizio Zavagli)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Hack"
+""

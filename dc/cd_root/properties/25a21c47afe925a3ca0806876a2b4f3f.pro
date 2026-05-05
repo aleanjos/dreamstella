@@ -1,0 +1,6 @@
+"Cartridge.MD5" "25a21c47afe925a3ca0806876a2b4f3f"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "685.640 5"
+"Cartridge.Name" "Der kleine Baer (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Frostbite"
+""

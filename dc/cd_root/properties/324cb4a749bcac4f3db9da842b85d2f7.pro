@@ -1,0 +1,6 @@
+"Cartridge.MD5" "324cb4a749bcac4f3db9da842b85d2f7"
+"Cartridge.Manufacturer" "Dennis Debro"
+"Cartridge.Name" "Climber 5 (01-05-2003) (Dennis Debro)"
+"Cartridge.Rarity" "Homebrew"
+"Display.YStart" "28"
+""

@@ -1,0 +1,7 @@
+"Cartridge.MD5" "40eb4e263581b3dfec6dd8920b68e00f"
+"Cartridge.Manufacturer" "Sears Tele-Games, Marilyn Churchill, Matthew L. Hubbard"
+"Cartridge.ModelNo" "CX2647 - 49-75142"
+"Cartridge.Name" "Seawolf 3 (03-23-1981) (Sears) (Prototype) (PAL)"
+"Cartridge.Note" "Submarine Commander Beta"
+"Cartridge.Rarity" "Prototype"
+""

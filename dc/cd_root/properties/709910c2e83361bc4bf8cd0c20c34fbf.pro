@@ -1,0 +1,6 @@
+"Cartridge.MD5" "709910c2e83361bc4bf8cd0c20c34fbf"
+"Cartridge.Manufacturer" "Rainbow Vision - Suntek"
+"Cartridge.ModelNo" "SS-006"
+"Cartridge.Name" "Netmaker (Rainbow Vision) (PAL)"
+"Cartridge.Note" "AKA Amidar"
+""

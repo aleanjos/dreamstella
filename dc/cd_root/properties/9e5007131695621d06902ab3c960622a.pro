@@ -1,0 +1,7 @@
+"Cartridge.MD5" "9e5007131695621d06902ab3c960622a"
+"Cartridge.Manufacturer" "Sega"
+"Cartridge.Name" "Tac Scan (1983) (Sega) [h1]"
+"Controller.Left" "PADDLES"
+"Display.Height" "215"
+"Display.Phosphor" "YES"
+""

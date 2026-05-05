@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5a2f2dcd775207536d9299e768bcd2df"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "781698"
+"Cartridge.Name" "Flippern (Double-Game Package) (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Video Pinball"
+""

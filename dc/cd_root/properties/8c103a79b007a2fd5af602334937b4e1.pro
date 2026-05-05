@@ -1,0 +1,7 @@
+"Cartridge.MD5" "8c103a79b007a2fd5af602334937b4e1"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Laser Base (Thomas Jentzsch)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Homebrew"
+"Display.Height" "240"
+""

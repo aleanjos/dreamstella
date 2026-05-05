@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0b8d3002d8f744a753ba434a4d39249a"
+"Cartridge.Manufacturer" "Sears Tele-Games, Robert Zdybel"
+"Cartridge.ModelNo" "CX2619 - 49-75159"
+"Cartridge.Name" "Stellar Track (1980) (Sears)"
+"Display.Phosphor" "YES"
+""

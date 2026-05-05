@@ -1,0 +1,7 @@
+"Cartridge.MD5" "c0d2434348de72fa6edcc6d8e40f28d7"
+"Cartridge.Manufacturer" "Sega - Bally Midway - Beck-Tech"
+"Cartridge.ModelNo" "010-01"
+"Cartridge.Name" "Tapper (1984) (Sega)"
+"Display.YStart" "24"
+"Display.Height" "225"
+""

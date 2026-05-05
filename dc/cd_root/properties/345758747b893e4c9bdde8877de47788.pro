@@ -1,0 +1,6 @@
+"Cartridge.MD5" "345758747b893e4c9bdde8877de47788"
+"Cartridge.Manufacturer" "CBS Electronics, Joseph Biel"
+"Cartridge.ModelNo" "4L1802, 4L1803, 4L1804, 4L2278"
+"Cartridge.Name" "Venture (1982) (CBS Electronics) (PAL)"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,8 @@
+"Cartridge.MD5" "68597264c8e57ada93be3a5be4565096"
+"Cartridge.Manufacturer" "Data Age"
+"Cartridge.ModelNo" "DA1005"
+"Cartridge.Name" "Bugs (1982) (Data Age)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Cartridge.Rarity" "Uncommon"
+"Controller.Left" "PADDLES"
+""

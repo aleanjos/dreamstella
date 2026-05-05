@@ -1,0 +1,5 @@
+"Cartridge.MD5" "6de924c2297c8733524952448d54a33c"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-1006"
+"Cartridge.Name" "Moon Patrol (1983) (CCE)"
+""

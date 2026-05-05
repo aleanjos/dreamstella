@@ -1,0 +1,7 @@
+"Cartridge.MD5" "c5c7cc66febf2d4e743b4459de7ed868"
+"Cartridge.Manufacturer" "Atari, Jerome Domurat, Steve Woita"
+"Cartridge.ModelNo" "CX2696"
+"Cartridge.Name" "Asterix (1983) (Atari) (PAL) [a]"
+"Cartridge.Note" "AKA Taz"
+"Cartridge.Rarity" "Extremely Rare"
+""

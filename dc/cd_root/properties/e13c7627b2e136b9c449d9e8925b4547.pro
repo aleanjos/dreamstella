@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e13c7627b2e136b9c449d9e8925b4547"
+"Cartridge.Manufacturer" "Atari, Alan Miller - Sears"
+"Cartridge.ModelNo" "CX2624 - 6-99826, 49-75113"
+"Cartridge.Name" "Basketball (1978) (Atari) (4K)"
+"Cartridge.Rarity" "Common"
+""

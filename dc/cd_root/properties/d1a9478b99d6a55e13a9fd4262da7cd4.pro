@@ -1,0 +1,5 @@
+"Cartridge.MD5" "d1a9478b99d6a55e13a9fd4262da7cd4"
+"Cartridge.Manufacturer" "U.S. Games Corporation, Garry Kitchen - Vidtec"
+"Cartridge.ModelNo" "VC1001"
+"Cartridge.Name" "Space Jockey (1982) (U.S. Games) (4K)"
+""

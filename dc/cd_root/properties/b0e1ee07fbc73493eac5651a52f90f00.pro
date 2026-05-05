@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b0e1ee07fbc73493eac5651a52f90f00"
+"Cartridge.Manufacturer" "Colin Hughes"
+"Cartridge.Name" "Tetris 2600 (Colin Hughes)"
+"Cartridge.Rarity" "New Release"
+"Display.Phosphor" "YES"
+""

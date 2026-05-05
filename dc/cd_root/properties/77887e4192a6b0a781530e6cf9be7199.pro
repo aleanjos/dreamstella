@@ -1,0 +1,6 @@
+"Cartridge.MD5" "77887e4192a6b0a781530e6cf9be7199"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX2604"
+"Cartridge.Name" "Space War (1978) (Atari) [b1]"
+"Cartridge.Rarity" "Uncommon"
+""

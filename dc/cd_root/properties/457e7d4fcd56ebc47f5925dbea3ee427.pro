@@ -1,0 +1,6 @@
+"Cartridge.MD5" "457e7d4fcd56ebc47f5925dbea3ee427"
+"Cartridge.Manufacturer" "Carrere Video, Garry Kitchen - Teldec"
+"Cartridge.ModelNo" "USC1001"
+"Cartridge.Name" "Space Jockey (1983) (Carrere Video) (PAL)"
+"Display.YStart" "59"
+""

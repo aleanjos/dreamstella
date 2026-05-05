@@ -1,0 +1,6 @@
+"Cartridge.MD5" "2eda6a49a49fcb2b674ea9e160b6a617"
+"Cartridge.Manufacturer" "Kyle Pittman"
+"Cartridge.Name" "Rambo in Afghanistan (Kyle Pittman) (Hack)"
+"Cartridge.Note" "Hack of Riddle of the Sphinx"
+"Cartridge.Rarity" "Hack"
+""

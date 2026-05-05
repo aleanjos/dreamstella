@@ -1,0 +1,7 @@
+"Cartridge.MD5" "f39e4bc99845edd8621b0f3c7b8c4fd9"
+"Cartridge.Manufacturer" "AtariAge"
+"Cartridge.Name" "Toyshop Trouble (AtariAge)"
+"Cartridge.Note" "F8 Emulator Release"
+"Controller.Right" "PADDLES"
+"Display.YStart" "33"
+""

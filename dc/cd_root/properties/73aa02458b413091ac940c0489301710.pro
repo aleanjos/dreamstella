@@ -1,0 +1,6 @@
+"Cartridge.MD5" "73aa02458b413091ac940c0489301710"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "463.574 4 - 781393, 986153"
+"Cartridge.Name" "Kampf dem Steinfresser (1983) (Quelle) (PAL)"
+"Cartridge.Note" "Boom Bang (AKA Crackpots)"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "79c27f90591e3fdc7d2ed020ecbedeb3"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-815"
+"Cartridge.Name" "Seaquest (1983) (CCE) [a]"
+""

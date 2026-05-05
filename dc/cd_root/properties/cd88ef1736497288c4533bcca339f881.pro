@@ -1,0 +1,7 @@
+"Cartridge.MD5" "cd88ef1736497288c4533bcca339f881"
+"Cartridge.Manufacturer" "Sega - Teldec"
+"Cartridge.ModelNo" "005-01"
+"Cartridge.Name" "Buck Rogers - Planet of Zoom (1983) (Sega) (PAL)"
+"Display.Format" "PAL"
+"Display.Phosphor" "YES"
+""

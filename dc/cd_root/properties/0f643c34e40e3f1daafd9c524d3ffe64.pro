@@ -1,0 +1,5 @@
+"Cartridge.MD5" "0f643c34e40e3f1daafd9c524d3ffe64"
+"Cartridge.Manufacturer" "Atari, Robert C. Polaro, Alan J. Murphy - Sears"
+"Cartridge.ModelNo" "CX2609 - 49-75186"
+"Cartridge.Name" "Defender (1982) (Atari)"
+""

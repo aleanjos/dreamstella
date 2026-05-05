@@ -1,0 +1,5 @@
+"Cartridge.MD5" "bf52327c2197d9d2c4544be053caded1"
+"Cartridge.Manufacturer" "HES"
+"Cartridge.ModelNo" "AG-930-04, AZ-030"
+"Cartridge.Name" "Decathlon (HES) (PAL) (16K)"
+""

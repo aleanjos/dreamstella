@@ -1,0 +1,8 @@
+"Cartridge.MD5" "20d4457ba22517253fcb62967af11b37"
+"Cartridge.Manufacturer" "Atari, Eric Manghise, Joseph Tung"
+"Cartridge.ModelNo" "CX2640"
+"Cartridge.Name" "RealSports Baseball (1982) (Atari) (Prototype)"
+"Cartridge.Note" "AKA Foxbat"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "30"
+""

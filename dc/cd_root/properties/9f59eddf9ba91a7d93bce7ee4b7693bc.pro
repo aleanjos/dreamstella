@@ -1,0 +1,7 @@
+"Cartridge.MD5" "9f59eddf9ba91a7d93bce7ee4b7693bc"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Montezuma's Revenge (Thomas Jentzsch) (PAL60)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Homebrew"
+"Display.Format" "PAL60"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "29630a20d356fb58685b150bfa8f00c3"
+"Cartridge.Manufacturer" "M Network, Kevin Miller"
+"Cartridge.ModelNo" "MT5687"
+"Cartridge.Name" "International Soccer (1982) (Mattel) [a]"
+""

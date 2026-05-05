@@ -1,0 +1,5 @@
+"Cartridge.MD5" "5e0c37f534ab5ccc4661768e2ddf0162"
+"Cartridge.Manufacturer" "Telegames, Ed Salvo"
+"Cartridge.ModelNo" "5667 A106"
+"Cartridge.Name" "Glacier Patrol (1989) (Telegames)"
+""

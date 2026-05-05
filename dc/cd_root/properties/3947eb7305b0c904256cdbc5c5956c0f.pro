@@ -1,0 +1,7 @@
+"Cartridge.MD5" "3947eb7305b0c904256cdbc5c5956c0f"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Lilly Adventure (Jone Yuan)"
+"Cartridge.Note" "2600 Screen Search Console"
+"Display.YStart" "30"
+"Display.Height" "230"
+""

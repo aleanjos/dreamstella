@@ -1,0 +1,5 @@
+"Cartridge.MD5" "90f502cbf4438a95f69f848cef36eb64"
+"Cartridge.Manufacturer" "Digitel"
+"Cartridge.Name" "River Raid II (1985) (Digitel)"
+"Cartridge.Note" "AKA River Raid"
+""

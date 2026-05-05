@@ -1,0 +1,6 @@
+"Cartridge.MD5" "de61a0b171e909a5a4cfcf81d146dbcb"
+"Cartridge.Manufacturer" "Rainbow Vision - Suntek"
+"Cartridge.ModelNo" "SS-005"
+"Cartridge.Name" "Tom Boy (Rainbow Vision) (PAL)"
+"Cartridge.Note" "AKA Pitfall!"
+""

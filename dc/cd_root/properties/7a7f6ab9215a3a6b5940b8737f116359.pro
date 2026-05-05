@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7a7f6ab9215a3a6b5940b8737f116359"
+"Cartridge.Manufacturer" "Arcadia Corporation, Kevin Norman"
+"Cartridge.ModelNo" "AR-4103"
+"Cartridge.Name" "Killer Satellites (1983) (Arcadia)"
+""

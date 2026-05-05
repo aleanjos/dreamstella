@@ -1,0 +1,6 @@
+"Cartridge.MD5" "497f3d2970c43e5224be99f75e97cbbb"
+"Cartridge.Manufacturer" "CommaVid, John Bronstein"
+"Cartridge.ModelNo" "CM-002"
+"Cartridge.Name" "Video Life (1981) (CommaVid)"
+"Display.Phosphor" "YES"
+""

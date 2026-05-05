@@ -1,0 +1,5 @@
+"Cartridge.MD5" "09e1ecf9bd2a3030d5670dba7a65e78d"
+"Cartridge.Manufacturer" "Atari, James Andreasen"
+"Cartridge.ModelNo" "CX2654"
+"Cartridge.Name" "Haunted House (1982) (Atari) (PAL)"
+""

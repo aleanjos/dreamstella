@@ -1,0 +1,7 @@
+"Cartridge.MD5" "f6a282374441012b01714e19699fc62a"
+"Cartridge.Manufacturer" "ZiMAG - Emag - Vidco"
+"Cartridge.ModelNo" "710-111 - GN-010"
+"Cartridge.Name" "I Want My Mommy (1983) (ZiMAG)"
+"Cartridge.Note" "AKA Open Sesame"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "295f3679bdf91ca5e37da3f787b29997"
+"Cartridge.Name" "Exorcise (Hack)"
+"Cartridge.Note" "Hack of Adventure"
+"Cartridge.Rarity" "Hack"
+""

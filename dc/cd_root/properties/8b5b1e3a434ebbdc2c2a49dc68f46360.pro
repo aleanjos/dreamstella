@@ -1,0 +1,5 @@
+"Cartridge.MD5" "8b5b1e3a434ebbdc2c2a49dc68f46360"
+"Cartridge.Manufacturer" "CBS Electronics, Dan Kitchen, Garry Kitchen"
+"Cartridge.ModelNo" "4L1700, 4L1701, 4L1702, 4L1802, 4L2274"
+"Cartridge.Name" "Donkey Kong (1982) (CBS Electronics) (PAL)"
+""

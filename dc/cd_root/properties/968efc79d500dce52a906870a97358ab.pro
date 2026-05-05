@@ -1,0 +1,5 @@
+"Cartridge.MD5" "968efc79d500dce52a906870a97358ab"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26190"
+"Cartridge.Name" "BMX Air Master (1990) (Atari)"
+""

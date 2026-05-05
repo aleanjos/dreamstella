@@ -1,0 +1,5 @@
+"Cartridge.MD5" "114c599454d32f74c728a6e1f71012ba"
+"Cartridge.Manufacturer" "Activision, Bob Whitehead - Ariola"
+"Cartridge.ModelNo" "EAX-015, EAX-015-04I - 711 015-725"
+"Cartridge.Name" "Chopper Command (1982) (Activision) (PAL)"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e6d5948f451a24994dfaaca51dfdb4e1"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Football (Jone Yuan) (4K)"
+"Cartridge.Note" "2600 Screen Search Console"
+""

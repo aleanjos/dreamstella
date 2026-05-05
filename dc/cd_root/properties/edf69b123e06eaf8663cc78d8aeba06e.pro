@@ -1,0 +1,5 @@
+"Cartridge.MD5" "edf69b123e06eaf8663cc78d8aeba06e"
+"Cartridge.Manufacturer" "SpkSoft 98"
+"Cartridge.Name" "River Raid (SpkSoft 98) [h1]"
+"Display.YStart" "10"
+""

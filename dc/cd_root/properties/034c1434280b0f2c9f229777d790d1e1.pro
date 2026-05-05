@@ -1,0 +1,6 @@
+"Cartridge.MD5" "034c1434280b0f2c9f229777d790d1e1"
+"Cartridge.Manufacturer" "Telegames"
+"Cartridge.ModelNo" "5665 A016"
+"Cartridge.Name" "Baseball (1989) (Telegames) (PAL)"
+"Cartridge.Note" "AKA Super Challenge Baseball"
+""

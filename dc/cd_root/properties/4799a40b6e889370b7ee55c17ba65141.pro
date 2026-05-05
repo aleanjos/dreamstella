@@ -1,0 +1,7 @@
+"Cartridge.MD5" "4799a40b6e889370b7ee55c17ba65141"
+"Cartridge.Manufacturer" "Konami"
+"Cartridge.ModelNo" "RC 100-X 02"
+"Cartridge.Name" "Pooyan (1983) (Konami)"
+"Display.YStart" "26"
+"Display.Height" "220"
+""

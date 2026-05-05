@@ -1,0 +1,5 @@
+"Cartridge.MD5" "083e7cae41a874b2f9b61736c37d2ffe"
+"Cartridge.Manufacturer" "Imagic, Rob Fulop, Bob Smith"
+"Cartridge.ModelNo" "720106-2A, IA3600P, EIX-009-04I"
+"Cartridge.Name" "Riddle of the Sphinx (1982) (Imagic) (PAL)"
+""

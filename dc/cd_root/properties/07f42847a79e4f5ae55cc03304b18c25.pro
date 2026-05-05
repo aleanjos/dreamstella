@@ -1,0 +1,5 @@
+"Cartridge.MD5" "07f42847a79e4f5ae55cc03304b18c25"
+"Cartridge.Manufacturer" "Zellers"
+"Cartridge.Name" "Sea Hawk (Zellers)"
+"Cartridge.Note" "AKA Seahawk"
+""

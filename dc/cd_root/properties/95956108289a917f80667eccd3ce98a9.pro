@@ -1,0 +1,5 @@
+"Cartridge.MD5" "95956108289a917f80667eccd3ce98a9"
+"Cartridge.Manufacturer" "Atari, Ed Logg, Carol Shaw"
+"Cartridge.ModelNo" "CX2639, CX2639P"
+"Cartridge.Name" "Othello (1981) (Atari) (PAL) (4K)"
+""

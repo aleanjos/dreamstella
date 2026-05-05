@@ -1,0 +1,5 @@
+"Cartridge.MD5" "0e713d4e272ea7322c5b27d645f56dd0"
+"Cartridge.Manufacturer" "Home Vision - Gem International Corp."
+"Cartridge.ModelNo" "VCS83105"
+"Cartridge.Name" "Panda Chase (1983) (Home Vision) (PAL)"
+""

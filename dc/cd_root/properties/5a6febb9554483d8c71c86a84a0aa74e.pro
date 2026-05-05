@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5a6febb9554483d8c71c86a84a0aa74e"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-1003"
+"Cartridge.Name" "Donkey Kong Jr (1983) (CCE)"
+"Cartridge.Note" "AKA Donkey Kong Junior"
+""

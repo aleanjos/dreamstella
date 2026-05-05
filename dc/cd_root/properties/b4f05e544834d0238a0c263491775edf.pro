@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b4f05e544834d0238a0c263491775edf"
+"Cartridge.Manufacturer" "Arcadia Corporation, Steve Hales, Stephen Harland Landrum"
+"Cartridge.ModelNo" "AR-4102"
+"Cartridge.Name" "Suicide Mission (Preview) (1982) (Arcadia) (PAL)"
+"Display.Phosphor" "YES"
+""

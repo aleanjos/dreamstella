@@ -1,0 +1,6 @@
+"Cartridge.MD5" "624e0a77f9ec67d628211aaf24d8aea6"
+"Cartridge.Manufacturer" "Panda"
+"Cartridge.ModelNo" "108"
+"Cartridge.Name" "Sea Hawk (1983) (Panda)"
+"Cartridge.Note" "AKA Seahawk"
+""

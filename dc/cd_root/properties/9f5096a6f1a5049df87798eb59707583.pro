@@ -1,0 +1,6 @@
+"Cartridge.MD5" "9f5096a6f1a5049df87798eb59707583"
+"Cartridge.Manufacturer" "20th Century Fox Video Games, Mark Klein"
+"Cartridge.ModelNo" "11036"
+"Cartridge.Name" "Entity, The (1983) (20th Century Fox) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

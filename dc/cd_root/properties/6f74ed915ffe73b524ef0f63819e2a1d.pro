@@ -1,0 +1,5 @@
+"Cartridge.MD5" "6f74ed915ffe73b524ef0f63819e2a1d"
+"Cartridge.Manufacturer" "Eckhard Stolberg"
+"Cartridge.Name" "An Exercise In Minimalism (V2) (1999) (Eckhard Stolberg)"
+"Cartridge.Rarity" "Homebrew"
+""

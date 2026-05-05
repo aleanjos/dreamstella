@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5af9cd346266a1f2515e1fbc86f5186a"
+"Cartridge.Manufacturer" "Sega"
+"Cartridge.ModelNo" "002-01"
+"Cartridge.Name" "Sub-Scan (1982) (Sega)"
+"Cartridge.Note" "AKA Subterfuge"
+""

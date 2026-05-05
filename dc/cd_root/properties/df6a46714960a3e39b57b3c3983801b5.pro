@@ -1,0 +1,5 @@
+"Cartridge.MD5" "df6a46714960a3e39b57b3c3983801b5"
+"Cartridge.Manufacturer" "Puzzy - Bit Corporation"
+"Cartridge.ModelNo" "PG201"
+"Cartridge.Name" "Sea Monster (1982) (Puzzy) (PAL)"
+""

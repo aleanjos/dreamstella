@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2ec6b045cfd7bc52d9cdfd1b1447d1e5"
+"Cartridge.Manufacturer" "Activision, David Crane - Ariola"
+"Cartridge.ModelNo" "EAG-009, PAG-009 - 711 009-720"
+"Cartridge.Name" "Freeway (1981) (Activision) (PAL)"
+""

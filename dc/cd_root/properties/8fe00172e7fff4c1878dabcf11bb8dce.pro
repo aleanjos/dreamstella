@@ -1,0 +1,7 @@
+"Cartridge.MD5" "8fe00172e7fff4c1878dabcf11bb8dce"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "689.302 8"
+"Cartridge.Name" "Hili Ball (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Racquetball"
+"Display.Phosphor" "YES"
+""

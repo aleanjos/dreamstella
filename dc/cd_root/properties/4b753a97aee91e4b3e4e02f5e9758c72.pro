@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4b753a97aee91e4b3e4e02f5e9758c72"
+"Cartridge.Manufacturer" "Glenn Saunders, Roger Williams"
+"Cartridge.Name" "Asymmetric Reflected Playfield (Glenn Saunders)"
+"Cartridge.Rarity" "Homebrew"
+""

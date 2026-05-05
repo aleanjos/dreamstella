@@ -1,0 +1,5 @@
+"Cartridge.MD5" "5b92a93b23523ff16e2789b820e2a4c5"
+"Cartridge.Manufacturer" "Activision, Dan Kitchen"
+"Cartridge.ModelNo" "AG-039-04"
+"Cartridge.Name" "Kung-Fu Master (1987) (Activision)"
+""

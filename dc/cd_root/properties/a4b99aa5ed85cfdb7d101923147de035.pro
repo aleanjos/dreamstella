@@ -1,0 +1,6 @@
+"Cartridge.MD5" "a4b99aa5ed85cfdb7d101923147de035"
+"Cartridge.Manufacturer" "Jim Goebel"
+"Cartridge.Name" "Pac-Law (Jim Goebel) (Hack)"
+"Cartridge.Note" "Hack of Outlaw"
+"Cartridge.Rarity" "Hack"
+""

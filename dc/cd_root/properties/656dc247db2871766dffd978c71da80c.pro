@@ -1,0 +1,8 @@
+"Cartridge.MD5" "656dc247db2871766dffd978c71da80c"
+"Cartridge.Manufacturer" "Sears Tele-Games, Jim Huether"
+"Cartridge.ModelNo" "CX2614 - 49-75126"
+"Cartridge.Name" "Steeplechase (1980) (Sears)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES_IAXIS"
+"Controller.Right" "PADDLES"
+""

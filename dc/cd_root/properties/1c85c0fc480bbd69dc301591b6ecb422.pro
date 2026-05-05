@@ -1,0 +1,5 @@
+"Cartridge.MD5" "1c85c0fc480bbd69dc301591b6ecb422"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.Name" "Super Box (CCE)"
+"Cartridge.Note" "AKA RealSports Boxing"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "08d1b6d75206edb999252caf542a2c7f"
+"Cartridge.Manufacturer" "Larry Petit"
+"Cartridge.Name" "Super Home Run (2003) (Larry Petit) (Hack)"
+"Cartridge.Note" "Hack of Home Run"
+"Cartridge.Rarity" "Hack"
+""

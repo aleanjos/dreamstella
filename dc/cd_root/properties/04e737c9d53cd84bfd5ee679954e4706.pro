@@ -1,0 +1,5 @@
+"Cartridge.MD5" "04e737c9d53cd84bfd5ee679954e4706"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Checkers (Jone Yuan) (4K)"
+"Cartridge.Note" "2600 Screen Search Console"
+""

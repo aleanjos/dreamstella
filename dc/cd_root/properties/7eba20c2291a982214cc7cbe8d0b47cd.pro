@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7eba20c2291a982214cc7cbe8d0b47cd"
+"Cartridge.Manufacturer" "Imagic, Dave Johnson"
+"Cartridge.ModelNo" "720119-1A, 03211"
+"Cartridge.Name" "Quick Step! (1983) (Imagic)"
+""

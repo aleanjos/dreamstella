@@ -1,0 +1,5 @@
+"Cartridge.MD5" "9be58a14e055b0e7581fc4d6c2f6b31d"
+"Cartridge.Name" "Adventure (Color Scrolling) (Hack)"
+"Cartridge.Note" "Hack of Adventure"
+"Cartridge.Rarity" "Hack"
+""

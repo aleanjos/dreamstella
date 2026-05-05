@@ -1,0 +1,6 @@
+"Cartridge.MD5" "3d1e83afdb4265fa2fb84819c9cfd39c"
+"Cartridge.Manufacturer" "Coleco, Henry Will IV"
+"Cartridge.ModelNo" "2465"
+"Cartridge.Name" "Smurf - Rescue in Gargamel's Castle (1982) (Coleco)"
+"Cartridge.Note" "AKA Smurf, Smurf Action"
+""

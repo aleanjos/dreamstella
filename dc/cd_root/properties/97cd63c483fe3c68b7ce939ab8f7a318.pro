@@ -1,0 +1,6 @@
+"Cartridge.MD5" "97cd63c483fe3c68b7ce939ab8f7a318"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Robot City (V0.21) (15-09-2002) (TJ)"
+"Cartridge.Rarity" "New Release"
+"Display.YStart" "24"
+""

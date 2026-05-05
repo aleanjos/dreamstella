@@ -1,0 +1,6 @@
+"Cartridge.MD5" "03c3f7ba4585e349dd12bfa7b34b7729"
+"Cartridge.Manufacturer" "Sega, Jeff Lorenz"
+"Cartridge.ModelNo" "004-01"
+"Cartridge.Name" "Star Trek - Strategic Operations Simulator (1983) (Sega)"
+"Display.Phosphor" "YES"
+""

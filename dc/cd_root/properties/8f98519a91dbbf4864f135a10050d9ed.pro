@@ -1,0 +1,5 @@
+"Cartridge.MD5" "8f98519a91dbbf4864f135a10050d9ed"
+"Cartridge.Manufacturer" "Silvio Mogno"
+"Cartridge.Name" "Rainbow Invaders (non-playable demo) (PD)"
+"Cartridge.Rarity" "New Release"
+""

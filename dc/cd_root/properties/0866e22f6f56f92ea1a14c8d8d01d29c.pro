@@ -1,0 +1,5 @@
+"Cartridge.MD5" "0866e22f6f56f92ea1a14c8d8d01d29c"
+"Cartridge.Manufacturer" "Western Technologies, Michael Case, Lenny Carlson"
+"Cartridge.Name" "AndroMan on the Moon (1984) (Western Tech) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

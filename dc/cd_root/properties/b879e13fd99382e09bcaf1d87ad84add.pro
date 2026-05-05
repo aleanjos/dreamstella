@@ -1,0 +1,5 @@
+"Cartridge.MD5" "b879e13fd99382e09bcaf1d87ad84add"
+"Cartridge.Manufacturer" "Zellers"
+"Cartridge.Name" "Time Warp (Zellers)"
+"Display.YStart" "30"
+""

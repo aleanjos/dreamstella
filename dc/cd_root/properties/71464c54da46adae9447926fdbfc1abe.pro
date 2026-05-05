@@ -1,0 +1,5 @@
+"Cartridge.MD5" "71464c54da46adae9447926fdbfc1abe"
+"Cartridge.Manufacturer" "M Network, Bruce Pedersen - INTV"
+"Cartridge.ModelNo" "MT5663"
+"Cartridge.Name" "Lock 'n' Chase (1982) (M Network)"
+""

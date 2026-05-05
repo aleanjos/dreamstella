@@ -1,0 +1,6 @@
+"Cartridge.MD5" "a29fc854838e08c247553a7d883dd65b"
+"Cartridge.Manufacturer" "Activision, Steve Cartwright"
+"Cartridge.ModelNo" "AX-013"
+"Cartridge.Name" "Barnstorming (1982) (Activision) (16K)"
+"Cartridge.Rarity" "Uncommon"
+""

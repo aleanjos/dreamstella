@@ -1,0 +1,6 @@
+"Cartridge.MD5" "23d445ea19a18fb78d5035878d9fb649"
+"Cartridge.Manufacturer" "CBS Electronics, Sylvia Day, Henry Will IV"
+"Cartridge.ModelNo" "4L1818, 4L1819, 4L1820"
+"Cartridge.Name" "Mouse Trap (1982) (CBS Electronics) (PAL)"
+"Display.Phosphor" "YES"
+""

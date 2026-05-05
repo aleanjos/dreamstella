@@ -1,0 +1,6 @@
+"Cartridge.MD5" "f6f1b27efc247a0e8d473ddb4269ff9e"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "429.663 8"
+"Cartridge.Name" "Schnapp die Apfeldiebe (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Plaque Attack"
+""

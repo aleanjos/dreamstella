@@ -1,0 +1,7 @@
+"Cartridge.MD5" "ead60451c28635b55ca8fea198444e16"
+"Cartridge.Manufacturer" "Sancho - Tang's Electronic Co."
+"Cartridge.ModelNo" "TEC004"
+"Cartridge.Name" "Nightmare (1983) (Sancho) (PAL)"
+"Display.YStart" "43"
+"Display.Height" "256"
+""

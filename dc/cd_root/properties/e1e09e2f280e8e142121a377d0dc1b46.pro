@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e1e09e2f280e8e142121a377d0dc1b46"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Thrust (V1.21) (2000) (TJ)"
+"Cartridge.Note" "Won't work with Stella < V1.2, bugfixed"
+"Cartridge.Rarity" "New Release"
+""

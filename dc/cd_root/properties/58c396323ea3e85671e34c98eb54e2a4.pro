@@ -1,0 +1,5 @@
+"Cartridge.MD5" "58c396323ea3e85671e34c98eb54e2a4"
+"Cartridge.Manufacturer" "Brian Watson"
+"Cartridge.Name" "Color Tweaker (B. Watson)"
+"Cartridge.Rarity" "Homebrew"
+""

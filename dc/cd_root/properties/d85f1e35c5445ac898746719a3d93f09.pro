@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d85f1e35c5445ac898746719a3d93f09"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "731.503 9"
+"Cartridge.Name" "Tom's Eierjagd (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Play Farm"
+""

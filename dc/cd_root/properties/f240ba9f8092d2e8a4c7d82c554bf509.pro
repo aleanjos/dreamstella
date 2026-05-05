@@ -1,0 +1,6 @@
+"Cartridge.MD5" "f240ba9f8092d2e8a4c7d82c554bf509"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "463.860 7"
+"Cartridge.Name" "Strahlen der Teufelsvoegel (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Atlantis"
+""

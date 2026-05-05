@@ -1,0 +1,5 @@
+"Cartridge.MD5" "82efe7984783e23a7c55266a5125c68e"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-837"
+"Cartridge.Name" "Pizza Chef (1983) (CCE)"
+""

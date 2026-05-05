@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f73d2d0eff548e8fc66996f27acf2b4b"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-813"
+"Cartridge.Name" "Pitfall (1983) (CCE)"
+""

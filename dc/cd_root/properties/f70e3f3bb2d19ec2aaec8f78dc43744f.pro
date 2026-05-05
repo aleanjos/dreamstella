@@ -1,0 +1,7 @@
+"Cartridge.MD5" "f70e3f3bb2d19ec2aaec8f78dc43744f"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Pooyan (Jone Yuan) (Hack)"
+"Cartridge.Note" "2600 Screen Search Console"
+"Cartridge.Rarity" "Hack"
+"Display.YStart" "26"
+""

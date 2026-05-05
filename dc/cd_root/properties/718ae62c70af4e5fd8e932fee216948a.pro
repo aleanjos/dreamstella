@@ -1,0 +1,7 @@
+"Cartridge.MD5" "718ae62c70af4e5fd8e932fee216948a"
+"Cartridge.Manufacturer" "Data Age"
+"Cartridge.ModelNo" "112-006"
+"Cartridge.Name" "Journey Escape (1982) (Data Age)"
+"Display.Height" "230"
+"Display.Phosphor" "YES"
+""

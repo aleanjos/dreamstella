@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7a5463545dfb2dcfdafa6074b2f2c15e"
+"Cartridge.Manufacturer" "20th Century Fox Video Games, Mark Turmell"
+"Cartridge.ModelNo" "11007"
+"Cartridge.Name" "Turmoil (1982) (20th Century Fox)"
+""

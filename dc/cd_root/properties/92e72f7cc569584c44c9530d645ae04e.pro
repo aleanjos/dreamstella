@@ -1,0 +1,5 @@
+"Cartridge.MD5" "92e72f7cc569584c44c9530d645ae04e"
+"Cartridge.Manufacturer" "Canal 3 - Intellivision"
+"Cartridge.Name" "Spider Fighter (Canal 3)"
+"Display.YStart" "30"
+""

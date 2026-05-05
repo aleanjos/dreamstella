@@ -1,0 +1,6 @@
+"Cartridge.MD5" "f3f5f72bfdd67f3d0e45d097e11b8091"
+"Cartridge.Manufacturer" "Sears Tele-Games, Marilyn Churchill, Matthew L. Hubbard"
+"Cartridge.ModelNo" "CX2647 - 49-75142"
+"Cartridge.Name" "Submarine Commander (1982) (Sears)"
+"Cartridge.Note" "AKA Seawolf 3"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "59e53894b3899ee164c91cfa7842da66"
+"Cartridge.Manufacturer" "Data Age"
+"Cartridge.Name" "Survival Run (1983) (Data Age) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "40"
+""

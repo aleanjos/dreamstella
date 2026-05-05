@@ -1,0 +1,6 @@
+"Cartridge.MD5" "1733772165d7b886a94e2b4ed0f74ccd"
+"Cartridge.Name" "Boring Journey Escape (Hack)"
+"Cartridge.Note" "Hack of Journey - Escape"
+"Cartridge.Rarity" "Hack"
+"Display.Height" "230"
+""

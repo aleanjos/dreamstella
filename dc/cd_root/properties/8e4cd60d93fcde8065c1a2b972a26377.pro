@@ -1,0 +1,6 @@
+"Cartridge.MD5" "8e4cd60d93fcde8065c1a2b972a26377"
+"Cartridge.Manufacturer" "Imagic, Dan Oliver"
+"Cartridge.ModelNo" "720118-2A, 13208, EIX-007-04I"
+"Cartridge.Name" "Laser Gates (1983) (Imagic) (PAL)"
+"Cartridge.Note" "AKA Innerspace"
+""

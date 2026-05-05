@@ -1,0 +1,7 @@
+"Cartridge.MD5" "dc13df8420ec69841a7c51e41b9fbba5"
+"Cartridge.Manufacturer" "Atari, Mimi Nyden, Steve Woita"
+"Cartridge.ModelNo" "CX26132"
+"Cartridge.Name" "Garfield (06-21-1984) (Atari) (Prototype)"
+"Cartridge.Note" "AKA Garfield on the Run"
+"Cartridge.Rarity" "Prototype"
+""

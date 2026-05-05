@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6cf054cd23a02e09298d2c6f787eb21d"
+"Cartridge.Manufacturer" "Parker Brothers, Wilfredo 'Willy' Aguilar, Michael Becker, Neil McKenzie, Bob Smith, Brad Stewart"
+"Cartridge.ModelNo" "PB5540"
+"Cartridge.Name" "Star Wars - The Arcade Game (1984) (Parker Bros) (PAL)"
+"Display.Phosphor" "YES"
+""

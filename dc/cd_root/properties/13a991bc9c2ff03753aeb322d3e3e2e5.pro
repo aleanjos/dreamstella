@@ -1,0 +1,5 @@
+"Cartridge.MD5" "13a991bc9c2ff03753aeb322d3e3e2e5"
+"Cartridge.Manufacturer" "Funvision - Fund. International Co."
+"Cartridge.Name" "Galactic (Funvision) (PAL)"
+"Cartridge.Note" "AKA Condor Attack"
+""

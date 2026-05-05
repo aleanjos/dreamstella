@@ -1,0 +1,7 @@
+"Cartridge.MD5" "80e1410ec98089e0733cc09e584dba4b"
+"Cartridge.Manufacturer" "Dynamics"
+"Cartridge.ModelNo" "DY-293005"
+"Cartridge.Name" "Jumping Jack (1983) (Dynamics) (PAL)"
+"Cartridge.Note" "AKA Bobby Is Going Home"
+"Display.YStart" "46"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "7576dd46c2f8d8ab159d97e3a3f2052f"
+"Cartridge.Manufacturer" "Goliath - Hot Shot"
+"Cartridge.ModelNo" "83-112"
+"Cartridge.Name" "Time Machine (1983) (Goliath) (PAL)"
+"Cartridge.Note" "AKA Asteroid Fire"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "78821ef76ebc3934850d1bc1b9e4f4b0"
+"Cartridge.Manufacturer" "HES - Activision"
+"Cartridge.ModelNo" "542"
+"Cartridge.Name" "Hot Action Pak - Ghostbusters, Tennis, Plaque Attack (1990) (HES) (PAL)"
+""

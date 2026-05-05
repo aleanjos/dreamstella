@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0c35806ff0019a270a7acae68de89d28"
+"Cartridge.Manufacturer" "Froggo"
+"Cartridge.ModelNo" "FG1003"
+"Cartridge.Name" "Task Force (1987) (Froggo)"
+"Cartridge.Note" "AKA Gangster Alley"
+""

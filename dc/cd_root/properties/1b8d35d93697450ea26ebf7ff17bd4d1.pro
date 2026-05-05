@@ -1,0 +1,6 @@
+"Cartridge.MD5" "1b8d35d93697450ea26ebf7ff17bd4d1"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "176.764 9 - 781644"
+"Cartridge.Name" "Marineflieger (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Seahawk"
+""

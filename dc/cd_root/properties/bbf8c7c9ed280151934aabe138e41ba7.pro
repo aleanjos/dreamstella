@@ -1,0 +1,7 @@
+"Cartridge.MD5" "bbf8c7c9ed280151934aabe138e41ba7"
+"Cartridge.Manufacturer" "Amiga"
+"Cartridge.ModelNo" "1130"
+"Cartridge.Name" "Power Play Arcade Video Game Album V (1984) (Amiga) (Prototype)"
+"Cartridge.Note" "Mogul Maniac, Surf's Up, Off Your Rocker, S.A.C. Alert"
+"Cartridge.Rarity" "Prototype"
+""

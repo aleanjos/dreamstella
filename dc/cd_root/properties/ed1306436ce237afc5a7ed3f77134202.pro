@@ -1,0 +1,5 @@
+"Cartridge.MD5" "ed1306436ce237afc5a7ed3f77134202"
+"Cartridge.Manufacturer" "HES"
+"Cartridge.ModelNo" "771-341"
+"Cartridge.Name" "2 Pak Special - Dolphin, Pigs 'n' Wolf (1990) (HES) (PAL)"
+""

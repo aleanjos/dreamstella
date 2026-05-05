@@ -1,0 +1,6 @@
+"Cartridge.MD5" "75028162bfc4cc8e74b04e320f9e6a3f"
+"Cartridge.Manufacturer" "Atari, Greg Easter, Mimi Nyden"
+"Cartridge.ModelNo" "CX26107"
+"Cartridge.Name" "Snow White and the Seven Dwarfs (02-09-1983) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

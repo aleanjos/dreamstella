@@ -1,0 +1,8 @@
+"Cartridge.MD5" "1fa86282403fa35d103ab88a9d603c31"
+"Cartridge.Manufacturer" "SpiceWare - Darrell Spice Jr."
+"Cartridge.Name" "Stay Frosty (SpiceWare) (PAL60)"
+"Cartridge.Note" "Part of Stella's Stocking 2007 Xmas compilation"
+"Cartridge.Rarity" "Homebrew"
+"Display.Format" "PAL60"
+"Display.Phosphor" "YES"
+""

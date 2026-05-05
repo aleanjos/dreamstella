@@ -1,0 +1,7 @@
+"Cartridge.MD5" "72876fd7c7435f41d571f1101fc456ea"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "688.383 9"
+"Cartridge.Name" "Die Ente und der Wolf (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Pooyan"
+"Display.YStart" "26"
+""

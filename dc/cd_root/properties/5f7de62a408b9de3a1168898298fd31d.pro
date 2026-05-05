@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5f7de62a408b9de3a1168898298fd31d"
+"Cartridge.Name" "Super Cobra (Genesis)"
+"Cartridge.Note" "Genesis controller (B is bomb, C is laser)"
+"Cartridge.Rarity" "Hack of Super Cobra"
+"Controller.Left" "GENESIS"
+""

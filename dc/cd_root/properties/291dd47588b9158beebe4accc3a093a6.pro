@@ -1,0 +1,7 @@
+"Cartridge.MD5" "291dd47588b9158beebe4accc3a093a6"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.Name" "32 in 1 Console ROM (02-10-1989) (Atari) (Prototype) (PAL)"
+"Cartridge.Rarity" "Prototype"
+"Cartridge.Type" "32IN1"
+"Display.YStart" "42"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0f39fc03d579d0d93a6b729a3746843e"
+"Cartridge.Manufacturer" "Atari, Richard Dobbis, Nick 'Sandy Maiwald' Turner"
+"Cartridge.ModelNo" "CX26111"
+"Cartridge.Name" "Snoopy and the Red Baron (05-27-1983) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

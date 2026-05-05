@@ -1,0 +1,6 @@
+"Cartridge.MD5" "f7af41a87533524d9a478575b0d873d0"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "495.663 7"
+"Cartridge.Name" "Spiderman (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Spider-Man"
+""

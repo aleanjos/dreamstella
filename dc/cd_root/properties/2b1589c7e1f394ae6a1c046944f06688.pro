@@ -1,0 +1,7 @@
+"Cartridge.MD5" "2b1589c7e1f394ae6a1c046944f06688"
+"Cartridge.Manufacturer" "Carrere Video, Todd Marshall, Wes Trager, Henry Will IV - Teldec"
+"Cartridge.ModelNo" "USC2003"
+"Cartridge.Name" "Eggomania (1983) (Carrere Video) (PAL)"
+"Cartridge.Note" "Uses the Paddle Controllers (left only)"
+"Controller.Left" "PADDLES"
+""

@@ -1,0 +1,8 @@
+"Cartridge.MD5" "68878250e106eb6c7754bc2519d780a0"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-809"
+"Cartridge.Name" "Squirrel (1983) (CCE)"
+"Cartridge.Note" "AKA Snail Against Squirrel"
+"Display.YStart" "24"
+"Display.Height" "230"
+""

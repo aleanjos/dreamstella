@@ -1,0 +1,6 @@
+"Cartridge.MD5" "ccd6ce508eee4b3fca67212833edcd85"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "746422"
+"Cartridge.Name" "Hot Wave (Double-Game Package) (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Ram It"
+""

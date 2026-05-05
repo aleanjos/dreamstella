@@ -1,0 +1,5 @@
+"Cartridge.MD5" "177504abd4260c4265e1338955e9fa47"
+"Cartridge.Manufacturer" "HCC Software"
+"Cartridge.Name" "Pitfall! (Steroids Hack)"
+"Cartridge.Note" "Hack of Pitfall! (Activision)"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "31bb9b8ceed46cb3e506777a9e65f3ce"
+"Cartridge.Manufacturer" "Bit Corporation"
+"Cartridge.Name" "4 Game in One Light Green (1983) (BitCorp) (PAL)"
+"Cartridge.Note" "Phantom UFO, Ice Hockey, Cosmic Avenger, Spy Vs. Spy"
+"Cartridge.Type" "4IN1"
+""

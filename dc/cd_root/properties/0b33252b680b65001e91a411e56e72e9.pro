@@ -1,0 +1,5 @@
+"Cartridge.MD5" "0b33252b680b65001e91a411e56e72e9"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-832"
+"Cartridge.Name" "Atlantis (1983) (CCE) [a]"
+""

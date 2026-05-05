@@ -1,0 +1,6 @@
+"Cartridge.MD5" "66706459e62514d0c39c3797cbf73ff1"
+"Cartridge.Manufacturer" "Video Gems"
+"Cartridge.ModelNo" "VG-05"
+"Cartridge.Name" "Treasure Below (1983) (Video Gems) (PAL)"
+"Console.RightDifficulty" "A"
+""

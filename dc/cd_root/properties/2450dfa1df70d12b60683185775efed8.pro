@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2450dfa1df70d12b60683185775efed8"
+"Cartridge.Manufacturer" "Jeffry Johnston"
+"Cartridge.Name" "Radial Pong - Version 7 (Jeffry Johnston) (PD)"
+"Cartridge.Rarity" "New Release"
+""

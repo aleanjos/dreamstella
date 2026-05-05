@@ -1,0 +1,7 @@
+"Cartridge.MD5" "213e5e82ecb42af237cfed8612c128ac"
+"Cartridge.Manufacturer" "Sancho - Tang's Electronic Co."
+"Cartridge.ModelNo" "TEC006"
+"Cartridge.Name" "Forest (1983) (Sancho) (PAL)"
+"Display.Height" "256"
+"Display.Phosphor" "YES"
+""

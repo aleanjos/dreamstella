@@ -1,0 +1,5 @@
+"Cartridge.MD5" "bedfbde71fb606601f936b5b057f26f7"
+"Cartridge.Manufacturer" "Activision, Garry Kitchen - Ariola"
+"Cartridge.ModelNo" "EAX-025, EAX-025-04I - 711 025-725"
+"Cartridge.Name" "Keystone Kapers (1983) (Activision) (PAL) (16K)"
+""

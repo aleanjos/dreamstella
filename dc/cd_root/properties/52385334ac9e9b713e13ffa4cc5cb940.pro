@@ -1,0 +1,6 @@
+"Cartridge.MD5" "52385334ac9e9b713e13ffa4cc5cb940"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-804"
+"Cartridge.Name" "Open, Sesame! (1983) (CCE)"
+"Display.Phosphor" "YES"
+""

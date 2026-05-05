@@ -1,0 +1,6 @@
+"Cartridge.MD5" "c221607529cabc93450ef25dbac6e8d2"
+"Cartridge.Manufacturer" "Eckhard Stolberg"
+"Cartridge.Name" "Color Test (26-09-2002) (Eckhard Stolberg)"
+"Cartridge.Rarity" "Homebrew"
+"Console.RightDifficulty" "A"
+""

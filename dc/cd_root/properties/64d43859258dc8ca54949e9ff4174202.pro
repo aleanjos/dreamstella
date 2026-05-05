@@ -1,0 +1,7 @@
+"Cartridge.MD5" "64d43859258dc8ca54949e9ff4174202"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Lilly Adventure (Thomas Jentzsch)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Homebrew"
+"Display.Height" "230"
+""

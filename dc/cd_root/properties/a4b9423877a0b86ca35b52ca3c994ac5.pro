@@ -1,0 +1,8 @@
+"Cartridge.MD5" "a4b9423877a0b86ca35b52ca3c994ac5"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-805"
+"Cartridge.Name" "Sea Monster (1983) (CCE)"
+"Cartridge.Note" "O Monstro Marinho"
+"Display.YStart" "30"
+"Display.Height" "220"
+""

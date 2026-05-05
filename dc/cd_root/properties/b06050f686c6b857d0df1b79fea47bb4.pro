@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b06050f686c6b857d0df1b79fea47bb4"
+"Cartridge.Manufacturer" "Activision"
+"Cartridge.ModelNo" "AIZ-001"
+"Cartridge.Name" "Moonsweeper (1988) (Activision)"
+"Display.Phosphor" "YES"
+""

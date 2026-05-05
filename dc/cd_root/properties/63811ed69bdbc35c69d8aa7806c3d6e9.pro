@@ -1,0 +1,5 @@
+"Cartridge.MD5" "63811ed69bdbc35c69d8aa7806c3d6e9"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Homerun (32 in 1) (1988) (Atari) (PAL) (4K)"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b719ada17771a8d206c7976553825139"
+"Cartridge.Manufacturer" "Ron Corcoran"
+"Cartridge.Name" "DUP Space Invaders (Ron Corcoran) (Hack)"
+"Cartridge.Note" "Hack of Space Invaders"
+"Cartridge.Rarity" "Hack"
+""

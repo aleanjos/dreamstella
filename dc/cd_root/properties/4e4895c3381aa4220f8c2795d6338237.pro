@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4e4895c3381aa4220f8c2795d6338237"
+"Cartridge.Name" "Backwards Cannonball v1 (Hack)"
+"Cartridge.Note" "Hack of Human Cannonball"
+"Cartridge.Rarity" "Hack"
+""

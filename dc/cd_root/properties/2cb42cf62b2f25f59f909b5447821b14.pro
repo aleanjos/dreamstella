@@ -1,0 +1,8 @@
+"Cartridge.MD5" "2cb42cf62b2f25f59f909b5447821b14"
+"Cartridge.Manufacturer" "Atari, Christopher H. Omarzu - Children's Computer Workshop"
+"Cartridge.ModelNo" "CX26104"
+"Cartridge.Name" "Big Bird's Egg Catch (1983) (Atari) (PAL) [a]"
+"Cartridge.Note" "Uses Kids/Keypad Controllers"
+"Controller.Left" "KEYBOARD"
+"Controller.Right" "KEYBOARD"
+""

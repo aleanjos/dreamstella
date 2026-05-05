@@ -1,0 +1,6 @@
+"Cartridge.MD5" "898b5467551d32af48a604802407b6e8"
+"Cartridge.Manufacturer" "Bit Corporation"
+"Cartridge.ModelNo" "PG208"
+"Cartridge.Name" "Snail Against Squirrel (1983) (BitCorp) (PAL)"
+"Display.YStart" "44"
+""

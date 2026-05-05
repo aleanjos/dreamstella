@@ -1,0 +1,7 @@
+"Cartridge.MD5" "8aad33da907bed78b76b87fceaa838c1"
+"Cartridge.Manufacturer" "Atari, Larry Kaplan"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Air-Sea Battle (32 in 1) (1988) (Atari) (PAL)"
+"Display.YStart" "40"
+"Display.Height" "256"
+""

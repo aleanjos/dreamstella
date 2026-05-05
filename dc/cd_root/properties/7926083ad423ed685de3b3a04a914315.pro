@@ -1,0 +1,6 @@
+"Cartridge.MD5" "7926083ad423ed685de3b3a04a914315"
+"Cartridge.Manufacturer" "Barry Laws Jr."
+"Cartridge.Name" "Face Invaders 2 (Barry Laws Jr.) (Hack)"
+"Cartridge.Note" "Hack of Astroblast"
+"Cartridge.Rarity" "Hack"
+""

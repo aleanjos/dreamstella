@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6a3b0c33cf74b1e213a629e3c142b73c"
+"Cartridge.Manufacturer" "Cody Pittman"
+"Cartridge.Name" "Cory The Interviewer (Cody Pittman) (Hack)"
+"Cartridge.Note" "Hack of Ghostbusters"
+"Cartridge.Rarity" "Hack"
+""

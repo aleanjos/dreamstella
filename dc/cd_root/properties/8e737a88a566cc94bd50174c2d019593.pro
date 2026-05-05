@@ -1,0 +1,6 @@
+"Cartridge.MD5" "8e737a88a566cc94bd50174c2d019593"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "343.173 1"
+"Cartridge.Name" "Feuerwehr im Einsatz (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Fire Fighter"
+""

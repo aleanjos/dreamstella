@@ -1,0 +1,8 @@
+"Cartridge.MD5" "97842fe847e8eb71263d6f92f7e122bd"
+"Cartridge.Manufacturer" "Imagic, Wilfredo 'Willy' Aguilar, Michael Becker, Dennis Koble"
+"Cartridge.ModelNo" "720113-1A, 03206"
+"Cartridge.Name" "Solar Storm (1983) (Imagic)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES"
+"Controller.MouseAxis" "01"
+""

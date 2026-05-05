@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4abb4c87a4c5f5d0c14ead2bb36251be"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26135, CX26135P"
+"Cartridge.Name" "RealSports Boxing (1987) (Atari) (PAL)"
+""

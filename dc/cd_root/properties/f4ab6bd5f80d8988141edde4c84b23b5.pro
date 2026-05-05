@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f4ab6bd5f80d8988141edde4c84b23b5"
+"Cartridge.Manufacturer" "Atari, Alan Miller"
+"Cartridge.ModelNo" "CX2624, CX2624P"
+"Cartridge.Name" "Basketball (1978) (Atari) (PAL) (4K)"
+""

@@ -1,0 +1,7 @@
+"Cartridge.MD5" "3f6938aa6ce66e6f42e582c1eb19b18c"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Laser Blast (Jone Yuan) (4K) (Hack)"
+"Cartridge.Note" "2600 Screen Search Console"
+"Cartridge.Rarity" "Hack"
+"Display.YStart" "30"
+""

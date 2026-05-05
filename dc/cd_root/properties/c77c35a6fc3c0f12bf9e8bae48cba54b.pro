@@ -1,0 +1,7 @@
+"Cartridge.MD5" "c77c35a6fc3c0f12bf9e8bae48cba54b"
+"Cartridge.Manufacturer" "Xonox - K-Tel Software, John Perkins"
+"Cartridge.ModelNo" "6230, 7210, 06004, 99004"
+"Cartridge.Name" "Artillery Duel (1983) (Xonox)"
+"Cartridge.Rarity" "Extremely Rare"
+"Display.YStart" "20"
+""

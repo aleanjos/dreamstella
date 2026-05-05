@@ -1,0 +1,5 @@
+"Cartridge.MD5" "a15b5831a1fab52e4c416068c85ec011"
+"Cartridge.Manufacturer" "Hozer Video Games"
+"Cartridge.Name" "Gunfight 2600 - The Good, The Bad, The Ugly (2001) (MP)"
+"Cartridge.Rarity" "New Release"
+""

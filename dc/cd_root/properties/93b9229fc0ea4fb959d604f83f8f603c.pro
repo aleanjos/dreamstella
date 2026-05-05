@@ -1,0 +1,6 @@
+"Cartridge.MD5" "93b9229fc0ea4fb959d604f83f8f603c"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Amidar DS (Fast Enemies) (2003) (TJ) (Hack)"
+"Cartridge.Note" "Hack of Amidar"
+"Cartridge.Rarity" "Hack"
+""

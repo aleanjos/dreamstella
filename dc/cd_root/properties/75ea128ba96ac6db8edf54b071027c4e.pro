@@ -1,0 +1,5 @@
+"Cartridge.MD5" "75ea128ba96ac6db8edf54b071027c4e"
+"Cartridge.Manufacturer" "Atari, David Crane"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Slot Machine (32 in 1) (1988) (Atari) (PAL)"
+""

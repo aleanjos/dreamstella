@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3c72ddaf41158fdd66e4f1cb90d4fd29"
+"Cartridge.Manufacturer" "Dismac"
+"Cartridge.Name" "Comando Suicida (Dismac)"
+"Cartridge.Note" "AKA Chopper Command"
+""

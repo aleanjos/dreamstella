@@ -1,0 +1,5 @@
+"Cartridge.MD5" "5f708ca39627697e859d1c53f8d8d7d2"
+"Cartridge.Manufacturer" "Atari, Warren Robinett - Sears"
+"Cartridge.ModelNo" "CX2606 - 6-99825, 49-75112"
+"Cartridge.Name" "Slot Racers (1978) (Atari) (4K)"
+""

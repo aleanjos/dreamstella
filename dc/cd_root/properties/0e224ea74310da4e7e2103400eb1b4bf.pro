@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0e224ea74310da4e7e2103400eb1b4bf"
+"Cartridge.Manufacturer" "Atari, Gary Shannon, Howard Scott Warshaw"
+"Cartridge.Name" "Mind Maze (10-10-1984) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Controller.Right" "MINDLINK"
+""

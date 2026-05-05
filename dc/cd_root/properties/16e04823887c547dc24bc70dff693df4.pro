@@ -1,0 +1,5 @@
+"Cartridge.MD5" "16e04823887c547dc24bc70dff693df4"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Tennis (32 in 1) (1988) (Atari) (PAL)"
+""

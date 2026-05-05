@@ -1,0 +1,7 @@
+"Cartridge.MD5" "703f0f7af350b0fa29dfe5fbf45d0d75"
+"Cartridge.Manufacturer" "Bit Corporation"
+"Cartridge.ModelNo" "P460"
+"Cartridge.Name" "4 Game in One Dark Green (1983) (BitCorp) (PAL)"
+"Cartridge.Note" "Rodeo Champ, Bobby is Going Home, Open Sesame, Festival"
+"Cartridge.Type" "4IN1"
+""

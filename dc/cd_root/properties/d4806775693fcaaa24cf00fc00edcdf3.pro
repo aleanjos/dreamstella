@@ -1,0 +1,8 @@
+"Cartridge.MD5" "d4806775693fcaaa24cf00fc00edcdf3"
+"Cartridge.Manufacturer" "Atari, Robert C. Polaro"
+"Cartridge.ModelNo" "CX26140, CX26140P"
+"Cartridge.Name" "Desert Falcon (1987) (Atari) (PAL)"
+"Cartridge.Note" "AKA Nile Flyer, Sphinx"
+"Display.Format" "PAL"
+"Display.YStart" "22"
+""

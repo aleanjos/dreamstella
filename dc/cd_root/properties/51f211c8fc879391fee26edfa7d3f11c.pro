@@ -1,0 +1,5 @@
+"Cartridge.MD5" "51f211c8fc879391fee26edfa7d3f11c"
+"Cartridge.Manufacturer" "Activision, Bob Whitehead"
+"Cartridge.ModelNo" "AX-015, AX-015-04"
+"Cartridge.Name" "Chopper Command (1982) (Activision) (8K)"
+""

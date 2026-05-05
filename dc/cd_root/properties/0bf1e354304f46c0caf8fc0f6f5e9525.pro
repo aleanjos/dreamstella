@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0bf1e354304f46c0caf8fc0f6f5e9525"
+"Cartridge.Manufacturer" "Arcadia Corporation, Stephen Harland Landrum"
+"Cartridge.ModelNo" "AR-4105"
+"Cartridge.Name" "Official Frogger (1983) (Arcadia) [a]"
+"Display.YStart" "32"
+""

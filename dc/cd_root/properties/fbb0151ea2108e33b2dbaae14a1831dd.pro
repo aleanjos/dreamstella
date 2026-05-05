@@ -1,0 +1,6 @@
+"Cartridge.MD5" "fbb0151ea2108e33b2dbaae14a1831dd"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Robot Tank TV (Thomas Jentzsch) (Hack)"
+"Cartridge.Note" "Uses two simultaneous Joystick Controllers, Hack of Robot Tank"
+"Cartridge.Rarity" "Hack"
+""

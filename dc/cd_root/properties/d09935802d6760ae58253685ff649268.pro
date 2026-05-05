@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d09935802d6760ae58253685ff649268"
+"Cartridge.Manufacturer" "Telesys, Don 'Donyo' Ruffcorn"
+"Cartridge.ModelNo" "1006"
+"Cartridge.Name" "Demolition Herby (1983) (Telesys)"
+"Display.Phosphor" "YES"
+""

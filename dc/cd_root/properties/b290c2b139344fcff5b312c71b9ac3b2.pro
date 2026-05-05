@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b290c2b139344fcff5b312c71b9ac3b2"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "UFO (32 in 1) (1988) (Atari) (PAL) (4K)"
+"Cartridge.Note" "AKA Space Jockey"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "12123b534bdee79ed7563b9ad74f1cbd"
+"Cartridge.Manufacturer" "Absolute Entertainment, Alex DeMeo"
+"Cartridge.ModelNo" "AG-041-04"
+"Cartridge.Name" "Title Match Pro Wrestling (1987) (Absolute)"
+""

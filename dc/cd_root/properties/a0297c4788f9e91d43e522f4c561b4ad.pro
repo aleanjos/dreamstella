@@ -1,0 +1,8 @@
+"Cartridge.MD5" "a0297c4788f9e91d43e522f4c561b4ad"
+"Cartridge.Manufacturer" "Atari, Gary Stark"
+"Cartridge.ModelNo" "CX26102"
+"Cartridge.Name" "Cookie Monster Munch (1983) (Atari) (PAL)"
+"Cartridge.Note" "Uses Kids/Keypad Controllers"
+"Controller.Left" "KEYBOARD"
+"Controller.Right" "KEYBOARD"
+""

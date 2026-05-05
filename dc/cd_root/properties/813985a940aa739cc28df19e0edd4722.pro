@@ -1,0 +1,5 @@
+"Cartridge.MD5" "813985a940aa739cc28df19e0edd4722"
+"Cartridge.Manufacturer" "Imagic, Bob Smith"
+"Cartridge.ModelNo" "720000-201, 720102-1B, IA3201"
+"Cartridge.Name" "Star Voyager (1982) (Imagic)"
+""

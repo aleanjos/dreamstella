@@ -1,0 +1,7 @@
+"Cartridge.MD5" "e61210293b14c9c4ecc91705072c6a7e"
+"Cartridge.Manufacturer" "Gameworld"
+"Cartridge.ModelNo" "133-005"
+"Cartridge.Name" "Bugs (1983) (Gameworld) (PAL)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES"
+""

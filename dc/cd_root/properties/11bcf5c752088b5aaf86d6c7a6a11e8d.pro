@@ -1,0 +1,7 @@
+"Cartridge.MD5" "11bcf5c752088b5aaf86d6c7a6a11e8d"
+"Cartridge.Manufacturer" "Atari, Jerome Domurat, Andrew Fuchs, Dave Staugas, Robert Vieira"
+"Cartridge.ModelNo" "CX26118"
+"Cartridge.Name" "Millipede (1984) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "30"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "aa7bb54d2c189a31bb1fa20099e42859"
+"Cartridge.Manufacturer" "CBS Electronics, Ed English"
+"Cartridge.ModelNo" "4L4478"
+"Cartridge.Name" "Mr. Do! (1983) (CBS Electronics) (PAL)"
+"Display.Phosphor" "YES"
+""

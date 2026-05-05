@@ -1,0 +1,6 @@
+"Cartridge.MD5" "38cf93eacfb2fa9a2c5e39059ff35a74"
+"Cartridge.Manufacturer" "Greg Zumwalt"
+"Cartridge.Name" "WacMan (2003) (Greg Zumwalt) (Hack)"
+"Cartridge.Note" "Hack of Ms. Pac-Man"
+"Cartridge.Rarity" "Hack"
+""

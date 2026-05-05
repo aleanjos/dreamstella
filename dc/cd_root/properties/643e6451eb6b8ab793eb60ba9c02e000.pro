@@ -1,0 +1,6 @@
+"Cartridge.MD5" "643e6451eb6b8ab793eb60ba9c02e000"
+"Cartridge.Manufacturer" "Salu - Avantgarde Software, Michael Buetepage"
+"Cartridge.ModelNo" "460741"
+"Cartridge.Name" "Ghostbusters II (1992) (Salu) (PAL) [different tune]"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "8644352b806985efde499ae6fc7b0fec"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-801"
+"Cartridge.Name" "Mr. Postman (1983) (CCE)"
+""

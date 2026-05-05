@@ -1,0 +1,5 @@
+"Cartridge.MD5" "80cd42881e670e4b74a9ccd10d0d7b2e"
+"Cartridge.Manufacturer" "20th Century Fox Video Games - Sirius, Ed Hodapp"
+"Cartridge.ModelNo" "11004"
+"Cartridge.Name" "Deadly Duck (1982) (20th Century Fox) [a]"
+""

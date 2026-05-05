@@ -1,0 +1,7 @@
+"Cartridge.MD5" "62f74a2736841191135514422b20382d"
+"Cartridge.Name" "Pharaoh's Curse (Unknown)"
+"Display.Format" "PAL60"
+"Display.YStart" "20"
+"Display.Height" "225"
+"Display.Phosphor" "YES"
+""

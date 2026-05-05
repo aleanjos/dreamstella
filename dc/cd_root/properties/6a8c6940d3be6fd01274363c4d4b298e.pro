@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6a8c6940d3be6fd01274363c4d4b298e"
+"Cartridge.Name" "Spy Hunter (Genesis)"
+"Cartridge.Note" "Genesis controller (C is oil/smoke)"
+"Cartridge.Rarity" "Hack of Spy Hunter"
+"Controller.Left" "GENESIS"
+""

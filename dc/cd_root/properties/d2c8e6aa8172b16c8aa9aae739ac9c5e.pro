@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d2c8e6aa8172b16c8aa9aae739ac9c5e"
+"Cartridge.Manufacturer" "Activision, David Crane"
+"Cartridge.ModelNo" "08-08-1980"
+"Cartridge.Name" "Laser Blast (08-08-1980) (Activision) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

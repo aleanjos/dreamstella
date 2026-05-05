@@ -1,0 +1,6 @@
+"Cartridge.MD5" "3b69f8929373598e1752f43f8da61aa4"
+"Cartridge.Manufacturer" "Apollo - Games by Apollo - RCA Video Jeux"
+"Cartridge.ModelNo" "AP-2006"
+"Cartridge.Name" "Infiltrate (1981) (Apollo) (PAL)"
+"Display.Phosphor" "YES"
+""

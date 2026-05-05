@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d078d25873c5b99f78fa267245a2af02"
+"Cartridge.Manufacturer" "Sega, Steve Beck, Phat Ho - Beck-Tech"
+"Cartridge.ModelNo" "006-01"
+"Cartridge.Name" "Congo Bongo (1983) (Sega) [a]"
+"Display.YStart" "36"
+""

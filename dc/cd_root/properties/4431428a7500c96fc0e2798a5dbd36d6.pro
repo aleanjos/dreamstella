@@ -1,0 +1,6 @@
+"Cartridge.MD5" "4431428a7500c96fc0e2798a5dbd36d6"
+"Cartridge.Name" "Kangaroo (Genesis)"
+"Cartridge.Note" "Genesis controller (B is punch, C is jump)"
+"Cartridge.Rarity" "Hack of Kangaroo"
+"Controller.Left" "GENESIS"
+""

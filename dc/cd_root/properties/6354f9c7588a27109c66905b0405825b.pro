@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6354f9c7588a27109c66905b0405825b"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Amidar DS (2003) (TJ) (Hack)"
+"Cartridge.Note" "Hack of Amidar"
+"Cartridge.Rarity" "Hack"
+""

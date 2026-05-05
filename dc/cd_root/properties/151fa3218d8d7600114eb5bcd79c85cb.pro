@@ -1,0 +1,8 @@
+"Cartridge.MD5" "151fa3218d8d7600114eb5bcd79c85cb"
+"Cartridge.Manufacturer" "Atari, Christopher H. Omarzu - Children's Computer Workshop"
+"Cartridge.ModelNo" "CX26104"
+"Cartridge.Name" "Big Bird's Egg Catch (05-02-1983) (Atari) (Prototype)"
+"Cartridge.Note" "Uses the Keypad Controller"
+"Cartridge.Rarity" "Prototype"
+"Controller.Left" "KEYBOARD"
+""

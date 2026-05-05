@@ -1,0 +1,6 @@
+"Cartridge.MD5" "883258dcd68cefc6cd4d40b1185116dc"
+"Cartridge.Manufacturer" "Activision, David Crane - Ariola"
+"Cartridge.ModelNo" "EAZ-030, EAZ-030-04B, EAZ-030-04I - 711 030-725"
+"Cartridge.Name" "Decathlon (1983) (Activision) (PAL)"
+"Cartridge.Rarity" "Rare"
+""

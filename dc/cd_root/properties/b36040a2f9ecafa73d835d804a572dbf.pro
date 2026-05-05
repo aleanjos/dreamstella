@@ -1,0 +1,5 @@
+"Cartridge.MD5" "b36040a2f9ecafa73d835d804a572dbf"
+"Cartridge.Manufacturer" "Digitel"
+"Cartridge.Name" "Pac Man (1983) (Digitel)"
+"Display.YStart" "33"
+""

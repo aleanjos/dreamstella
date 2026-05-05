@@ -1,0 +1,6 @@
+"Cartridge.MD5" "88d7b6b3967de0db24cdae1c7f7181bd"
+"Cartridge.Manufacturer" "Atari - GCC, Dave Payne"
+"Cartridge.ModelNo" "CX2669"
+"Cartridge.Name" "Vanguard (1982) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

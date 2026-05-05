@@ -1,0 +1,5 @@
+"Cartridge.MD5" "5305f69fbf772fac4760cdcf87f1ab1f"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Ski Run (Jone Yuan)"
+"Cartridge.Note" "2600 Screen Search Console"
+""

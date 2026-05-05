@@ -1,0 +1,7 @@
+"Cartridge.MD5" "9b21d8fc78cc4308990d99a4d906ec52"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-838"
+"Cartridge.Name" "Immies & Aggies (1983) (CCE)"
+"Display.YStart" "18"
+"Display.Height" "223"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "65ba1a4c643d1ab44481bdddeb403827"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "876.013 4"
+"Cartridge.Name" "Katastrophen-Einsatz (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA M.A.S.H."
+""

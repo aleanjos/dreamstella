@@ -1,0 +1,5 @@
+"Cartridge.MD5" "5c86e938e0845b9d61f458539e9a552b"
+"Cartridge.Manufacturer" "Atari, Alan Miller"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Surround (32 in 1) (1988) (Atari) (PAL) (4K)"
+""

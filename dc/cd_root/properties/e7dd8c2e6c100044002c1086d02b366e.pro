@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e7dd8c2e6c100044002c1086d02b366e"
+"Cartridge.Manufacturer" "Activision, Steve Cartwright - Ariola"
+"Cartridge.ModelNo" "EAX-013, PAX-013, 711 013-720"
+"Cartridge.Name" "Barnstorming (1982) (Activision) (PAL)"
+"Cartridge.Note" "AKA Die tollkeuhnen Flieger"
+""

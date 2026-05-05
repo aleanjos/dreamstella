@@ -1,0 +1,7 @@
+"Cartridge.MD5" "6ffc95108e5add6f9b8abcaf330be835"
+"Cartridge.Manufacturer" "Charles Morgan"
+"Cartridge.Name" "TP Bug (Charles Morgan) (Hack)"
+"Cartridge.Note" "Hack of Pac-Man"
+"Cartridge.Rarity" "Hack"
+"Display.YStart" "33"
+""

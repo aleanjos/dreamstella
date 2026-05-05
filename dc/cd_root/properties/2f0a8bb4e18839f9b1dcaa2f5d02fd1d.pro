@@ -1,0 +1,6 @@
+"Cartridge.MD5" "2f0a8bb4e18839f9b1dcaa2f5d02fd1d"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.Name" "Super Futebol (CCE) [a]"
+"Cartridge.Note" "AKA RealSports Football"
+"Display.Phosphor" "YES"
+""

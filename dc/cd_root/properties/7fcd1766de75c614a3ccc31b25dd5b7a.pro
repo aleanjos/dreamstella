@@ -1,0 +1,6 @@
+"Cartridge.MD5" "7fcd1766de75c614a3ccc31b25dd5b7a"
+"Cartridge.Manufacturer" "PlayAround - J.H.M."
+"Cartridge.ModelNo" "203"
+"Cartridge.Name" "Knight on the Town (1982) (PlayAround)"
+"Display.Phosphor" "YES"
+""

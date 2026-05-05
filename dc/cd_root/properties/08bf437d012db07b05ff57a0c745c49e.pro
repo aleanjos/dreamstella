@@ -1,0 +1,8 @@
+"Cartridge.MD5" "08bf437d012db07b05ff57a0c745c49e"
+"Cartridge.Manufacturer" "Arcadia Corporation, Steve Hales, Stephen Harland Landrum"
+"Cartridge.ModelNo" "4 AR-4102"
+"Cartridge.Name" "Meteoroids (1982) (Arcadia) (Prototype)"
+"Cartridge.Note" "Suicide Mission Beta"
+"Cartridge.Rarity" "Prototype"
+"Display.Phosphor" "YES"
+""

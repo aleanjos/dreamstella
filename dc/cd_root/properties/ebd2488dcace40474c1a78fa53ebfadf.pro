@@ -1,0 +1,7 @@
+"Cartridge.MD5" "ebd2488dcace40474c1a78fa53ebfadf"
+"Cartridge.Manufacturer" "Skill Screen Games, Herman Quast"
+"Cartridge.ModelNo" "SSG001"
+"Cartridge.Name" "Extra Terrestrials (1984) (SSG)"
+"Cartridge.Note" "The only Canadian-designed and manufactured Atari 2600 game from the 1980's"
+"Cartridge.Rarity" "Extremely Rare"
+""

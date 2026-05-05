@@ -1,0 +1,5 @@
+"Cartridge.MD5" "d483f65468d9a265661917bae1a54f3e"
+"Cartridge.Manufacturer" "Joe Grand"
+"Cartridge.Name" "SCSIcide Pre-release 3 (Joe Grand)"
+"Cartridge.Rarity" "New Release"
+""

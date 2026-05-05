@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5d9592756425192ec621d2613d0e683d"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-839"
+"Cartridge.Name" "Misterious Thief, A (1983) (CCE) [a]"
+"Cartridge.Note" "AKA A Mysterious Thief"
+""

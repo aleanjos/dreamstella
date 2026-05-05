@@ -1,0 +1,8 @@
+"Cartridge.MD5" "a93e8ea1f565c3c1e86b708cf0dc2fa9"
+"Cartridge.Manufacturer" "Jess Ragan"
+"Cartridge.Name" "Kabul! (Jess Ragan) (Hack)"
+"Cartridge.Note" "Hack of Kaboom!"
+"Cartridge.Rarity" "Hack"
+"Controller.Left" "PADDLES"
+"Controller.MouseAxis" "01"
+""

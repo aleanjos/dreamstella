@@ -1,0 +1,5 @@
+"Cartridge.MD5" "9a21fba9ee9794e0fadd7c7eb6be4e12"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26177"
+"Cartridge.Name" "Ikari Warriors (1989) (Atari)"
+""

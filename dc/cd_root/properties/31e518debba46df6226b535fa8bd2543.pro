@@ -1,0 +1,7 @@
+"Cartridge.MD5" "31e518debba46df6226b535fa8bd2543"
+"Cartridge.Manufacturer" "Atari, Douglas 'Solaris' Neubauer"
+"Cartridge.ModelNo" "CX26134"
+"Cartridge.Name" "Last Starfighter (1984) (Atari) (Prototype)"
+"Cartridge.Note" "Solaris Beta"
+"Cartridge.Rarity" "Prototype"
+""

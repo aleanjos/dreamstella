@@ -1,0 +1,6 @@
+"Cartridge.MD5" "06cfd57f0559f38b9293adae9128ff88"
+"Cartridge.Manufacturer" "Telegames"
+"Cartridge.ModelNo" "4317 A009"
+"Cartridge.Name" "Adventures on GX-12 (1989) (Telegames) (PAL)"
+"Cartridge.Note" "AKA Adventures of Tron"
+""

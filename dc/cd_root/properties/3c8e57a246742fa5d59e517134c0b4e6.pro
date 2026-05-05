@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3c8e57a246742fa5d59e517134c0b4e6"
+"Cartridge.Manufacturer" "Parker Brothers, Rex Bradford, Sam Kjellman"
+"Cartridge.ModelNo" "PB5050"
+"Cartridge.Name" "Star Wars - The Empire Strikes Back (1982) (Parker Bros)"
+""

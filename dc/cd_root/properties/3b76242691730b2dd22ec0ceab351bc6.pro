@@ -1,0 +1,8 @@
+"Cartridge.MD5" "3b76242691730b2dd22ec0ceab351bc6"
+"Cartridge.Manufacturer" "M Network, Connie Goldman, Joe King, Patricia Lewis Du Long, Gerald Moore, Mike Sanders, Jossef Wagner - INTV"
+"Cartridge.ModelNo" "MT4319"
+"Cartridge.Name" "Masters of the Universe (1983) (M Network)"
+"Console.RightDifficulty" "A"
+"Display.YStart" "25"
+"Display.Phosphor" "YES"
+""

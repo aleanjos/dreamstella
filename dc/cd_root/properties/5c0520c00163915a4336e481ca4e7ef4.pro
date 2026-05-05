@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5c0520c00163915a4336e481ca4e7ef4"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "262.794 1"
+"Cartridge.Name" "Wuestenschlacht (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Chopper Command"
+""

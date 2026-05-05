@@ -1,0 +1,5 @@
+"Cartridge.MD5" "947317a89af38a49c4864d6bdd6a91fb"
+"Cartridge.Manufacturer" "CBS Electronics, Bob Curtiss"
+"Cartridge.ModelNo" "4L 2487 5000"
+"Cartridge.Name" "Solar Fox (1983) (CBS Electronics)"
+""

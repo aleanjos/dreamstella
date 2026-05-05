@@ -1,0 +1,6 @@
+"Cartridge.MD5" "39da69ff9833f8c143f03b6e0e7a996b"
+"Cartridge.Manufacturer" "Charles Morgan"
+"Cartridge.Name" "Ventrra Invaders 2002 (Charles Morgan) (Hack)"
+"Cartridge.Note" "Hack of Megamania"
+"Cartridge.Rarity" "Hack"
+""

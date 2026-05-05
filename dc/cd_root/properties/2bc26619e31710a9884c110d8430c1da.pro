@@ -1,0 +1,8 @@
+"Cartridge.MD5" "2bc26619e31710a9884c110d8430c1da"
+"Cartridge.Manufacturer" "Atari, Bob Whitehead"
+"Cartridge.ModelNo" "CX2652, CX2652P"
+"Cartridge.Name" "Casino (1979) (Atari) (PAL)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES_IAXIS"
+"Display.YStart" "60"
+""

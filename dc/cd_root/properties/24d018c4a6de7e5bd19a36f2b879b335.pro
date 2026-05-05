@@ -1,0 +1,6 @@
+"Cartridge.MD5" "24d018c4a6de7e5bd19a36f2b879b335"
+"Cartridge.Manufacturer" "Activision, Larry Miller"
+"Cartridge.ModelNo" "AX-021"
+"Cartridge.Name" "Spider Fighter (1982) (Activision)"
+"Display.YStart" "30"
+""

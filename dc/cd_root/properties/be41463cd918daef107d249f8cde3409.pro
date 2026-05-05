@@ -1,0 +1,5 @@
+"Cartridge.MD5" "be41463cd918daef107d249f8cde3409"
+"Cartridge.Name" "Berzerk (Voice Enhanced) (Hack)"
+"Cartridge.Note" "Hack of Berzerk"
+"Cartridge.Rarity" "Hack"
+""

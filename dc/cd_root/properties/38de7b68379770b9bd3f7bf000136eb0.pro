@@ -1,0 +1,5 @@
+"Cartridge.MD5" "38de7b68379770b9bd3f7bf000136eb0"
+"Cartridge.Manufacturer" "Imagic, Mark Klein"
+"Cartridge.ModelNo" "EIZ-003-04I"
+"Cartridge.Name" "Subterranea (1983) (Imagic) (PAL)"
+""

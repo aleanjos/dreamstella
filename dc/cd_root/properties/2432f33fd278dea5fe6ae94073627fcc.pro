@@ -1,0 +1,6 @@
+"Cartridge.MD5" "2432f33fd278dea5fe6ae94073627fcc"
+"Cartridge.Manufacturer" "CBS Electronics, Tom DiDomenico"
+"Cartridge.ModelNo" "4L2477, 4L2482, 4L2485, 4L4171"
+"Cartridge.Name" "Blueprint (1983) (CBS Electronics) (PAL)"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "25b6dc012cdba63704ea9535c6987beb"
+"Cartridge.Manufacturer" "Avalon Hill, Jean Baer, Bill Hood"
+"Cartridge.ModelNo" "5004002"
+"Cartridge.Name" "Shuttle Orbiter (1983) (Avalon Hill)"
+"Display.YStart" "24"
+""

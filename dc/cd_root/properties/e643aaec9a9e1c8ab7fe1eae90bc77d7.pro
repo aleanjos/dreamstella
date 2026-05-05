@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e643aaec9a9e1c8ab7fe1eae90bc77d7"
+"Cartridge.Manufacturer" "Roger Williams"
+"Cartridge.Name" "Asymmetric Playfield (Roger Williams)"
+"Cartridge.Rarity" "Homebrew"
+""

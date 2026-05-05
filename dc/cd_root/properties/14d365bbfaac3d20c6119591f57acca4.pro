@@ -1,0 +1,5 @@
+"Cartridge.MD5" "14d365bbfaac3d20c6119591f57acca4"
+"Cartridge.Name" "Video Life (Unknown) (4K) (Hack)"
+"Cartridge.Rarity" "Hack"
+"Display.Phosphor" "YES"
+""

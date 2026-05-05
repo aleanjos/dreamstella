@@ -1,0 +1,7 @@
+"Cartridge.MD5" "7648e72a5b5899076688df18a1ddcf72"
+"Cartridge.Manufacturer" "CBS Electronics, Richard K. Balaska Jr., Andy Frank, Stuart Ross"
+"Cartridge.ModelNo" "4L 2520 5000"
+"Cartridge.Name" "Tunnel Runner (1983) (CBS Electronics) (Prototype)"
+"Cartridge.Note" "Black Box"
+"Cartridge.Rarity" "Prototype"
+""

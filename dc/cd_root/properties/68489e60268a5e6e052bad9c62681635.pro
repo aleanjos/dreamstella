@@ -1,0 +1,7 @@
+"Cartridge.MD5" "68489e60268a5e6e052bad9c62681635"
+"Cartridge.Manufacturer" "Bit Corporation"
+"Cartridge.ModelNo" "PG201"
+"Cartridge.Name" "Sea Monster (1982) (BitCorp) (PAL)"
+"Display.YStart" "36"
+"Display.Height" "256"
+""

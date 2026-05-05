@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b86552198f52cfce721bafb496363099"
+"Cartridge.Manufacturer" "Apollo, Tim Martin"
+"Cartridge.ModelNo" "AP-2007"
+"Cartridge.Name" "Kyphus (1982) (Apollo) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

@@ -1,0 +1,7 @@
+"Cartridge.MD5" "e784a9d26707cfcd170a4c1c60422a72"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "147.443 6"
+"Cartridge.Name" "Gefecht im All (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Space Jockey"
+"Display.YStart" "64"
+""

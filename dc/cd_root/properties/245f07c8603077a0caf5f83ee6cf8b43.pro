@@ -1,0 +1,7 @@
+"Cartridge.MD5" "245f07c8603077a0caf5f83ee6cf8b43"
+"Cartridge.Manufacturer" "Home Vision - Thomas Jentzsch"
+"Cartridge.Name" "Parachute (Thomas Jentzsch)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Homebrew"
+"Display.Height" "240"
+""

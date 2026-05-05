@@ -1,0 +1,6 @@
+"Cartridge.MD5" "45cb0f41774b78def53331e4c3bf3362"
+"Cartridge.Manufacturer" "Carrere Video, Roger Booth, Sylvia Day, Todd Marshall, Wes Trager, Henry Will IV - Teldec"
+"Cartridge.ModelNo" "USC1007"
+"Cartridge.Name" "Octopus (1983) (Carrere Video) (PAL)"
+"Cartridge.Note" "AKA Name This Game"
+""

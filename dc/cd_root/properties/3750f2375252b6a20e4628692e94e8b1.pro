@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3750f2375252b6a20e4628692e94e8b1"
+"Cartridge.Manufacturer" "Dismac"
+"Cartridge.Name" "Ases do Ar (Dismac)"
+"Cartridge.Note" "AKA Sky Jinks"
+""

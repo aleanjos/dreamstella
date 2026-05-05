@@ -1,0 +1,6 @@
+"Cartridge.MD5" "47abfb993ff14f502f88cf988092e055"
+"Cartridge.Manufacturer" "Zellers"
+"Cartridge.Name" "Inca Gold (Zellers)"
+"Cartridge.Note" "AKA Spider Kong"
+"Display.YStart" "29"
+""

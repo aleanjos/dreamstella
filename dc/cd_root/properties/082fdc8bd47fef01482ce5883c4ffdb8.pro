@@ -1,0 +1,7 @@
+"Cartridge.MD5" "082fdc8bd47fef01482ce5883c4ffdb8"
+"Cartridge.Manufacturer" "Charles Morgan"
+"Cartridge.Name" "Tanks DX (Charles Morgan) (Hack)"
+"Cartridge.Note" "Hack of Tanks But No Tanks"
+"Cartridge.Rarity" "Hack"
+"Display.YStart" "30"
+""

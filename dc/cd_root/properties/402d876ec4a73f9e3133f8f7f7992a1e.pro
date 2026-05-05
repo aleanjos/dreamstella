@@ -1,0 +1,7 @@
+"Cartridge.MD5" "402d876ec4a73f9e3133f8f7f7992a1e"
+"Cartridge.Manufacturer" "Alex Herbert"
+"Cartridge.Name" "Man Goes Down (2006) (A. Herbert) (Prototype)"
+"Cartridge.Note" "Uses AtariVox controller"
+"Cartridge.Rarity" "Homebrew"
+"Controller.Right" "ATARIVOX"
+""

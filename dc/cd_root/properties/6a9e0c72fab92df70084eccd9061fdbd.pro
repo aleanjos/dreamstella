@@ -1,0 +1,5 @@
+"Cartridge.MD5" "6a9e0c72fab92df70084eccd9061fdbd"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-835"
+"Cartridge.Name" "Beany Bopper (1983) (CCE)"
+""

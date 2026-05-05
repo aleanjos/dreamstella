@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b7a7e34e304e4b7bc565ec01ba33ea27"
+"Cartridge.Manufacturer" "Parker Brothers"
+"Cartridge.ModelNo" "PB5820"
+"Cartridge.Name" "Mr. Do!'s Castle (1984) (Parker Bros)"
+"Display.Phosphor" "YES"
+""

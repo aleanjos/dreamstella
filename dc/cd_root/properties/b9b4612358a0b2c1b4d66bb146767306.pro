@@ -1,0 +1,8 @@
+"Cartridge.MD5" "b9b4612358a0b2c1b4d66bb146767306"
+"Cartridge.Manufacturer" "Commavid, Ben Burch"
+"Cartridge.ModelNo" "CM-010"
+"Cartridge.Name" "Rush Hour (1983) (Commavid) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "20"
+"Display.Height" "230"
+""

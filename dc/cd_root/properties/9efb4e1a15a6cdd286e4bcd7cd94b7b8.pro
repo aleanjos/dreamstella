@@ -1,0 +1,5 @@
+"Cartridge.MD5" "9efb4e1a15a6cdd286e4bcd7cd94b7b8"
+"Cartridge.Manufacturer" "20th Century Fox Video Games, John W.S. Marvin"
+"Cartridge.Name" "Planet of the Apes (1983) (20th Century Fox) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7b33407b2b198af74906b936ce1eecbb"
+"Cartridge.Manufacturer" "King Atari"
+"Cartridge.Name" "Ghostbuster 2 (King Atari)"
+"Display.Phosphor" "YES"
+""

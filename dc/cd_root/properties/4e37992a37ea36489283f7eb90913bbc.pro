@@ -1,0 +1,6 @@
+"Cartridge.MD5" "4e37992a37ea36489283f7eb90913bbc"
+"Cartridge.Manufacturer" "Kris"
+"Cartridge.Name" "Hangman Ghost Halloween (Kris) (Hack)"
+"Cartridge.Note" "Hack of Hangman"
+"Cartridge.Rarity" "Hack"
+""

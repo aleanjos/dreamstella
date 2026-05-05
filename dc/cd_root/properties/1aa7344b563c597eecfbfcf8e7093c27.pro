@@ -1,0 +1,6 @@
+"Cartridge.MD5" "1aa7344b563c597eecfbfcf8e7093c27"
+"Cartridge.Manufacturer" "David Marli"
+"Cartridge.Name" "Slot Invaders (David Marli) (Hack)"
+"Cartridge.Note" "Hack of Slot Machine"
+"Cartridge.Rarity" "Hack"
+""

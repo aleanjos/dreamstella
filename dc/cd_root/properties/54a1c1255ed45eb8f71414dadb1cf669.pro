@@ -1,0 +1,6 @@
+"Cartridge.MD5" "54a1c1255ed45eb8f71414dadb1cf669"
+"Cartridge.Manufacturer" "Spectravideo"
+"Cartridge.ModelNo" "SA-212"
+"Cartridge.Name" "Mangia' (1983) (Spectravideo)"
+"Display.YStart" "28"
+""

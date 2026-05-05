@@ -1,0 +1,7 @@
+"Cartridge.MD5" "82de957d155fc041fc6afb8315a28550"
+"Cartridge.Manufacturer" "Coleco, Joseph Biel"
+"Cartridge.ModelNo" "2457"
+"Cartridge.Name" "Venture (1982) (Coleco) (Prototype)"
+"Cartridge.Note" "2K"
+"Cartridge.Rarity" "Prototype"
+""

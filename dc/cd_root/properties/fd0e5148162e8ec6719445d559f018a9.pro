@@ -1,0 +1,5 @@
+"Cartridge.MD5" "fd0e5148162e8ec6719445d559f018a9"
+"Cartridge.Manufacturer" "Activision, Steve Cartwright - Ariola"
+"Cartridge.ModelNo" "EAX-022, EAX-022-04I - 711 022-720"
+"Cartridge.Name" "Seaquest (1983) (Activision) (PAL)"
+""

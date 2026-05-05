@@ -1,0 +1,6 @@
+"Cartridge.MD5" "47aef18509051bab493589cb2619170b"
+"Cartridge.Name" "Stell-A-Sketch (Bob Colbert) (PD)"
+"Cartridge.Note" "Uses Driving, Joystick, or Amiga/Atari ST mouse Controllers"
+"Cartridge.Rarity" "New Release"
+"Display.Phosphor" "YES"
+""

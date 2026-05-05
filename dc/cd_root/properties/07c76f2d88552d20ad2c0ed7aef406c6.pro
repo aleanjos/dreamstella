@@ -1,0 +1,6 @@
+"Cartridge.MD5" "07c76f2d88552d20ad2c0ed7aef406c6"
+"Cartridge.Manufacturer" "Cody Pittman"
+"Cartridge.Name" "Blob (Cody Pittman) (Hack)"
+"Cartridge.Note" "Hack of Halloween"
+"Cartridge.Rarity" "Hack"
+""

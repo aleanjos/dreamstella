@@ -1,0 +1,6 @@
+"Cartridge.MD5" "dd7598b8bcb81590428900f71b720efb"
+"Cartridge.Manufacturer" "Xonox - K-Tel Software"
+"Cartridge.ModelNo" "99005, 6220, 6250"
+"Cartridge.Name" "Robin Hood (1983) (Xonox) (PAL)"
+"Display.YStart" "30"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3b2c32fcd331664d037952bcaa62df94"
+"Cartridge.Manufacturer" "Xonox"
+"Cartridge.ModelNo" "6230, 6250"
+"Cartridge.Name" "Super Kung-Fu (1983) (Xonox) (PAL) [a]"
+""

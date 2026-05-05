@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d0a379946ed77b1b126230ca68461333"
+"Cartridge.Manufacturer" "Ataripoll"
+"Cartridge.Name" "Atari Invaders (Ataripoll) (Hack)"
+"Cartridge.Note" "Hack of Space Invaders"
+"Cartridge.Rarity" "Hack"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "106855474c69d08c8ffa308d47337269"
+"Cartridge.Manufacturer" "Atari, Adam Clayton, John Howard Palevich"
+"Cartridge.ModelNo" "CX26151"
+"Cartridge.Name" "Dark Chambers (1988) (Atari)"
+"Display.Phosphor" "YES"
+""

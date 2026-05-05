@@ -1,0 +1,5 @@
+"Cartridge.MD5" "73efa9f3cbe197f26e0fb87132829232"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-858"
+"Cartridge.Name" "Tennis (1983) (CCE) (4K)"
+""

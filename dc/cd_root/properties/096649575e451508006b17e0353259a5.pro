@@ -1,0 +1,7 @@
+"Cartridge.MD5" "096649575e451508006b17e0353259a5"
+"Cartridge.Manufacturer" "Justin J. Scott"
+"Cartridge.Name" "Yar Vs. Yar (2002) (Justin J. Scott) (Hack)"
+"Cartridge.Note" "Hack of Yars' Revenge"
+"Cartridge.Rarity" "Hack"
+"Display.Phosphor" "YES"
+""

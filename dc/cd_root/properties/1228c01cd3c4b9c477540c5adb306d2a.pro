@@ -1,0 +1,7 @@
+"Cartridge.MD5" "1228c01cd3c4b9c477540c5adb306d2a"
+"Cartridge.Manufacturer" "Atari, Alan Miller"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Basketball (32 in 1) (1988) (Atari) (PAL)"
+"Cartridge.Note" "Console ports are swapped"
+"Console.SwapPorts" "YES"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7187118674ff3c0bb932e049d9dbb379"
+"Cartridge.Manufacturer" "Zirok"
+"Cartridge.Name" "Keystone Keypers (1983) (Zirok)"
+"Cartridge.Note" "AKA Keystone Kapers"
+""

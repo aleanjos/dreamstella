@@ -1,0 +1,6 @@
+"Cartridge.MD5" "3e899eba0ca8cd2972da1ae5479b4f0d"
+"Cartridge.Manufacturer" "Coleco, Joseph Biel"
+"Cartridge.ModelNo" "2457"
+"Cartridge.Name" "Venture (1982) (Coleco)"
+"Display.Phosphor" "YES"
+""

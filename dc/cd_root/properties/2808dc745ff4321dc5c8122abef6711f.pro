@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2808dc745ff4321dc5c8122abef6711f"
+"Cartridge.Manufacturer" "Retroactive"
+"Cartridge.Name" "Qb (2.11) (Retroactive) (Stella)"
+"Display.Phosphor" "YES"
+""

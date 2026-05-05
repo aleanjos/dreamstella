@@ -1,0 +1,5 @@
+"Cartridge.MD5" "1e750000af77cc76232f4d040f4ab060"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Raft Rider (Jone Yuan)"
+"Cartridge.Note" "2600 Screen Search Console"
+""

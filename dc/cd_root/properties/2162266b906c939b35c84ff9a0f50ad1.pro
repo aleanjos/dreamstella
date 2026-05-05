@@ -1,0 +1,8 @@
+"Cartridge.MD5" "2162266b906c939b35c84ff9a0f50ad1"
+"Cartridge.Manufacturer" "Atari, Larry Kaplan"
+"Cartridge.ModelNo" "CX2664, CX2664P"
+"Cartridge.Name" "Brain Games (1978) (Atari) (PAL) (4K)"
+"Cartridge.Note" "Uses Keypad Controllers"
+"Controller.Left" "KEYBOARD"
+"Controller.Right" "KEYBOARD"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7cc77f6745e1f2b20df4a4327d350545"
+"Cartridge.Manufacturer" "Atari, Richard Maurer"
+"Cartridge.ModelNo" "CX2632, CX2632P"
+"Cartridge.Name" "Space Invaders (1980) (Atari) (PAL) [fixed]"
+""

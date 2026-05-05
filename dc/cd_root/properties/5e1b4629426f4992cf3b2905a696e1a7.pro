@@ -1,0 +1,5 @@
+"Cartridge.MD5" "5e1b4629426f4992cf3b2905a696e1a7"
+"Cartridge.Manufacturer" "Activision, Robert C. Polaro"
+"Cartridge.ModelNo" "AK-049-04"
+"Cartridge.Name" "Rampage! (1989) (Activision)"
+""

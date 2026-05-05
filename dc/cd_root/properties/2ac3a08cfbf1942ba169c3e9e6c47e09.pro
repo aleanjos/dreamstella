@@ -1,0 +1,6 @@
+"Cartridge.MD5" "2ac3a08cfbf1942ba169c3e9e6c47e09"
+"Cartridge.Manufacturer" "Activision, Dan Kitchen"
+"Cartridge.ModelNo" "EAK-046-04B"
+"Cartridge.Name" "Fighter Pilot (1988) (Activision) (PAL)"
+"Cartridge.Note" "AKA Tomcat - The F-14 Fighter Simulator"
+""

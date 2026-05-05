@@ -1,0 +1,6 @@
+"Cartridge.MD5" "1423f560062c4f3c669d55891a2bcbe7"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-859"
+"Cartridge.Name" "MASH (1983) (CCE) [a]"
+"Cartridge.Note" "AKA M.A.S.H"
+""

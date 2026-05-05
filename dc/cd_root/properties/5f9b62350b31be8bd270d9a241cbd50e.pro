@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5f9b62350b31be8bd270d9a241cbd50e"
+"Cartridge.Manufacturer" "Telegames"
+"Cartridge.ModelNo" "5658 A088"
+"Cartridge.Name" "Football (1989) (Telegames) (PAL)"
+"Cartridge.Note" "AKA Super Challenge Football"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "c2fbef02b6eea37d8df3e91107f89950"
+"Cartridge.Manufacturer" "Champ Games"
+"Cartridge.Name" "Conquest Of Mars (NTSC)"
+"Cartridge.Rarity" "Homebrew"
+""

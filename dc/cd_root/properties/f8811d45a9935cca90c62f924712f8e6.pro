@@ -1,0 +1,6 @@
+"Cartridge.MD5" "f8811d45a9935cca90c62f924712f8e6"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Chopper Command (Jone Yuan) (Hack)"
+"Cartridge.Note" "2600 Screen Search Console"
+"Cartridge.Rarity" "Hack"
+""

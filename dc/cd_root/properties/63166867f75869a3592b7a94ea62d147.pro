@@ -1,0 +1,8 @@
+"Cartridge.MD5" "63166867f75869a3592b7a94ea62d147"
+"Cartridge.Name" "Indy 500 (Hack) [a1]"
+"Cartridge.Note" "Hack of Indy 500"
+"Cartridge.Rarity" "Hack"
+"Controller.Left" "DRIVING"
+"Controller.Right" "DRIVING"
+"Display.YStart" "28"
+""

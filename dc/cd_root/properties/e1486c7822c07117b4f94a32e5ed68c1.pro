@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e1486c7822c07117b4f94a32e5ed68c1"
+"Cartridge.Manufacturer" "Coleco, Ed Temple"
+"Cartridge.Name" "Cabbage Patch Kids (06-14-1984) (Coleco) (Prototype)"
+"Cartridge.Note" "Adventures in the Park"
+"Cartridge.Rarity" "Prototype"
+""

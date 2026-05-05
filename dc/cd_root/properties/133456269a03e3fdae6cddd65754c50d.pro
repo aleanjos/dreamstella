@@ -1,0 +1,5 @@
+"Cartridge.MD5" "133456269a03e3fdae6cddd65754c50d"
+"Cartridge.Manufacturer" "Tigervision - Teldec"
+"Cartridge.ModelNo" "7-006 - 3.60008 VG"
+"Cartridge.Name" "Springer (1982) (Tigervision) (PAL)"
+""

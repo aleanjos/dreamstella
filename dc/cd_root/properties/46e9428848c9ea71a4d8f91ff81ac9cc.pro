@@ -1,0 +1,7 @@
+"Cartridge.MD5" "46e9428848c9ea71a4d8f91ff81ac9cc"
+"Cartridge.Manufacturer" "Telegames"
+"Cartridge.Name" "Astroblast (1989) (Telegames) (PAL)"
+"Cartridge.Note" "Can also use left joystick"
+"Controller.Left" "PADDLES"
+"Controller.SwapPaddles" "YES"
+""

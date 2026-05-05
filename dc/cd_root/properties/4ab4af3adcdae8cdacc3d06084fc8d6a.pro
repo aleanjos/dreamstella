@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4ab4af3adcdae8cdacc3d06084fc8d6a"
+"Cartridge.Manufacturer" "Nick Bensema"
+"Cartridge.Name" "Sucky Zepplin (Nick Bensema) (PD)"
+"Cartridge.Rarity" "New Release"
+""

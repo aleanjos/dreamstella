@@ -1,0 +1,8 @@
+"Cartridge.MD5" "ab4ac994865fb16ebb85738316309457"
+"Cartridge.Manufacturer" "Atari, Alan Miller - Sears"
+"Cartridge.ModelNo" "CX2624 - 6-99826, 49-75113"
+"Cartridge.Name" "Basketball (1978) (Atari)"
+"Cartridge.Note" "Console ports are swapped"
+"Cartridge.Rarity" "Common"
+"Console.SwapPorts" "YES"
+""

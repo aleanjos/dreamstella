@@ -1,0 +1,6 @@
+"Cartridge.MD5" "854b68b93e7123a3be42b5a2a41f75d7"
+"Cartridge.Manufacturer" "Atari, Carol Shaw"
+"Cartridge.ModelNo" "CX2618, CX2618P"
+"Cartridge.Name" "3-D Tic-Tac-Toe (1980) (Atari) (PAL) (4K)"
+"Display.YStart" "44"
+""

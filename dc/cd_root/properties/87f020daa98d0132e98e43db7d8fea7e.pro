@@ -1,0 +1,5 @@
+"Cartridge.MD5" "87f020daa98d0132e98e43db7d8fea7e"
+"Cartridge.Manufacturer" "20th Century Fox Video Games - Sirius, David Lubar"
+"Cartridge.ModelNo" "11001"
+"Cartridge.Name" "Worm War I (1982) (20th Century Fox)"
+""

@@ -1,0 +1,8 @@
+"Cartridge.MD5" "77d0a577636e1c9212aeccde9d0baa4b"
+"Cartridge.Manufacturer" "Atari, Joe Decuir"
+"Cartridge.ModelNo" "CX2621, CX2621P"
+"Cartridge.Name" "Video Olympics (1977) (Atari) (PAL)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES_IAXDR"
+"Controller.SwapPaddles" "YES"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3e7d10d0a911afc4b492d06c99863e65"
+"Cartridge.Manufacturer" "VGS"
+"Cartridge.Name" "Super Tenis (VGS)"
+"Cartridge.Note" "AKA RealSports Tennis"
+""

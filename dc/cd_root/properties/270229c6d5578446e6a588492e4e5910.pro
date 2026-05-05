@@ -1,0 +1,5 @@
+"Cartridge.MD5" "270229c6d5578446e6a588492e4e5910"
+"Cartridge.Name" "Space Invaders 2 (Hack)"
+"Cartridge.Note" "Hack of Space Invaders"
+"Cartridge.Rarity" "Hack"
+""

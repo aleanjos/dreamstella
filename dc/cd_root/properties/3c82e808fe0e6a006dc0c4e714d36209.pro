@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3c82e808fe0e6a006dc0c4e714d36209"
+"Cartridge.Manufacturer" "Activision, David Crane"
+"Cartridge.ModelNo" "AG-004"
+"Cartridge.Name" "Fishing Derby (1980) (Activision) (16K)"
+""

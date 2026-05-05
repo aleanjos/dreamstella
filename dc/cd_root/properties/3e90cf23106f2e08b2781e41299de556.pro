@@ -1,0 +1,6 @@
+"Cartridge.MD5" "3e90cf23106f2e08b2781e41299de556"
+"Cartridge.Manufacturer" "Activision, David Crane"
+"Cartridge.ModelNo" "AX-018, AX-018-04"
+"Cartridge.Name" "Pitfall! (1982) (Activision)"
+"Cartridge.Note" "Pitfall Harry's Jungle Adventure (Jungle Runner)"
+""

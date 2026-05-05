@@ -1,0 +1,5 @@
+"Cartridge.MD5" "ecf51385384b468834611d44a8429c03"
+"Cartridge.Manufacturer" "20th Century Fox Video Games, Douglas 'Dallas North' Neubauer"
+"Cartridge.ModelNo" "11105"
+"Cartridge.Name" "Mega Force (1982) (20th Century Fox) (PAL)"
+""

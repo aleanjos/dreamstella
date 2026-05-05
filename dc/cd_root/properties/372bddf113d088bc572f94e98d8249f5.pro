@@ -1,0 +1,6 @@
+"Cartridge.MD5" "372bddf113d088bc572f94e98d8249f5"
+"Cartridge.Manufacturer" "Bomb - Onbase"
+"Cartridge.ModelNo" "CA285"
+"Cartridge.Name" "Wall-Defender (1983) (Bomb) (PAL)"
+"Cartridge.Note" "AKA Wall Break"
+""

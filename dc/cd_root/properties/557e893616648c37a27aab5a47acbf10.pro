@@ -1,0 +1,7 @@
+"Cartridge.MD5" "557e893616648c37a27aab5a47acbf10"
+"Cartridge.Manufacturer" "Atari - Axlon, Tod Frye"
+"Cartridge.ModelNo" "CX26169"
+"Cartridge.Name" "Shooting Arcade (01-16-1990) (Atari) (Prototype) (PAL)"
+"Cartridge.Note" "Uses the Light Gun Controller (left only)"
+"Cartridge.Rarity" "Prototype"
+""

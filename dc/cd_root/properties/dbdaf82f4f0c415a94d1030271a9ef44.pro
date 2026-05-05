@@ -1,0 +1,7 @@
+"Cartridge.MD5" "dbdaf82f4f0c415a94d1030271a9ef44"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.Name" "Kaboom! (CCE)"
+"Cartridge.Note" "Uses the Paddle Controllers (left only)"
+"Controller.Left" "PADDLES"
+"Controller.MouseAxis" "01"
+""

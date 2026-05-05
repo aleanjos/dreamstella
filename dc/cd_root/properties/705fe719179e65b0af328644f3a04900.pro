@@ -1,0 +1,5 @@
+"Cartridge.MD5" "705fe719179e65b0af328644f3a04900"
+"Cartridge.Manufacturer" "Atari, David Crane - Sears"
+"Cartridge.ModelNo" "CX2653 - 6-99823, 49-75111"
+"Cartridge.Name" "Slot Machine (1979) (Atari) (4K) [a]"
+""

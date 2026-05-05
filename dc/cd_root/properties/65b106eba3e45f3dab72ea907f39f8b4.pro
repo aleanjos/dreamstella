@@ -1,0 +1,7 @@
+"Cartridge.MD5" "65b106eba3e45f3dab72ea907f39f8b4"
+"Cartridge.Manufacturer" "Sparrow - HomeComputer Software Co., Dan Schafer, Glenn Stohel, Jon Tedesco"
+"Cartridge.ModelNo" "GCG 1001T"
+"Cartridge.Name" "Music Machine, The (1983) (Sparrow)"
+"Cartridge.Note" "Uses the Paddle Controllers (left only)"
+"Controller.Left" "PADDLES"
+""

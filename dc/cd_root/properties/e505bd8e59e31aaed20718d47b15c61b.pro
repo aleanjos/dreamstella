@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e505bd8e59e31aaed20718d47b15c61b"
+"Cartridge.Manufacturer" "Funvision - Fund. Int'l Co."
+"Cartridge.Name" "Space War (1982) (Funvision) (PAL)"
+"Cartridge.Note" "AKA Condor Attack"
+""

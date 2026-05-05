@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5c0227ad63300670a647fcebf595ea37"
+"Cartridge.Manufacturer" "Josh"
+"Cartridge.Name" "Battle for Naboo (Josh) (Hack)"
+"Cartridge.Note" "Hack of Atlantis"
+"Cartridge.Rarity" "Hack"
+""

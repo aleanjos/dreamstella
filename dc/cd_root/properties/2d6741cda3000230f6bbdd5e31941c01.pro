@@ -1,0 +1,6 @@
+"Cartridge.MD5" "2d6741cda3000230f6bbdd5e31941c01"
+"Cartridge.Manufacturer" "CBS Electronics"
+"Cartridge.ModelNo" "80110"
+"Cartridge.Name" "Targ (1983) (CBS Electronics) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "0f2e09c71cc216f79d22a804152ba24b"
+"Cartridge.Manufacturer" "Bob Colbert"
+"Cartridge.Name" "Scroller Demo (Bob Colbert) (PD)"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5355f80cacf0e63a49cbf4ade4e27034"
+"Cartridge.Manufacturer" "Christian Samuel"
+"Cartridge.Name" "Cute Dead Things House (Christian Samuel) (Hack)"
+"Cartridge.Note" "Hack of Haunted House"
+"Cartridge.Rarity" "Hack"
+""

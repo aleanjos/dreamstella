@@ -1,0 +1,5 @@
+"Cartridge.MD5" "956496f81775de0b69a116a0d1ad41cc"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.Name" "Alien (CCE)"
+"Display.Phosphor" "YES"
+""

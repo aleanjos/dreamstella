@@ -1,0 +1,5 @@
+"Cartridge.MD5" "de29e46dbea003c3c09c892d668b9413"
+"Cartridge.Manufacturer" "CBS Electronics, Steve 'Jessica' Kitchen"
+"Cartridge.ModelNo" "4L1717, 4L1718, 4L2277"
+"Cartridge.Name" "Carnival (1982) (CBS Electronics) (PAL)"
+""

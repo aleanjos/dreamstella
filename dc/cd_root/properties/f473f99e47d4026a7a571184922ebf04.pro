@@ -1,0 +1,6 @@
+"Cartridge.MD5" "f473f99e47d4026a7a571184922ebf04"
+"Cartridge.Manufacturer" "Philip R. Frey"
+"Cartridge.Name" "Donkey Claus (Philip R. Frey) (Hack)"
+"Cartridge.Note" "Hack of Donkey Kong"
+"Cartridge.Rarity" "Hack"
+""

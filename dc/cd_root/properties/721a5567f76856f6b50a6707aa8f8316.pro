@@ -1,0 +1,5 @@
+"Cartridge.MD5" "721a5567f76856f6b50a6707aa8f8316"
+"Cartridge.Manufacturer" "Activision, David Crane, Dan Kitchen"
+"Cartridge.ModelNo" "EAG-108-04, EAZ-108-04B"
+"Cartridge.Name" "Ghostbusters (1985) (Activision) (PAL) [a]"
+""

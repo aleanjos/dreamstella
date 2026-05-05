@@ -1,0 +1,8 @@
+"Cartridge.MD5" "f7e07080ed8396b68f2e5788a5c245e2"
+"Cartridge.Manufacturer" "Video Game Cartridge - Ariola"
+"Cartridge.ModelNo" "TP-617"
+"Cartridge.Name" "Farmyard Fun (Ariola)"
+"Cartridge.Note" "AKA Play Farm"
+"Display.YStart" "33"
+"Display.Height" "217"
+""

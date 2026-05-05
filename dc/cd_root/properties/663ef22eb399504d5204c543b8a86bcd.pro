@@ -1,0 +1,8 @@
+"Cartridge.MD5" "663ef22eb399504d5204c543b8a86bcd"
+"Cartridge.Manufacturer" "CBS Electronics, Joe Hellesen"
+"Cartridge.ModelNo" "4L1720, 4L1721, 4L2276"
+"Cartridge.Name" "Wizard of Wor (1982) (CBS Electronics) (PAL)"
+"Cartridge.Note" "Uses the Joystick Controllers (swapped)"
+"Console.SwapPorts" "YES"
+"Display.Phosphor" "YES"
+""

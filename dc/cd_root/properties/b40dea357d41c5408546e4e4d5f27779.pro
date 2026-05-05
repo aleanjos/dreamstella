@@ -1,0 +1,5 @@
+"Cartridge.MD5" "b40dea357d41c5408546e4e4d5f27779"
+"Cartridge.Manufacturer" "Digivision"
+"Cartridge.Name" "Spider Fighter (Digivision)"
+"Display.YStart" "30"
+""

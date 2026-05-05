@@ -1,0 +1,5 @@
+"Cartridge.MD5" "05aff8f626ef870432ae3b3d9d5aa301"
+"Cartridge.Manufacturer" "Activision, Bob Whitehead"
+"Cartridge.ModelNo" "AG-019"
+"Cartridge.Name" "Sky Jinks (1982) (Activision) (16K)"
+""

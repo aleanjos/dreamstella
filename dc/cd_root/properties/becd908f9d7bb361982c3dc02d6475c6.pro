@@ -1,0 +1,6 @@
+"Cartridge.MD5" "becd908f9d7bb361982c3dc02d6475c6"
+"Cartridge.Manufacturer" "Kyle Pittman"
+"Cartridge.Name" "THX-1138 (Kyle Pittman) (Hack)"
+"Cartridge.Note" "Hack of Berserk"
+"Cartridge.Rarity" "Hack"
+""

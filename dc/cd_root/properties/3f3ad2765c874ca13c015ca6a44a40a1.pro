@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3f3ad2765c874ca13c015ca6a44a40a1"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-862"
+"Cartridge.Name" "Crackpots (1983) (CCE)"
+""

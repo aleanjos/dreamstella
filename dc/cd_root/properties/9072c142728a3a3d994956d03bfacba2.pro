@@ -1,0 +1,8 @@
+"Cartridge.MD5" "9072c142728a3a3d994956d03bfacba2"
+"Cartridge.Manufacturer" "Fabrizio Zavagli"
+"Cartridge.Name" "Crash Dive (Fabrizio Zavagli) (PAL60)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Hack"
+"Display.Format" "PAL60"
+"Display.YStart" "30"
+""

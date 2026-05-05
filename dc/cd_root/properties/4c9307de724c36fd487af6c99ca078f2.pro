@@ -1,0 +1,6 @@
+"Cartridge.MD5" "4c9307de724c36fd487af6c99ca078f2"
+"Cartridge.Manufacturer" "Imagic, Brad Stewart"
+"Cartridge.ModelNo" "720106-1A, IA3409"
+"Cartridge.Name" "Sky Patrol (1982) (Imagic) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

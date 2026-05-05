@@ -1,0 +1,6 @@
+"Cartridge.MD5" "171cd6b55267573e6a9c2921fb720794"
+"Cartridge.Manufacturer" "Kurt Howe"
+"Cartridge.Name" "Adventure 34 (Kurt Howe) (Hack)"
+"Cartridge.Note" "Hack of Adventure"
+"Cartridge.Rarity" "Hack"
+""

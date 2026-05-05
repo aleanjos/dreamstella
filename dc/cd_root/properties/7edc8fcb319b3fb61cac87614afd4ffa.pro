@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7edc8fcb319b3fb61cac87614afd4ffa"
+"Cartridge.Manufacturer" "Activision, Alan Miller"
+"Cartridge.ModelNo" "AG-003"
+"Cartridge.Name" "Checkers (1980) (Activision) (4K)"
+""

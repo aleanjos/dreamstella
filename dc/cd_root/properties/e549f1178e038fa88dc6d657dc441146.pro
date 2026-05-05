@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e549f1178e038fa88dc6d657dc441146"
+"Cartridge.Manufacturer" "Atari, Bob Whitehead - Sears"
+"Cartridge.ModelNo" "CX2625 - 6-99827, 49-75114"
+"Cartridge.Name" "Football (1979) (Atari)"
+""

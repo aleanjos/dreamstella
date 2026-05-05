@@ -1,0 +1,5 @@
+"Cartridge.MD5" "c9196e28367e46f8a55e04c27743148f"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Stampede (32 in 1) (1988) (Atari) (PAL)"
+""

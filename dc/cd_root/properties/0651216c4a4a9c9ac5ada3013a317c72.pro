@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0651216c4a4a9c9ac5ada3013a317c72"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Fishing Derby (Jone Yuan) (4K) (Hack)"
+"Cartridge.Note" "2600 Screen Search Console"
+"Cartridge.Rarity" "Hack"
+""

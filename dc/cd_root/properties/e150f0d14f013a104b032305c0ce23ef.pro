@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e150f0d14f013a104b032305c0ce23ef"
+"Cartridge.Manufacturer" "Spectravision, Spectravideo"
+"Cartridge.ModelNo" "SA-205"
+"Cartridge.Name" "China Syndrome (1982) (Spectravision) (PAL)"
+"Display.Phosphor" "YES"
+""

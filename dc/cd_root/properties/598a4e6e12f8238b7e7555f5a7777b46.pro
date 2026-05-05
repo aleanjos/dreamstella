@@ -1,0 +1,7 @@
+"Cartridge.MD5" "598a4e6e12f8238b7e7555f5a7777b46"
+"Cartridge.Manufacturer" "Tigervision"
+"Cartridge.ModelNo" "7-008"
+"Cartridge.Name" "Miner 2049er (1982) (Tigervision) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "30"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "151c33a71b99e6bcffb34b43c6f0ec23"
+"Cartridge.Manufacturer" "Parker Brothers, Laura Nikolich"
+"Cartridge.Name" "Care Bears (1983) (Parker Bros) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

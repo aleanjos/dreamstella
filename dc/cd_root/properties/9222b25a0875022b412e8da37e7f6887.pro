@@ -1,0 +1,7 @@
+"Cartridge.MD5" "9222b25a0875022b412e8da37e7f6887"
+"Cartridge.Manufacturer" "Panda"
+"Cartridge.ModelNo" "106"
+"Cartridge.Name" "Dice Puzzle (1983) (Panda)"
+"Display.YStart" "30"
+"Display.Phosphor" "YES"
+""

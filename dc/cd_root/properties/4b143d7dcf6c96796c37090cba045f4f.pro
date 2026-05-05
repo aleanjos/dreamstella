@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4b143d7dcf6c96796c37090cba045f4f"
+"Cartridge.Manufacturer" "Atari, Jim Huether - Sears"
+"Cartridge.ModelNo" "CX2644 - 6-99824"
+"Cartridge.Name" "Flag Capture (1978) (Atari) (4K)"
+""

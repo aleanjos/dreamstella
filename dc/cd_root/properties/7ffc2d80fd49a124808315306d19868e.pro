@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7ffc2d80fd49a124808315306d19868e"
+"Cartridge.Manufacturer" "Ishido"
+"Cartridge.Name" "Domino (Ishido) (PD)"
+"Cartridge.Rarity" "New Release"
+""

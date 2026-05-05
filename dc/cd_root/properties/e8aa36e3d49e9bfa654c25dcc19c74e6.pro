@@ -1,0 +1,7 @@
+"Cartridge.MD5" "e8aa36e3d49e9bfa654c25dcc19c74e6"
+"Cartridge.Manufacturer" "Atari, Joe Decuir, Steve Mayer, Larry Wagner"
+"Cartridge.ModelNo" "CX2601, CX2601P"
+"Cartridge.Name" "Combat (1977) (Atari) (PAL)"
+"Display.YStart" "36"
+"Display.Height" "260"
+""

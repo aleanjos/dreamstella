@@ -1,0 +1,6 @@
+"Cartridge.MD5" "c7900a7fe95a47eef3b325072ad2c232"
+"Cartridge.Manufacturer" "Larry Petit"
+"Cartridge.Name" "Super Congo Bongo (2003) (Larry Petit) (Hack)"
+"Cartridge.Note" "Hack of Bongo"
+"Cartridge.Rarity" "Hack"
+""

@@ -1,0 +1,8 @@
+"Cartridge.MD5" "31f4692ee2ca07a7ce1f7a6a1dab4ac9"
+"Cartridge.Manufacturer" "Atari, Alan Miller"
+"Cartridge.ModelNo" "CX2642"
+"Cartridge.Name" "Game of Concentration (1980) (Atari) (4K)"
+"Cartridge.Note" "Uses Keypad Controllers"
+"Controller.Left" "KEYBOARD"
+"Controller.Right" "KEYBOARD"
+""

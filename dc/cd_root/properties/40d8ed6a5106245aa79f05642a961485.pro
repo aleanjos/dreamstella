@@ -1,0 +1,6 @@
+"Cartridge.MD5" "40d8ed6a5106245aa79f05642a961485"
+"Cartridge.Manufacturer" "Xonox - K-Tel Software - Beck-Tech"
+"Cartridge.ModelNo" "6210, 06002, 06004, 99002"
+"Cartridge.Name" "Ghost Manor (1983) (Xonox) (PAL)"
+"Display.YStart" "30"
+""

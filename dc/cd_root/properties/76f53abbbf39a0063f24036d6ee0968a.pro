@@ -1,0 +1,6 @@
+"Cartridge.MD5" "76f53abbbf39a0063f24036d6ee0968a"
+"Cartridge.Manufacturer" "M Network, David Akers, Joe 'Ferreira' King, Patricia Lewis Du Long, Jeff Ratcliff - INTV"
+"Cartridge.ModelNo" "MT7045"
+"Cartridge.Name" "Bump 'n' Jump (1983) (M Network)"
+"Cartridge.Rarity" "Rare"
+""

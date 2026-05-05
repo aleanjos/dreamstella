@@ -1,0 +1,7 @@
+"Cartridge.MD5" "469473ff6fed8cc8d65f3c334f963aab"
+"Cartridge.Manufacturer" "Atari, Bruce Poehlman, Gary Stark"
+"Cartridge.Name" "Dune (07-10-1984) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "23"
+"Display.Phosphor" "YES"
+""

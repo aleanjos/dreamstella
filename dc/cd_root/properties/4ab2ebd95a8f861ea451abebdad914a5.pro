@@ -1,0 +1,8 @@
+"Cartridge.MD5" "4ab2ebd95a8f861ea451abebdad914a5"
+"Cartridge.Manufacturer" "Nukey Shay, Thomas Jentzsch"
+"Cartridge.ModelNo" "PAL conversion (F6)"
+"Cartridge.Name" "Montezuma's Revenge (PAL) (Genesis)"
+"Cartridge.Note" "Genesis controller (B jumps left, C jumps right)"
+"Cartridge.Rarity" "Homebrew"
+"Controller.Left" "GENESIS"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5678ebaa09ca3b699516dba4671643ed"
+"Cartridge.Manufacturer" "Coleco, Sylvia Day, Henry Will IV"
+"Cartridge.ModelNo" "2459"
+"Cartridge.Name" "Mouse Trap (1982) (Coleco)"
+"Display.Phosphor" "YES"
+""

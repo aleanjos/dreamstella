@@ -1,0 +1,6 @@
+"Cartridge.MD5" "3f540a30fdee0b20aed7288e4a5ea528"
+"Cartridge.Manufacturer" "Atari - GCC"
+"Cartridge.ModelNo" "CX2670"
+"Cartridge.Name" "Atari Video Cube (1982) (Atari)"
+"Cartridge.Rarity" "Rare"
+""

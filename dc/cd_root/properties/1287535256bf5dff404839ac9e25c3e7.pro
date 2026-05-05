@@ -1,0 +1,8 @@
+"Cartridge.MD5" "1287535256bf5dff404839ac9e25c3e7"
+"Cartridge.Manufacturer" "PacManPlus"
+"Cartridge.ModelNo" "Rev 2"
+"Cartridge.Name" "Alien Pac-Man (PacManPlus) (Hack)"
+"Cartridge.Note" "Hack of Alien"
+"Cartridge.Rarity" "Hack"
+"Display.Phosphor" "YES"
+""

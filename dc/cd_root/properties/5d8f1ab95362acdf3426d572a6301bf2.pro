@@ -1,0 +1,8 @@
+"Cartridge.MD5" "5d8f1ab95362acdf3426d572a6301bf2"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "SWOOPS! (v0.96) (TJ) (PAL)"
+"Cartridge.Note" "Uses the Joystick (L) and Paddle (R) Controllers"
+"Cartridge.Rarity" "Homebrew"
+"Controller.Right" "PADDLES"
+"Display.YStart" "30"
+""

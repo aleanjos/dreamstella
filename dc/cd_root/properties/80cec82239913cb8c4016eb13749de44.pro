@@ -1,0 +1,6 @@
+"Cartridge.MD5" "80cec82239913cb8c4016eb13749de44"
+"Cartridge.Manufacturer" "David Marli"
+"Cartridge.Name" "Invaders from Space by David Marli (Space Invaders Hack)"
+"Cartridge.Note" "Hack of Space Invaders (Atari)"
+"Cartridge.Rarity" "New Release (Hack)"
+""

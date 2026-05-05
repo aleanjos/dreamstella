@@ -1,0 +1,6 @@
+"Cartridge.MD5" "4b27f5397c442d25f0c418ccdacf1926"
+"Cartridge.Manufacturer" "Atari, Warren Robinett"
+"Cartridge.ModelNo" "CX2613, 49-75154"
+"Cartridge.Name" "Adventure (1980) (Atari) (PAL)"
+"Cartridge.Rarity" "Common"
+""

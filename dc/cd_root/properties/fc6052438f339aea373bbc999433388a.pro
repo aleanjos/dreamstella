@@ -1,0 +1,5 @@
+"Cartridge.MD5" "fc6052438f339aea373bbc999433388a"
+"Cartridge.Manufacturer" "Atari, David Crane"
+"Cartridge.ModelNo" "CX2653P"
+"Cartridge.Name" "Slot Machine (1979) (Atari) (PAL)"
+""

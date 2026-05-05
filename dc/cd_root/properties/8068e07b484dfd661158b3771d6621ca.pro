@@ -1,0 +1,5 @@
+"Cartridge.MD5" "8068e07b484dfd661158b3771d6621ca"
+"Cartridge.Manufacturer" "Epyx, Steven A. Baker, Peter Engelbrite"
+"Cartridge.ModelNo" "80561-00286"
+"Cartridge.Name" "California Games (1988) (Epyx) (PAL)"
+""

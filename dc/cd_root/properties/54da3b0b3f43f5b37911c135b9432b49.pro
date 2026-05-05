@@ -1,0 +1,6 @@
+"Cartridge.MD5" "54da3b0b3f43f5b37911c135b9432b49"
+"Cartridge.Name" "Halloween III Revision (Hack)"
+"Cartridge.Note" "Hack of Kaboom!"
+"Cartridge.Rarity" "Hack"
+"Controller.Left" "PADDLES"
+""

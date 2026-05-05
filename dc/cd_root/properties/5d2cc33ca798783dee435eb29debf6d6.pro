@@ -1,0 +1,5 @@
+"Cartridge.MD5" "5d2cc33ca798783dee435eb29debf6d6"
+"Cartridge.Manufacturer" "Activision, Mike Riedel"
+"Cartridge.ModelNo" "AK-043-04"
+"Cartridge.Name" "Commando (1988) (Activision)"
+""

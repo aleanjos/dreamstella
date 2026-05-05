@@ -1,0 +1,5 @@
+"Cartridge.MD5" "ef76ea05655a0b62cb1018c92b9b4b7d"
+"Cartridge.Manufacturer" "Gakken"
+"Cartridge.ModelNo" "010"
+"Cartridge.Name" "Strategy X (1983) (Gakken) (PAL)"
+""

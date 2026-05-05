@@ -1,0 +1,6 @@
+"Cartridge.MD5" "468f2dec984f3d4114ea84f05edf82b6"
+"Cartridge.Manufacturer" "Tigervision - Teldec"
+"Cartridge.ModelNo" "7-011 - 3.60015 VG"
+"Cartridge.Name" "Miner 2049er Volume II (1983) (Tigervision) (PAL)"
+"Display.Phosphor" "YES"
+""

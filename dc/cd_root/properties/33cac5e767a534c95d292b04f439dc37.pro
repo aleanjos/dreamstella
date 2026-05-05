@@ -1,0 +1,5 @@
+"Cartridge.MD5" "33cac5e767a534c95d292b04f439dc37"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Tapeworm (Jone Yuan)"
+"Cartridge.Note" "2600 Screen Search Console"
+""

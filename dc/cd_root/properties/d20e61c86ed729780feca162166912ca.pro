@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d20e61c86ed729780feca162166912ca"
+"Cartridge.Manufacturer" "Supergame"
+"Cartridge.ModelNo" "32"
+"Cartridge.Name" "Pitfall (1984) (Supergame)"
+"Cartridge.Note" "AKA Pitfall!"
+""

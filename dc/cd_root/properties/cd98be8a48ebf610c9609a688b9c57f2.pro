@@ -1,0 +1,7 @@
+"Cartridge.MD5" "cd98be8a48ebf610c9609a688b9c57f2"
+"Cartridge.Manufacturer" "Arcadia Corporation, Steve Hales, Stephen Harland Landrum"
+"Cartridge.ModelNo" "4 AR-4102"
+"Cartridge.Name" "Suicide Mission (1982) (Arcadia) (Prototype)"
+"Cartridge.Note" "AKA Meteoroids"
+"Display.Phosphor" "YES"
+""

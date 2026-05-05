@@ -1,0 +1,5 @@
+"Cartridge.MD5" "977294ae6526c31c7f9a166ee00964ad"
+"Cartridge.Manufacturer" "Atari - GCC, Douglas B. Macrae"
+"Cartridge.ModelNo" "CX2677, CX2677P"
+"Cartridge.Name" "Dig Dug (1983) (Atari) (PAL)"
+""

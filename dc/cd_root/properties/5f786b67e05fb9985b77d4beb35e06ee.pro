@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5f786b67e05fb9985b77d4beb35e06ee"
+"Cartridge.Manufacturer" "Atari, Bill Aspromonte, Andrew Fuchs"
+"Cartridge.ModelNo" "CX26120"
+"Cartridge.Name" "Defender II (1988) (Atari) (PAL)"
+"Cartridge.Note" "AKA Stargate"
+""

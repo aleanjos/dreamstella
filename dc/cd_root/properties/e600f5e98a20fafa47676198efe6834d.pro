@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e600f5e98a20fafa47676198efe6834d"
+"Cartridge.Manufacturer" "Parker Brothers"
+"Cartridge.ModelNo" "PB5080"
+"Cartridge.Name" "Gyruss (1984) (Parker Bros) (PAL)"
+"Display.Phosphor" "YES"
+""

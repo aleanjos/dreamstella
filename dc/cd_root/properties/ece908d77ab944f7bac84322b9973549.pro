@@ -1,0 +1,6 @@
+"Cartridge.MD5" "ece908d77ab944f7bac84322b9973549"
+"Cartridge.Name" "Tom Boy (Unknown) (PAL60)"
+"Cartridge.Note" "AKA Pitfall!"
+"Display.Format" "PAL60"
+"Display.YStart" "24"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f457674cef449cfd85f21db2b4f631a7"
+"Cartridge.Manufacturer" "U.S. Games Corporation, Wes Trager, Henry Will IV"
+"Cartridge.ModelNo" "VC1004"
+"Cartridge.Name" "Commando Raid (1982) (U.S. Games)"
+""

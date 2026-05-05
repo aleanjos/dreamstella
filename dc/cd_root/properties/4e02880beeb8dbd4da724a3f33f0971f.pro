@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4e02880beeb8dbd4da724a3f33f0971f"
+"Cartridge.Manufacturer" "Imagic, Michael Greene"
+"Cartridge.ModelNo" "EIZ-002-04I"
+"Cartridge.Name" "Wing War (1983) (Imagic) (PAL)"
+""

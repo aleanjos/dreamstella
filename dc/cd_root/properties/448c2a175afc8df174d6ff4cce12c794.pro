@@ -1,0 +1,6 @@
+"Cartridge.MD5" "448c2a175afc8df174d6ff4cce12c794"
+"Cartridge.Manufacturer" "Activision, David Crane"
+"Cartridge.ModelNo" "AB-035-04"
+"Cartridge.Name" "Pitfall II (1983) (Activision) [a2]"
+"Cartridge.Rarity" "Rare"
+""

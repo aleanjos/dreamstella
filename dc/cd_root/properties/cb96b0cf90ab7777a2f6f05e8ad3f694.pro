@@ -1,0 +1,5 @@
+"Cartridge.MD5" "cb96b0cf90ab7777a2f6f05e8ad3f694"
+"Cartridge.Manufacturer" "Silvio Mogno"
+"Cartridge.Name" "Rainbow Invaders"
+"Cartridge.Rarity" "Homebrew"
+""

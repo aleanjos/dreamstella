@@ -1,0 +1,6 @@
+"Cartridge.MD5" "8108162bc88b5a14adc3e031cf4175ad"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "719.941 7"
+"Cartridge.Name" "Vom Himmel durch die Hoelle (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Parachute"
+""

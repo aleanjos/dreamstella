@@ -1,0 +1,6 @@
+"Cartridge.MD5" "31df1c50c4351e144c9a378adb8c10ba"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "687.463 0"
+"Cartridge.Name" "Die Ratte und die Karotten (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Gopher"
+""

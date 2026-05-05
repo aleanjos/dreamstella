@@ -1,0 +1,6 @@
+"Cartridge.MD5" "fb833ed50c865a9a505a125fc9d79a7e"
+"Cartridge.Manufacturer" "ITT Family Games"
+"Cartridge.Name" "Pumuckl I (1983) (ITT Family Games) (PAL)"
+"Cartridge.Note" "AKA Panda Chase"
+"Display.YStart" "30"
+""

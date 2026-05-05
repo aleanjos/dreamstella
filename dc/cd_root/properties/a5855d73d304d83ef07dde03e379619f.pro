@@ -1,0 +1,8 @@
+"Cartridge.MD5" "a5855d73d304d83ef07dde03e379619f"
+"Cartridge.Manufacturer" "Atari, David Crane"
+"Cartridge.Name" "Boggle (08-07-1978) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "27"
+"Display.Height" "215"
+"Display.Phosphor" "YES"
+""

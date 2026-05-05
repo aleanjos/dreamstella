@@ -1,0 +1,7 @@
+"Cartridge.MD5" "2f7772879a1ed04f660aa9d77a86a4bd"
+"Cartridge.Name" "Yars' Revenge (Genesis)"
+"Cartridge.Note" "Genesis controller (C is zorlon cannon)"
+"Cartridge.Rarity" "Hack of Yars' Revenge"
+"Controller.Left" "GENESIS"
+"Display.Phosphor" "YES"
+""

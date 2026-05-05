@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5961d259115e99c30b64fe7058256bcf"
+"Cartridge.Manufacturer" "Universal Gamex Corporation, Alan Roberts, H.K. Poon"
+"Cartridge.ModelNo" "GX-001"
+"Cartridge.Name" "X-Man (1983) (Universal)"
+"Display.YStart" "30"
+""

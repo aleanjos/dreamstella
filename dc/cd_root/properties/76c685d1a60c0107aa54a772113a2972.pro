@@ -1,0 +1,5 @@
+"Cartridge.MD5" "76c685d1a60c0107aa54a772113a2972"
+"Cartridge.Manufacturer" "Arcadia Corporation, Steve Mundry, Scott Nelson"
+"Cartridge.ModelNo" "AR-4401"
+"Cartridge.Name" "Survival Island (3 of 3) (1983) (Arcadia) (PAL)"
+""

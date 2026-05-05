@@ -1,0 +1,6 @@
+"Cartridge.MD5" "8933976f2029c0d8492ebd8f4eb21492"
+"Cartridge.Name" "Synthcart Plus (09-02-2003) (Paul Slocum)"
+"Cartridge.Note" "Uses Keypad Controllers"
+"Controller.Left" "KEYBOARD"
+"Controller.Right" "KEYBOARD"
+""

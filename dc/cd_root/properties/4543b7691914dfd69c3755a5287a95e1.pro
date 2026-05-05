@@ -1,0 +1,6 @@
+"Cartridge.MD5" "4543b7691914dfd69c3755a5287a95e1"
+"Cartridge.Manufacturer" "CommaVid, Irwin Gaines"
+"Cartridge.ModelNo" "CM-005"
+"Cartridge.Name" "Mines of Minos (1982) (CommaVid)"
+"Display.Phosphor" "YES"
+""

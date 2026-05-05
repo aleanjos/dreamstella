@@ -1,0 +1,7 @@
+"Cartridge.MD5" "f1eeeccc4bba6999345a2575ae96508e"
+"Cartridge.Manufacturer" "Video Gems"
+"Cartridge.ModelNo" "VG-03"
+"Cartridge.Name" "Steeplechase (1983) (Video Gems) (PAL)"
+"Console.RightDifficulty" "A"
+"Display.Phosphor" "YES"
+""

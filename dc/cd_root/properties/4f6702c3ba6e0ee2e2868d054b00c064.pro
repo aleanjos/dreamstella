@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4f6702c3ba6e0ee2e2868d054b00c064"
+"Cartridge.Manufacturer" "Activision, Steve 'Jessica' Kitchen - Ariola"
+"Cartridge.ModelNo" "EAZ-033 - 711 033-725"
+"Cartridge.Name" "Space Shuttle (1983) (Activision) (PAL)"
+""

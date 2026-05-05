@@ -1,0 +1,6 @@
+"Cartridge.MD5" "698f569eab5a9906eec3bc7c6b3e0980"
+"Cartridge.Manufacturer" "SpkLeader"
+"Cartridge.Name" "Demons! (2003) (SpkLeader) (Hack)"
+"Cartridge.Note" "Hack of Phoenix"
+"Cartridge.Rarity" "Hack"
+""

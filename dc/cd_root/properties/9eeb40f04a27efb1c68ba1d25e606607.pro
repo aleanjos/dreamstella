@@ -1,0 +1,6 @@
+"Cartridge.MD5" "9eeb40f04a27efb1c68ba1d25e606607"
+"Cartridge.Manufacturer" "Kyle Pittman"
+"Cartridge.Name" "Rambo II (2003) (Kyle Pittman) (Hack)"
+"Cartridge.Note" "Hack of Double Dragon"
+"Cartridge.Rarity" "Hack"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "097936b07e0e0117b9026ae6835eb168"
+"Cartridge.Manufacturer" "Imagic, Dennis Koble"
+"Cartridge.ModelNo" "720100-2B, IA3000P"
+"Cartridge.Name" "Trick Shot (1982) (Imagic) (PAL)"
+"Display.Phosphor" "YES"
+""

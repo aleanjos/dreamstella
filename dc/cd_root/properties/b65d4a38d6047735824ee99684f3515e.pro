@@ -1,0 +1,5 @@
+"Cartridge.MD5" "b65d4a38d6047735824ee99684f3515e"
+"Cartridge.Manufacturer" "Dynacom"
+"Cartridge.Name" "MegaBoy (Dynacom)"
+"Display.YStart" "30"
+""

@@ -1,0 +1,7 @@
+"Cartridge.MD5" "0a981c03204ac2b278ba392674682560"
+"Cartridge.Manufacturer" "Atari, Bob Whitehead - Sears"
+"Cartridge.ModelNo" "CX2651 - 99805, 49-75602"
+"Cartridge.Name" "Blackjack (1977) (Atari)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES_IAXIS"
+""

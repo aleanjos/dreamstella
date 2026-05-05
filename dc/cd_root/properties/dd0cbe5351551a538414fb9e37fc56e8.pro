@@ -1,0 +1,5 @@
+"Cartridge.MD5" "dd0cbe5351551a538414fb9e37fc56e8"
+"Cartridge.Manufacturer" "Xonox - K-Tel Software, Anthony R. Henderson"
+"Cartridge.ModelNo" "99006, 6220"
+"Cartridge.Name" "Sir Lancelot (1983) (Xonox) (PAL)"
+""

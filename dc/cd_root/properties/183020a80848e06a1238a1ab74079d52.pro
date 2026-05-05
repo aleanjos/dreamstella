@@ -1,0 +1,8 @@
+"Cartridge.MD5" "183020a80848e06a1238a1ab74079d52"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Missile Command (Amiga Mouse) (2002) (TJ) (PAL)"
+"Cartridge.Note" "Uses Amiga Mouse Controller"
+"Cartridge.Rarity" "Homebrew"
+"Controller.Left" "AMIGAMOUSE"
+"Display.Phosphor" "YES"
+""

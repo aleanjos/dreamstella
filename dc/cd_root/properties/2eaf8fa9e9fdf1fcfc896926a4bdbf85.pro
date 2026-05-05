@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2eaf8fa9e9fdf1fcfc896926a4bdbf85"
+"Cartridge.Manufacturer" "Arcadia Corporation, Stephen Harland Landrum"
+"Cartridge.ModelNo" "6 AR-4400"
+"Cartridge.Name" "Excalibur Version 39 (Dragonstomper Beta) (1982) (Arcadia) (Prototype)"
+""

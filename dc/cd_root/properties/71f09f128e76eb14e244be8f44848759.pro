@@ -1,0 +1,5 @@
+"Cartridge.MD5" "71f09f128e76eb14e244be8f44848759"
+"Cartridge.Manufacturer" "Funvision - Fund. International Co."
+"Cartridge.Name" "Time Race (Funvision) (PAL)"
+"Cartridge.Note" "AKA Time Warp"
+""

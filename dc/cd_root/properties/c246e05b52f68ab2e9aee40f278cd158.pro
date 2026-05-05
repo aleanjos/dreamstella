@@ -1,0 +1,7 @@
+"Cartridge.MD5" "c246e05b52f68ab2e9aee40f278cd158"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Star Wars - Ewok Adventure (Thomas Jentzsch) (Prototype)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Homebrew"
+"Display.Height" "230"
+""

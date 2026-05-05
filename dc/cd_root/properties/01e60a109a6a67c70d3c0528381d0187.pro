@@ -1,0 +1,6 @@
+"Cartridge.MD5" "01e60a109a6a67c70d3c0528381d0187"
+"Cartridge.Manufacturer" "ITT Family Games, Perry Rhodan-Serie"
+"Cartridge.ModelNo" "554-33 383"
+"Cartridge.Name" "Fire Birds (1983) (ITT Family Games) (PAL)"
+"Cartridge.Note" "AKA Sky Alien"
+""

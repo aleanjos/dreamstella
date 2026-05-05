@@ -1,0 +1,5 @@
+"Cartridge.MD5" "76c88341017eae660efc6e49c4b6ab40"
+"Cartridge.Name" "Indiana Pitfall (Hack)"
+"Cartridge.Note" "Hack of Pitfall!"
+"Cartridge.Rarity" "Hack"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f7a138eed69665b5cd1bfa796a550b01"
+"Cartridge.Manufacturer" "Tigervision - Teldec"
+"Cartridge.ModelNo" "7-012 - 3.60016 VC"
+"Cartridge.Name" "Espial (1984) (Tigervision) (PAL)"
+""

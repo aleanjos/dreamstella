@@ -1,0 +1,6 @@
+"Cartridge.MD5" "a8e49d7e24ce293629ca29614862821b"
+"Cartridge.Name" "Enduro (Genesis)"
+"Cartridge.Note" "Genesis controller (B is acceleration, C is brakes)"
+"Cartridge.Rarity" "Hack of Enduro"
+"Controller.Left" "GENESIS"
+""

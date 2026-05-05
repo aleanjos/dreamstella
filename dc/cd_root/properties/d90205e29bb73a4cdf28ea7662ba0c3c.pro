@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d90205e29bb73a4cdf28ea7662ba0c3c"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Boulderdash Demo (Brighter Version) (09-12-2002) (TJ)"
+"Cartridge.Rarity" "Homebrew"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "5a272012a62becabcd52920348c7c60b"
+"Cartridge.Manufacturer" "Star Game"
+"Cartridge.Name" "Pitfall (Star Game)"
+"Cartridge.Note" "AKA Pitfall!"
+""

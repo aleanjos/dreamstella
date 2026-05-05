@@ -1,0 +1,6 @@
+"Cartridge.MD5" "f7a651972d78f9ba485b14690452d4be"
+"Cartridge.Manufacturer" "Paul Slocum"
+"Cartridge.Name" "Homestar Runner Demo #2 (2004-03-29)"
+"Cartridge.Rarity" "Homebrew"
+"Display.Phosphor" "YES"
+""

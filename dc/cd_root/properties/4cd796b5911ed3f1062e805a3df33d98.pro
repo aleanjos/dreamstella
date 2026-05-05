@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4cd796b5911ed3f1062e805a3df33d98"
+"Cartridge.Manufacturer" "Tigervision"
+"Cartridge.ModelNo" "7-006"
+"Cartridge.Name" "Springer (1982) (Tigervision)"
+""

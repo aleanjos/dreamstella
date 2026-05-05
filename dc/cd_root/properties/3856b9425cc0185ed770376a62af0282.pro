@@ -1,0 +1,6 @@
+"Cartridge.MD5" "3856b9425cc0185ed770376a62af0282"
+"Cartridge.Manufacturer" "Kyle Pittman"
+"Cartridge.Name" "Yellow Submarine (Kyle Pittman) (Hack)"
+"Cartridge.Note" "Hack of Bermuda Triangle"
+"Cartridge.Rarity" "Hack"
+""

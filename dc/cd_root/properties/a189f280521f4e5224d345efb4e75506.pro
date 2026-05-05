@@ -1,0 +1,6 @@
+"Cartridge.MD5" "a189f280521f4e5224d345efb4e75506"
+"Cartridge.Manufacturer" "Atari - Thomas Jentzsch"
+"Cartridge.Name" "Obelix (1983) (Thomas Jentzsch)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Homebrew"
+""

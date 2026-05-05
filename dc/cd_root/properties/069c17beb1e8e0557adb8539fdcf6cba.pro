@@ -1,0 +1,5 @@
+"Cartridge.MD5" "069c17beb1e8e0557adb8539fdcf6cba"
+"Cartridge.Name" "Phantom II & Pirate (PAL60)"
+"Cartridge.Rarity" "Homebrew"
+"Display.Format" "PAL60"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "805f9a32ef97ac25f999a25014dc5c23"
+"Cartridge.Manufacturer" "SnailSoft"
+"Cartridge.Name" "Balthazar (SnailSoft)"
+"Cartridge.Note" "AKA Babylon 5"
+"Display.Phosphor" "YES"
+""

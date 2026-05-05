@@ -1,0 +1,8 @@
+"Cartridge.MD5" "392f00fd1a074a3c15bc96b0a57d52a1"
+"Cartridge.Manufacturer" "Atari, Rob Fulop - Sears"
+"Cartridge.ModelNo" "CX2633 - 49-75119"
+"Cartridge.Name" "Night Driver (1980) (Atari)"
+"Cartridge.Note" "Uses the Paddle Controllers (left only)"
+"Controller.Left" "PADDLES"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e2846af3e4d172b251ab77cbdd01761e"
+"Cartridge.Manufacturer" "Steve Engelhardt"
+"Cartridge.Name" "Adventure Plus (2003) (Steve Engelhardt) (Hack)"
+"Cartridge.Note" "Hack of Adventure"
+"Cartridge.Rarity" "Hack"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e2c1b60eaa8eda131632d73e4e0c146b"
+"Cartridge.Manufacturer" "Atari - GCC, Mark Ackerman, Noellie Alito"
+"Cartridge.ModelNo" "CX2692"
+"Cartridge.Name" "Moon Patrol (07-04-1983) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

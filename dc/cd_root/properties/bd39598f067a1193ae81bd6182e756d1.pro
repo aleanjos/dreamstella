@@ -1,0 +1,5 @@
+"Cartridge.MD5" "bd39598f067a1193ae81bd6182e756d1"
+"Cartridge.Manufacturer" "Telegames"
+"Cartridge.Name" "Night Stalker (1989) (Telegames) (PAL)"
+"Cartridge.Note" "AKA Dark Cavern"
+""

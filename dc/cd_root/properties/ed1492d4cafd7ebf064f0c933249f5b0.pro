@@ -1,0 +1,5 @@
+"Cartridge.MD5" "ed1492d4cafd7ebf064f0c933249f5b0"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.Name" "Video Cube (CCE)"
+"Cartridge.Note" "AKA Atari Video Cube"
+""

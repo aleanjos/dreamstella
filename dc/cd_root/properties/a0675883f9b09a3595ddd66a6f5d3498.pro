@@ -1,0 +1,5 @@
+"Cartridge.MD5" "a0675883f9b09a3595ddd66a6f5d3498"
+"Cartridge.Manufacturer" "Telegames"
+"Cartridge.ModelNo" "6057 A227"
+"Cartridge.Name" "Quest for Quintana Roo (1989) (Telegames)"
+""

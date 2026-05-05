@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d0b9df57bfea66378c0418ec68cfe37f"
+"Cartridge.Manufacturer" "20th Century Fox Video Games - Sirius, Grady Ward"
+"Cartridge.ModelNo" "11002"
+"Cartridge.Name" "Beany Bopper (1982) (20th Century Fox)"
+"Cartridge.Rarity" "Rare"
+""

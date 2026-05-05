@@ -1,0 +1,5 @@
+"Cartridge.MD5" "c17bdc7d14a36e10837d039f43ee5fa3"
+"Cartridge.Manufacturer" "Spectravision, Spectravideo"
+"Cartridge.ModelNo" "SA-203"
+"Cartridge.Name" "Cross Force (1982) (Spectravision)"
+""

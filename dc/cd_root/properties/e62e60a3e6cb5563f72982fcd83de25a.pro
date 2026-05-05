@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e62e60a3e6cb5563f72982fcd83de25a"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "World End (Jone Yuan)"
+"Cartridge.Note" "2600 Screen Search Console"
+"Display.Height" "240"
+""

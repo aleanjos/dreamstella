@@ -1,0 +1,5 @@
+"Cartridge.MD5" "74d072e8a34560c36cacbc57b2462360"
+"Cartridge.Manufacturer" "Sancho - Tang's Electronic Co."
+"Cartridge.ModelNo" "TEC002"
+"Cartridge.Name" "Seahawk (1982) (Sancho) (PAL)"
+""

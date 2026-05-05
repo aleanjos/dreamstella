@@ -1,0 +1,5 @@
+"Cartridge.MD5" "35b10a248a7e67493ec43aeb9743538c"
+"Cartridge.Manufacturer" "Dor-x"
+"Cartridge.Name" "Defender (Dor-x) (Hack)"
+"Cartridge.Note" "Hack of Defender"
+""

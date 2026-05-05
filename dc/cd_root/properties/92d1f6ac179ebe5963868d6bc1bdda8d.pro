@@ -1,0 +1,5 @@
+"Cartridge.MD5" "92d1f6ac179ebe5963868d6bc1bdda8d"
+"Cartridge.Manufacturer" "HES"
+"Cartridge.ModelNo" "498"
+"Cartridge.Name" "Smash Hit Pak - Frogger, Boxing, Seaquest, Skiing, Stampede (HES) (PAL)"
+""

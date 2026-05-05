@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3eae062a9b722bda1255d474a87eca5c"
+"Cartridge.Manufacturer" "Atari, David Crane"
+"Cartridge.ModelNo" "CX2605, CX2605P"
+"Cartridge.Name" "Outlaw (1978) (Atari) (PAL) (4K)"
+""

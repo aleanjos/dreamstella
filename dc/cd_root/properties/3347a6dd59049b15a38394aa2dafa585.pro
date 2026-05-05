@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3347a6dd59049b15a38394aa2dafa585"
+"Cartridge.Manufacturer" "Parker Brothers, Robert Jaeger"
+"Cartridge.ModelNo" "PB5760"
+"Cartridge.Name" "Montezuma's Revenge (1984) (Parker Bros)"
+""

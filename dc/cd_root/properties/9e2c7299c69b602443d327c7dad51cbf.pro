@@ -1,0 +1,6 @@
+"Cartridge.MD5" "9e2c7299c69b602443d327c7dad51cbf"
+"Cartridge.Manufacturer" "Charles Morgan"
+"Cartridge.Name" "Xaxyrax Road (Charles Morgan) (Hack)"
+"Cartridge.Note" "Hack of Freeway"
+"Cartridge.Rarity" "Hack"
+""

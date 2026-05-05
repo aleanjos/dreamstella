@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e5359cbbbff9c6d7fe8aeff5fb471b46"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-849"
+"Cartridge.Name" "Boom Bang (1983) (CCE)"
+"Cartridge.Note" "AKA Crackpots"
+""

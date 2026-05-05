@@ -1,0 +1,7 @@
+"Cartridge.MD5" "cef2287d5fd80216b2200fb2ef1adfa8"
+"Cartridge.Manufacturer" "Milton Bradley Company"
+"Cartridge.ModelNo" "4363"
+"Cartridge.Name" "Spitfire Attack (1983) (Milton Bradley)"
+"Cartridge.Note" "AKA Flight Commander)"
+"Display.YStart" "28"
+""

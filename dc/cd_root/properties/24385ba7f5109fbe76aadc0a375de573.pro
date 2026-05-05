@@ -1,0 +1,5 @@
+"Cartridge.MD5" "24385ba7f5109fbe76aadc0a375de573"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.Name" "Xevious (CCE)"
+"Display.Phosphor" "YES"
+""

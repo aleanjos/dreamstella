@@ -1,0 +1,7 @@
+"Cartridge.MD5" "4f781f0476493c50dc578336f1132a67"
+"Cartridge.Name" "Indy 500 (Unknown) (PAL) (4K)"
+"Cartridge.Note" "Uses Driving Controllers"
+"Controller.Left" "DRIVING"
+"Controller.Right" "DRIVING"
+"Controller.MouseAxis" "45"
+""

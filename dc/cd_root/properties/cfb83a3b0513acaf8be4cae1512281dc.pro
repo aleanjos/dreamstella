@@ -1,0 +1,5 @@
+"Cartridge.MD5" "cfb83a3b0513acaf8be4cae1512281dc"
+"Cartridge.Manufacturer" "Starpath Corporation"
+"Cartridge.Name" "Going-Up (1983) (Starpath) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "19a9d3f9fa1b1358fb53009444247aaf"
+"Cartridge.Name" "Blackjack (Unknown) (PAL) (4K)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES_IAXIS"
+"Display.YStart" "56"
+""

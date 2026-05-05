@@ -1,0 +1,5 @@
+"Cartridge.MD5" "02cee0b140d2f1a1efcfb1d482a5c392"
+"Cartridge.Manufacturer" "Atari, Ed Logg, Carol Shaw - Sears"
+"Cartridge.ModelNo" "CX2639 - 49-75162"
+"Cartridge.Name" "Othello (1981) (Atari) (4K)"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "136f75c4dd02c29283752b7e5799f978"
+"Cartridge.Manufacturer" "Atari, Dan Hitchens - Sears"
+"Cartridge.ModelNo" "CX2650 - 49-75168"
+"Cartridge.Name" "Berzerk (1982) (Atari)"
+"Cartridge.Rarity" "Common"
+""

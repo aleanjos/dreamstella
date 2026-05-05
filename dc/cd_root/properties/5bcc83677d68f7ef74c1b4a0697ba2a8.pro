@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5bcc83677d68f7ef74c1b4a0697ba2a8"
+"Cartridge.Manufacturer" "Activision, Alan Miller"
+"Cartridge.ModelNo" "AX-012, CAX-012, AX-012-04"
+"Cartridge.Name" "Ice Hockey (1981) (Activision) (16K)"
+"Cartridge.Type" "4K"
+""

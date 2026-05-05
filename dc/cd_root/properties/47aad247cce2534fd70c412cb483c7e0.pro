@@ -1,0 +1,6 @@
+"Cartridge.MD5" "47aad247cce2534fd70c412cb483c7e0"
+"Cartridge.Manufacturer" "Rainbow Vision - Suntek"
+"Cartridge.ModelNo" "SS-010"
+"Cartridge.Name" "Mafia (Rainbow Vision) (PAL)"
+"Cartridge.Note" "AKA Gangster Alley"
+""
