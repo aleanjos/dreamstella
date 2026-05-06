@@ -1,0 +1,6 @@
+"Cartridge.MD5" "282a77841cb3d33af5b56151acba770e"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "311388"
+"Cartridge.Name" "Black Hole (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Cosmic Ark (Double-Game Package)"
+""

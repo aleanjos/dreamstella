@@ -1,0 +1,7 @@
+"Cartridge.MD5" "929e8a84ed50601d9af8c49b0425c7ea"
+"Cartridge.Manufacturer" "Bit Corporation"
+"Cartridge.ModelNo" "PG205"
+"Cartridge.Name" "Dancing Plate (1982) (BitCorp) (PAL)"
+"Cartridge.Note" "AKA Dancing Plates, Tanzende Teller"
+"Display.Phosphor" "YES"
+""

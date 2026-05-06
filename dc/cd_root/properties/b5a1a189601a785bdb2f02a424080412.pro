@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b5a1a189601a785bdb2f02a424080412"
+"Cartridge.Manufacturer" "Imagic, Dennis Koble"
+"Cartridge.ModelNo" "720021-1A, IA3410"
+"Cartridge.Name" "Shootin' Gallery (1982) (Imagic)"
+"Display.YStart" "29"
+""

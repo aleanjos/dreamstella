@@ -1,0 +1,5 @@
+"Cartridge.MD5" "218b76f5a4142dc2ea9051a768583d70"
+"Cartridge.Manufacturer" "Atari - GCC, Mark Ackerman, Glenn Parker"
+"Cartridge.ModelNo" "CX2684, CX2684P"
+"Cartridge.Name" "Galaxian (1983) (Atari) (PAL) [a2]"
+""

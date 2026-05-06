@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7732e4e4cc2644f163d6650ddcc9d9df"
+"Cartridge.Manufacturer" "HES"
+"Cartridge.ModelNo" "771-333"
+"Cartridge.Name" "2 Pak Special - Challenge, Surfing (1990) (HES) (PAL)"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0e7e73421606873b544e858c59dc283e"
+"Cartridge.Manufacturer" "Digivision"
+"Cartridge.Name" "Super Soccer (Digivision)"
+"Cartridge.Note" "AKA RealSports Soccer"
+"Display.Phosphor" "YES"
+""

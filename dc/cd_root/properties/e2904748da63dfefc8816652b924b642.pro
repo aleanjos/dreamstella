@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e2904748da63dfefc8816652b924b642"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Catch Time (Jone Yuan)"
+"Cartridge.Note" "AKA Plaque Attack"
+""

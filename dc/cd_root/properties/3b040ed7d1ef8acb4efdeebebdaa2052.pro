@@ -1,0 +1,6 @@
+"Cartridge.MD5" "3b040ed7d1ef8acb4efdeebebdaa2052"
+"Cartridge.Manufacturer" "Tigervision"
+"Cartridge.ModelNo" "7-008"
+"Cartridge.Name" "Miner 2049er (1982) (Tigervision) [fixed]"
+"Display.YStart" "31"
+""

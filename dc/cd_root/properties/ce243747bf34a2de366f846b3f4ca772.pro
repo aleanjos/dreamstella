@@ -1,0 +1,7 @@
+"Cartridge.MD5" "ce243747bf34a2de366f846b3f4ca772"
+"Cartridge.Manufacturer" "Home Vision - Gem International Corp."
+"Cartridge.Name" "Jacky Jump (1983) (Home Vision) (PAL)"
+"Cartridge.Note" "AKA Bobby Is Going Home"
+"Display.YStart" "39"
+"Display.Height" "256"
+""

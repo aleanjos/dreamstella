@@ -1,0 +1,5 @@
+"Cartridge.MD5" "ab5bf1ef5e463ad1cbb11b6a33797228"
+"Cartridge.Manufacturer" "Imagic, Rob Fulop"
+"Cartridge.ModelNo" "720104-1A, 720104-1B, IA3204"
+"Cartridge.Name" "Cosmic Ark (1982) (Imagic)"
+""

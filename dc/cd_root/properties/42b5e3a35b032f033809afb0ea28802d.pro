@@ -1,0 +1,6 @@
+"Cartridge.MD5" "42b5e3a35b032f033809afb0ea28802d"
+"Cartridge.Manufacturer" "Atari, Mimi Nyden, Scott Smith, Robert Vieira"
+"Cartridge.ModelNo" "CX26127"
+"Cartridge.Name" "Gremlins (03-12-1984) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

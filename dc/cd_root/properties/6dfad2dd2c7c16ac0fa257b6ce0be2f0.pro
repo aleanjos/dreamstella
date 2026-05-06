@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6dfad2dd2c7c16ac0fa257b6ce0be2f0"
+"Cartridge.Manufacturer" "Parker Brothers, Larry Gelberg, Gary Goltz"
+"Cartridge.ModelNo" "PB5065"
+"Cartridge.Name" "Star Wars - Ewok Adventure (1983) (Parker Bros) (Prototype) (PAL)"
+"Cartridge.Rarity" "Prototype"
+""

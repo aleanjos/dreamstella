@@ -1,0 +1,6 @@
+"Cartridge.MD5" "fa4404fabc094e3a31fcd7b559cdd029"
+"Cartridge.Manufacturer" "Atari, Alan J. Murphy, Robert C. Polaro"
+"Cartridge.ModelNo" "CX26100"
+"Cartridge.Name" "Bugs Bunny (1983) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

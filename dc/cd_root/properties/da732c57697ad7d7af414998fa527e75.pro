@@ -1,0 +1,6 @@
+"Cartridge.MD5" "da732c57697ad7d7af414998fa527e75"
+"Cartridge.Manufacturer" "Atari, Glenn Axworthy"
+"Cartridge.ModelNo" "CX26129"
+"Cartridge.Name" "Midnight Magic (1984) (Atari) (PAL)"
+"Display.Phosphor" "YES"
+""

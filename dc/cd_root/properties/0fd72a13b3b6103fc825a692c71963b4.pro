@@ -1,0 +1,5 @@
+"Cartridge.MD5" "0fd72a13b3b6103fc825a692c71963b4"
+"Cartridge.Manufacturer" "Imagic, Rob Fulop"
+"Cartridge.ModelNo" "720104-2A, IA3204P, EIX-008-04I"
+"Cartridge.Name" "Cosmic Ark (1982) (Imagic) (PAL) [selectable starfield]"
+""

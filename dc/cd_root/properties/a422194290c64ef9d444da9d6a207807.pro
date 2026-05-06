@@ -1,0 +1,5 @@
+"Cartridge.MD5" "a422194290c64ef9d444da9d6a207807"
+"Cartridge.Manufacturer" "M Network, Hal Finney"
+"Cartridge.ModelNo" "MT5667"
+"Cartridge.Name" "Dark Cavern (1982) (M Network)"
+""

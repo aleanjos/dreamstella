@@ -1,0 +1,5 @@
+"Cartridge.MD5" "b702641d698c60bcdc922dbd8c9dd49c"
+"Cartridge.Manufacturer" "Atari, Ian Shepard"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Space War (32 in 1) (1988) (Atari) (PAL)"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "a5e9ed3033fb2836e80aa7a420376788"
+"Cartridge.Manufacturer" "Atari, Carla Meninsky"
+"Cartridge.ModelNo" "CX2637, CX2637P"
+"Cartridge.Name" "Dodge 'Em (1980) (Atari) (PAL)"
+""

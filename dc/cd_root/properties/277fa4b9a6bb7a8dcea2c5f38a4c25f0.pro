@@ -1,0 +1,8 @@
+"Cartridge.MD5" "277fa4b9a6bb7a8dcea2c5f38a4c25f0"
+"Cartridge.Manufacturer" "Atari, Alan J. Murphy, Robert Zdybel"
+"Cartridge.ModelNo" "CX2668"
+"Cartridge.Name" "RealSports Football (1982) (Atari) (Prototype)"
+"Cartridge.Note" "AKA Football II"
+"Cartridge.Rarity" "Prototype"
+"Display.Phosphor" "YES"
+""

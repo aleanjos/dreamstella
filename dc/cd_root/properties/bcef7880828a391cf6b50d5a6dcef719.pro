@@ -1,0 +1,6 @@
+"Cartridge.MD5" "bcef7880828a391cf6b50d5a6dcef719"
+"Cartridge.Manufacturer" "Rainbow Vision - Suntek"
+"Cartridge.ModelNo" "SS-009"
+"Cartridge.Name" "Bermuda, The (Rainbow Vision) (PAL)"
+"Cartridge.Note" "AKA River Raid"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "3e33ac10dcf2dff014bc1decf8a9aea4"
+"Cartridge.Manufacturer" "Spectravideo - Video Games Industries Corporation, Mike Schwartz - Ralston Purina"
+"Cartridge.Name" "Chase the Chuckwagon (1983) (Spectravideo)"
+"Display.YStart" "22"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,7 @@
+"Cartridge.MD5" "16ee443c990215f61f7dd1e55a0d2256"
+"Cartridge.Manufacturer" "Spectravideo, David Lubar"
+"Cartridge.ModelNo" "SA-218C"
+"Cartridge.Name" "Bumper Bash (1983) (Spectravideo) (PAL)"
+"Controller.Left" "PADDLES_IAXIS"
+"Display.YStart" "54"
+""

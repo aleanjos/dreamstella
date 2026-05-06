@@ -1,0 +1,5 @@
+"Cartridge.MD5" "a184846d8904396830951217b47d13d9"
+"Cartridge.Manufacturer" "Activision, Dan Kitchen"
+"Cartridge.ModelNo" "AX-029"
+"Cartridge.Name" "Crackpots (1983) (Activision)"
+""

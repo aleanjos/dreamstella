@@ -1,0 +1,5 @@
+"Cartridge.MD5" "c469151655e333793472777052013f4f"
+"Cartridge.Name" "Base Attack (Unknown) (Hack)"
+"Cartridge.Rarity" "Hack"
+"Display.YStart" "30"
+""

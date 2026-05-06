@@ -1,0 +1,6 @@
+"Cartridge.MD5" "7cd900e9eccbb240fe9c37fa28f917b5"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Bi! Bi! (Jone Yuan) (PAL)"
+"Cartridge.Note" "AKA Skindiver"
+"Display.YStart" "38"
+""

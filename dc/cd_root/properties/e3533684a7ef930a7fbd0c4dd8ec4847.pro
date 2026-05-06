@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e3533684a7ef930a7fbd0c4dd8ec4847"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-856"
+"Cartridge.Name" "Pimball (1983) (CCE)"
+"Cartridge.Note" "AKA Video Pinball"
+""

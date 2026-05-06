@@ -1,0 +1,6 @@
+"Cartridge.MD5" "82bf0dff20cee6a1ed4bb834b00074e6"
+"Cartridge.Manufacturer" "Suntek"
+"Cartridge.ModelNo" "SS-035"
+"Cartridge.Name" "Panda (Quest) (Suntek) (PAL)"
+"Cartridge.Note" "AKA Panda Chase"
+""

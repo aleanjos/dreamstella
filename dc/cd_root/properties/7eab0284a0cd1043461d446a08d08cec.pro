@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7eab0284a0cd1043461d446a08d08cec"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Basic Math (Jone Yuan) (4K)"
+"Cartridge.Note" "2600 Screen Search Console"
+""

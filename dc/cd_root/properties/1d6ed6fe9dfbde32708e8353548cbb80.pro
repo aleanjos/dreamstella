@@ -1,0 +1,5 @@
+"Cartridge.MD5" "1d6ed6fe9dfbde32708e8353548cbb80"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Super Challenge Baseball (Jone Yuan)"
+"Cartridge.Note" "2600 Screen Search Console"
+""

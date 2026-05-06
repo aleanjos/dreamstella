@@ -1,0 +1,6 @@
+"Cartridge.MD5" "42249ec8043a9a0203dde0b5bb46d8c4"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.Name" "Resgate Espacial (CCE)"
+"Cartridge.Note" "AKA Moonsweeper"
+"Display.Phosphor" "YES"
+""

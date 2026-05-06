@@ -1,0 +1,5 @@
+"Cartridge.MD5" "8a159ee58b2f0a54805162984b0f07e5"
+"Cartridge.Manufacturer" "Atari - Sculptured Software, Inc., Steve Aguirre"
+"Cartridge.ModelNo" "CX26162"
+"Cartridge.Name" "Fatal Run (1989) (Atari) (PAL) [a]"
+""

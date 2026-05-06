@@ -1,0 +1,6 @@
+"Cartridge.MD5" "7e464186ba384069582d9f0c141f7491"
+"Cartridge.Manufacturer" "PlayAround - J.H.M."
+"Cartridge.ModelNo" "206"
+"Cartridge.Name" "General Re-Treat (1982) (PlayAround) (PAL)"
+"Cartridge.Note" "AKA Custer's Revenge"
+""

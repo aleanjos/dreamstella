@@ -1,0 +1,7 @@
+"Cartridge.MD5" "4767356fa0ed3ebe21437b4473d4ee28"
+"Cartridge.Manufacturer" "Atari, Dan Hitchens"
+"Cartridge.ModelNo" "CX2685"
+"Cartridge.Name" "Gravitar (04-12-1983) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "30"
+""

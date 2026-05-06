@@ -1,0 +1,5 @@
+"Cartridge.MD5" "cd9fea12051e414a6dfe17052067da8e"
+"Cartridge.Manufacturer" "Paul Slocum"
+"Cartridge.Name" "Marble Craze Demo (PD)"
+"Cartridge.Rarity" "New Release"
+""

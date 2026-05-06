@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b42df8d92e3118dc594cecd575f515d7"
+"Cartridge.Manufacturer" "Mystique - American Multiple Industries"
+"Cartridge.ModelNo" "1003"
+"Cartridge.Name" "Burning Desire (1982) (Mystique) (PAL)"
+"Display.Phosphor" "YES"
+""

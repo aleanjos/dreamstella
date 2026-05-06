@@ -1,0 +1,5 @@
+"Cartridge.MD5" "6362396c8344eec3e86731a700b13abf"
+"Cartridge.Manufacturer" "Panda"
+"Cartridge.ModelNo" "109"
+"Cartridge.Name" "Exocet (1983) (Panda)"
+""

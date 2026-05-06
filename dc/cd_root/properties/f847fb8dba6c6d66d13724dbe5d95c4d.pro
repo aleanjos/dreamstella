@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f847fb8dba6c6d66d13724dbe5d95c4d"
+"Cartridge.Manufacturer" "Absolute Entertainment, David Crane"
+"Cartridge.ModelNo" "AG-042-02, AG-042-04"
+"Cartridge.Name" "Skate Boardin' (1987) (Absolute)"
+""

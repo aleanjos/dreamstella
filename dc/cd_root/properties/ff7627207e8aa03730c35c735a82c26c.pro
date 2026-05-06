@@ -1,0 +1,8 @@
+"Cartridge.MD5" "ff7627207e8aa03730c35c735a82c26c"
+"Cartridge.Manufacturer" "Atari, Bob Whitehead"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Blackjack (32 in 1) (1988) (Atari) (PAL)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES_IAXIS"
+"Display.YStart" "63"
+""

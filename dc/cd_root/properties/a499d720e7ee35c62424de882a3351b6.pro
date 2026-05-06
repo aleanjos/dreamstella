@@ -1,0 +1,6 @@
+"Cartridge.MD5" "a499d720e7ee35c62424de882a3351b6"
+"Cartridge.Manufacturer" "Sega, Phat Ho - Bally Midway - Beck-Tech"
+"Cartridge.ModelNo" "009-01"
+"Cartridge.Name" "Up 'n Down (1984) (Sega)"
+"Display.YStart" "30"
+""

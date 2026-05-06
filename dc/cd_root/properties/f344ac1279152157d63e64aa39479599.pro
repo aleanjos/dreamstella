@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f344ac1279152157d63e64aa39479599"
+"Cartridge.Manufacturer" "Tigervision"
+"Cartridge.ModelNo" "7-012"
+"Cartridge.Name" "Espial (1984) (Tigervision)"
+""

@@ -1,0 +1,7 @@
+"Cartridge.MD5" "4981cefe5493ea512284e7f9f27d1e54"
+"Cartridge.Manufacturer" "Home Vision - Gem International Corp."
+"Cartridge.ModelNo" "VCS83136"
+"Cartridge.Name" "Cosmic War (1983) (Home Vision) (PAL)"
+"Cartridge.Note" "AKA Space Tunnel"
+"Display.Height" "256"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3fd53bfeee39064c945a769f17815a7f"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.Name" "Sea Hawk (CCE)"
+"Cartridge.Note" "AKA Seahawk"
+""

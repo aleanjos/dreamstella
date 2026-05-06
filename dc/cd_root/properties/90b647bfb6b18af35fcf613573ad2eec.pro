@@ -1,0 +1,8 @@
+"Cartridge.MD5" "90b647bfb6b18af35fcf613573ad2eec"
+"Cartridge.Manufacturer" "AtariAge (Chris Walton)"
+"Cartridge.Name" "Juno First (2009)"
+"Cartridge.Note" "AtariVox supported"
+"Cartridge.Rarity" "Homebrew"
+"Controller.Right" "ATARIVOX"
+"Display.Phosphor" "YES"
+""

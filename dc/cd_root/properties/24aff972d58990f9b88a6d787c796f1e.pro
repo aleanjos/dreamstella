@@ -1,0 +1,5 @@
+"Cartridge.MD5" "24aff972d58990f9b88a6d787c796f1e"
+"Cartridge.Manufacturer" "CBS Electronics"
+"Cartridge.ModelNo" "4L1767, 4L1768, 4L1769, 4L1770"
+"Cartridge.Name" "Smurf (1982) (CBS Electronics) (PAL) [a]"
+""

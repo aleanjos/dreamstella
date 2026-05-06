@@ -1,0 +1,5 @@
+"Cartridge.MD5" "85502d69fe46b7f54ef2598225678b47"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Super-Ferrari (Jone Yuan)"
+"Cartridge.Note" "AKA Enduro"
+""

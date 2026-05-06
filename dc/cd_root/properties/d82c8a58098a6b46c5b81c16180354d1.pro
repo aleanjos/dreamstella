@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d82c8a58098a6b46c5b81c16180354d1"
+"Cartridge.Manufacturer" "Dennis Debro"
+"Cartridge.Name" "Climber 5 (30-10-2002) (Dennis Debro) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "28"
+""

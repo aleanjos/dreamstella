@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2d76c5d1aad506442b9e9fb67765e051"
+"Cartridge.Manufacturer" "Apollo - Games by Apollo, Ernie Runyon, Ed Salvo"
+"Cartridge.ModelNo" "AP-2004"
+"Cartridge.Name" "Lost Luggage (1981) (Apollo) [no opening scene]"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "49571b26f46620a85f93448359324c28"
+"Cartridge.Name" "Save Our Ship (Unknown)"
+"Display.Format" "NTSC"
+"Display.YStart" "38"
+""

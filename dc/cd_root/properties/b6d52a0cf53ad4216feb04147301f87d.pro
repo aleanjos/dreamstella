@@ -1,0 +1,5 @@
+"Cartridge.MD5" "b6d52a0cf53ad4216feb04147301f87d"
+"Cartridge.Manufacturer" "Imagic, Michael Greene"
+"Cartridge.ModelNo" "720055-1A, IA3312"
+"Cartridge.Name" "No Escape! (1982) (Imagic)"
+""

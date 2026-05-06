@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e73838c43040bcbc83e4204a3e72eef4"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.Name" "Apples and Dolls (CCE)"
+"Cartridge.Note" "AKA Open Sesame"
+"Display.Phosphor" "YES"
+""

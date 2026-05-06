@@ -1,0 +1,6 @@
+"Cartridge.MD5" "613abf596c304ef6dbd8f3351920c37a"
+"Cartridge.Name" "Boring Pac-Man (Hack)"
+"Cartridge.Note" "Hack of Pac-Man"
+"Cartridge.Rarity" "Hack"
+"Display.YStart" "33"
+""

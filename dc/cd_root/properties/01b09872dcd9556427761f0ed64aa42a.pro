@@ -1,0 +1,5 @@
+"Cartridge.MD5" "01b09872dcd9556427761f0ed64aa42a"
+"Cartridge.Manufacturer" "Galaga Games"
+"Cartridge.Name" "River Raid (1984) (Galaga Games)"
+"Display.YStart" "30"
+""

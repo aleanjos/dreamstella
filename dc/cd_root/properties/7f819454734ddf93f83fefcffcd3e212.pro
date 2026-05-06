@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7f819454734ddf93f83fefcffcd3e212"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Outlaw (Jone Yuan) (4K)"
+"Cartridge.Note" "2600 Screen Search Console"
+""

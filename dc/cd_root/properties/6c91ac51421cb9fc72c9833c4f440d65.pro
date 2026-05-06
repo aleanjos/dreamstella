@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6c91ac51421cb9fc72c9833c4f440d65"
+"Cartridge.Manufacturer" "ITT Family Games"
+"Cartridge.ModelNo" "554-33 375"
+"Cartridge.Name" "Cosmic Town (1983) (ITT Family Games) (PAL)"
+"Cartridge.Note" "AKA Base Attack (Perry Rhodan-Serie)"
+""

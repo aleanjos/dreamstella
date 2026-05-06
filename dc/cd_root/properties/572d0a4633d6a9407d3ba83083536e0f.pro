@@ -1,0 +1,5 @@
+"Cartridge.MD5" "572d0a4633d6a9407d3ba83083536e0f"
+"Cartridge.Manufacturer" "Funvision - Fund. International Co."
+"Cartridge.Name" "Busy Police (Funvision)"
+"Cartridge.Note" "AKA Keystone Kapers"
+""

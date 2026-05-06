@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2496d404bfc561a40a80bea6a69695c3"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-1007"
+"Cartridge.Name" "Jungle Hunt (1983) (CCE) [a]"
+""

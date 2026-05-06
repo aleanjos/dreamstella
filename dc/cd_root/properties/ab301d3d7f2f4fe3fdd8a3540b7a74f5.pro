@@ -1,0 +1,7 @@
+"Cartridge.MD5" "ab301d3d7f2f4fe3fdd8a3540b7a74f5"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "IQ 180 (Jone Yuan)"
+"Cartridge.Note" "2600 Screen Search Console"
+"Display.YStart" "27"
+"Display.Height" "230"
+""

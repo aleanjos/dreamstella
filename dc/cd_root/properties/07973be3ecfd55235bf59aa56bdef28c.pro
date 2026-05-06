@@ -1,0 +1,7 @@
+"Cartridge.MD5" "07973be3ecfd55235bf59aa56bdef28c"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "732.052 6"
+"Cartridge.Name" "Eddy Langfinger, der Museumsdieb (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA A Mysterious Thief"
+"Display.Phosphor" "YES"
+""

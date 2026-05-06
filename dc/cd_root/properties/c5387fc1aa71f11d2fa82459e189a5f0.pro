@@ -1,0 +1,7 @@
+"Cartridge.MD5" "c5387fc1aa71f11d2fa82459e189a5f0"
+"Cartridge.Manufacturer" "Bit Corporation"
+"Cartridge.ModelNo" "PG202"
+"Cartridge.Name" "Space Tunnel (1982) (BitCorp) (PAL)"
+"Cartridge.Note" "AKA Weltraum-Tunnel"
+"Display.Height" "256"
+""

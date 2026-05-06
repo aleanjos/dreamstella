@@ -1,0 +1,7 @@
+"Cartridge.MD5" "21299c8c3ac1d54f8289d88702a738fd"
+"Cartridge.Manufacturer" "K-Tel Vision"
+"Cartridge.Name" "Spider Maze (1982) (K-Tel Vision)"
+"Cartridge.Note" "AKA Spider Kong"
+"Display.YStart" "25"
+"Display.Height" "220"
+""

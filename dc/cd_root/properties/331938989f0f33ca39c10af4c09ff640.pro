@@ -1,0 +1,5 @@
+"Cartridge.MD5" "331938989f0f33ca39c10af4c09ff640"
+"Cartridge.Manufacturer" "Zach Matley"
+"Cartridge.Name" "Combat - Tank AI (19-04-2003) (Zach Matley)"
+"Cartridge.Rarity" "Homebrew"
+""

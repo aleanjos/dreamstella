@@ -1,0 +1,6 @@
+"Cartridge.MD5" "8ed73106e2f42f91447fb90b6f0ea4a4"
+"Cartridge.Manufacturer" "Spectravision, Spectravideo"
+"Cartridge.ModelNo" "SA-204"
+"Cartridge.Name" "Tapeworm (1982) (Spectravision) (PAL)"
+"Display.Phosphor" "YES"
+""

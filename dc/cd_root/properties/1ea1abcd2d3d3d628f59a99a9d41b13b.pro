@@ -1,0 +1,6 @@
+"Cartridge.MD5" "1ea1abcd2d3d3d628f59a99a9d41b13b"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Stampede (Jone Yuan) (Hack)"
+"Cartridge.Note" "2600 Screen Search Console"
+"Cartridge.Rarity" "Hack"
+""

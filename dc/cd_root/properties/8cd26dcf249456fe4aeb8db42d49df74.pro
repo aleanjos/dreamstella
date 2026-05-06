@@ -1,0 +1,5 @@
+"Cartridge.MD5" "8cd26dcf249456fe4aeb8db42d49df74"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26139"
+"Cartridge.Name" "Crossbow (1987) (Atari)"
+""

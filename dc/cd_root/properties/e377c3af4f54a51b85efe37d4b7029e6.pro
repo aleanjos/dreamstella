@@ -1,0 +1,8 @@
+"Cartridge.MD5" "e377c3af4f54a51b85efe37d4b7029e6"
+"Cartridge.Manufacturer" "20th Century Fox Video Games, Steve Beck"
+"Cartridge.ModelNo" "11035"
+"Cartridge.Name" "Save the Whales (1983) (20th Century Fox) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "25"
+"Display.Height" "215"
+""

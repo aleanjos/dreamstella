@@ -1,0 +1,6 @@
+"Cartridge.MD5" "c9b7afad3bfd922e006a6bfc1d4f3fe7"
+"Cartridge.Manufacturer" "Atari, Larry Kaplan - Sears"
+"Cartridge.ModelNo" "CX2628 - 6-99842, 49-75117"
+"Cartridge.Name" "Bowling (1979) (Atari)"
+"Cartridge.Rarity" "Common"
+""

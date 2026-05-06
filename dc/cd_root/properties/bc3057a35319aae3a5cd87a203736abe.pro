@@ -1,0 +1,6 @@
+"Cartridge.MD5" "bc3057a35319aae3a5cd87a203736abe"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-845"
+"Cartridge.Name" "Time Warp (1983) (CCE)"
+"Display.YStart" "30"
+""

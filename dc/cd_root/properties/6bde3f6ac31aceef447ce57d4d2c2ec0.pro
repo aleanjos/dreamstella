@@ -1,0 +1,8 @@
+"Cartridge.MD5" "6bde3f6ac31aceef447ce57d4d2c2ec0"
+"Cartridge.Manufacturer" "Piero Cavina"
+"Cartridge.Name" "Mondo Pong V1 (Piero Cavina) (PD)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Cartridge.Rarity" "New Release"
+"Controller.Left" "PADDLES_IAXDR"
+"Controller.MouseAxis" "01"
+""

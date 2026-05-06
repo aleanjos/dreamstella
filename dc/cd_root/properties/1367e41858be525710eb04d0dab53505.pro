@@ -1,0 +1,6 @@
+"Cartridge.MD5" "1367e41858be525710eb04d0dab53505"
+"Cartridge.Manufacturer" "Kyle Pittman"
+"Cartridge.Name" "Zelda (2003) (Kyle Pittman) (Hack)"
+"Cartridge.Note" "Hack of Adventure"
+"Cartridge.Rarity" "Hack"
+""

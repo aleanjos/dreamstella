@@ -1,0 +1,5 @@
+"Cartridge.MD5" "91c2098e88a6b13f977af8c003e0bca5"
+"Cartridge.Manufacturer" "Atari - GCC"
+"Cartridge.ModelNo" "CX2676"
+"Cartridge.Name" "Centipede (1982) (Atari)"
+""

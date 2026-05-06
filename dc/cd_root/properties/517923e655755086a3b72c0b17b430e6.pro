@@ -1,0 +1,5 @@
+"Cartridge.MD5" "517923e655755086a3b72c0b17b430e6"
+"Cartridge.Manufacturer" "Tron"
+"Cartridge.Name" "Super Tennis (Tron)"
+"Cartridge.Note" "AKA RealSports Tennis"
+""

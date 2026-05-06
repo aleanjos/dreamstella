@@ -1,0 +1,6 @@
+"Cartridge.MD5" "7a09299f473105ae1ef3ad6f9f2cd807"
+"Cartridge.Manufacturer" "Atari, Steve Wright"
+"Cartridge.ModelNo" "CX2616P"
+"Cartridge.Name" "Pele's Soccer (1981) (Atari) (PAL)"
+"Cartridge.Note" "AKA Championship Soccer"
+""

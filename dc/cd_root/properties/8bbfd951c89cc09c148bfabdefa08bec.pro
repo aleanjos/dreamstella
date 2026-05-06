@@ -1,0 +1,7 @@
+"Cartridge.MD5" "8bbfd951c89cc09c148bfabdefa08bec"
+"Cartridge.Manufacturer" "UA Limited"
+"Cartridge.Name" "Pleiades (1983) (UA Limited) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "32"
+"Display.Phosphor" "YES"
+""

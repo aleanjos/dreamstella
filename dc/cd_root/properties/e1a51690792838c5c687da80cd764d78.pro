@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e1a51690792838c5c687da80cd764d78"
+"Cartridge.Manufacturer" "20th Century Fox, John Russell"
+"Cartridge.Name" "Alligator People (1983) (20th Century Fox) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

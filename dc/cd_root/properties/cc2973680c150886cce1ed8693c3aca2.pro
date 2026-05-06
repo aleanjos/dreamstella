@@ -1,0 +1,6 @@
+"Cartridge.MD5" "cc2973680c150886cce1ed8693c3aca2"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "874.254 6"
+"Cartridge.Name" "Super-Cowboy beim Rodeo (1983) (Quelle) (PAL) (4K)"
+"Cartridge.Note" "AKA Stampede"
+""

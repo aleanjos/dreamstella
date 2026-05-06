@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b1d1e083dc9e7d9a5dc1627869d2ade7"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-1004"
+"Cartridge.Name" "Mario's Bros. (1983) (CCE)"
+"Cartridge.Note" "AKA Mario Bros."
+""

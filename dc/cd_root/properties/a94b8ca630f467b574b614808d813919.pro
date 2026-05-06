@@ -1,0 +1,5 @@
+"Cartridge.MD5" "a94b8ca630f467b574b614808d813919"
+"Cartridge.Manufacturer" "HES"
+"Cartridge.ModelNo" "773-883"
+"Cartridge.Name" "2 Pak Special - Space Voyage, Fire Alert (1992) (HES) (PAL)"
+""

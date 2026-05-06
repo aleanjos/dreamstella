@@ -1,0 +1,5 @@
+"Cartridge.MD5" "a4aa7630e4c0ad7ebb9837d2d81de801"
+"Cartridge.Name" "Atari 2600 Invaders (Hack)"
+"Cartridge.Note" "Hack of Space Invaders"
+"Cartridge.Rarity" "Hack"
+""

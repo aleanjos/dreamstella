@@ -1,0 +1,6 @@
+"Cartridge.MD5" "247fa1a29ad90e64069ee13d96fea6d6"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-867"
+"Cartridge.Name" "Radar (1983) (CCE)"
+"Cartridge.Note" "AKA Exocet"
+""

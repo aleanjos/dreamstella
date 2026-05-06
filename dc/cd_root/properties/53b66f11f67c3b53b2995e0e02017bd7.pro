@@ -1,0 +1,6 @@
+"Cartridge.MD5" "53b66f11f67c3b53b2995e0e02017bd7"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-1005"
+"Cartridge.Name" "Super Tennis (1983) (CCE)"
+"Cartridge.Note" "AKA RealSports Tennis"
+""

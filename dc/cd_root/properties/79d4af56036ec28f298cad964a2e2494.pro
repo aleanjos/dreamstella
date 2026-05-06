@@ -1,0 +1,5 @@
+"Cartridge.MD5" "79d4af56036ec28f298cad964a2e2494"
+"Cartridge.Name" "Hangman Pac-Man Wordlist (Hack)"
+"Cartridge.Note" "Hack of Hangman"
+"Cartridge.Rarity" "Hack"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "a3c1c70024d7aabb41381adbfb6d3b25"
+"Cartridge.Manufacturer" "Telesys, Alex Leavens"
+"Cartridge.ModelNo" "1005"
+"Cartridge.Name" "Stargunner (1982) (Telesys)"
+""

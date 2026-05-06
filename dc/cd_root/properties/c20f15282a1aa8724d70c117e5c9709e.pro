@@ -1,0 +1,5 @@
+"Cartridge.MD5" "c20f15282a1aa8724d70c117e5c9709e"
+"Cartridge.Manufacturer" "Video Gems"
+"Cartridge.ModelNo" "VG-02"
+"Cartridge.Name" "Surfer's Paradise (1983) (Video Gems) (PAL)"
+""

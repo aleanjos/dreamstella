@@ -1,0 +1,8 @@
+"Cartridge.MD5" "d573089534ca596e64efef474be7b6bc"
+"Cartridge.Manufacturer" "Parker Brothers, John Emerson"
+"Cartridge.ModelNo" "931511"
+"Cartridge.Name" "Action Force (1983) (Parker Bros) (PAL) [a]"
+"Cartridge.Note" "AKA G.I. Joe - Cobra Strike"
+"Controller.Left" "PADDLES"
+"Controller.MouseAxis" "01"
+""

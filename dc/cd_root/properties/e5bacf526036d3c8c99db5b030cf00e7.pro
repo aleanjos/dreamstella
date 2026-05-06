@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e5bacf526036d3c8c99db5b030cf00e7"
+"Cartridge.Name" "Starmaster (Genesis)"
+"Cartridge.Note" "Genesis controller (C switches to map mode)"
+"Cartridge.Rarity" "Hack of Starmaster"
+"Controller.Left" "GENESIS"
+""

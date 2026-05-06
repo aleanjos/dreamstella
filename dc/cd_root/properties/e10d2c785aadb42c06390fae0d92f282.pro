@@ -1,0 +1,7 @@
+"Cartridge.MD5" "e10d2c785aadb42c06390fae0d92f282"
+"Cartridge.Manufacturer" "Parker Brothers, Dawn Stockbridge"
+"Cartridge.ModelNo" "PB5910"
+"Cartridge.Name" "Strawberry Shortcake - Musical Match-Ups (1983) (Parker Bros)"
+"Display.YStart" "25"
+"Display.Height" "225"
+""

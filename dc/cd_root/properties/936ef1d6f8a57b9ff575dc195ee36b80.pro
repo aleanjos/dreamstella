@@ -1,0 +1,6 @@
+"Cartridge.MD5" "936ef1d6f8a57b9ff575dc195ee36b80"
+"Cartridge.Name" "Pac Kong (Unknown)"
+"Cartridge.Note" "AKA Spider Kong"
+"Display.YStart" "24"
+"Display.Height" "220"
+""

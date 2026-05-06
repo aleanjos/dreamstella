@@ -1,0 +1,6 @@
+"Cartridge.MD5" "63a7445b1d3046d3cdcdbd488dca38d9"
+"Cartridge.Manufacturer" "Rob Kudla"
+"Cartridge.Name" "Better Space Invaders (1999) (Rob Kudla) (Hack)"
+"Cartridge.Note" "Hack of Space Invaders"
+"Cartridge.Rarity" "Hack"
+""

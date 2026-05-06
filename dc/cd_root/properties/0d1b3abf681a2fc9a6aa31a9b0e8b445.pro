@@ -1,0 +1,5 @@
+"Cartridge.MD5" "0d1b3abf681a2fc9a6aa31a9b0e8b445"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Laser Blast (32 in 1) (1988) (Atari) (PAL)"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6c1553ca90b413bf762dfc65f2b881c7"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "343.073 3"
+"Cartridge.Name" "Winterjagd (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Ski Hunt"
+""

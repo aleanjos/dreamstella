@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0b577e63b0c64f9779f315dca8967587"
+"Cartridge.Manufacturer" "Videospielkassette - Ariola"
+"Cartridge.ModelNo" "PGP236"
+"Cartridge.Name" "Raketen-Angriff (Ariola) (PAL)"
+"Cartridge.Note" "AKA Missile Control"
+""

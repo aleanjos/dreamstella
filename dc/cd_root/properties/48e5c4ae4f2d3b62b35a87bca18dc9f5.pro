@@ -1,0 +1,7 @@
+"Cartridge.MD5" "48e5c4ae4f2d3b62b35a87bca18dc9f5"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "476.774 5"
+"Cartridge.Name" "Bobby geht nach Hause (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Bobby Is Going Home"
+"Display.YStart" "42"
+""

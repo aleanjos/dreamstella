@@ -1,0 +1,5 @@
+"Cartridge.MD5" "05d61b925d3d2474bab83f0a79bb5df1"
+"Cartridge.Manufacturer" "Eckhard Stolberg"
+"Cartridge.Name" "Cosmic Ark Stars (1997) (Eckhard Stolberg)"
+"Cartridge.Rarity" "Homebrew"
+""

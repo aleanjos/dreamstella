@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5e1cd11a6d41fc15cf4792257400a31e"
+"Cartridge.Manufacturer" "Philip R. Frey"
+"Cartridge.Name" "Return of Mario Bros (Philip R. Frey) (Hack)"
+"Cartridge.Note" "Hack of Mario Bros."
+"Cartridge.Rarity" "Hack"
+""

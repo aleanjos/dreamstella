@@ -1,0 +1,5 @@
+"Cartridge.MD5" "679d30c7886b283cbe1db4e7dbe5f2a6"
+"Cartridge.Manufacturer" "Colin Hughes"
+"Cartridge.Name" "Puzzle (Colin Hughes) (PD)"
+"Cartridge.Rarity" "New Release"
+""

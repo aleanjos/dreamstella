@@ -1,0 +1,8 @@
+"Cartridge.MD5" "85564dd0665aa0a1359037aef1a48d58"
+"Cartridge.Manufacturer" "ITT Family Games"
+"Cartridge.ModelNo" "554-33 367"
+"Cartridge.Name" "Laser Base (1983) (ITT Family Games) (PAL) [a]"
+"Cartridge.Note" "AKA World End (Perry Rhodan-Serie)"
+"Display.YStart" "30"
+"Display.Phosphor" "YES"
+""

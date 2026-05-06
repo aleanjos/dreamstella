@@ -1,0 +1,6 @@
+"Cartridge.MD5" "34f4b1d809aa705ace6e46b13253fd3b"
+"Cartridge.Manufacturer" "Aaron Bergstrom"
+"Cartridge.Name" "Nothern Alliance (Aaron Bergstrom) (Hack)"
+"Cartridge.Note" "Hack of Space Invaders"
+"Cartridge.Rarity" "Hack"
+""

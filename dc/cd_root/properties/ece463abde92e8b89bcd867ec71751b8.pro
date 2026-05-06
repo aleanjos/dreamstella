@@ -1,0 +1,6 @@
+"Cartridge.MD5" "ece463abde92e8b89bcd867ec71751b8"
+"Cartridge.Manufacturer" "Puzzy - Bit Corporation"
+"Cartridge.ModelNo" "PG205"
+"Cartridge.Name" "Dancing Plate (1982) (Puzzy) (PAL)"
+"Display.Phosphor" "YES"
+""

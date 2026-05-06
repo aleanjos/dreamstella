@@ -1,0 +1,5 @@
+"Cartridge.MD5" "668dc528b7ea9345140f4fcfbecf7066"
+"Cartridge.Manufacturer" "Gakken"
+"Cartridge.ModelNo" "001"
+"Cartridge.Name" "Pooyan (1983) (Gakken) (PAL)"
+""

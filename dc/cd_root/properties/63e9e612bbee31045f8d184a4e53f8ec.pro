@@ -1,0 +1,6 @@
+"Cartridge.MD5" "63e9e612bbee31045f8d184a4e53f8ec"
+"Cartridge.Manufacturer" "ATARITALIA"
+"Cartridge.Name" "Moby Blues (2002) (ATARITALIA) (Hack)"
+"Cartridge.Note" "Hack of Mario Bros"
+"Cartridge.Rarity" "Hack"
+""

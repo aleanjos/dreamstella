@@ -1,0 +1,5 @@
+"Cartridge.MD5" "d6acff6aed0f04690fe4024d58ff4ce3"
+"Cartridge.Manufacturer" "Spectravision, Spectravideo - Quelle"
+"Cartridge.ModelNo" "SA-202 - 412.851 8"
+"Cartridge.Name" "Planet Patrol (1982) (Spectravision) (PAL) [different spaceship]"
+""

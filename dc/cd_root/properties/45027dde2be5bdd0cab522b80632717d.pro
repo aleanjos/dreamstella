@@ -1,0 +1,5 @@
+"Cartridge.MD5" "45027dde2be5bdd0cab522b80632717d"
+"Cartridge.Manufacturer" "Epyx, Steven A. Baker, Tod Frye, Peter Engelbrite"
+"Cartridge.ModelNo" "80561-00250"
+"Cartridge.Name" "Summer Games (1987) (Epyx)"
+""

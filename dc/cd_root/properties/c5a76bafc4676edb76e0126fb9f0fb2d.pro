@@ -1,0 +1,6 @@
+"Cartridge.MD5" "c5a76bafc4676edb76e0126fb9f0fb2d"
+"Cartridge.Manufacturer" "Charles Morgan"
+"Cartridge.Name" "Zero Patrol (Charles Morgan) (Hack)"
+"Cartridge.Note" "Hack of Moon Patrol"
+"Cartridge.Rarity" "Hack"
+""

@@ -1,0 +1,8 @@
+"Cartridge.MD5" "59e96de9628e8373d1c685f5e57dcf10"
+"Cartridge.Manufacturer" "PlayAround - J.H.M."
+"Cartridge.ModelNo" "204"
+"Cartridge.Name" "Beat 'Em & Eat 'Em (1982) (PlayAround)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Cartridge.Rarity" "Extremely Rare"
+"Controller.Left" "PADDLES"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "714e13c08508ee9a7785ceac908ae831"
+"Cartridge.Manufacturer" "Home Vision - Gem International Corp."
+"Cartridge.ModelNo" "VCS83123"
+"Cartridge.Name" "Parachute (1983) (Home Vision) (PAL)"
+""

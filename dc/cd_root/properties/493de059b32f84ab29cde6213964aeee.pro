@@ -1,0 +1,5 @@
+"Cartridge.MD5" "493de059b32f84ab29cde6213964aeee"
+"Cartridge.Manufacturer" "Atari, Bill Aspromonte, Andrew Fuchs"
+"Cartridge.ModelNo" "CX26120"
+"Cartridge.Name" "Stargate (1984) (Atari) (PAL)"
+""

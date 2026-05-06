@@ -1,0 +1,8 @@
+"Cartridge.MD5" "1e060a8025512ad2127e3da11e212ccc"
+"Cartridge.Manufacturer" "Arcadia Corporation, Scott Nelson"
+"Cartridge.ModelNo" "13"
+"Cartridge.Name" "Sweat! - The Decathlon Game (3 of 3) (1983) (Arcadia) (Prototype)"
+"Cartridge.Note" "Uses the Paddle Controllers (left only)"
+"Cartridge.Rarity" "Prototype"
+"Controller.Left" "PADDLES"
+""

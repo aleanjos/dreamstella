@@ -1,0 +1,6 @@
+"Cartridge.MD5" "1c8c42d1aee5010b30e7f1992d69216e"
+"Cartridge.Manufacturer" "PlayAround - J.H.M."
+"Cartridge.ModelNo" "205"
+"Cartridge.Name" "Gigolo (1982) (PlayAround)"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "c63a98ca404aa5ee9fcff1de488c3f43"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26145"
+"Cartridge.Name" "Venture (1987) (Atari)"
+"Display.Phosphor" "YES"
+""

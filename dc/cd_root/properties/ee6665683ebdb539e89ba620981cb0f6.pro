@@ -1,0 +1,8 @@
+"Cartridge.MD5" "ee6665683ebdb539e89ba620981cb0f6"
+"Cartridge.Manufacturer" "Coleco"
+"Cartridge.ModelNo" "2658"
+"Cartridge.Name" "Berenstain Bears (1983) (Coleco)"
+"Cartridge.Note" "Uses the KidVid Controller"
+"Cartridge.Rarity" "Unbelievably Rare"
+"Display.YStart" "25"
+""

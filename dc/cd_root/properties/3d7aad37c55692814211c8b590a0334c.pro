@@ -1,0 +1,8 @@
+"Cartridge.MD5" "3d7aad37c55692814211c8b590a0334c"
+"Cartridge.Manufacturer" "Atari, Dan Oliver"
+"Cartridge.Name" "Telepathy (1983) (Atari) (Prototype)"
+"Cartridge.Note" "Uses both left joystick and right Mindlink controllers (press Fire on respective controller to begin)"
+"Cartridge.Rarity" "Prototype"
+"Controller.Right" "MINDLINK"
+"Controller.MouseAxis" "78"
+""

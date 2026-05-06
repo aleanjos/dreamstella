@@ -1,0 +1,5 @@
+"Cartridge.MD5" "97a9bb5c3679d67f5c2cd17f30b85d95"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.Name" "Colors (1980) (Atari) (Prototype) (PAL)"
+"Cartridge.Rarity" "Prototype"
+""

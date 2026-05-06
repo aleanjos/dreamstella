@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2d405da70af82b20a6b3ecc3d1d2c4ec"
+"Cartridge.Manufacturer" "Genus"
+"Cartridge.Name" "Pitfall (Genus)"
+"Cartridge.Note" "AKA Pitfall!"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "304512528a5530a9361e8a231ed9a6de"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "River Raid Plus (Thomas Jentzsch) (Hack)"
+"Cartridge.Note" "Hack of River Raid"
+"Cartridge.Rarity" "Hack"
+""

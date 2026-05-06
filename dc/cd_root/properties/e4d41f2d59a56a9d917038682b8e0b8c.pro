@@ -1,0 +1,7 @@
+"Cartridge.MD5" "e4d41f2d59a56a9d917038682b8e0b8c"
+"Cartridge.Manufacturer" "Cody Pittman"
+"Cartridge.Name" "Kiss Meets Pacman (Cody Pittman) (Hack)"
+"Cartridge.Note" "Hack of Pac-Man"
+"Cartridge.Rarity" "Hack"
+"Display.YStart" "33"
+""

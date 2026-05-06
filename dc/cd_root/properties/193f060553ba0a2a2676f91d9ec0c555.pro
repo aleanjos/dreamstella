@@ -1,0 +1,5 @@
+"Cartridge.MD5" "193f060553ba0a2a2676f91d9ec0c555"
+"Cartridge.Manufacturer" "Atari, Carol Shaw"
+"Cartridge.ModelNo" "CX2636, CX2636P"
+"Cartridge.Name" "Video Checkers (1980) (Atari) (PAL)"
+""

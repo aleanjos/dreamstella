@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0de53160a8b54c3aa5aed8d68c970b62"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "806.174 9"
+"Cartridge.Name" "Fuchs & Schweinchen Schlau (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Oink!"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0963aa9f7f6cf5a36ff700001583624e"
+"Cartridge.Manufacturer" "Franklin Cruz"
+"Cartridge.Name" "Space Invaders 2 (Hack) [o1]"
+"Cartridge.Note" "Hack of Space Invaders"
+"Cartridge.Rarity" "Hack"
+""

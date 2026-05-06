@@ -1,0 +1,6 @@
+"Cartridge.MD5" "cd4ded1ede63c4dd09f3dd01bda7458c"
+"Cartridge.Manufacturer" "Future Video Games"
+"Cartridge.Name" "Laser Gate (Future Video Games) (PAL)"
+"Cartridge.Note" "AKA Innerspace"
+"Display.YStart" "14"
+""

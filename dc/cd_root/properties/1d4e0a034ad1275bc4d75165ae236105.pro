@@ -1,0 +1,6 @@
+"Cartridge.MD5" "1d4e0a034ad1275bc4d75165ae236105"
+"Cartridge.Manufacturer" "20th Century Fox Video Games, Mark Klein"
+"Cartridge.ModelNo" "11034"
+"Cartridge.Name" "Pick Up (1983) (20th Century Fox) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

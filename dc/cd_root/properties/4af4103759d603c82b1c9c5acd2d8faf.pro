@@ -1,0 +1,6 @@
+"Cartridge.MD5" "4af4103759d603c82b1c9c5acd2d8faf"
+"Cartridge.Manufacturer" "Imagic, Bob Smith"
+"Cartridge.ModelNo" "720114-2A, 13207, EIZ-001-04I"
+"Cartridge.Name" "Moonsweeper (1983) (Imagic) (PAL)"
+"Display.Phosphor" "YES"
+""

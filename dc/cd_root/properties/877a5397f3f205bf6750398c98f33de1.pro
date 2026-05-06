@@ -1,0 +1,5 @@
+"Cartridge.MD5" "877a5397f3f205bf6750398c98f33de1"
+"Cartridge.Manufacturer" "Erik Eid"
+"Cartridge.Name" "Euchre (Beta) (PAL) (12-09-2002) (Erik Eid)"
+"Cartridge.Rarity" "New Release"
+""

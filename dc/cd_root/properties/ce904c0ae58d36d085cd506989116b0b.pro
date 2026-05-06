@@ -1,0 +1,5 @@
+"Cartridge.MD5" "ce904c0ae58d36d085cd506989116b0b"
+"Cartridge.Manufacturer" "Telegames"
+"Cartridge.ModelNo" "5687 A279"
+"Cartridge.Name" "International Soccer (1989) (Telegames) (PAL)"
+""

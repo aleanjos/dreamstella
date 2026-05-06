@@ -1,0 +1,5 @@
+"Cartridge.MD5" "c21450c21efb7715746e9fa87ad6f145"
+"Cartridge.Manufacturer" "Hozer Video Games"
+"Cartridge.Name" "Gunfight 2600 - It could've been soooo cool, but... (2001) (MP)"
+"Cartridge.Rarity" "New Release"
+""

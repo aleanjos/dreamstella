@@ -1,0 +1,6 @@
+"Cartridge.MD5" "543b4b8ff1d616fa250c648be428a75c"
+"Cartridge.Manufacturer" "Warren Robinett"
+"Cartridge.Name" "Adventure (1978) (Warren Robinett) (Hack)"
+"Cartridge.Note" "Hack of Adventure"
+"Cartridge.Rarity" "Hack"
+""

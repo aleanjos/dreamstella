@@ -1,0 +1,6 @@
+"Cartridge.MD5" "2b27eb194e13f3b38d23c879cc1e3abf"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "402.272 9"
+"Cartridge.Name" "Super-Ferrari (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Enduro"
+""

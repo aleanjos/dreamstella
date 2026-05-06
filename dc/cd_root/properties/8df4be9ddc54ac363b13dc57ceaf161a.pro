@@ -1,0 +1,7 @@
+"Cartridge.MD5" "8df4be9ddc54ac363b13dc57ceaf161a"
+"Cartridge.Manufacturer" "Scott Stilphen"
+"Cartridge.Name" "Asteroids SS (Scott Stilphen) (Hack)"
+"Cartridge.Note" "Hack of Asteroids"
+"Cartridge.Rarity" "Hack"
+"Display.Phosphor" "YES"
+""

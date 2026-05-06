@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4e2c884d04b57b43f23a5a2f4e9d9750"
+"Cartridge.Name" "Baby Center Animation (PD)"
+"Cartridge.Rarity" "Homebrew"
+"Display.Phosphor" "YES"
+""

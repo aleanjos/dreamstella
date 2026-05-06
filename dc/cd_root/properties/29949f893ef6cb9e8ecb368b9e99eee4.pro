@@ -1,0 +1,5 @@
+"Cartridge.MD5" "29949f893ef6cb9e8ecb368b9e99eee4"
+"Cartridge.Manufacturer" "Erik Eid"
+"Cartridge.Name" "Euchre (Alpha) (NTSC) (31-08-2002) (Erik Eid)"
+"Cartridge.Rarity" "New Release"
+""

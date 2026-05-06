@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e77ec259e1387bc308b0534647a89198"
+"Cartridge.Manufacturer" "Parker Brothers, David Lamkins, Laura Nikolich"
+"Cartridge.ModelNo" "931503"
+"Cartridge.Name" "Spider-Man (1982) (Parker Bros) (PAL)"
+""

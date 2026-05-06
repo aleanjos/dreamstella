@@ -1,0 +1,5 @@
+"Cartridge.MD5" "09abfe9a312ce7c9f661582fdf12eab6"
+"Cartridge.Manufacturer" "Atari, Douglas Neubauer"
+"Cartridge.ModelNo" "CX26154"
+"Cartridge.Name" "Super Football (1988) (Atari)"
+""

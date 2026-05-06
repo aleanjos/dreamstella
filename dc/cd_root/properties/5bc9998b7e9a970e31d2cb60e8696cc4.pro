@@ -1,0 +1,7 @@
+"Cartridge.MD5" "5bc9998b7e9a970e31d2cb60e8696cc4"
+"Cartridge.Manufacturer" "Jack Kortkamp"
+"Cartridge.Name" "Borgwars Asteroids (2003) (Jack Kortkamp) (Hack)"
+"Cartridge.Note" "Hack of Asteroids"
+"Cartridge.Rarity" "Hack"
+"Display.Phosphor" "YES"
+""

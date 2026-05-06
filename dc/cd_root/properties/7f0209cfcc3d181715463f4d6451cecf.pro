@@ -1,0 +1,7 @@
+"Cartridge.MD5" "7f0209cfcc3d181715463f4d6451cecf"
+"Cartridge.Manufacturer" "Atari - GCC, Betty Ryan Tylko, Douglas B. Macrae"
+"Cartridge.ModelNo" "CX2694"
+"Cartridge.Name" "Pole Position (05-15-1983) (Atari) (Prototype)"
+"Cartridge.Note" "AKA RealSports Driving"
+"Cartridge.Rarity" "Prototype"
+""

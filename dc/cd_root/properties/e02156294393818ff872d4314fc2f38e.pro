@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e02156294393818ff872d4314fc2f38e"
+"Cartridge.Manufacturer" "Sancho - Tang's Electronic Co."
+"Cartridge.ModelNo" "TEC005"
+"Cartridge.Name" "Dice Puzzle (1983) (Sancho) (PAL)"
+"Display.Phosphor" "YES"
+""

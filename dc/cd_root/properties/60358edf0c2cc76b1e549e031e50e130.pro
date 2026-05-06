@@ -1,0 +1,6 @@
+"Cartridge.MD5" "60358edf0c2cc76b1e549e031e50e130"
+"Cartridge.Manufacturer" "Manuel Polik"
+"Cartridge.Name" "Cyber Goth Galaxian (Manuel Polik) (Hack)"
+"Cartridge.Note" "Hack of Galaxian"
+"Cartridge.Rarity" "Hack"
+""

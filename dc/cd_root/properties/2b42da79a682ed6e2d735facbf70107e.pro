@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2b42da79a682ed6e2d735facbf70107e"
+"Cartridge.Name" "DKjr Improved (Hack)"
+"Cartridge.Note" "Hack of Donkey Kong Jr."
+"Cartridge.Rarity" "Hack"
+""

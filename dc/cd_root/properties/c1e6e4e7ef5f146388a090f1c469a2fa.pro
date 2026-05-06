@@ -1,0 +1,7 @@
+"Cartridge.MD5" "c1e6e4e7ef5f146388a090f1c469a2fa"
+"Cartridge.Manufacturer" "Bomb - Onbase"
+"Cartridge.ModelNo" "CA283"
+"Cartridge.Name" "Z-Tack (1983) (Bomb)"
+"Cartridge.Note" "AKA Base Attack"
+"Display.YStart" "30"
+""

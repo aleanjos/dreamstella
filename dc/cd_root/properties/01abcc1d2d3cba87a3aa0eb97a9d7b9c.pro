@@ -1,0 +1,6 @@
+"Cartridge.MD5" "01abcc1d2d3cba87a3aa0eb97a9d7b9c"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Topy (Jone Yuan)"
+"Cartridge.Note" "2600 Screen Search Console"
+"Display.YStart" "30"
+""

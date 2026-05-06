@@ -1,0 +1,5 @@
+"Cartridge.MD5" "6fc27a9233fc69d28d3f190b4ff80f03"
+"Cartridge.Name" "UFO #6 (Charles Morgan) (Hack)"
+"Cartridge.Note" "Hack of Pepsi Invaders"
+"Cartridge.Rarity" "Hack"
+""

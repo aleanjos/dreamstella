@@ -1,0 +1,8 @@
+"Cartridge.MD5" "0c7bd935d9a7f2522155e48315f44fa0"
+"Cartridge.Manufacturer" "Carrere Video, Jeff Corsiglia, Paul Allen Newell - Teldec"
+"Cartridge.ModelNo" "USC1009"
+"Cartridge.Name" "Infernal Tower (1983) (Carrere Video) (PAL)"
+"Cartridge.Note" "AKA Towering Inferno"
+"Console.SwapPorts" "YES"
+"Display.Phosphor" "YES"
+""

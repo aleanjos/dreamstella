@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4191b671bcd8237fc8e297b4947f2990"
+"Cartridge.Manufacturer" "Exus Corporation"
+"Cartridge.Name" "Video Jogger (1983) (Exus)"
+"Cartridge.Note" "AKA Foot Craz"
+""

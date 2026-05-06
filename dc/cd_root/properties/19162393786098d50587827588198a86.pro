@@ -1,0 +1,5 @@
+"Cartridge.MD5" "19162393786098d50587827588198a86"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Flag Capture (Jone Yuan) (4K)"
+"Cartridge.Note" "2600 Screen Search Console"
+""

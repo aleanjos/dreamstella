@@ -1,0 +1,6 @@
+"Cartridge.MD5" "bb18189021d58362d9e4d317cd2e28b7"
+"Cartridge.Manufacturer" "Activision, David Crane - Ariola"
+"Cartridge.ModelNo" "EAG-001, PAG-001, EAG-001-04B, EAG-001-04I - 711 001-715"
+"Cartridge.Name" "Dragster (1980) (Activision) (PAL) (4K)"
+"Cartridge.Note" "AKA Dragster Rennen"
+""

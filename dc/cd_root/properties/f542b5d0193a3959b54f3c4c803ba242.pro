@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f542b5d0193a3959b54f3c4c803ba242"
+"Cartridge.Manufacturer" "Atari, Tom Rudadahl - Sears"
+"Cartridge.ModelNo" "CX2634 - 49-75121"
+"Cartridge.Name" "Golf (1980) (Atari) (4K)"
+""

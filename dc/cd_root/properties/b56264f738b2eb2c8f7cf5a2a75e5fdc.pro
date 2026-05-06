@@ -1,0 +1,5 @@
+"Cartridge.MD5" "b56264f738b2eb2c8f7cf5a2a75e5fdc"
+"Cartridge.Manufacturer" "Atari - GCC, Betty Ryan Tylko, Douglas B. Macrae"
+"Cartridge.ModelNo" "CX2694, CX2694P"
+"Cartridge.Name" "Pole Position (1983) (Atari) (PAL)"
+""

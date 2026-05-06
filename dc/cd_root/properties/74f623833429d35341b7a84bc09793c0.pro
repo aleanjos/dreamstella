@@ -1,0 +1,5 @@
+"Cartridge.MD5" "74f623833429d35341b7a84bc09793c0"
+"Cartridge.Manufacturer" "Zellers"
+"Cartridge.Name" "Radar (Zellers)"
+"Cartridge.Note" "AKA Exocet"
+""

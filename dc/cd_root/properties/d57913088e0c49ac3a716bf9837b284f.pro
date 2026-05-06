@@ -1,0 +1,5 @@
+"Cartridge.MD5" "d57913088e0c49ac3a716bf9837b284f"
+"Cartridge.Manufacturer" "Activision, Garry Kitchen"
+"Cartridge.ModelNo" "EAZ-032"
+"Cartridge.Name" "Pressure Cooker (1983) (Activision) (PAL) [a]"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "39c78d682516d79130b379fa9deb8d1c"
+"Cartridge.Manufacturer" "Apollo - Games by Apollo, Ed Salvo"
+"Cartridge.ModelNo" "AP-1001"
+"Cartridge.Name" "Skeet Shoot (1981) (Apollo)"
+""

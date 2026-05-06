@@ -1,0 +1,6 @@
+"Cartridge.MD5" "77cd9a9dd810ce8042bdb9d40e256dfe"
+"Cartridge.Manufacturer" "Kyle Pittman"
+"Cartridge.Name" "Evil Dead (2003) (Kyle Pittman) (Hack)"
+"Cartridge.Note" "Hack of Haunted House"
+"Cartridge.Rarity" "Hack"
+""

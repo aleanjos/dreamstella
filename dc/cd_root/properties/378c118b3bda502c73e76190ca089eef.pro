@@ -1,0 +1,5 @@
+"Cartridge.MD5" "378c118b3bda502c73e76190ca089eef"
+"Cartridge.Manufacturer" "Atari, Alan Miller"
+"Cartridge.ModelNo" "CX2662P"
+"Cartridge.Name" "Hangman (1978) (Atari) (PAL)"
+""

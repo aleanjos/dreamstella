@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7eafc9827e8d5b1336905939e097aae7"
+"Cartridge.Manufacturer" "Atari, Mark R. Hahn"
+"Cartridge.Name" "Elk Attack (1987) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

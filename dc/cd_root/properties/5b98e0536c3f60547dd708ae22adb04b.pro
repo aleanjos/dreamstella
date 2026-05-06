@@ -1,0 +1,5 @@
+"Cartridge.MD5" "5b98e0536c3f60547dd708ae22adb04b"
+"Cartridge.Manufacturer" "Ben Hudman"
+"Cartridge.Name" "Donkey Kong Gingerbread Man (Ben Hudman) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

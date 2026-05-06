@@ -1,0 +1,6 @@
+"Cartridge.MD5" "eb46e99ec15858f8cd8c91cef384ce09"
+"Cartridge.Manufacturer" "Goliath - Hot Shot"
+"Cartridge.ModelNo" "83-113"
+"Cartridge.Name" "Ground Zero (1983) (Goliath) (PAL)"
+"Cartridge.Note" "AKA River Raid"
+""

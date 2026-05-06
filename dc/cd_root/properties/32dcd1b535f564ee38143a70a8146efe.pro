@@ -1,0 +1,7 @@
+"Cartridge.MD5" "32dcd1b535f564ee38143a70a8146efe"
+"Cartridge.Manufacturer" "Xonox - K-Tel Software, Anthony R. Henderson"
+"Cartridge.ModelNo" "99007, 6240"
+"Cartridge.Name" "Tomarc the Barbarian (1983) (Xonox)"
+"Cartridge.Note" "AKA Thundarr the Barbarian"
+"Display.YStart" "24"
+""

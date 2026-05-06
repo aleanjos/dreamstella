@@ -1,0 +1,6 @@
+"Cartridge.MD5" "4189adfc1b30c121248876e3a1a3ac7e"
+"Cartridge.Manufacturer" "Eric Ball"
+"Cartridge.Name" "Skeleton (Complete) (06-09-2002) (Eric Ball)"
+"Cartridge.Rarity" "New Release"
+"Cartridge.Sound" "STEREO"
+""

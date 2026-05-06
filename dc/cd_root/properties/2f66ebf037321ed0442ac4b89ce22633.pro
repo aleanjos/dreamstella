@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2f66ebf037321ed0442ac4b89ce22633"
+"Cartridge.Manufacturer" "Baroque Gaming (Brian Eno)"
+"Cartridge.Name" "Warring Worms (Beta 2) (2002) (Baroque Gaming)"
+"Cartridge.Rarity" "Prototype"
+""

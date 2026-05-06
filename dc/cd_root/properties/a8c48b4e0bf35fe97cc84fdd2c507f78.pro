@@ -1,0 +1,7 @@
+"Cartridge.MD5" "a8c48b4e0bf35fe97cc84fdd2c507f78"
+"Cartridge.Manufacturer" "Puzzy - Bit Corporation"
+"Cartridge.ModelNo" "PG201"
+"Cartridge.Name" "Seamonster (1982) (Puzzy)"
+"Display.YStart" "29"
+"Display.Height" "220"
+""

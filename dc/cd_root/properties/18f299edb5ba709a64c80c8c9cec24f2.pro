@@ -1,0 +1,7 @@
+"Cartridge.MD5" "18f299edb5ba709a64c80c8c9cec24f2"
+"Cartridge.Manufacturer" "Home Vision - Gem International Corp."
+"Cartridge.ModelNo" "VCS83111"
+"Cartridge.Name" "Asteroid Fire (1983) (Home Vision) (PAL)"
+"Cartridge.Rarity" "Extremely Rare"
+"Display.YStart" "24"
+""

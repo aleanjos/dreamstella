@@ -1,0 +1,5 @@
+"Cartridge.MD5" "ba257438f8a78862a9e014d831143690"
+"Cartridge.Manufacturer" "U.S. Games Corporation, Henry Will IV"
+"Cartridge.ModelNo" "VC2002"
+"Cartridge.Name" "Squeeze Box (1982) (U.S. Games)"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "512e874a240731d7378586a05f28aec6"
+"Cartridge.Manufacturer" "Tigervision, Rorke Weigandt - Teldec"
+"Cartridge.ModelNo" "7-005"
+"Cartridge.Name" "Marauder (1982) (Tigervision) (PAL)"
+""

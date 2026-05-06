@@ -1,0 +1,7 @@
+"Cartridge.MD5" "5079bfbc7b8f5770f84215ed2e3bdd1b"
+"Cartridge.Manufacturer" "Omegamatrix (2012)"
+"Cartridge.Name" "Genesis Button Tester"
+"Cartridge.Rarity" "Homebrew"
+"Controller.Left" "GENESIS"
+"Controller.Right" "GENESIS"
+""

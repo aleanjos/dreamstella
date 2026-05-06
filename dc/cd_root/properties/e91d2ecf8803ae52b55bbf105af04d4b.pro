@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e91d2ecf8803ae52b55bbf105af04d4b"
+"Cartridge.Manufacturer" "Atari, Howard Scott Warshaw"
+"Cartridge.ModelNo" "CX2655, CX2655P"
+"Cartridge.Name" "Yars' Revenge (1982) (Atari) (PAL)"
+"Display.Phosphor" "YES"
+""

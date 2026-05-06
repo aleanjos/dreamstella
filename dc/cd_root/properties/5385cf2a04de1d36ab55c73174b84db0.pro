@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5385cf2a04de1d36ab55c73174b84db0"
+"Cartridge.Manufacturer" "Paul Slocum"
+"Cartridge.Name" "Combat Rock (PD) (Hack)"
+"Cartridge.Note" "Hack of Combat"
+"Cartridge.Rarity" "Hack"
+""

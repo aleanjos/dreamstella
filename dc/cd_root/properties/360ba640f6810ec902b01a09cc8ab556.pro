@@ -1,0 +1,6 @@
+"Cartridge.MD5" "360ba640f6810ec902b01a09cc8ab556"
+"Cartridge.Manufacturer" "Atari, Jerome Domurat, Steve Woita"
+"Cartridge.ModelNo" "CX2699"
+"Cartridge.Name" "Taz (06-15-1983) (Atari) (Prototype) (PAL)"
+"Cartridge.Rarity" "Prototype"
+""

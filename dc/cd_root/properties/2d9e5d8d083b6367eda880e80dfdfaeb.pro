@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2d9e5d8d083b6367eda880e80dfdfaeb"
+"Cartridge.Manufacturer" "Selchow & Righter - QDI"
+"Cartridge.ModelNo" "87"
+"Cartridge.Name" "Glib (1983) (Selchow & Righter)"
+""

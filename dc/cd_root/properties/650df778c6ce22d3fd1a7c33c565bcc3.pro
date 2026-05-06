@@ -1,0 +1,8 @@
+"Cartridge.MD5" "650df778c6ce22d3fd1a7c33c565bcc3"
+"Cartridge.Manufacturer" "Atari - GCC, Betty Ryan Tylko, Douglas B. Macrae"
+"Cartridge.ModelNo" "CX2694"
+"Cartridge.Name" "Pole Position (1983) (Atari)"
+"Cartridge.Note" "Genesis controller (B is high gear, C is low gear, left difficulty switch swaps gear buttons)"
+"Cartridge.Rarity" "Hack of Pole Position"
+"Controller.Left" "GENESIS"
+""

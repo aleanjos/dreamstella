@@ -1,0 +1,7 @@
+"Cartridge.MD5" "93c9f9239a4e5c956663dd7affa70da2"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "626.610 0"
+"Cartridge.Name" "Billard (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Trick Shot"
+"Display.Phosphor" "YES"
+""

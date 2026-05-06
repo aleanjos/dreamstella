@@ -1,0 +1,5 @@
+"Cartridge.MD5" "51de328e79d919d7234cf19c1cd77fbc"
+"Cartridge.Manufacturer" "Atari, Mark R. Hahn"
+"Cartridge.ModelNo" "CX2678"
+"Cartridge.Name" "Dukes of Hazzard (1983) (Atari)"
+""

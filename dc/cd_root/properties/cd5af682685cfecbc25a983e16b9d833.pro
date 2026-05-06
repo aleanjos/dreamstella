@@ -1,0 +1,7 @@
+"Cartridge.MD5" "cd5af682685cfecbc25a983e16b9d833"
+"Cartridge.Manufacturer" "Atari, Jerome Domurat, Howard Scott Warshaw"
+"Cartridge.ModelNo" "CX26133"
+"Cartridge.Name" "A-Team, The (05-08-1984) (Atari) (Prototype)"
+"Cartridge.Note" "AKA Saboteur"
+"Cartridge.Rarity" "Prototype"
+""

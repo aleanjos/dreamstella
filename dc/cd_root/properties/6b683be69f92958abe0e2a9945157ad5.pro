@@ -1,0 +1,7 @@
+"Cartridge.MD5" "6b683be69f92958abe0e2a9945157ad5"
+"Cartridge.Manufacturer" "U.S. Games Corporation, Paul Allen Newell, Steve Sidley, Tom Sloper"
+"Cartridge.ModelNo" "VC2007"
+"Cartridge.Name" "Entombed (1982) (U.S. Games)"
+"Cartridge.Note" "Released as Name That Game for a contest (winning name was Entombed)"
+"Display.Phosphor" "YES"
+""

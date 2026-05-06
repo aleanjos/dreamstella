@@ -1,0 +1,5 @@
+"Cartridge.MD5" "57a66b6db7efc5df17b0b0f2f2c2f078"
+"Cartridge.Manufacturer" "Retroactive"
+"Cartridge.Name" "Qb (V2.08) (NTSC) (2001) (Retroactive)"
+"Display.Phosphor" "YES"
+""

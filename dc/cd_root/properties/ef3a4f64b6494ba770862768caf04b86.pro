@@ -1,0 +1,5 @@
+"Cartridge.MD5" "ef3a4f64b6494ba770862768caf04b86"
+"Cartridge.Manufacturer" "Activision, Bob Whitehead"
+"Cartridge.ModelNo" "AG-034-04"
+"Cartridge.Name" "Private Eye (1983) (Activision)"
+""

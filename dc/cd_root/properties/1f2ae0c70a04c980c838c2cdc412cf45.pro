@@ -1,0 +1,6 @@
+"Cartridge.MD5" "1f2ae0c70a04c980c838c2cdc412cf45"
+"Cartridge.Manufacturer" "Atari - GCC"
+"Cartridge.ModelNo" "CX2698"
+"Cartridge.Name" "Rubik's Cube (1984) (Atari)"
+"Cartridge.Note" "AKA Atari Video Cube"
+""

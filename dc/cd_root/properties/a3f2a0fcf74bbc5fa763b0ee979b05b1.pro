@@ -1,0 +1,7 @@
+"Cartridge.MD5" "a3f2a0fcf74bbc5fa763b0ee979b05b1"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "873.790 0"
+"Cartridge.Name" "Eishockey-Fieber (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Ice Hockey"
+"Display.YStart" "52"
+""

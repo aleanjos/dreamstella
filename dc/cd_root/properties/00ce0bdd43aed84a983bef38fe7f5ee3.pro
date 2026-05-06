@@ -1,0 +1,7 @@
+"Cartridge.MD5" "00ce0bdd43aed84a983bef38fe7f5ee3"
+"Cartridge.Manufacturer" "20th Century Fox, Bill Aspromonte"
+"Cartridge.ModelNo" "11012"
+"Cartridge.Name" "Bank Heist (1983) (20th Century Fox)"
+"Cartridge.Note" "AKA Bonnie and Clyde, Holdup, Rooring 20's"
+"Cartridge.Rarity" "Rare"
+""

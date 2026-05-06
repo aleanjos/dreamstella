@@ -1,0 +1,6 @@
+"Cartridge.MD5" "340f546d59e72fb358c49ac2ca8482bb"
+"Cartridge.Manufacturer" "Sancho - Tang's Electronic Co."
+"Cartridge.ModelNo" "TEC003"
+"Cartridge.Name" "Skindiver (1983) (Sancho) (PAL)"
+"Display.YStart" "39"
+""

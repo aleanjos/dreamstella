@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7e52a95074a66640fcfde124fffd491a"
+"Cartridge.Manufacturer" "Atari - GCC, Mike Feinstein, John Mracek"
+"Cartridge.ModelNo" "CX2673"
+"Cartridge.Name" "Phoenix (1982) (Atari)"
+""

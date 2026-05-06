@@ -1,0 +1,5 @@
+"Cartridge.MD5" "15dd21c2608e0d7d9f54c0d3f08cca1f"
+"Cartridge.Manufacturer" "Data Age"
+"Cartridge.ModelNo" "112-008"
+"Cartridge.Name" "Frankenstein's Monster (1983) (Data Age)"
+""

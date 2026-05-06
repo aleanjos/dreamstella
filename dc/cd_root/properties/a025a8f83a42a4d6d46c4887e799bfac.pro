@@ -1,0 +1,5 @@
+"Cartridge.MD5" "a025a8f83a42a4d6d46c4887e799bfac"
+"Cartridge.Manufacturer" "Hozer Video Games"
+"Cartridge.Name" "Gunfight 2600 - Descissions had to be made (2001) (MP)"
+"Cartridge.Rarity" "New Release"
+""

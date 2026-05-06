@@ -1,0 +1,6 @@
+"Cartridge.MD5" "36c993dc328933e4dd6374a8ffe224f4"
+"Cartridge.Manufacturer" "Gameworld"
+"Cartridge.ModelNo" "133-007"
+"Cartridge.Name" "Bermuda Triangle (1983) (Gameworld) (PAL)"
+"Display.YStart" "48"
+""

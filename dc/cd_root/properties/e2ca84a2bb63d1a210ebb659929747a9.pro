@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e2ca84a2bb63d1a210ebb659929747a9"
+"Cartridge.Manufacturer" "Telesys, Don 'Donyo' Ruffcorn"
+"Cartridge.ModelNo" "1002"
+"Cartridge.Name" "Cosmic Creeps (1982) (Telesys) (PAL)"
+"Display.Phosphor" "YES"
+""

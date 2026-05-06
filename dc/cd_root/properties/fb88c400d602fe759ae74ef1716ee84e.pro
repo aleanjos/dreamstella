@@ -1,0 +1,7 @@
+"Cartridge.MD5" "fb88c400d602fe759ae74ef1716ee84e"
+"Cartridge.Manufacturer" "20th Century Fox Video Games, Bill Aspromonte"
+"Cartridge.ModelNo" "11031"
+"Cartridge.Name" "Crash Dive (1983) (20th Century Fox)"
+"Cartridge.Note" "AKA Voyage to the Bottom of the Sea"
+"Display.YStart" "30"
+""

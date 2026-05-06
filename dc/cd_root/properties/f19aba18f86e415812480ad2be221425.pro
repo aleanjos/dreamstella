@@ -1,0 +1,6 @@
+"Cartridge.MD5" "f19aba18f86e415812480ad2be221425"
+"Cartridge.Manufacturer" "Chris Larkin"
+"Cartridge.Name" "Solaris Trainer (2002) (Chris Larkin) (Hack)"
+"Cartridge.Note" "Hack of Solaris"
+"Cartridge.Rarity" "Hack"
+""

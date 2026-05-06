@@ -1,0 +1,5 @@
+"Cartridge.MD5" "9e437229136f1c5e6ef4c5f36178ed18"
+"Cartridge.Manufacturer" "Funvision - Fund. International Co."
+"Cartridge.Name" "Grand Prize (Funvision)"
+"Cartridge.Note" "AKA Enduro"
+""

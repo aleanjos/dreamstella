@@ -1,0 +1,8 @@
+"Cartridge.MD5" "b1339c56a9ea63122232fe4328373ac5"
+"Cartridge.Manufacturer" "Goliath - Hot Shot"
+"Cartridge.ModelNo" "83-215"
+"Cartridge.Name" "Dream Flight (1983) (Goliath) (PAL)"
+"Cartridge.Note" "AKA Nightmare"
+"Display.YStart" "44"
+"Display.Height" "256"
+""

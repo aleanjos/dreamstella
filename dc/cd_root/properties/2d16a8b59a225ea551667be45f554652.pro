@@ -1,0 +1,6 @@
+"Cartridge.MD5" "2d16a8b59a225ea551667be45f554652"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "802.744 3"
+"Cartridge.Name" "Der Geheimkurier (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Mr. Postman"
+""

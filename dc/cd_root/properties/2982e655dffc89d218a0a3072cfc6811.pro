@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2982e655dffc89d218a0a3072cfc6811"
+"Cartridge.Name" "Mini Golf 812631 (Hack)"
+"Cartridge.Note" "Hack of Miniature Golf"
+"Cartridge.Rarity" "Hack"
+""

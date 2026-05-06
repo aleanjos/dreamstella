@@ -1,0 +1,5 @@
+"Cartridge.MD5" "502168660bfd9c1d2649d415dc89c69d"
+"Cartridge.Manufacturer" "Activision, Bob Whitehead - Ariola"
+"Cartridge.ModelNo" "EAG-019, EAG-019-04I - 711 019-715"
+"Cartridge.Name" "Sky Jinks (1982) (Activision) (PAL) (4K)"
+""

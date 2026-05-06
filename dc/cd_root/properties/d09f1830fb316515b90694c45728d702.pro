@@ -1,0 +1,5 @@
+"Cartridge.MD5" "d09f1830fb316515b90694c45728d702"
+"Cartridge.Manufacturer" "Imagic, Brad Stewart"
+"Cartridge.ModelNo" "720105-1A, IA3400"
+"Cartridge.Name" "Fire Fighter (1982) (Imagic)"
+""

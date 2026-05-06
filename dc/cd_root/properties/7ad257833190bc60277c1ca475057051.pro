@@ -1,0 +1,6 @@
+"Cartridge.MD5" "7ad257833190bc60277c1ca475057051"
+"Cartridge.Manufacturer" "Atari, Alan J. Murphy, Robert Zdybel"
+"Cartridge.ModelNo" "CX2668"
+"Cartridge.Name" "RealSports Football (1982) (Atari)"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e64a8008812327853877a37befeb6465"
+"Cartridge.Manufacturer" "Answer Software Corporation - TY Associates"
+"Cartridge.ModelNo" "ASC1002"
+"Cartridge.Name" "Gauntlet (1983) (Answer Software)"
+""

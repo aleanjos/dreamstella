@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4b9581c3100a1ef05eac1535d25385aa"
+"Cartridge.Name" "IQ 180 (Unknown)"
+"Display.YStart" "20"
+"Display.Height" "235"
+""

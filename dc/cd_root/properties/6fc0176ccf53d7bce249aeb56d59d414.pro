@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6fc0176ccf53d7bce249aeb56d59d414"
+"Cartridge.Manufacturer" "Rainbow Vision - Suntek"
+"Cartridge.ModelNo" "SS-004"
+"Cartridge.Name" "Pyramid War (Rainbow Vision) (PAL)"
+"Cartridge.Note" "AKA Chopper Command"
+""

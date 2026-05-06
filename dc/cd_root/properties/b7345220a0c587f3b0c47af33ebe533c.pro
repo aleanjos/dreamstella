@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b7345220a0c587f3b0c47af33ebe533c"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "176.433 1"
+"Cartridge.Name" "Landungskommando (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Strategy X"
+""

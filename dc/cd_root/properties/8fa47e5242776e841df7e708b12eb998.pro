@@ -1,0 +1,6 @@
+"Cartridge.MD5" "8fa47e5242776e841df7e708b12eb998"
+"Cartridge.Name" "Sea Hawk (Genesis)"
+"Cartridge.Note" "Genesis controller (C drops bomb)"
+"Cartridge.Rarity" "Hack of Sea Hawk"
+"Controller.Left" "GENESIS"
+""

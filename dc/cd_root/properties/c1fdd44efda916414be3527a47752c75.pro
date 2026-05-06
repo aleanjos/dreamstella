@@ -1,0 +1,8 @@
+"Cartridge.MD5" "c1fdd44efda916414be3527a47752c75"
+"Cartridge.Manufacturer" "Parker Brothers, John Emerson"
+"Cartridge.ModelNo" "PB5920"
+"Cartridge.Name" "G.I. Joe - Cobra Strike (1983) (Parker Bros)"
+"Cartridge.Note" "Uses the Paddle (left) and Joystick (right) Controllers"
+"Controller.Left" "PADDLES"
+"Display.YStart" "30"
+""

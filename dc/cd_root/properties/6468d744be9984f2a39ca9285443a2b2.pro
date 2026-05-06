@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6468d744be9984f2a39ca9285443a2b2"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Reversi (32 in 1) (1988) (Atari) (PAL)"
+"Cartridge.Note" "AKA Othello"
+""

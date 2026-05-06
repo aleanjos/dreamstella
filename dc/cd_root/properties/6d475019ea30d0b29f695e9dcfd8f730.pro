@@ -1,0 +1,5 @@
+"Cartridge.MD5" "6d475019ea30d0b29f695e9dcfd8f730"
+"Cartridge.Manufacturer" "Eric Mooney"
+"Cartridge.Name" "Invaders by Erik Mooney (Alpha 2) (PD)"
+"Cartridge.Rarity" "New Release"
+""

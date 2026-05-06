@@ -1,0 +1,8 @@
+"Cartridge.MD5" "f1489e27a4539a0c6c8529262f9f7e18"
+"Cartridge.Manufacturer" "Champ Games"
+"Cartridge.Name" "Lady Bug (PAL60)"
+"Cartridge.Rarity" "Homebrew"
+"Console.RightDifficulty" "A"
+"Display.Format" "PAL60"
+"Display.Phosphor" "YES"
+""

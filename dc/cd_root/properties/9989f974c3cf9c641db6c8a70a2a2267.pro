@@ -1,0 +1,5 @@
+"Cartridge.MD5" "9989f974c3cf9c641db6c8a70a2a2267"
+"Cartridge.Manufacturer" "Eckhard Stolberg"
+"Cartridge.Name" "Colours Selector (Eckhard Stolberg)"
+"Cartridge.Rarity" "Homebrew"
+""

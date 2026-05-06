@@ -1,0 +1,6 @@
+"Cartridge.MD5" "a81b29177f258494b499fbac69789cef"
+"Cartridge.Manufacturer" "Greg Thompson"
+"Cartridge.Name" "Console Wars (Greg Thompson) (Hack)"
+"Cartridge.Note" "Hack of Space Jockey"
+"Cartridge.Rarity" "Hack"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "2a360bc85bf22de438651cf92ffda1de"
+"Cartridge.Manufacturer" "Bit Corporation"
+"Cartridge.ModelNo" "PGP213"
+"Cartridge.Name" "Spy Vs. Spy (4 Game in One) (1983) (BitCorp) (PAL)"
+"Cartridge.Note" "AKA Chopper Command"
+""

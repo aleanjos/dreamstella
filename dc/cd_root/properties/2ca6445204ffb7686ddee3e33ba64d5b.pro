@@ -1,0 +1,6 @@
+"Cartridge.MD5" "2ca6445204ffb7686ddee3e33ba64d5b"
+"Cartridge.Manufacturer" "Alex Herbert"
+"Cartridge.Name" "AtariVox Test ROM"
+"Cartridge.Note" "Uses the AtariVox controller"
+"Controller.Right" "ATARIVOX"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "72ffbef6504b75e69ee1045af9075f66"
+"Cartridge.Manufacturer" "Atari, Richard Maurer - Sears"
+"Cartridge.ModelNo" "CX2632 - 49-75153"
+"Cartridge.Name" "Space Invaders (1980) (Atari)"
+""

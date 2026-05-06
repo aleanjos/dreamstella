@@ -1,0 +1,8 @@
+"Cartridge.MD5" "291bcdb05f2b37cdf9452d2bf08e0321"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "32 in 1 Game Cartridge (1988) (Atari) (Prototype) (PAL)"
+"Cartridge.Rarity" "Prototype"
+"Cartridge.Type" "32IN1"
+"Display.YStart" "42"
+""

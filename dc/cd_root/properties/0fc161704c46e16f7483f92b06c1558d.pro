@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0fc161704c46e16f7483f92b06c1558d"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-853"
+"Cartridge.Name" "Spider Fighter (1983) (CCE)"
+"Display.YStart" "30"
+""

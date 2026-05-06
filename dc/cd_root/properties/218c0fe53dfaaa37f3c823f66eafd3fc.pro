@@ -1,0 +1,7 @@
+"Cartridge.MD5" "218c0fe53dfaaa37f3c823f66eafd3fc"
+"Cartridge.Manufacturer" "Atari, Alan Miller"
+"Cartridge.ModelNo" "CX2624, CX2624P"
+"Cartridge.Name" "Basketball (1978) (Atari) (PAL)"
+"Cartridge.Note" "Console ports are swapped"
+"Console.SwapPorts" "YES"
+""

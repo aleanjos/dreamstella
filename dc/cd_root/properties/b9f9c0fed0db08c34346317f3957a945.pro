@@ -1,0 +1,5 @@
+"Cartridge.MD5" "b9f9c0fed0db08c34346317f3957a945"
+"Cartridge.Manufacturer" "SuperVision"
+"Cartridge.ModelNo" "405, 427, 806, 808, 813, 816"
+"Cartridge.Name" "Chopper Command (SuperVision) (PAL)"
+""

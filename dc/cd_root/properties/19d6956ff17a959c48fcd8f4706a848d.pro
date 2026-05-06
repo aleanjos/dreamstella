@@ -1,0 +1,7 @@
+"Cartridge.MD5" "19d6956ff17a959c48fcd8f4706a848d"
+"Cartridge.Manufacturer" "PlayAround - J.H.M."
+"Cartridge.ModelNo" "202"
+"Cartridge.Name" "Burning Desire (1982) (PlayAround)"
+"Display.YStart" "25"
+"Display.Phosphor" "YES"
+""

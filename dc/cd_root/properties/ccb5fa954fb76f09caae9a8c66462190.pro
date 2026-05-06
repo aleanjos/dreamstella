@@ -1,0 +1,6 @@
+"Cartridge.MD5" "ccb5fa954fb76f09caae9a8c66462190"
+"Cartridge.Manufacturer" "Answer Software Corporation - TY Associates"
+"Cartridge.ModelNo" "ASC1001"
+"Cartridge.Name" "Malagai (1983) (Answer Software)"
+"Display.Phosphor" "YES"
+""

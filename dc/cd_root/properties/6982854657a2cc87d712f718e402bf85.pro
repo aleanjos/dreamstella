@@ -1,0 +1,5 @@
+"Cartridge.MD5" "6982854657a2cc87d712f718e402bf85"
+"Cartridge.Manufacturer" "Zellers"
+"Cartridge.Name" "Earth Attack (Zellers)"
+"Cartridge.Note" "AKA Defender"
+""

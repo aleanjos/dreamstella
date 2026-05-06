@@ -1,0 +1,5 @@
+"Cartridge.MD5" "c9e721eb29c940c2e743485b044c0a3f"
+"Cartridge.Manufacturer" "Arcadia Corporation, Dennis Caswell"
+"Cartridge.ModelNo" "AR-4200"
+"Cartridge.Name" "Escape from the Mindmaster (1982) (Arcadia) (PAL)"
+""

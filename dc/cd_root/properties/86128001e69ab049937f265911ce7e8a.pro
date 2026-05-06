@@ -1,0 +1,5 @@
+"Cartridge.MD5" "86128001e69ab049937f265911ce7e8a"
+"Cartridge.Manufacturer" "Apollo - Games by Apollo, Steve Stringfellow"
+"Cartridge.ModelNo" "AP-2005"
+"Cartridge.Name" "Lochjaw (1981) (Apollo)"
+""

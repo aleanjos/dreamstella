@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d223bc6f13358642f02ddacfaf4a90c9"
+"Cartridge.Manufacturer" "Rainbow Vision - Suntek"
+"Cartridge.ModelNo" "SS-003"
+"Cartridge.Name" "Pac-Kong (Rainbow Vision) (PAL)"
+"Cartridge.Note" "AKA Spider Kong"
+""

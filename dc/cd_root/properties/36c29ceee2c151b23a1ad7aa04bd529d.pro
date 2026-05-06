@@ -1,0 +1,5 @@
+"Cartridge.MD5" "36c29ceee2c151b23a1ad7aa04bd529d"
+"Cartridge.Manufacturer" "Atari - GCC, Ava-Robin Cohen"
+"Cartridge.ModelNo" "CX26123"
+"Cartridge.Name" "Jr. Pac-Man (1984) (Atari)"
+""

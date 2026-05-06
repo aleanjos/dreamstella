@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2cf20f82abcae2decff88db99331e071"
+"Cartridge.Manufacturer" "Activision, Mike Lorenzen"
+"Cartridge.ModelNo" "AX-023"
+"Cartridge.Name" "Oink! (1983) (Activision) (8K)"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7d0b49ea4fe3a5f1e119a6d14843db17"
+"Cartridge.Manufacturer" "Gameworld"
+"Cartridge.ModelNo" "133-008"
+"Cartridge.Name" "Frankenstein's Monster (1983) (Gameworld) (PAL)"
+""

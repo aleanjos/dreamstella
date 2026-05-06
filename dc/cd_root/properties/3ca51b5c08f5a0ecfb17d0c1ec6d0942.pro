@@ -1,0 +1,7 @@
+"Cartridge.MD5" "3ca51b5c08f5a0ecfb17d0c1ec6d0942"
+"Cartridge.Manufacturer" "Atari, James Andreasen - Sears"
+"Cartridge.ModelNo" "CX2654 - 49-75141"
+"Cartridge.Name" "Haunted House (09-28-81) (Atari) (Prototype)"
+"Cartridge.Note" "AKA Mystery Mansion, Graves' Manor, Nightmare Manor"
+"Cartridge.Rarity" "Prototype"
+""

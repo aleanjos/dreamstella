@@ -1,0 +1,6 @@
+"Cartridge.MD5" "fbe554aa8f759226d251ba6b64a9cce4"
+"Cartridge.Manufacturer" "Atari - GCC, Mike Feinstein"
+"Cartridge.ModelNo" "CX2681, CX2681P"
+"Cartridge.Name" "Battlezone (1983) (Atari) (PAL)"
+"Cartridge.Rarity" "Uncommon"
+""

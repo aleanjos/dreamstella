@@ -1,0 +1,5 @@
+"Cartridge.MD5" "01cb3e8dfab7203a9c62ba3b94b4e59f"
+"Cartridge.Manufacturer" "Atari, Mimi Nyden, Scott Smith, Robert Vieira"
+"Cartridge.ModelNo" "CX26127"
+"Cartridge.Name" "Gremlins (1984) (Atari)"
+""

@@ -1,0 +1,8 @@
+"Cartridge.MD5" "6913c90002636c1487538d4004f7cac2"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26131"
+"Cartridge.Name" "Monster Cise (1984) (Atari) (Prototype)"
+"Cartridge.Note" "Uses the Keypad Controllers (left only)"
+"Cartridge.Rarity" "Prototype"
+"Controller.Left" "KEYBOARD"
+""

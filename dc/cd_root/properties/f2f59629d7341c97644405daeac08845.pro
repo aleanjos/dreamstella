@@ -1,0 +1,6 @@
+"Cartridge.MD5" "f2f59629d7341c97644405daeac08845"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Bobby Is Going Home (Jone Yuan)"
+"Cartridge.Note" "2600 Screen Search Console"
+"Display.YStart" "31"
+""

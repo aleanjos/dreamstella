@@ -1,0 +1,6 @@
+"Cartridge.MD5" "f4204fc92d17ed4cb567c40361ad58f1"
+"Cartridge.Manufacturer" "Inky"
+"Cartridge.Name" "Beanie Baby Bash (Inky) (Hack)"
+"Cartridge.Note" "Hack of Beany Bopper"
+"Cartridge.Rarity" "Hack"
+""

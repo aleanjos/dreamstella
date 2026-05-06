@@ -1,0 +1,6 @@
+"Cartridge.MD5" "72db1194b1cc7d45b242f25eb1c148d3"
+"Cartridge.Name" "Pac-Man (1981) (Atari) (Hack)"
+"Cartridge.Note" "Hack of Pac-Man"
+"Cartridge.Rarity" "Hack"
+"Display.YStart" "33"
+""

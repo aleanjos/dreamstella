@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0546f4e6b946f38956799dd00caab3b1"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "My Golf (Thomas Jentzsch)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Homebrew"
+""

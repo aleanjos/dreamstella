@@ -1,0 +1,6 @@
+"Cartridge.MD5" "aab840db22075aa0f6a6b83a597f8890"
+"Cartridge.Manufacturer" "Home Vision - Gem International Corp. - R.J.P.G."
+"Cartridge.ModelNo" "VCS83124"
+"Cartridge.Name" "Racing Car (1983) (Home Vision) (PAL)"
+"Console.SwapPorts" "YES"
+""

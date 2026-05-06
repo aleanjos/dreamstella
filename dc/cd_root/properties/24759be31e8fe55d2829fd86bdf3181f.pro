@@ -1,0 +1,5 @@
+"Cartridge.MD5" "24759be31e8fe55d2829fd86bdf3181f"
+"Cartridge.Manufacturer" "Hozer Video Games"
+"Cartridge.Name" "Gunfight 2600 - Worst Nightmare... (2001) (MP)"
+"Cartridge.Rarity" "New Release"
+""

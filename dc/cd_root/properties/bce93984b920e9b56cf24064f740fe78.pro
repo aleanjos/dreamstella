@@ -1,0 +1,5 @@
+"Cartridge.MD5" "bce93984b920e9b56cf24064f740fe78"
+"Cartridge.Manufacturer" "Atari, Carol Shaw"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Checkers (32 in 1) (1988) (Atari) (PAL)"
+""

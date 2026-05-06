@@ -1,0 +1,5 @@
+"Cartridge.MD5" "6a82b8ecc663f371b19076d99f46c598"
+"Cartridge.Manufacturer" "Activision, Larry Miller - Ariola"
+"Cartridge.ModelNo" "EAX-026, EAX-026-04B, EAX-026-04I - 711 026-725"
+"Cartridge.Name" "Enduro (1983) (Activision) (PAL)"
+""

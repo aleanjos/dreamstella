@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b83df1f32b4539c324bdf94851b4db55"
+"Cartridge.Manufacturer" "Angelino"
+"Cartridge.Name" "One On One by Angelino (Basketball Hack)"
+"Cartridge.Note" "Hack of Basketball (1978) (Atari)"
+"Cartridge.Rarity" "New Release (Hack)"
+""

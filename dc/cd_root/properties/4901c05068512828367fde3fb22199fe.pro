@@ -1,0 +1,6 @@
+"Cartridge.MD5" "4901c05068512828367fde3fb22199fe"
+"Cartridge.Manufacturer" "Imagic, Rob Fulop"
+"Cartridge.ModelNo" "720101-2B, IA3200P, EIX-006-04I"
+"Cartridge.Name" "Demon Attack (1982) (Imagic) (PAL)"
+"Cartridge.Note" "AKA Death from Above"
+""

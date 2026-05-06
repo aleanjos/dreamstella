@@ -1,0 +1,8 @@
+"Cartridge.MD5" "96eccc2277043508a6c481ea432d7dd9"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Missile Command (CX-80 Trackball) (2002) (TJ) (PAL)"
+"Cartridge.Note" "Uses CX-80 Trackball Controller"
+"Cartridge.Rarity" "Homebrew"
+"Controller.Left" "TRACKBALL80"
+"Display.Phosphor" "YES"
+""

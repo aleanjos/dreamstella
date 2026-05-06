@@ -1,0 +1,5 @@
+"Cartridge.MD5" "fca4a5be1251927027f2c24774a02160"
+"Cartridge.Manufacturer" "Activision, John Van Ryzin"
+"Cartridge.ModelNo" "AZ-036-04"
+"Cartridge.Name" "H.E.R.O. (1984) (Activision)"
+""

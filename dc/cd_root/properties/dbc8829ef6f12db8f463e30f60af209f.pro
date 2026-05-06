@@ -1,0 +1,7 @@
+"Cartridge.MD5" "dbc8829ef6f12db8f463e30f60af209f"
+"Cartridge.Manufacturer" "Data Age"
+"Cartridge.ModelNo" "DA1001"
+"Cartridge.Name" "Encounter at L-5 (1982) (Data Age)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES"
+""

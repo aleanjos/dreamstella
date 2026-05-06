@@ -1,0 +1,6 @@
+"Cartridge.MD5" "579baa6a4aa44f035d245908ea7a044d"
+"Cartridge.Manufacturer" "Jess Ragan"
+"Cartridge.Name" "Galaxian Enhanced Graphics (Jess Ragan) (Hack)"
+"Cartridge.Note" "Hack of Galaxian"
+"Cartridge.Rarity" "Hack"
+""

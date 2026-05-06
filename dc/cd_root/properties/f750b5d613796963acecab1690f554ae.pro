@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f750b5d613796963acecab1690f554ae"
+"Cartridge.Manufacturer" "Manuel Polik"
+"Cartridge.Name" "Gunfight 2600 (MP)"
+"Cartridge.Rarity" "New Release"
+""

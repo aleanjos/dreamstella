@@ -1,0 +1,7 @@
+"Cartridge.MD5" "03ff9e8a7af437f16447fe88cea3226c"
+"Cartridge.Manufacturer" "Bomb - Onbase"
+"Cartridge.ModelNo" "CA285"
+"Cartridge.Name" "Wall-Defender (1983) (Bomb)"
+"Cartridge.Note" "AKA Wall Break"
+"Display.YStart" "30"
+""

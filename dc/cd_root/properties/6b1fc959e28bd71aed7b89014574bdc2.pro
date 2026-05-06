@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6b1fc959e28bd71aed7b89014574bdc2"
+"Cartridge.Manufacturer" "Bit Corporation"
+"Cartridge.ModelNo" "PG203"
+"Cartridge.Name" "Phantom Tank (1982) (BitCorp) (PAL)"
+"Cartridge.Note" "AKA Phantom-Panzer"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "b29359f7de62fed6e6ad4c948f699df8"
+"Cartridge.Manufacturer" "Puzzy - Bit Corporation"
+"Cartridge.ModelNo" "PG203"
+"Cartridge.Name" "Phantom Tank (1982) (Puzzy) (PAL)"
+""

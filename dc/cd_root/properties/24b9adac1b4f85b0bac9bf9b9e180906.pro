@@ -1,0 +1,6 @@
+"Cartridge.MD5" "24b9adac1b4f85b0bac9bf9b9e180906"
+"Cartridge.Manufacturer" "Angelino"
+"Cartridge.Name" "Space 2002 (Angelino) (Hack)"
+"Cartridge.Note" "Hack of Space Jockey"
+"Cartridge.Rarity" "Hack"
+""

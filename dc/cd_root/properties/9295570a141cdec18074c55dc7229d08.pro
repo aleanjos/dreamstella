@@ -1,0 +1,5 @@
+"Cartridge.MD5" "9295570a141cdec18074c55dc7229d08"
+"Cartridge.Manufacturer" "Telegames"
+"Cartridge.ModelNo" "7045 A015"
+"Cartridge.Name" "Bump 'n' Jump (1989) (Telegames) (PAL)"
+""

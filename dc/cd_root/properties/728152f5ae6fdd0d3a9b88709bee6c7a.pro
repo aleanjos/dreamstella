@@ -1,0 +1,5 @@
+"Cartridge.MD5" "728152f5ae6fdd0d3a9b88709bee6c7a"
+"Cartridge.Manufacturer" "Spectravideo, Mark Turmell"
+"Cartridge.ModelNo" "SA-217"
+"Cartridge.Name" "Gas Hog (1983) (Spectravideo)"
+""

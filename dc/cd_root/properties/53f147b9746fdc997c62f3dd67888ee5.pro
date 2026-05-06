@@ -1,0 +1,5 @@
+"Cartridge.MD5" "53f147b9746fdc997c62f3dd67888ee5"
+"Cartridge.Manufacturer" "Activision, Bob Whitehead"
+"Cartridge.ModelNo" "AG-011"
+"Cartridge.Name" "Stampede (1981) (Activision) (8K)"
+""

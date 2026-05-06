@@ -1,0 +1,5 @@
+"Cartridge.MD5" "0dd4c69b5f9a7ae96a7a08329496779a"
+"Cartridge.Manufacturer" "Tigervision, Karl T. Olinger - Teldec"
+"Cartridge.ModelNo" "7-001 - 3.60001 VE"
+"Cartridge.Name" "King Kong (1982) (Tigervision) (PAL)"
+""

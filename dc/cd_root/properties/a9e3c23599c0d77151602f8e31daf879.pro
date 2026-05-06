@@ -1,0 +1,6 @@
+"Cartridge.MD5" "a9e3c23599c0d77151602f8e31daf879"
+"Cartridge.Name" "Kung Fu Master (Genesis)"
+"Cartridge.Note" "Genesis controller (C is extra kick modes)"
+"Cartridge.Rarity" "Hack of Kung Fu Master"
+"Controller.Left" "GENESIS"
+""

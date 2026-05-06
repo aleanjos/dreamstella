@@ -1,0 +1,5 @@
+"Cartridge.MD5" "0956285e24a18efa10c68a33846ca84d"
+"Cartridge.Manufacturer" "Dismac"
+"Cartridge.Name" "Viagem Espacial (Dismac)"
+"Cartridge.Note" "AKA Star Voyager"
+""

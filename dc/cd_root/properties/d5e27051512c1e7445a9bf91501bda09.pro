@@ -1,0 +1,5 @@
+"Cartridge.MD5" "d5e27051512c1e7445a9bf91501bda09"
+"Cartridge.Manufacturer" "Activision, David Crane"
+"Cartridge.ModelNo" "AG-008"
+"Cartridge.Name" "Laser Blast (1981) (Activision) (4K)"
+""

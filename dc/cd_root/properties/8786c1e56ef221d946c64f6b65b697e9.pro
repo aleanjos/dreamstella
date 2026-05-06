@@ -1,0 +1,5 @@
+"Cartridge.MD5" "8786c1e56ef221d946c64f6b65b697e9"
+"Cartridge.Manufacturer" "20th Century Fox Video Games, David Lubar"
+"Cartridge.ModelNo" "11015"
+"Cartridge.Name" "AKA Space Adventure"
+""

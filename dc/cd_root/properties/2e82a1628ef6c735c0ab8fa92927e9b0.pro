@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2e82a1628ef6c735c0ab8fa92927e9b0"
+"Cartridge.Manufacturer" "Atari, Jerome Domurat, Peter C. Niday, Robert Vieira"
+"Cartridge.ModelNo" "CX26109"
+"Cartridge.Name" "Sorcerer's Apprentice (1983) (Atari) (PAL)"
+""

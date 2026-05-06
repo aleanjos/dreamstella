@@ -1,0 +1,6 @@
+"Cartridge.MD5" "1bc2427ac9b032a52fe527c7b26ce22c"
+"Cartridge.Manufacturer" "Intellivision Productions - M Network, Bruce Pedersen, Larry Zwick"
+"Cartridge.ModelNo" "MT5860"
+"Cartridge.Name" "Sea Battle (1983) (M Network)"
+"Cartridge.Note" "High Seas"
+""

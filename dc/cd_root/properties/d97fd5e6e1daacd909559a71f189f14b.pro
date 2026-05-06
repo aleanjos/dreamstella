@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d97fd5e6e1daacd909559a71f189f14b"
+"Cartridge.Manufacturer" "M Network, Steve Crandall, Patricia Lewis Du Long"
+"Cartridge.ModelNo" "MT4646"
+"Cartridge.Name" "Rocky & Bullwinkle (04-20-1983) (M Network) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "b9d1e3be30b131324482345959aed5e5"
+"Cartridge.Manufacturer" "Activision, Rex Bradford"
+"Cartridge.Name" "Kabobber (07-25-1983) (Activision) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

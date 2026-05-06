@@ -1,0 +1,6 @@
+"Cartridge.MD5" "efa1098c7d091b940c2543abe372f036"
+"Cartridge.Manufacturer" "Scott Stilphen"
+"Cartridge.Name" "E.T. The Extra-Terrestrial (Scott Stilphen) (Hack)"
+"Cartridge.Note" "Hack of E.T. The Extra-Terrestrial"
+"Cartridge.Rarity" "Hack"
+""

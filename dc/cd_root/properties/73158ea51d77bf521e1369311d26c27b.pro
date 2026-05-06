@@ -1,0 +1,5 @@
+"Cartridge.MD5" "73158ea51d77bf521e1369311d26c27b"
+"Cartridge.Manufacturer" "Zellers"
+"Cartridge.Name" "Challenge (Zellers)"
+"Display.YStart" "25"
+""

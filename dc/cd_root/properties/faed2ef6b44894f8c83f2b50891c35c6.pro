@@ -1,0 +1,6 @@
+"Cartridge.MD5" "faed2ef6b44894f8c83f2b50891c35c6"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.Name" "Super Baseball (CCE)"
+"Cartridge.Note" "AKA RealSports Baseball"
+"Display.YStart" "26"
+""

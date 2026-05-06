@@ -1,0 +1,5 @@
+"Cartridge.MD5" "665b8f8ead0eef220ed53886fbd61ec9"
+"Cartridge.Manufacturer" "Telesys, Don 'Donyo' Ruffcorn, Jack Woodman"
+"Cartridge.ModelNo" "1003"
+"Cartridge.Name" "Fast Food (1982) (Telesys)"
+""

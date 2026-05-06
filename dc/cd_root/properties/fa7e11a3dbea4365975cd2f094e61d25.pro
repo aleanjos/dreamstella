@@ -1,0 +1,6 @@
+"Cartridge.MD5" "fa7e11a3dbea4365975cd2f094e61d25"
+"Cartridge.Manufacturer" "Tim Snider"
+"Cartridge.Name" "Mystery Science Theater 2600 (1999) (Tim Snider) (Hack)"
+"Cartridge.Note" "Hack of Megamania"
+"Cartridge.Rarity" "Hack"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "bda1463e02ae3a6e1107ffe1b572efd2"
+"Cartridge.Manufacturer" "Atari, Nick 'Sandy Maiwald' Turner"
+"Cartridge.ModelNo" "CX26111"
+"Cartridge.Name" "Snoopy and the Red Baron (1983) (Atari) (PAL) [a]"
+""

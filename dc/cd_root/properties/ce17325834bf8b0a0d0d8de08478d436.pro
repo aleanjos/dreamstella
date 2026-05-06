@@ -1,0 +1,5 @@
+"Cartridge.MD5" "ce17325834bf8b0a0d0d8de08478d436"
+"Cartridge.Name" "Boring Freeway (Hack)"
+"Cartridge.Note" "Hack of Freeway"
+"Cartridge.Rarity" "Hack"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "840a5a2eaea24d95d289f514fd12f9bb"
+"Cartridge.Name" "GBImprov (Hack)"
+"Cartridge.Note" "Hack of Ghostbusters"
+"Cartridge.Rarity" "Hack"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "a1770ef47146ab7b12e2c4beccd68806"
+"Cartridge.Manufacturer" "Digitel"
+"Cartridge.Name" "Kaystone Kapers (1983) (Digitel)"
+"Cartridge.Note" "AKA Keystone Kapers"
+""

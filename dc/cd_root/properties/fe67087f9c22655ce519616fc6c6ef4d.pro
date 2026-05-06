@@ -1,0 +1,6 @@
+"Cartridge.MD5" "fe67087f9c22655ce519616fc6c6ef4d"
+"Cartridge.Manufacturer" "Atari, Randy Bowker"
+"Cartridge.ModelNo" "CX26142"
+"Cartridge.Name" "Crack'ed (11-28-1988) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

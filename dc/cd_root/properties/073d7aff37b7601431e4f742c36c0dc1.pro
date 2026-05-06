@@ -1,0 +1,5 @@
+"Cartridge.MD5" "073d7aff37b7601431e4f742c36c0dc1"
+"Cartridge.Name" "Bermuda (Unknown) (PAL)"
+"Cartridge.Note" "AKA River Raid"
+"Display.YStart" "10"
+""

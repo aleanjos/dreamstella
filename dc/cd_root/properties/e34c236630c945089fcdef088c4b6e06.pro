@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e34c236630c945089fcdef088c4b6e06"
+"Cartridge.Manufacturer" "Activision, David Crane - Ariola"
+"Cartridge.ModelNo" "EAB-035-04 - 711 035-720"
+"Cartridge.Name" "Pitfall II (1983) (Activision) (PAL)"
+"Cartridge.Note" "Lost Caverns"
+""

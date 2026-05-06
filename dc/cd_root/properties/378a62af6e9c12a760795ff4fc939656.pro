@@ -1,0 +1,6 @@
+"Cartridge.MD5" "378a62af6e9c12a760795ff4fc939656"
+"Cartridge.Manufacturer" "Atari - Axlon, Steve DeFrisco"
+"Cartridge.ModelNo" "CX26171"
+"Cartridge.Name" "MotoRodeo (1990) (Atari)"
+"Display.Phosphor" "YES"
+""

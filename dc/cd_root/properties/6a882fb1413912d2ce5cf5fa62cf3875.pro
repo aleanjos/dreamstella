@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6a882fb1413912d2ce5cf5fa62cf3875"
+"Cartridge.Manufacturer" "Video Game Cartridge - Ariola"
+"Cartridge.ModelNo" "TP-605"
+"Cartridge.Name" "Dragon Defender (Ariola) (PAL)"
+"Display.Phosphor" "YES"
+""

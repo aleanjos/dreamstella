@@ -1,0 +1,6 @@
+"Cartridge.MD5" "1e85f8bccb4b866d4daa9fcf89306474"
+"Cartridge.Manufacturer" "Atari, Tod Frye"
+"Cartridge.ModelNo" "CX26122"
+"Cartridge.Name" "Sinistar (02-13-1984) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

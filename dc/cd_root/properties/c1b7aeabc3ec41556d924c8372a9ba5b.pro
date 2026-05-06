@@ -1,0 +1,6 @@
+"Cartridge.MD5" "c1b7aeabc3ec41556d924c8372a9ba5b"
+"Cartridge.Manufacturer" "Atari, Robert C. Polaro"
+"Cartridge.Name" "Dukes of Hazard (1980) (Atari) (Prototype)"
+"Cartridge.Note" "AKA Stunt Cycle"
+"Cartridge.Rarity" "Prototype"
+""

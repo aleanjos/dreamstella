@@ -1,0 +1,5 @@
+"Cartridge.MD5" "47464694e9cce07fdbfd096605bf39d4"
+"Cartridge.Manufacturer" "Activision, Dan Kitchen"
+"Cartridge.ModelNo" "EAK-050-04"
+"Cartridge.Name" "Double Dragon (1989) (Activision) (PAL) [a]"
+""

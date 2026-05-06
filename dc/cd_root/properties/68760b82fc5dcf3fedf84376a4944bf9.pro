@@ -1,0 +1,6 @@
+"Cartridge.MD5" "68760b82fc5dcf3fedf84376a4944bf9"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-860"
+"Cartridge.Name" "Laser Gate (1983) (CCE)"
+"Cartridge.Note" "AKA Innerspace"
+""

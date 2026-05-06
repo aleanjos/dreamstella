@@ -1,0 +1,6 @@
+"Cartridge.MD5" "36306070f0c90a72461551a7a4f3a209"
+"Cartridge.Manufacturer" "U.S. Games Corporation, Roger Booth, Sylvia Day, Ron Dubren, Todd Marshall, Wes Trager, Henry Will IV"
+"Cartridge.ModelNo" "VC1007"
+"Cartridge.Name" "Name This Game (1982) (U.S. Games)"
+"Cartridge.Note" "AKA Guardians of Treasure, Octopussy"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "6a2c68f7a77736ba02c0f21a6ba0985b"
+"Cartridge.Manufacturer" "Atari, Larry Wagner, Bob Whitehead"
+"Cartridge.Name" "Computer Chess (07-07-1978) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

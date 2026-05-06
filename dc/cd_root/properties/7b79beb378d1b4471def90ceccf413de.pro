@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7b79beb378d1b4471def90ceccf413de"
+"Cartridge.Name" "Pitfall Cupcake (Hack)"
+"Cartridge.Note" "Hack of Pitfall"
+"Cartridge.Rarity" "Hack"
+""

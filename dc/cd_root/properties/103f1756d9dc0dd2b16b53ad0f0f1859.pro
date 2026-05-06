@@ -1,0 +1,5 @@
+"Cartridge.MD5" "103f1756d9dc0dd2b16b53ad0f0f1859"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "732.174 8"
+"Cartridge.Name" "Go Go Home Monster (1983) (Quelle) (PAL)"
+""

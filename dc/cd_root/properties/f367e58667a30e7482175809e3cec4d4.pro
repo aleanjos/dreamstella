@@ -1,0 +1,7 @@
+"Cartridge.MD5" "f367e58667a30e7482175809e3cec4d4"
+"Cartridge.Manufacturer" "ZiMAG - Emag - Vidco"
+"Cartridge.ModelNo" "708-111 - GN-040"
+"Cartridge.Name" "Cosmic Corridor (1983) (ZiMAG)"
+"Cartridge.Note" "AKA Space Tunnel"
+"Display.Height" "220"
+""

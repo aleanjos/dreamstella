@@ -1,0 +1,7 @@
+"Cartridge.MD5" "fa6fe97a10efb9e74c0b5a816e6e1958"
+"Cartridge.Manufacturer" "ZiMAG - Emag - Vidco"
+"Cartridge.ModelNo" "707-111 - GN-030"
+"Cartridge.Name" "Tanks But No Tanks (1983) (ZiMAG)"
+"Cartridge.Note" "AKA Phantom Tank"
+"Display.YStart" "30"
+""

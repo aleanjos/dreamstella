@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7481f0771bff13885b2ff2570cf90d7b"
+"Cartridge.Manufacturer" "Arcadia Corporation, Brian McGhie"
+"Cartridge.ModelNo" "AR-4104"
+"Cartridge.Name" "Rabbit Transit (1983) (Arcadia) (PAL)"
+""

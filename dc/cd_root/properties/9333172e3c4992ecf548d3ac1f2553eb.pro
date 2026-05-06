@@ -1,0 +1,6 @@
+"Cartridge.MD5" "9333172e3c4992ecf548d3ac1f2553eb"
+"Cartridge.Manufacturer" "Konami"
+"Cartridge.ModelNo" "RC 101-X 02"
+"Cartridge.Name" "Strategy X (1983) (Konami)"
+"Display.YStart" "30"
+""

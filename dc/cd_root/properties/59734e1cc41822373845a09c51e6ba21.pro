@@ -1,0 +1,5 @@
+"Cartridge.MD5" "59734e1cc41822373845a09c51e6ba21"
+"Cartridge.Manufacturer" "Activision, John Van Ryzin"
+"Cartridge.ModelNo" "AG-038-04"
+"Cartridge.Name" "Cosmic Commuter (1984) (Activision) (8K)"
+""

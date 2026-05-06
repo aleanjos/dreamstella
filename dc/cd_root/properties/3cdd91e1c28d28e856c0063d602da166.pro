@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3cdd91e1c28d28e856c0063d602da166"
+"Cartridge.Name" "Stell-A-Sketch (03-11-1997) (Bob Colbert) (PD)"
+"Display.YStart" "20"
+"Display.Phosphor" "YES"
+""

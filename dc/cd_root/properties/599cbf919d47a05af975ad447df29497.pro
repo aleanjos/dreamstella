@@ -1,0 +1,5 @@
+"Cartridge.MD5" "599cbf919d47a05af975ad447df29497"
+"Cartridge.Manufacturer" "Jake Patterson"
+"Cartridge.Name" "Baubles (V0.002) (2001) (Jake Patterson) (PD)"
+"Cartridge.Rarity" "Homebrew"
+""

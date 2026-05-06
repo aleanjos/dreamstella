@@ -1,0 +1,6 @@
+"Cartridge.MD5" "fec0c2e2ab0588ed20c750b58cf3baa3"
+"Cartridge.Manufacturer" "Activision, David Rolfe - Cheshire Engineering"
+"Cartridge.ModelNo" "EAZ-037-04, EAZ-037-04I"
+"Cartridge.Name" "Beamrider (1984) (Activision) (PAL)"
+"Cartridge.Rarity" "Rare"
+""

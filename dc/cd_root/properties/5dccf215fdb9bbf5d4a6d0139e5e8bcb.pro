@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5dccf215fdb9bbf5d4a6d0139e5e8bcb"
+"Cartridge.Manufacturer" "Froggo"
+"Cartridge.ModelNo" "FG1009"
+"Cartridge.Name" "Sea Hunt (1987) (Froggo)"
+"Cartridge.Note" "AKA Skindiver"
+""

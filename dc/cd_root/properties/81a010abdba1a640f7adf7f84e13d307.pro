@@ -1,0 +1,7 @@
+"Cartridge.MD5" "81a010abdba1a640f7adf7f84e13d307"
+"Cartridge.Manufacturer" "Telegames"
+"Cartridge.ModelNo" "7062 A305"
+"Cartridge.Name" "Universal Chaos (1989) (Telegames)"
+"Cartridge.Note" "AKA Targ"
+"Display.Phosphor" "YES"
+""

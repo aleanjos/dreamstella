@@ -1,0 +1,7 @@
+"Cartridge.MD5" "b6166f15720fdf192932f1f76df5b65d"
+"Cartridge.Manufacturer" "Amiga"
+"Cartridge.ModelNo" "3130"
+"Cartridge.Name" "Off Your Rocker (1983) (Amiga) (Prototype)"
+"Cartridge.Note" "Uses the Amiga Joyboard"
+"Display.YStart" "27"
+""

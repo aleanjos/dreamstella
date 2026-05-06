@@ -1,0 +1,5 @@
+"Cartridge.MD5" "5a9d188245aff829efde816fcade0b16"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-808"
+"Cartridge.Name" "Phantom Tank (1983) (CCE) (PAL)"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "740a7fa80f52cc7287ba37677afb6b21"
+"Cartridge.Name" "Double Dragon (PAL) (Genesis)"
+"Cartridge.Note" "Genesis controller (C is jumpkick)"
+"Cartridge.Rarity" "Hack of Double Dragon"
+"Controller.Left" "GENESIS"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "32244e55ce6ec6bfbd763f33384bdc2e"
+"Cartridge.Manufacturer" "Activision, Steve Cartwright"
+"Cartridge.ModelNo" "AX-027"
+"Cartridge.Name" "Plaque Attack (1983) (Activision) (16K)"
+""

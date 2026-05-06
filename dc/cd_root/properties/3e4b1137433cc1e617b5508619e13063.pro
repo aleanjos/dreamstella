@@ -1,0 +1,7 @@
+"Cartridge.MD5" "3e4b1137433cc1e617b5508619e13063"
+"Cartridge.Name" "Asteroids (Genesis)"
+"Cartridge.Note" "Genesis controller (C is hyperspace)"
+"Cartridge.Rarity" "Hack of Asteroids"
+"Controller.Left" "GENESIS"
+"Display.Phosphor" "YES"
+""

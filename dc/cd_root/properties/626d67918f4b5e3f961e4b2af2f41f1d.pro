@@ -1,0 +1,5 @@
+"Cartridge.MD5" "626d67918f4b5e3f961e4b2af2f41f1d"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "50008"
+"Cartridge.Name" "Diagnostic Test Cartridge 2.0 (1980) (Atari) (Prototype)"
+""

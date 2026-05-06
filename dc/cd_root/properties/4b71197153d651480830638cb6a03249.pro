@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4b71197153d651480830638cb6a03249"
+"Cartridge.Manufacturer" "Atari, Larry Kaplan"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Bowling (32 in 1) (1988) (Atari) (PAL) (4K)"
+""

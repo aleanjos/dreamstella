@@ -1,0 +1,6 @@
+"Cartridge.MD5" "1bef389e3dd2d4ca4f2f60d42c932509"
+"Cartridge.Manufacturer" "Dimax - Sinmax"
+"Cartridge.ModelNo" "SM8001"
+"Cartridge.Name" "Space Robot (1983) (Dimax - Sinmax) (PAL)"
+"Display.Phosphor" "YES"
+""

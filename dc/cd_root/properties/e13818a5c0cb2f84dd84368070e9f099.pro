@@ -1,0 +1,8 @@
+"Cartridge.MD5" "e13818a5c0cb2f84dd84368070e9f099"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-839"
+"Cartridge.Name" "Misterious Thief, A (1983) (CCE)"
+"Cartridge.Note" "AKA A Mysterious Thief"
+"Display.Height" "216"
+"Display.Phosphor" "YES"
+""

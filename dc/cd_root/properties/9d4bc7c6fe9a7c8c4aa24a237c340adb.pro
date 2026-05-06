@@ -1,0 +1,7 @@
+"Cartridge.MD5" "9d4bc7c6fe9a7c8c4aa24a237c340adb"
+"Cartridge.Manufacturer" "Dennis Debro"
+"Cartridge.Name" "Climber 5 (16-04-2003) (Dennis Debro)"
+"Cartridge.Note" "For Philly Classic 4"
+"Cartridge.Rarity" "Homebrew"
+"Display.YStart" "28"
+""

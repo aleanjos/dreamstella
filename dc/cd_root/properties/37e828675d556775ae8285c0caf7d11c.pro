@@ -1,0 +1,7 @@
+"Cartridge.MD5" "37e828675d556775ae8285c0caf7d11c"
+"Cartridge.Manufacturer" "AtariAge - Fred Quimby"
+"Cartridge.Name" "Gingerbread Man (Fred Quimby) (Genesis)"
+"Cartridge.Note" "Genesis controller (C throws cookie)"
+"Cartridge.Rarity" "New Release"
+"Controller.Left" "GENESIS"
+""

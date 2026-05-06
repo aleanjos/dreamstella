@@ -1,0 +1,5 @@
+"Cartridge.MD5" "c47b7389e76974fd0de3f088fea35576"
+"Cartridge.Manufacturer" "Funvision - Fund. International Co."
+"Cartridge.Name" "Mighty Mouse (Funvision)"
+"Cartridge.Note" "AKA Gopher"
+""

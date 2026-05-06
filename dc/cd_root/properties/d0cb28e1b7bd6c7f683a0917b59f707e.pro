@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d0cb28e1b7bd6c7f683a0917b59f707e"
+"Cartridge.Manufacturer" "Atari, Gary Palmer"
+"Cartridge.ModelNo" "CX2661P"
+"Cartridge.Name" "Fun with Numbers (1980) (Atari) (PAL) (4K)"
+"Cartridge.Note" "AKA Basic Math"
+""

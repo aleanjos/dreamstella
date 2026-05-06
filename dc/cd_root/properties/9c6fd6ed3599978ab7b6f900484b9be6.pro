@@ -1,0 +1,6 @@
+"Cartridge.MD5" "9c6fd6ed3599978ab7b6f900484b9be6"
+"Cartridge.Manufacturer" "Andrew Wallace"
+"Cartridge.Name" "Laseresal 2002 (PAL60) (PD)"
+"Cartridge.Rarity" "New Release"
+"Display.Format" "PAL60"
+""

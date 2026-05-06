@@ -1,0 +1,6 @@
+"Cartridge.MD5" "54f7efa6428f14b9f610ad0ca757e26c"
+"Cartridge.Manufacturer" "Apollo - Games by Apollo, Steve Stringfellow"
+"Cartridge.ModelNo" "AP-2005"
+"Cartridge.Name" "Shark Attack (1982) (Apollo)"
+"Cartridge.Note" "AKA Lochjaw"
+""

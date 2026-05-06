@@ -1,0 +1,8 @@
+"Cartridge.MD5" "d9da2ae7c7894a29b43b3c6b79f3b7a2"
+"Cartridge.Manufacturer" "Atari, Rob Fulop"
+"Cartridge.ModelNo" "CX2633, CX2633P"
+"Cartridge.Name" "Night Driver (1980) (Atari) (PAL) (4K)"
+"Cartridge.Note" "Uses the Paddle Controllers (left only)"
+"Controller.Left" "PADDLES"
+"Display.Phosphor" "YES"
+""

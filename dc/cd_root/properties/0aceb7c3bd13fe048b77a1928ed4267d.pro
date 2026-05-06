@@ -1,0 +1,5 @@
+"Cartridge.MD5" "0aceb7c3bd13fe048b77a1928ed4267d"
+"Cartridge.Manufacturer" "Imagic, Bob Smith"
+"Cartridge.ModelNo" "720102-2B, IA3201P, EIX-011-04I"
+"Cartridge.Name" "Star Voyager (1982) (Imagic) (PAL)"
+""

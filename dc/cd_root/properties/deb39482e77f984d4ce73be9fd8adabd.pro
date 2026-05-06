@@ -1,0 +1,5 @@
+"Cartridge.MD5" "deb39482e77f984d4ce73be9fd8adabd"
+"Cartridge.Manufacturer" "Activision, David Lubar"
+"Cartridge.ModelNo" "AK-048-04"
+"Cartridge.Name" "River Raid II (1988) (Activision) [a]"
+""

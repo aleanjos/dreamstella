@@ -1,0 +1,6 @@
+"Cartridge.MD5" "3d48b8b586a09bdbf49f1a016bf4d29a"
+"Cartridge.Manufacturer" "Video Game Cartridge - Ariola"
+"Cartridge.ModelNo" "TP-606"
+"Cartridge.Name" "Hole Hunter (Video Game Cartridge)"
+"Cartridge.Note" "AKA Topy"
+""

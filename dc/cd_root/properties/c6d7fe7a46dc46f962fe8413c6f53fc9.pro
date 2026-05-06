@@ -1,0 +1,8 @@
+"Cartridge.MD5" "c6d7fe7a46dc46f962fe8413c6f53fc9"
+"Cartridge.Manufacturer" "Parker Brothers, Mark Lesser"
+"Cartridge.ModelNo" "PB5950"
+"Cartridge.Name" "Lord of the Rings (1983) (Parker Bros) (Prototype) [a]"
+"Cartridge.Note" "Journey to Rivendell (The Lord of the Rings I)"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "26"
+""

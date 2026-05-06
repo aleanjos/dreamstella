@@ -1,0 +1,5 @@
+"Cartridge.MD5" "203049f4d8290bb4521cc4402415e737"
+"Cartridge.Manufacturer" "Tigervision, Robert H. O'Neil - Teldec"
+"Cartridge.ModelNo" "7-007 - 3.60005 VG"
+"Cartridge.Name" "Polaris (1983) (Tigervision) (PAL)"
+""

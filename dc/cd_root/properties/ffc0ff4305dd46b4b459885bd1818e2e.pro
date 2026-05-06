@@ -1,0 +1,6 @@
+"Cartridge.MD5" "ffc0ff4305dd46b4b459885bd1818e2e"
+"Cartridge.Manufacturer" "Barry Laws Jr."
+"Cartridge.Name" "Star Wars - The Battle of Alderaan (Star Strike Hack)"
+"Cartridge.Note" "Hack of Star Strike (Mattel)"
+"Cartridge.Rarity" "New Release (Hack)"
+""

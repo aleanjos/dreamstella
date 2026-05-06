@@ -1,0 +1,7 @@
+"Cartridge.MD5" "df40af244a8d68b492bfba9e97dea4d6"
+"Cartridge.Manufacturer" "Franklin Cruz"
+"Cartridge.Name" "Asteroids 2 (Franlin Cruz) (Hack)"
+"Cartridge.Note" "Hack of Asteroids"
+"Cartridge.Rarity" "Hack"
+"Display.Phosphor" "YES"
+""

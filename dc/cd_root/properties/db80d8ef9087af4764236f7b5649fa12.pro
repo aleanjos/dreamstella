@@ -1,0 +1,6 @@
+"Cartridge.MD5" "db80d8ef9087af4764236f7b5649fa12"
+"Cartridge.Manufacturer" "M Network, Steve Crandall, Patricia Lewis Du Long"
+"Cartridge.ModelNo" "MT4646"
+"Cartridge.Name" "Rocky & Bullwinkle (1983) (Mattel) (Prototype) (4K)"
+"Cartridge.Rarity" "Prototype"
+""

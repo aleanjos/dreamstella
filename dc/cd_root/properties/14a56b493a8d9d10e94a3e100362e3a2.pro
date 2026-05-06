@@ -1,0 +1,5 @@
+"Cartridge.MD5" "14a56b493a8d9d10e94a3e100362e3a2"
+"Cartridge.Manufacturer" "Hozer Video Games"
+"Cartridge.Name" "Gunfight 2600 - Early Play-kernel (2001) (MP)"
+"Cartridge.Rarity" "New Release"
+""

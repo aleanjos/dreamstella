@@ -1,0 +1,8 @@
+"Cartridge.MD5" "ce8467ae2a3a5bc88ca72a2ce44ce28c"
+"Cartridge.Manufacturer" "SOLID Corp. (D. Scott Williamson)"
+"Cartridge.ModelNo" "CX2655-015"
+"Cartridge.Name" "Star Castle 2600 (SolidCorp) (PAL) [015]"
+"Cartridge.Note" "http://starcastle2600.blogspot.com/p/star-castle-2600-story.html"
+"Cartridge.Rarity" "Homebrew"
+"Display.Phosphor" "YES"
+""

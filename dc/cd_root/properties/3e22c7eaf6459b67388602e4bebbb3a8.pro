@@ -1,0 +1,6 @@
+"Cartridge.MD5" "3e22c7eaf6459b67388602e4bebbb3a8"
+"Cartridge.Manufacturer" "CommaVid, John Bronstein - Ariola"
+"Cartridge.ModelNo" "CM-003 - 712 003-720"
+"Cartridge.Name" "Cosmic Swarm (1982) (CommaVid) (PAL) (4K)"
+"Cartridge.Note" "AKA Angriff der Termiten"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "007d18dedc1f0565f09c42aa61a6f585"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-843"
+"Cartridge.Name" "Worm War I (1983) (CCE)"
+""

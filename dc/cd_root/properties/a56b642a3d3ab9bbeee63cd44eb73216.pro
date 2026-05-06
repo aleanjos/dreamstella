@@ -1,0 +1,5 @@
+"Cartridge.MD5" "a56b642a3d3ab9bbeee63cd44eb73216"
+"Cartridge.Manufacturer" "Carrere Video, Sylvia Day, Henry Will IV - Teldec"
+"Cartridge.ModelNo" "USC2001"
+"Cartridge.Name" "Gopher (1983) (Carrere Video) (PAL)"
+""

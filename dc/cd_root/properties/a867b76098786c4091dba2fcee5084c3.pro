@@ -1,0 +1,6 @@
+"Cartridge.MD5" "a867b76098786c4091dba2fcee5084c3"
+"Cartridge.Name" "Dragrace (Hack)"
+"Cartridge.Note" "Hack of Dragster"
+"Cartridge.Rarity" "Hack"
+"Display.YStart" "27"
+""

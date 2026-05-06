@@ -1,0 +1,6 @@
+"Cartridge.MD5" "ef263d40a23483ab339cac44d9515a56"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Fatal Run (TJ)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Homebrew"
+""

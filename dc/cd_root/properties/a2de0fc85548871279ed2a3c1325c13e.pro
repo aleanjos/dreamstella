@@ -1,0 +1,7 @@
+"Cartridge.MD5" "a2de0fc85548871279ed2a3c1325c13e"
+"Cartridge.Manufacturer" "George Veeder"
+"Cartridge.Name" "Cat and Mouse (George Veeder) (Hack)"
+"Cartridge.Note" "Hack of Pac-Man"
+"Cartridge.Rarity" "Hack"
+"Display.YStart" "33"
+""

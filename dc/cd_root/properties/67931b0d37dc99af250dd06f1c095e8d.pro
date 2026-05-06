@@ -1,0 +1,7 @@
+"Cartridge.MD5" "67931b0d37dc99af250dd06f1c095e8d"
+"Cartridge.Manufacturer" "CommaVid, Irwin Gaines"
+"Cartridge.ModelNo" "CM-004"
+"Cartridge.Name" "Room of Doom (1982) (CommaVid)"
+"Display.YStart" "24"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "fe9ae625d924b54c9f8a14ac9a0f6c6d"
+"Cartridge.Manufacturer" "BG Dodson"
+"Cartridge.Name" "High Bid! (BG Dodson) (Hack)"
+"Cartridge.Note" "Hack of Pepsi Invaders"
+"Cartridge.Rarity" "Hack"
+""

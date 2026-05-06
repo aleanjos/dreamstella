@@ -1,0 +1,8 @@
+"Cartridge.MD5" "5db9e5bf663cad6bf159bc395f6ead53"
+"Cartridge.Manufacturer" "Goliath - Hot Shot"
+"Cartridge.ModelNo" "83-212"
+"Cartridge.Name" "Time Race (1983) (Goliath) (PAL)"
+"Cartridge.Note" "AKA Space Jockey"
+"Display.YStart" "48"
+"Display.Height" "256"
+""

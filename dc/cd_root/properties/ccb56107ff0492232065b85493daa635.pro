@@ -1,0 +1,7 @@
+"Cartridge.MD5" "ccb56107ff0492232065b85493daa635"
+"Cartridge.Manufacturer" "Bit Corporation"
+"Cartridge.ModelNo" "PG206 [demonstration cartridge]"
+"Cartridge.Name" "Bobby Is Going Home (1983) (BitCorp) (PAL) [demo cart]"
+"Cartridge.Note" "AKA Bobby geht Heim"
+"Display.YStart" "40"
+""

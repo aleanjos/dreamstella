@@ -1,0 +1,6 @@
+"Cartridge.MD5" "cf507910d6e74568a68ac949537bccf9"
+"Cartridge.Manufacturer" "Sega, Jeff Lorenz"
+"Cartridge.ModelNo" "003-01"
+"Cartridge.Name" "Thunderground (1983) (Sega)"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f74ad642552385c3daa203a2a6fc2291"
+"Cartridge.Manufacturer" "Eckhard Stolberg"
+"Cartridge.Name" "Cubis (1997) (Eckhard Stolberg)"
+"Cartridge.Rarity" "New Release"
+""

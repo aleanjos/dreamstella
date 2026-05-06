@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e8e7b9bdf4bf04930c2bcaa0278ee637"
+"Cartridge.Name" "Boring Taz (Hack)"
+"Cartridge.Note" "Hack of Taz"
+"Cartridge.Rarity" "Hack"
+""

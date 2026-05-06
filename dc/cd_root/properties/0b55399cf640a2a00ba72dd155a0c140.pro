@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0b55399cf640a2a00ba72dd155a0c140"
+"Cartridge.Manufacturer" "Imagic, Wilfredo 'Willy' Aguilar, Michael Becker, Rob Fulop"
+"Cartridge.ModelNo" "720111-1A, 03205"
+"Cartridge.Name" "Fathom (1983) (Imagic)"
+"Display.Phosphor" "YES"
+""

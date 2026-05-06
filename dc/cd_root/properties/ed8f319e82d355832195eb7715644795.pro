@@ -1,0 +1,8 @@
+"Cartridge.MD5" "ed8f319e82d355832195eb7715644795"
+"Cartridge.Manufacturer" "Activision, Larry Kaplan, David Crane"
+"Cartridge.ModelNo" "AG-010, AG-010-04"
+"Cartridge.Name" "Kaboom! (1981) (Activision) (8K)"
+"Cartridge.Note" "Uses the Paddle Controllers (left only)"
+"Controller.Left" "PADDLES"
+"Controller.MouseAxis" "01"
+""

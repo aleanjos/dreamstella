@@ -1,0 +1,8 @@
+"Cartridge.MD5" "cbe5a166550a8129a5e6d374901dffad"
+"Cartridge.Manufacturer" "Atari, Carla Meninsky - Sears"
+"Cartridge.ModelNo" "CX2610 - 49-75127"
+"Cartridge.Name" "Warlords (1981) (Atari)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES"
+"Controller.Right" "PADDLES"
+""

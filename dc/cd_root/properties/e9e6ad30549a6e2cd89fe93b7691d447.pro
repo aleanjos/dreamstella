@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e9e6ad30549a6e2cd89fe93b7691d447"
+"Cartridge.Manufacturer" "Atari, Robert C. Polaro"
+"Cartridge.ModelNo" "CX26140, CX26140P"
+"Cartridge.Name" "Desert Falcon (05-27-1987) (Atari) (Prototype) (PAL)"
+"Cartridge.Rarity" "Prototype"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "ca4f8c5b4d6fb9d608bb96bc7ebd26c7"
+"Cartridge.Manufacturer" "M Network, Hal Finney, Glenn Hightower, Peter Kaminski - INTV"
+"Cartridge.ModelNo" "MT4317"
+"Cartridge.Name" "Adventures of TRON (1982) (M Network)"
+"Cartridge.Rarity" "Uncommon"
+""

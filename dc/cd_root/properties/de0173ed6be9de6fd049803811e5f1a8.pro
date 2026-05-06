@@ -1,0 +1,5 @@
+"Cartridge.MD5" "de0173ed6be9de6fd049803811e5f1a8"
+"Cartridge.Manufacturer" "Xonox - K-Tel Software, Anthony R. Henderson"
+"Cartridge.ModelNo" "99008, 6240"
+"Cartridge.Name" "Motocross Racer (1983) (Xonox)"
+""

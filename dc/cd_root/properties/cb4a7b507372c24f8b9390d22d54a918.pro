@@ -1,0 +1,6 @@
+"Cartridge.MD5" "cb4a7b507372c24f8b9390d22d54a918"
+"Cartridge.Manufacturer" "ITT Family Games"
+"Cartridge.ModelNo" "554-37 338"
+"Cartridge.Name" "Peter Penguin (1983) (ITT Family Games) (PAL)"
+"Cartridge.Note" "AKA Frisco (Pumuckl-Serie)"
+""

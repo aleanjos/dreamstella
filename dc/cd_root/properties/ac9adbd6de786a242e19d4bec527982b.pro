@@ -1,0 +1,5 @@
+"Cartridge.MD5" "ac9adbd6de786a242e19d4bec527982b"
+"Cartridge.Manufacturer" "Activision, Alan Miller - Ariola"
+"Cartridge.ModelNo" "EAG-012-04I, EAX-012, EAX-012-04B - 711 012-720"
+"Cartridge.Name" "Ice Hockey (1981) (Activision) (PAL)"
+""

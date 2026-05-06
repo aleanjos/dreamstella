@@ -1,0 +1,6 @@
+"Cartridge.MD5" "ce5cc62608be2cd3ed8abd844efb8919"
+"Cartridge.Manufacturer" "Atari, Robert C. Polaro"
+"Cartridge.ModelNo" "CX2663"
+"Cartridge.Name" "Road Runner (1989) (Atari)"
+"Display.YStart" "20"
+""

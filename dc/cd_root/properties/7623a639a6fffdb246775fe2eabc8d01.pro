@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7623a639a6fffdb246775fe2eabc8d01"
+"Cartridge.Manufacturer" "Activision, Bob Whitehead"
+"Cartridge.ModelNo" "AG-005, CAG-005, AG-005-04"
+"Cartridge.Name" "Skiing (1980) (Activision) (8K)"
+""

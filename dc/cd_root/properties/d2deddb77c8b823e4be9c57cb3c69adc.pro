@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d2deddb77c8b823e4be9c57cb3c69adc"
+"Cartridge.Manufacturer" "Canal 3 - Intellivision"
+"Cartridge.ModelNo" "C 3007"
+"Cartridge.Name" "Snoopy and the Red Baron (Canal 3)"
+"Cartridge.Rarity" "Prototype"
+""

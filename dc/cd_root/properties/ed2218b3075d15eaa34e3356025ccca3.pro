@@ -1,0 +1,6 @@
+"Cartridge.MD5" "ed2218b3075d15eaa34e3356025ccca3"
+"Cartridge.Manufacturer" "Atari, Richard Maurer"
+"Cartridge.ModelNo" "CX2635, CX2635P"
+"Cartridge.Name" "Maze Craze (1980) (Atari) (PAL)"
+"Display.Format" "PAL"
+""

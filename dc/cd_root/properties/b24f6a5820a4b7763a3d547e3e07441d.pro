@@ -1,0 +1,5 @@
+"Cartridge.MD5" "b24f6a5820a4b7763a3d547e3e07441d"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-823"
+"Cartridge.Name" "Demon Attack (1983) (CCE)"
+""

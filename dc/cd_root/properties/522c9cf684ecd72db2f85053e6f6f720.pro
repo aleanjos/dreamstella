@@ -1,0 +1,6 @@
+"Cartridge.MD5" "522c9cf684ecd72db2f85053e6f6f720"
+"Cartridge.Manufacturer" "Rainbow Vision - Suntek"
+"Cartridge.ModelNo" "SS-008"
+"Cartridge.Name" "Year 1999, The (Rainbow Vision) (PAL)"
+"Cartridge.Note" "AKA Condor Attack"
+""

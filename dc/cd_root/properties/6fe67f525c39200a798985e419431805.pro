@@ -1,0 +1,5 @@
+"Cartridge.MD5" "6fe67f525c39200a798985e419431805"
+"Cartridge.Manufacturer" "Atari - GCC, Kevin Osborn"
+"Cartridge.ModelNo" "CX2689, CX2689P"
+"Cartridge.Name" "Kangaroo (1983) (Atari) (PAL)"
+""

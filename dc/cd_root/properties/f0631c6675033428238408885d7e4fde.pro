@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f0631c6675033428238408885d7e4fde"
+"Cartridge.Manufacturer" "Paul Slocum"
+"Cartridge.Name" "Test Cart (2002) (Paul Slocum)"
+"Display.Phosphor" "YES"
+""

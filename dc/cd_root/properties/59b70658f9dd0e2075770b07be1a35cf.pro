@@ -1,0 +1,6 @@
+"Cartridge.MD5" "59b70658f9dd0e2075770b07be1a35cf"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Surfer's Paradise (Thomas Jentzsch)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Homebrew"
+""

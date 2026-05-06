@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0eecb5f58f55de9db4eedb3a0f6b74a8"
+"Cartridge.Manufacturer" "Xonox - Beck-Tech"
+"Cartridge.ModelNo" "6210, 06002, 06004, 99002"
+"Cartridge.Name" "Ghost Manor (1983) (Xonox) (4K)"
+"Display.YStart" "30"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "4fc1b85b8074b4b9436d097900e34f29"
+"Cartridge.Manufacturer" "John K. Harvey"
+"Cartridge.Name" "John K. Harvey's Equalizer (John K. Harvey)"
+"Cartridge.Rarity" "New Release"
+"Display.Phosphor" "YES"
+""

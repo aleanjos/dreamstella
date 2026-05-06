@@ -1,0 +1,7 @@
+"Cartridge.MD5" "acb962473185d7a652f90ed6591ae13b"
+"Cartridge.Manufacturer" "Imagic, Dennis Koble"
+"Cartridge.ModelNo" "IA3203, IX-010-04"
+"Cartridge.Name" "Atlantis (1982) (Imagic) (16K)"
+"Cartridge.Note" "AKA Lost City of Atlantis"
+"Cartridge.Rarity" "Uncommon"
+""

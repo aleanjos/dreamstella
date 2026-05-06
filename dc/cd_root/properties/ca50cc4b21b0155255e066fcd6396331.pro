@@ -1,0 +1,7 @@
+"Cartridge.MD5" "ca50cc4b21b0155255e066fcd6396331"
+"Cartridge.Manufacturer" "Suntek"
+"Cartridge.ModelNo" "SS-031"
+"Cartridge.Name" "UFO Patrol (Suntek) (PAL)"
+"Cartridge.Note" "AKA X'Mission"
+"Display.Phosphor" "YES"
+""

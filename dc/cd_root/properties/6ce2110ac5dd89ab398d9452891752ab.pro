@@ -1,0 +1,5 @@
+"Cartridge.MD5" "6ce2110ac5dd89ab398d9452891752ab"
+"Cartridge.Manufacturer" "Funvision - Fund. International Co."
+"Cartridge.Name" "Persian Gulf War (Funvision)"
+"Cartridge.Note" "AKA River Raid"
+""

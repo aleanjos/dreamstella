@@ -1,0 +1,8 @@
+"Cartridge.MD5" "7d940d749e55b96b7b746519fa06f2de"
+"Cartridge.Manufacturer" "Arcadia Corporation, Dennis Caswell"
+"Cartridge.ModelNo" "AR-4302"
+"Cartridge.Name" "Party Mix (Preview) (1983) (Arcadia) (PAL)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES"
+"Controller.Right" "PADDLES"
+""

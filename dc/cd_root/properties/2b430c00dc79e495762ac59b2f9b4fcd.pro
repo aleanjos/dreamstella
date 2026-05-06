@@ -1,0 +1,6 @@
+"Cartridge.MD5" "2b430c00dc79e495762ac59b2f9b4fcd"
+"Cartridge.Manufacturer" "Activision, David Crane"
+"Cartridge.ModelNo" "AX-018, AX-018-04"
+"Cartridge.Name" "Pitfall! (1982) (Activision) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

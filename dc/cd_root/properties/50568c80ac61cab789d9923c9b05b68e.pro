@@ -1,0 +1,5 @@
+"Cartridge.MD5" "50568c80ac61cab789d9923c9b05b68e"
+"Cartridge.Manufacturer" "Ebivision"
+"Cartridge.Name" "Merlin's Walls - Standard Edition (1999) (Ebivision)"
+"Cartridge.Note" "Image rotated 90 degrees CW"
+""

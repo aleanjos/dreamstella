@@ -1,0 +1,5 @@
+"Cartridge.MD5" "cade123747426df69570a2bc871d3baf"
+"Cartridge.Manufacturer" "Gakken"
+"Cartridge.ModelNo" "011"
+"Cartridge.Name" "Marine Wars (1983) (Gakken) (PAL)"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "92a1a605b7ad56d863a56373a866761b"
+"Cartridge.Manufacturer" "U.S. Games Corporation, Dave Hampton"
+"Cartridge.ModelNo" "VC2006"
+"Cartridge.Name" "Raft Rider (1982) (U.S. Games)"
+""

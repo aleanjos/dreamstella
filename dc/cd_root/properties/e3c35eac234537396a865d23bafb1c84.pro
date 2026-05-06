@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e3c35eac234537396a865d23bafb1c84"
+"Cartridge.Manufacturer" "TechnoVision"
+"Cartridge.ModelNo" "TVS1001"
+"Cartridge.Name" "Nuts (1983) (TechnoVision) (PAL)"
+""

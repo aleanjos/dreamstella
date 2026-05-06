@@ -1,0 +1,5 @@
+"Cartridge.MD5" "39a6a5a2e1f6297cceaa48bb03af02e9"
+"Cartridge.Name" "Pitfall 2 Plus (Hack)"
+"Cartridge.Note" "Hack of Pitfall 2"
+"Cartridge.Rarity" "Hack"
+""

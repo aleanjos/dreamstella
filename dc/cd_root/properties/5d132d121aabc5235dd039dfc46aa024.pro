@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5d132d121aabc5235dd039dfc46aa024"
+"Cartridge.Name" "Basketball (208 in 1) (Unknown) (PAL) (Hack)"
+"Cartridge.Note" "Console ports are swapped"
+"Cartridge.Rarity" "Hack"
+"Console.SwapPorts" "YES"
+""

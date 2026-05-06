@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5643ee916f7dc760148fca4db3aa7d10"
+"Cartridge.Name" "Moon Patrol (Genesis)"
+"Cartridge.Note" "Genesis controller (C is jump)"
+"Cartridge.Rarity" "Hack of Moon Patrol"
+"Controller.Left" "GENESIS"
+""

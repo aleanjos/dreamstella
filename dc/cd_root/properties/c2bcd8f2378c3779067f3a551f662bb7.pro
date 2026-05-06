@@ -1,0 +1,5 @@
+"Cartridge.MD5" "c2bcd8f2378c3779067f3a551f662bb7"
+"Cartridge.Manufacturer" "Activision, Bob Whitehead - Ariola"
+"Cartridge.ModelNo" "EAG-002, EAG-002-04I, PAG-002 - 711 002-715"
+"Cartridge.Name" "Boxing (1980) (Activision) (PAL) (4K)"
+""

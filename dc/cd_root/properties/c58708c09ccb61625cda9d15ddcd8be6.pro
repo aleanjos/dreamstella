@@ -1,0 +1,6 @@
+"Cartridge.MD5" "c58708c09ccb61625cda9d15ddcd8be6"
+"Cartridge.Manufacturer" "SPIKE the Percussionist"
+"Cartridge.Name" "NOIZ Invaders (SPIKE) (2002) (Hack)"
+"Cartridge.Note" "Hack of Space Invaders"
+"Cartridge.Rarity" "Hack"
+""

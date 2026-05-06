@@ -1,0 +1,7 @@
+"Cartridge.MD5" "de78b3a064d374390ac0710f95edde92"
+"Cartridge.Manufacturer" "Bomb - Onbase"
+"Cartridge.ModelNo" "CA281"
+"Cartridge.Name" "Assault (1983) (Bomb)"
+"Cartridge.Note" "AKA Sky Alien"
+"Cartridge.Rarity" "Extremely Rare"
+""

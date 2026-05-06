@@ -1,0 +1,6 @@
+"Cartridge.MD5" "060c865c782debb047e6fd101c8923fc"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Freeway Rabbit (32 in 1) (1988) (Atari) (PAL) (4K)"
+"Cartridge.Note" "AKA Freeway"
+""

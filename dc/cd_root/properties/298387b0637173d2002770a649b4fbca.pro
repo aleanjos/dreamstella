@@ -1,0 +1,6 @@
+"Cartridge.MD5" "298387b0637173d2002770a649b4fbca"
+"Cartridge.Name" "S.I.PLIX 2 (Hack) [a]"
+"Cartridge.Note" "Hack of Kaboom!"
+"Cartridge.Rarity" "Hack"
+"Controller.Left" "PADDLES"
+""

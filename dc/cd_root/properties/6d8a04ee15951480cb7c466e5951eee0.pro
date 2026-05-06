@@ -1,0 +1,5 @@
+"Cartridge.MD5" "6d8a04ee15951480cb7c466e5951eee0"
+"Cartridge.Manufacturer" "Zirok"
+"Cartridge.Name" "Kanguru (1983) (Zirok)"
+"Cartridge.Note" "AKA Kangaroo"
+""

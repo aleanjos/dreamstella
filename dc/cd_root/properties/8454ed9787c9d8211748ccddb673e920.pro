@@ -1,0 +1,6 @@
+"Cartridge.MD5" "8454ed9787c9d8211748ccddb673e920"
+"Cartridge.Manufacturer" "Froggo"
+"Cartridge.ModelNo" "FG1002"
+"Cartridge.Name" "Spiderdroid (1987) (Froggo)"
+"Cartridge.Note" "AKA Amidar"
+""

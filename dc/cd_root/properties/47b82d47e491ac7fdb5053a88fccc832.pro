@@ -1,0 +1,7 @@
+"Cartridge.MD5" "47b82d47e491ac7fdb5053a88fccc832"
+"Cartridge.Manufacturer" "Atari Freak 1, Franklin Cruz"
+"Cartridge.Name" "Asteroid 2 (Atari Freak 1) (Hack)"
+"Cartridge.Note" "Hack of Asteroids"
+"Cartridge.Rarity" "Hack"
+"Display.Phosphor" "YES"
+""

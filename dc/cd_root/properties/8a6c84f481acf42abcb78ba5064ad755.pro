@@ -1,0 +1,8 @@
+"Cartridge.MD5" "8a6c84f481acf42abcb78ba5064ad755"
+"Cartridge.Manufacturer" "128-in-1 Junior Console"
+"Cartridge.Name" "Street Racer (128-in-1 Junior Console) (PAL) (4K)"
+"Cartridge.Note" "Uses the Paddle Controllers (swapped)"
+"Controller.Left" "PADDLES"
+"Controller.SwapPaddles" "YES"
+"Controller.MouseAxis" "10"
+""

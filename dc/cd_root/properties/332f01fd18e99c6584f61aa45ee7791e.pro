@@ -1,0 +1,5 @@
+"Cartridge.MD5" "332f01fd18e99c6584f61aa45ee7791e"
+"Cartridge.Name" "X'Mission (Unknown) (PAL)"
+"Display.YStart" "0"
+"Display.Phosphor" "YES"
+""

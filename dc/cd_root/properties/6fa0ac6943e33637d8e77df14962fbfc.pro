@@ -1,0 +1,5 @@
+"Cartridge.MD5" "6fa0ac6943e33637d8e77df14962fbfc"
+"Cartridge.Manufacturer" "Imagic, Rob Fulop"
+"Cartridge.Name" "Cubicolor (1982) (Imagic) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

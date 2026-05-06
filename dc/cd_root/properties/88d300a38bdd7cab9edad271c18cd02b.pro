@@ -1,0 +1,5 @@
+"Cartridge.MD5" "88d300a38bdd7cab9edad271c18cd02b"
+"Cartridge.Manufacturer" "Funvision - Fund. Int'l Co."
+"Cartridge.Name" "Pac Kong (Funvision) (PAL)"
+"Cartridge.Note" "AKA Spider Kong"
+""

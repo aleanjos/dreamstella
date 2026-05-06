@@ -1,0 +1,7 @@
+"Cartridge.MD5" "eeb92f3f46df841487d1504f2896d61a"
+"Cartridge.Manufacturer" "Cody Pittman"
+"Cartridge.Name" "Corys Adventure (Cody Pittman) (Hack)"
+"Cartridge.Note" "Hack of Pac-Man"
+"Cartridge.Rarity" "Hack"
+"Display.YStart" "33"
+""

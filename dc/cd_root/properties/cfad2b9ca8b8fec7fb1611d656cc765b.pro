@@ -1,0 +1,7 @@
+"Cartridge.MD5" "cfad2b9ca8b8fec7fb1611d656cc765b"
+"Cartridge.Manufacturer" "Bit Corporation"
+"Cartridge.ModelNo" "PG207"
+"Cartridge.Name" "Mission 3,000 A.D. (1983) (BitCorp) (PAL) [demo cart]"
+"Cartridge.Note" "demonstration cartridge"
+"Display.Phosphor" "YES"
+""

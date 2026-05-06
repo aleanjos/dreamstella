@@ -1,0 +1,5 @@
+"Cartridge.MD5" "55ef7b65066428367844342ed59f956c"
+"Cartridge.Manufacturer" "Atari, Joe Gaucher, Alex Leavens"
+"Cartridge.ModelNo" "CX2683"
+"Cartridge.Name" "Crazy Climber (1982) (Atari)"
+""

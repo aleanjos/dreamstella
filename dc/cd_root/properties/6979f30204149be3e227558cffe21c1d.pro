@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6979f30204149be3e227558cffe21c1d"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Miniaturer Golf (32 in 1) (1988) (Atari) (PAL) (4K)"
+"Cartridge.Note" "AKA Miniature Golf"
+""

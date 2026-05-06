@@ -1,0 +1,5 @@
+"Cartridge.MD5" "8a8e401369e2b63a13e18a4d685387c6"
+"Cartridge.Manufacturer" "Activision, David Crane - Ariola"
+"Cartridge.ModelNo" "EAG-008, PAG-008, EAG-008-04I - 711 008-720"
+"Cartridge.Name" "Laser Blast (1981) (Activision) (PAL)"
+""

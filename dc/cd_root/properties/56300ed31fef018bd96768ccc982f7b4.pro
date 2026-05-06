@@ -1,0 +1,5 @@
+"Cartridge.MD5" "56300ed31fef018bd96768ccc982f7b4"
+"Cartridge.Manufacturer" "HES - Activision"
+"Cartridge.ModelNo" "559"
+"Cartridge.Name" "Rad Action Pak - Kung-Fu Master, Freeway, Frostbite (1990) (HES) (PAL)"
+""

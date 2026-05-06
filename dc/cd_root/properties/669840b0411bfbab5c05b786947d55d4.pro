@@ -1,0 +1,5 @@
+"Cartridge.MD5" "669840b0411bfbab5c05b786947d55d4"
+"Cartridge.Manufacturer" "Atari, Andrew Fuchs, Jeffrey Gusman, Dave Jolly, Suki Lee"
+"Cartridge.ModelNo" "CX26117"
+"Cartridge.Name" "Obelix (1983) (Atari) (PAL) [a]"
+""

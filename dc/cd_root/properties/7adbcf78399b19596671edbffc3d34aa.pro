@@ -1,0 +1,6 @@
+"Cartridge.MD5" "7adbcf78399b19596671edbffc3d34aa"
+"Cartridge.Manufacturer" "Atari, Joseph Tung"
+"Cartridge.ModelNo" "CX26152"
+"Cartridge.Name" "Super Baseball (1988) (Atari)"
+"Display.YStart" "30"
+""

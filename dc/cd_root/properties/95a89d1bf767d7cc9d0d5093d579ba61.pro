@@ -1,0 +1,6 @@
+"Cartridge.MD5" "95a89d1bf767d7cc9d0d5093d579ba61"
+"Cartridge.Manufacturer" "PlayAround - J.H.M."
+"Cartridge.ModelNo" "204"
+"Cartridge.Name" "Lady in Wading (1982) (PlayAround)"
+"Display.Phosphor" "YES"
+""

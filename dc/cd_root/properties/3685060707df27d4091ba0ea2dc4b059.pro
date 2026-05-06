@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3685060707df27d4091ba0ea2dc4b059"
+"Cartridge.Name" "PezZerk - PezMan in Ghost Manor (Hack)"
+"Cartridge.Note" "Hack of Berzerk"
+"Cartridge.Rarity" "Hack"
+""

@@ -1,0 +1,8 @@
+"Cartridge.MD5" "c541a5f6fc23b40a211196dd78233780"
+"Cartridge.Manufacturer" "Atari, Carla Meninsky - Sears"
+"Cartridge.ModelNo" "CX2660 - 49-75187"
+"Cartridge.Name" "Star Raiders (1981) (Atari) (Prototype)"
+"Cartridge.Note" "Uses Joystick (left) and Keypad (right) Controllers"
+"Cartridge.Rarity" "Prototype"
+"Controller.Right" "KEYBOARD"
+""

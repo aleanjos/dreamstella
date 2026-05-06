@@ -1,0 +1,6 @@
+"Cartridge.MD5" "071f84d10b343c7c05ce3e32af631687"
+"Cartridge.Manufacturer" "Videospielkassette - Ariola"
+"Cartridge.ModelNo" "PGP233"
+"Cartridge.Name" "Krieg der Sterne (Ariola) (PAL)"
+"Cartridge.Note" "AKA Atlantis"
+""

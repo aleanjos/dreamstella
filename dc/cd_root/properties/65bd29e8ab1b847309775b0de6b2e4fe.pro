@@ -1,0 +1,5 @@
+"Cartridge.MD5" "65bd29e8ab1b847309775b0de6b2e4fe"
+"Cartridge.Manufacturer" "Coleco, Ed English"
+"Cartridge.ModelNo" "2667"
+"Cartridge.Name" "Roc 'n Rope (1984) (Coleco)"
+""

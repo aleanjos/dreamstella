@@ -1,0 +1,5 @@
+"Cartridge.MD5" "aeb104f1e7b166bc0cbaca0a968fde51"
+"Cartridge.Name" "Ms. Pac-Man (1999) (Hack)"
+"Cartridge.Note" "Hack of Ms. Pac-Man"
+"Cartridge.Rarity" "Hack"
+""

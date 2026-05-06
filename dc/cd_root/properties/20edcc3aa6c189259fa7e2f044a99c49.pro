@@ -1,0 +1,5 @@
+"Cartridge.MD5" "20edcc3aa6c189259fa7e2f044a99c49"
+"Cartridge.Manufacturer" "Spectravision, Spectravideo"
+"Cartridge.ModelNo" "SA-201"
+"Cartridge.Name" "Gangster Alley (1982) (Spectravision)"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "ede4ab11ca346bd023b2c21d941e0c50"
+"Cartridge.Manufacturer" "Activision, David Crane"
+"Cartridge.ModelNo" "EAZ-030"
+"Cartridge.Name" "Decathlon (1983) (Activision) (SECAM)"
+"Display.Format" "SECAM"
+""

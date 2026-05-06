@@ -1,0 +1,5 @@
+"Cartridge.MD5" "30997031b668e37168d4d0e299ccc46f"
+"Cartridge.Name" "John K Harvey's Equalizer (PAL) (PD)"
+"Cartridge.Rarity" "New Release"
+"Display.Phosphor" "YES"
+""

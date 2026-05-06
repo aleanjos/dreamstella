@@ -1,0 +1,5 @@
+"Cartridge.MD5" "9fc2d1627dcdd8925f4c042e38eb0bc9"
+"Cartridge.Manufacturer" "Atari - GCC, Mike Feinstein, John Allred"
+"Cartridge.ModelNo" "CX2688, CX2688P"
+"Cartridge.Name" "Jungle Hunt (1983) (Atari) (PAL)"
+""

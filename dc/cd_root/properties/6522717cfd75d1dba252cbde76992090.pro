@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6522717cfd75d1dba252cbde76992090"
+"Cartridge.Manufacturer" "Home Vision - Gem International Corp."
+"Cartridge.ModelNo" "VCS83102"
+"Cartridge.Name" "War 2000 (1983) (Home Vision) (PAL)"
+"Cartridge.Note" "AKA Astrowar"
+""

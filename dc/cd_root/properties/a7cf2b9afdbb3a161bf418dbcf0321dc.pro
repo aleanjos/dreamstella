@@ -1,0 +1,7 @@
+"Cartridge.MD5" "a7cf2b9afdbb3a161bf418dbcf0321dc"
+"Cartridge.Manufacturer" "Barry Laws Jr."
+"Cartridge.Name" "Attack Of The Mutant Space Urchins (2002) (Barry Laws Jr.) (Hack)"
+"Cartridge.Note" "Hack of Alien"
+"Cartridge.Rarity" "Hack"
+"Display.Phosphor" "YES"
+""

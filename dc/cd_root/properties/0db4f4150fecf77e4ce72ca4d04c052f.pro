@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0db4f4150fecf77e4ce72ca4d04c052f"
+"Cartridge.Manufacturer" "Atari, Carol Shaw - Sears"
+"Cartridge.ModelNo" "CX2618 - 49-75123"
+"Cartridge.Name" "3-D Tic-Tac-Toe (1980) (Atari)"
+"Cartridge.Rarity" "Uncommon"
+""

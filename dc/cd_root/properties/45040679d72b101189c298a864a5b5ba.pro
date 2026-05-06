@@ -1,0 +1,5 @@
+"Cartridge.MD5" "45040679d72b101189c298a864a5b5ba"
+"Cartridge.Manufacturer" "20th Century Fox Video Games, David Lubar"
+"Cartridge.ModelNo" "11022"
+"Cartridge.Name" "SpaceMaster X-7 (1983) (20th Century Fox)"
+""

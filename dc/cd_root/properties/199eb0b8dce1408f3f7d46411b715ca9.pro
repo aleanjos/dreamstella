@@ -1,0 +1,6 @@
+"Cartridge.MD5" "199eb0b8dce1408f3f7d46411b715ca9"
+"Cartridge.Manufacturer" "Parker Brothers, David Lamkins, Laura Nikolich"
+"Cartridge.ModelNo" "PB5900"
+"Cartridge.Name" "Spider-Man (1982) (Parker Bros)"
+"Display.YStart" "30"
+""

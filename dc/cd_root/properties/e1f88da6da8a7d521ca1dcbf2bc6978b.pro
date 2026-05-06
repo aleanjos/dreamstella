@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e1f88da6da8a7d521ca1dcbf2bc6978b"
+"Cartridge.Manufacturer" "Activision, Bob Whitehead - Ariola"
+"Cartridge.ModelNo" "EAG-005, PAG-005, EAG-005-04B - 711 005-715"
+"Cartridge.Name" "Skiing (1980) (Activision) (PAL) (4K)"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "835759ff95c2cdc2324d7c1e7c5fa237"
+"Cartridge.Manufacturer" "20th Century Fox Video Games, Douglas 'Dallas North' Neubauer"
+"Cartridge.ModelNo" "11011"
+"Cartridge.Name" "M.A.S.H (1983) (20th Century Fox)"
+""

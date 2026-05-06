@@ -1,0 +1,6 @@
+"Cartridge.MD5" "715dd9e0240638d441a3add49316c018"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.Name" "128-in-1 Junior Console (Chip 2 of 4) (1991) (Atari) (PAL)"
+"Cartridge.Note" "Actually contains only 16 games, not 32"
+"Cartridge.Type" "16IN1"
+""

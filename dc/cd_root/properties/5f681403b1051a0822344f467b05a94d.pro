@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5f681403b1051a0822344f467b05a94d"
+"Cartridge.Manufacturer" "Atari, Howard Scott Warshaw - Sears"
+"Cartridge.ModelNo" "CX2655 - 49-75167"
+"Cartridge.Name" "Yars' Revenge (1982) (Atari) [a]"
+"Display.Phosphor" "YES"
+""

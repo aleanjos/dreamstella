@@ -1,0 +1,6 @@
+"Cartridge.MD5" "7eaf009a892f03d90682dc1e67e85f07"
+"Cartridge.Manufacturer" "Fabrizio Zavagli"
+"Cartridge.Name" "Bounce! (18-03-2003) (Fabrizio Zavagli)"
+"Cartridge.Rarity" "Homebrew"
+"Display.Phosphor" "YES"
+""

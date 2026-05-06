@@ -1,0 +1,6 @@
+"Cartridge.MD5" "2cefa695df2ed020899a7df7bb1e3a95"
+"Cartridge.Manufacturer" "Manuel Polik, Fabrizio Zavagli"
+"Cartridge.Name" "A-Team (2002) (Manuel Polik) (Hack)"
+"Cartridge.Note" "Hack of A-Team"
+"Cartridge.Rarity" "Hack"
+""

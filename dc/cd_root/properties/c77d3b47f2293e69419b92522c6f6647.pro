@@ -1,0 +1,7 @@
+"Cartridge.MD5" "c77d3b47f2293e69419b92522c6f6647"
+"Cartridge.Manufacturer" "Panda"
+"Cartridge.ModelNo" "101"
+"Cartridge.Name" "Tank Brigade (1983) (Panda)"
+"Cartridge.Note" "AKA Phantom Tank"
+"Display.YStart" "30"
+""

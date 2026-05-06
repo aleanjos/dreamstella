@@ -1,0 +1,5 @@
+"Cartridge.MD5" "528400fad9a77fd5ad7fc5fdc2b7d69d"
+"Cartridge.Manufacturer" "Arcadia Corporation, Stephen Harland Landrum, Jon Leupp"
+"Cartridge.ModelNo" "AR-4201"
+"Cartridge.Name" "Sword of Saros (1983) (Arcadia)"
+""

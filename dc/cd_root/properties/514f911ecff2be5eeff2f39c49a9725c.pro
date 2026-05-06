@@ -1,0 +1,5 @@
+"Cartridge.MD5" "514f911ecff2be5eeff2f39c49a9725c"
+"Cartridge.Manufacturer" "Parker Brothers"
+"Cartridge.ModelNo" "931510"
+"Cartridge.Name" "Sky Skipper (1983) (Parker Bros) (PAL)"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "72fd08deed1d6195942e0c6f392e9848"
+"Cartridge.Manufacturer" "HES"
+"Cartridge.ModelNo" "0701-406"
+"Cartridge.Name" "2 Pak Special - Wall Defender, Planet Patrol (1990) (HES) (PAL)"
+""

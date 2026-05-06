@@ -1,0 +1,6 @@
+"Cartridge.MD5" "7b5207e68ee85b16998bea861987c690"
+"Cartridge.Manufacturer" "Atari, Carol Shaw"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "3-D Tic-Tac-Toe (32 in 1) (1988) (Atari) (PAL)"
+"Display.YStart" "62"
+""

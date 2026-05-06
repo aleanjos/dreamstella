@@ -1,0 +1,5 @@
+"Cartridge.MD5" "ab10f2974dee73dab4579f0cab35fca6"
+"Cartridge.Manufacturer" "ITT Family Games"
+"Cartridge.Name" "Wilma Wanderer (1983) (ITT Family Games) (PAL)"
+"Cartridge.Note" "AKA Lilly Adventure"
+""

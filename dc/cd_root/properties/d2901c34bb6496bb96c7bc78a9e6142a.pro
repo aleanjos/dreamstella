@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d2901c34bb6496bb96c7bc78a9e6142a"
+"Cartridge.Manufacturer" "Greg Zumwalt"
+"Cartridge.Name" "Fish Revenge (2003) (Greg Zumwalt) (Hack)"
+"Cartridge.Note" "Hack of Space Invaders"
+"Cartridge.Rarity" "Hack"
+""

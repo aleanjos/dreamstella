@@ -1,0 +1,6 @@
+"Cartridge.MD5" "685e9668dc270b6deeb9cfbfd4d633c3"
+"Cartridge.Manufacturer" "CommaVid, Irwin Gaines - Ariola"
+"Cartridge.ModelNo" "CM-004 - 712 004-720"
+"Cartridge.Name" "Room of Doom (1982) (CommaVid) (PAL)"
+"Display.Phosphor" "YES"
+""

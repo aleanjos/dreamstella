@@ -1,0 +1,6 @@
+"Cartridge.MD5" "1a613ce60fc834d4970e1e674b9196b3"
+"Cartridge.Manufacturer" "Home Vision - Gem International Corp."
+"Cartridge.ModelNo" "VCS83135"
+"Cartridge.Name" "Tanks War (1983) (Home Vision) (PAL)"
+"Cartridge.Note" "AKA Phantom Tank"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "ee28424af389a7f3672182009472500c"
+"Cartridge.Manufacturer" "Atari, Carol Shaw - Ralph Lauren"
+"Cartridge.Name" "Polo (1978) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

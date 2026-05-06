@@ -1,0 +1,7 @@
+"Cartridge.MD5" "a204cd4fb1944c86e800120706512a64"
+"Cartridge.Manufacturer" "Coleco"
+"Cartridge.ModelNo" "2511"
+"Cartridge.Name" "Smurfs Save the Day (1983) (Coleco)"
+"Cartridge.Note" "Uses the Kid Vid Controller"
+"Controller.Right" "KIDVID"
+""

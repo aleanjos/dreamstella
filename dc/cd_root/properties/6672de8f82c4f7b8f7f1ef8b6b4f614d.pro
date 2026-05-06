@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6672de8f82c4f7b8f7f1ef8b6b4f614d"
+"Cartridge.Manufacturer" "Videospielkassette - Ariola"
+"Cartridge.ModelNo" "PGP237"
+"Cartridge.Name" "Angeln I (Ariola) (PAL)"
+"Cartridge.Note" "AKA Fishing Derby"
+""

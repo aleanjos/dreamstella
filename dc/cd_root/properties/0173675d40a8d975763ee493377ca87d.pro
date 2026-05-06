@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0173675d40a8d975763ee493377ca87d"
+"Cartridge.Manufacturer" "CBS Electronics, Ed English"
+"Cartridge.ModelNo" "4L1751"
+"Cartridge.Name" "Roc 'n Rope (1984) (CBS Electronics) (PAL)"
+"Display.YStart" "50"
+""

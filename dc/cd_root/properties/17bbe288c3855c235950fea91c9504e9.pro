@@ -1,0 +1,5 @@
+"Cartridge.MD5" "17bbe288c3855c235950fea91c9504e9"
+"Cartridge.Manufacturer" "Dismac"
+"Cartridge.Name" "Pega Ladrao (Dismac)"
+"Cartridge.Note" "AKA Keystone Kapers"
+""

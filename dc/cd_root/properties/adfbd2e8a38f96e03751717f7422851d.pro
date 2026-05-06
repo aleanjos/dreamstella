@@ -1,0 +1,7 @@
+"Cartridge.MD5" "adfbd2e8a38f96e03751717f7422851d"
+"Cartridge.Manufacturer" "Champ Games"
+"Cartridge.Name" "Lady Bug (NTSC)"
+"Cartridge.Rarity" "Homebrew"
+"Console.RightDifficulty" "A"
+"Display.Phosphor" "YES"
+""

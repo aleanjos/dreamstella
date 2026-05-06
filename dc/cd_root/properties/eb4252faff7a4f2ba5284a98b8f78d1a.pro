@@ -1,0 +1,5 @@
+"Cartridge.MD5" "eb4252faff7a4f2ba5284a98b8f78d1a"
+"Cartridge.Name" "John K Harvey's Equalizer (NTSC) (PD)"
+"Cartridge.Rarity" "New Release"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "a4d026a5c200ef98518ebb77719fe8dc"
+"Cartridge.Manufacturer" "Kyle Pittman"
+"Cartridge.Name" "SpongeBob SquarePants (2003) (Kyle Pittman) (Hack)"
+"Cartridge.Note" "Hack of Revenge of the Beefsteak Tomatoes"
+"Cartridge.Rarity" "Hack"
+""

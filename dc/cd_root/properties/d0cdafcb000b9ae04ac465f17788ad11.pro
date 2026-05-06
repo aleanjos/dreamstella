@@ -1,0 +1,5 @@
+"Cartridge.MD5" "d0cdafcb000b9ae04ac465f17788ad11"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "732.273 8 - 600273, 781644"
+"Cartridge.Name" "Lilly Adventure (1983) (Quelle) (PAL)"
+""

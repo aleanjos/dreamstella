@@ -1,0 +1,7 @@
+"Cartridge.MD5" "a00ee0aed5c8979add4c170f5322c706"
+"Cartridge.Manufacturer" "Barry Laws Jr."
+"Cartridge.Name" "Egghead (Barry Laws Jr.) (Hack)"
+"Cartridge.Note" "Hack of Pac-Man"
+"Cartridge.Rarity" "Hack"
+"Display.YStart" "33"
+""

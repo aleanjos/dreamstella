@@ -1,0 +1,5 @@
+"Cartridge.MD5" "297236cb9156be35679f83c4e38ee169"
+"Cartridge.Manufacturer" "Exus Corporation"
+"Cartridge.Name" "Video Reflex (1983) (Exus) [no roman numbers]"
+"Cartridge.Note" "AKA Foot Craz (no roman numbers)"
+""

@@ -1,0 +1,8 @@
+"Cartridge.MD5" "0ad9a358e361256b94f3fb4f2fa5a3b1"
+"Cartridge.Manufacturer" "Atari, Carol Shaw, Nick 'Sandy Maiwald' Turner - Sears"
+"Cartridge.ModelNo" "CX2608 - 49-75165"
+"Cartridge.Name" "Super Breakout (1982 - 1981) (Atari) [a]"
+"Cartridge.Note" "Uses the Paddle Controllers (left only)"
+"Controller.Left" "PADDLES"
+"Controller.MouseAxis" "01"
+""

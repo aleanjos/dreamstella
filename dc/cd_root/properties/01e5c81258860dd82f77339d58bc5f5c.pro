@@ -1,0 +1,5 @@
+"Cartridge.MD5" "01e5c81258860dd82f77339d58bc5f5c"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.Name" "Corrida da Matematica (CCE)"
+"Cartridge.Note" "AKA Math Gran Prix"
+""

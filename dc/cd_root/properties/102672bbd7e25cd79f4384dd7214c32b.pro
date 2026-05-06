@@ -1,0 +1,8 @@
+"Cartridge.MD5" "102672bbd7e25cd79f4384dd7214c32b"
+"Cartridge.Manufacturer" "Atari, Alan Miller - Sears"
+"Cartridge.ModelNo" "CX2642 - 6-99814"
+"Cartridge.Name" "Hunt & Score - Memory Match (1978) (Atari)"
+"Cartridge.Note" "Uses Keypad Controllers"
+"Controller.Left" "KEYBOARD"
+"Controller.Right" "KEYBOARD"
+""

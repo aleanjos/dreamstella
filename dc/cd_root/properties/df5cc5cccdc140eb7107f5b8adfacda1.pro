@@ -1,0 +1,7 @@
+"Cartridge.MD5" "df5cc5cccdc140eb7107f5b8adfacda1"
+"Cartridge.Manufacturer" "Cracker Jack Productions"
+"Cartridge.Name" "Lumberman (Cracker Jack) (Hack)"
+"Cartridge.Note" "Hack of Pac-Man"
+"Cartridge.Rarity" "Hack"
+"Display.YStart" "33"
+""

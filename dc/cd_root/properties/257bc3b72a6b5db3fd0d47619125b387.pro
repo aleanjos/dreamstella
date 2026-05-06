@@ -1,0 +1,8 @@
+"Cartridge.MD5" "257bc3b72a6b5db3fd0d47619125b387"
+"Cartridge.Manufacturer" "CBS Electronics"
+"Cartridge.ModelNo" "4L 2737 0000"
+"Cartridge.Name" "Omega Race (1983) (CBS Electronics) [a]"
+"Cartridge.Note" "Set right difficulty to 'A' for BoosterGrip in both ports"
+"Controller.Left" "BOOSTERGRIP"
+"Controller.Right" "BOOSTERGRIP"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "bc6432cbed32c695658514c4eb41d905"
+"Cartridge.Manufacturer" "Manuel Polik"
+"Cartridge.Name" "Star Fire (MP) (2002) (PD)"
+"Cartridge.Note" "Won't work with Stella < V1.2"
+"Cartridge.Rarity" "New Release"
+""

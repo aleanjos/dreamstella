@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6015a9cef783e97e98a2aa2cf070ae06"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Battlezone TC (Thomas Jentzsch) (Hack)"
+"Cartridge.Note" "Uses two simultaneous Joystick Controllers, Hack of Battlezone"
+"Cartridge.Rarity" "Hack"
+""

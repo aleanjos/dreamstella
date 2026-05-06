@@ -1,0 +1,7 @@
+"Cartridge.MD5" "f1a0a23e6464d954e3a9579c4ccd01c8"
+"Cartridge.Manufacturer" "20th Century Fox, Douglas 'Dallas North' Neubauer"
+"Cartridge.ModelNo" "11006"
+"Cartridge.Name" "Alien (1982) (20th Century Fox)"
+"Cartridge.Rarity" "Rare"
+"Display.Phosphor" "YES"
+""

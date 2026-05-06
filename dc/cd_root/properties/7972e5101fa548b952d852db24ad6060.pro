@@ -1,0 +1,6 @@
+"Cartridge.MD5" "7972e5101fa548b952d852db24ad6060"
+"Cartridge.Manufacturer" "Atari - Sears"
+"Cartridge.ModelNo" "CX2627 - 6-99841"
+"Cartridge.Name" "Human Cannonball (1979) (Atari)"
+"Cartridge.Note" "AKA Cannon Man"
+""

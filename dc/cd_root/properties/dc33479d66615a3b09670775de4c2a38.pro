@@ -1,0 +1,6 @@
+"Cartridge.MD5" "dc33479d66615a3b09670775de4c2a38"
+"Cartridge.Manufacturer" "Suntek"
+"Cartridge.ModelNo" "SS-033"
+"Cartridge.Name" "I.Q. Memory Teaser (Suntek) (PAL)"
+"Cartridge.Note" "AKA IQ 180"
+""

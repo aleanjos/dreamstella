@@ -1,0 +1,5 @@
+"Cartridge.MD5" "63e42d576800086488679490a833e097"
+"Cartridge.Manufacturer" "Telesys, Jim Rupp"
+"Cartridge.ModelNo" "1004"
+"Cartridge.Name" "Ram It (1982) (Telesys) (PAL)"
+""

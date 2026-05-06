@@ -1,0 +1,6 @@
+"Cartridge.MD5" "640a08e9ca019172d612df22a9190afb"
+"Cartridge.Manufacturer" "Atari - GCC, Mike Feinstein, Kevin Osborn"
+"Cartridge.ModelNo" "CX2691, CX2691P"
+"Cartridge.Name" "Joust (1983) (Atari) (PAL)"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "a34560841e0878c7b14cc65f79f6967d"
+"Cartridge.Manufacturer" "Multivision, Michael Case"
+"Cartridge.Name" "Harem (1982) (Multivision)"
+"Display.YStart" "29"
+""

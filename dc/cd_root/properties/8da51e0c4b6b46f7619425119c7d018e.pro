@@ -1,0 +1,6 @@
+"Cartridge.MD5" "8da51e0c4b6b46f7619425119c7d018e"
+"Cartridge.Manufacturer" "Atari, David Lubar"
+"Cartridge.ModelNo" "CX26183"
+"Cartridge.Name" "Sentinel (1990) (Atari)"
+"Cartridge.Note" "Uses the Light Gun Controller (left only)"
+""

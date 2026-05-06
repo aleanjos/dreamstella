@@ -1,0 +1,7 @@
+"Cartridge.MD5" "ab8d318da4addd39c65b7f9c408df2a6"
+"Cartridge.Name" "Star Trek (Genesis)"
+"Cartridge.Note" "Genesis controller (B is phaser, C is warp)"
+"Cartridge.Rarity" "Hack of Star Trek"
+"Controller.Left" "GENESIS"
+"Display.Phosphor" "YES"
+""

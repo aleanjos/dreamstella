@@ -1,0 +1,6 @@
+"Cartridge.MD5" "898143773824663efe88d0a3a0bb1ba4"
+"Cartridge.Manufacturer" "Activision, Steve 'Jessica' Kitchen"
+"Cartridge.ModelNo" "AZ-033, AZ-033-04"
+"Cartridge.Name" "Space Shuttle (1983) (Activision) [FE]"
+"Cartridge.Note" "A Journey Into Space"
+""

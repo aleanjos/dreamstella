@@ -1,0 +1,5 @@
+"Cartridge.MD5" "391764720140c432aec454a468f77a40"
+"Cartridge.Manufacturer" "Video Game Program"
+"Cartridge.Name" "Miss Pack Man (Video Game Program) (PAL)"
+"Cartridge.Note" "AKA Ms. Pac-Man"
+""

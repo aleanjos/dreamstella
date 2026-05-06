@@ -1,0 +1,7 @@
+"Cartridge.MD5" "045035f995272eb2deb8820111745a07"
+"Cartridge.Manufacturer" "Arcadia Corporation, Steve Mundry, Scott Nelson"
+"Cartridge.ModelNo" "AR-4401"
+"Cartridge.Name" "Survival Island (1983) (Arcadia)"
+"Cartridge.Note" "AKA Jungle Raid"
+"Display.YStart" "30"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6c25f58fd184632ca76020f589bb3767"
+"Cartridge.Manufacturer" "Dynacom"
+"Cartridge.Name" "Beat 'Em & Eat 'Em (1983) (Dynacom)"
+"Cartridge.Note" "Uses the Paddle Controller (left only)"
+"Controller.Left" "PADDLES"
+""

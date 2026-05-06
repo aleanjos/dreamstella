@@ -1,0 +1,5 @@
+"Cartridge.MD5" "94e3fbc19107a169909e274187247a9d"
+"Cartridge.ModelNo" "2402-044-01"
+"Cartridge.Name" "2-in-1 Freeway and Tennis (Unknown)"
+"Cartridge.Type" "2IN1"
+""

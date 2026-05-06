@@ -1,0 +1,6 @@
+"Cartridge.MD5" "1e0ef01e330e5b91387f75f700ccaf8f"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "686.561 2 - 781627"
+"Cartridge.Name" "Mein Weg (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Challenge"
+""

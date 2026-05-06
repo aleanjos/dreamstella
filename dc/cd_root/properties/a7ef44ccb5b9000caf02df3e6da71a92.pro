@@ -1,0 +1,5 @@
+"Cartridge.MD5" "a7ef44ccb5b9000caf02df3e6da71a92"
+"Cartridge.Manufacturer" "Atari, Ian Shepard - Sears"
+"Cartridge.ModelNo" "CX2604 - 6-99812, 49-75106"
+"Cartridge.Name" "Space War (1978) (Atari)"
+""

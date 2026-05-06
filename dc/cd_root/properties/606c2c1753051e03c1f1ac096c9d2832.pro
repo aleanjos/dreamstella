@@ -1,0 +1,5 @@
+"Cartridge.MD5" "606c2c1753051e03c1f1ac096c9d2832"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Crackpots (Jone Yuan)"
+"Cartridge.Note" "2600 Screen Search Console"
+""

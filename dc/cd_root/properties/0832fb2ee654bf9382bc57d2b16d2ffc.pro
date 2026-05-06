@@ -1,0 +1,5 @@
+"Cartridge.MD5" "0832fb2ee654bf9382bc57d2b16d2ffc"
+"Cartridge.Manufacturer" "Apollo, Ed Salvo"
+"Cartridge.ModelNo" "AP-1001"
+"Cartridge.Name" "Skeet Shoot (1981) (Apollo) (PAL)"
+""

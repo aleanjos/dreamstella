@@ -1,0 +1,5 @@
+"Cartridge.MD5" "a7ed7dc5cbc901388afa59030fb11d26"
+"Cartridge.Manufacturer" "Atari, Warren Robinett"
+"Cartridge.ModelNo" "CX2606, CX2606P"
+"Cartridge.Name" "Slot Racers (1978) (Atari) (PAL)"
+""

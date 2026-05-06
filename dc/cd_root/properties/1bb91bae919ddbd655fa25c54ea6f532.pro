@@ -1,0 +1,6 @@
+"Cartridge.MD5" "1bb91bae919ddbd655fa25c54ea6f532"
+"Cartridge.Manufacturer" "Suntek"
+"Cartridge.ModelNo" "SS-026"
+"Cartridge.Name" "Treasure Island (Suntek) (PAL)"
+"Cartridge.Note" "AKA Treasure Discovery"
+""

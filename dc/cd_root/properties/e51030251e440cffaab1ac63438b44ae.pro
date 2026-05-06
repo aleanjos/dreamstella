@@ -1,0 +1,7 @@
+"Cartridge.MD5" "e51030251e440cffaab1ac63438b44ae"
+"Cartridge.Manufacturer" "Parker Brothers, Joe Gaucher, Louis Marbel"
+"Cartridge.ModelNo" "PB5110"
+"Cartridge.Name" "James Bond 007 (1983) (Parker Bros)"
+"Cartridge.Rarity" "Rare"
+"Display.Phosphor" "YES"
+""

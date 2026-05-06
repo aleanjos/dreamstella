@@ -1,0 +1,5 @@
+"Cartridge.MD5" "8b8152d6081f31365406cb716bd95567"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX2626, CX2626P"
+"Cartridge.Name" "Miniature Golf (1979) (Atari) (PAL) (4K)"
+""

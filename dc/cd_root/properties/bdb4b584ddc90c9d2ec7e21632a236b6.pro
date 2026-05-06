@@ -1,0 +1,6 @@
+"Cartridge.MD5" "bdb4b584ddc90c9d2ec7e21632a236b6"
+"Cartridge.Manufacturer" "Atari Freak 1"
+"Cartridge.Name" "Nitemare at Sunshine Bowl-a-Rama (Atari Freak 1) (Hack)"
+"Cartridge.Note" "Hack of Pac-Man Jr."
+"Cartridge.Rarity" "Hack"
+""

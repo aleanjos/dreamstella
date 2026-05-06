@@ -1,0 +1,6 @@
+"Cartridge.MD5" "cedbd67d1ff321c996051eec843f8716"
+"Cartridge.Manufacturer" "Ultravision"
+"Cartridge.ModelNo" "1044"
+"Cartridge.Name" "Karate (1982) (Ultravision)"
+"Display.YStart" "25"
+""

@@ -1,0 +1,7 @@
+"Cartridge.MD5" "afe88aae81d99e0947c0cfb687b16251"
+"Cartridge.Manufacturer" "Apollo - Games by Apollo"
+"Cartridge.ModelNo" "AP-2006"
+"Cartridge.Name" "Infiltrate (1981) (Apollo)"
+"Display.YStart" "29"
+"Display.Phosphor" "YES"
+""

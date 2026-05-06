@@ -1,0 +1,6 @@
+"Cartridge.MD5" "fcea12625c071ddc49f4e409f4038c60"
+"Cartridge.Manufacturer" "Fabrizio Zavagli"
+"Cartridge.Name" "Balls! (16-09-2002) (Fabrizio Zavagli)"
+"Cartridge.Rarity" "Homebrew"
+"Display.Phosphor" "YES"
+""

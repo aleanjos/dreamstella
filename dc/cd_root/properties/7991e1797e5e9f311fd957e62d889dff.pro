@@ -1,0 +1,6 @@
+"Cartridge.MD5" "7991e1797e5e9f311fd957e62d889dff"
+"Cartridge.Manufacturer" "Joe Grand"
+"Cartridge.Name" "SCSIcide (v1.1) (2001) (Joe Grand)"
+"Cartridge.Rarity" "New Release"
+"Controller.Left" "PADDLES_IAXDR"
+""

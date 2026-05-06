@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7d3cdde63b16fa637c4484e716839c94"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.Name" "Road Runner (CCE)"
+"Display.YStart" "20"
+""

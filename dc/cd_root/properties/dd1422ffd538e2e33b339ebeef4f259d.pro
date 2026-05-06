@@ -1,0 +1,6 @@
+"Cartridge.MD5" "dd1422ffd538e2e33b339ebeef4f259d"
+"Cartridge.Manufacturer" "Atari, Tod Frye"
+"Cartridge.Name" "Red Vs. Blue (1981) (Atari) (Prototype)"
+"Cartridge.Note" "RealSports Football Beta"
+"Cartridge.Rarity" "Prototype"
+""

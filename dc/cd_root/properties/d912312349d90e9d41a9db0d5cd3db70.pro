@@ -1,0 +1,5 @@
+"Cartridge.MD5" "d912312349d90e9d41a9db0d5cd3db70"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-818"
+"Cartridge.Name" "Star Voyager (1983) (CCE)"
+""

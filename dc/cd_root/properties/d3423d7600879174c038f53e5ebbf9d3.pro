@@ -1,0 +1,7 @@
+"Cartridge.MD5" "d3423d7600879174c038f53e5ebbf9d3"
+"Cartridge.Manufacturer" "U.S. Games Corporation"
+"Cartridge.ModelNo" "VC2005"
+"Cartridge.Name" "Piece o' Cake (1982) (U.S. Games)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d0b26e908370683ad99bc6b52137a784"
+"Cartridge.Manufacturer" "Apollo - Games by Apollo, Ernie Runyon, Ed Salvo - RCA Video Jeux"
+"Cartridge.ModelNo" "AP-2004"
+"Cartridge.Name" "Lost Luggage (1981) (Apollo) (PAL)"
+"Cartridge.Note" "AKA La valise piegee"
+""

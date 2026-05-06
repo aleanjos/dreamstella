@@ -1,0 +1,6 @@
+"Cartridge.MD5" "8c7e5e2329f4f4e06cbcc994a30fd352"
+"Cartridge.Manufacturer" "Data Age"
+"Cartridge.ModelNo" "DA1004"
+"Cartridge.Name" "Airlock (1982) (Data Age) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

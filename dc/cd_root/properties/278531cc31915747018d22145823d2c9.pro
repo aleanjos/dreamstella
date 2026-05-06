@@ -1,0 +1,6 @@
+"Cartridge.MD5" "278531cc31915747018d22145823d2c9"
+"Cartridge.Name" "Defender MegaDrive (PAL) (Genesis)"
+"Cartridge.Note" "Genesis controller (C is smartbomb)"
+"Cartridge.Rarity" "Hack of Defender"
+"Controller.Left" "GENESIS"
+""

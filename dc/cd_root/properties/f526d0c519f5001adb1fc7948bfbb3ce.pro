@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f526d0c519f5001adb1fc7948bfbb3ce"
+"Cartridge.Manufacturer" "Mythicon, Bill Bryner, Bruce de Graaf"
+"Cartridge.ModelNo" "MA1003"
+"Cartridge.Name" "Star Fox (1983) (Mythicon)"
+""

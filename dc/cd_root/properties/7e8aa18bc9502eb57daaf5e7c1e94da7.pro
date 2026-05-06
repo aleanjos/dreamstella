@@ -1,0 +1,8 @@
+"Cartridge.MD5" "7e8aa18bc9502eb57daaf5e7c1e94da7"
+"Cartridge.Manufacturer" "CBS Electronics"
+"Cartridge.ModelNo" "M8774, M8794"
+"Cartridge.Name" "Wizard of Wor (1982) (CBS Electronics)"
+"Cartridge.Note" "Uses the Joystick Controllers (swapped)"
+"Console.SwapPorts" "YES"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "73e66e82ac22b305eb4d9578e866236e"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Unknown Datatech Game (Jone Yuan)"
+"Cartridge.Note" "2600 Screen Search Console"
+"Display.YStart" "24"
+""

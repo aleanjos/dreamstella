@@ -1,0 +1,5 @@
+"Cartridge.MD5" "c1f209d80f0624dada5866ce05dd3399"
+"Cartridge.Manufacturer" "Telegames"
+"Cartridge.Name" "Deadly Discs (1989) (Telegames) (PAL)"
+"Cartridge.Note" "AKA TRON - Deadly Discs"
+""

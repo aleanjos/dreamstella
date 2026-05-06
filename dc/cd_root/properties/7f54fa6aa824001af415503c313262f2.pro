@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7f54fa6aa824001af415503c313262f2"
+"Cartridge.Manufacturer" "HES"
+"Cartridge.Name" "Boom Bang (HES) (PAL)"
+"Cartridge.Note" "AKA Crackpots"
+""

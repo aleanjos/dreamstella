@@ -1,0 +1,6 @@
+"Cartridge.MD5" "a1f9159121142d42e63e6fb807d337aa"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "700.223 1 - 781627"
+"Cartridge.Name" "Der moderne Ritter (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Fast Eddie"
+""

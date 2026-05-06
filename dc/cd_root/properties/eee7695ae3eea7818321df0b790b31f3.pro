@@ -1,0 +1,7 @@
+"Cartridge.MD5" "eee7695ae3eea7818321df0b790b31f3"
+"Cartridge.Name" "Sound Paddle V2 (Dennis Caswell & Jim Nitchals) (PD)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Console.SwapPorts" "YES"
+"Controller.Left" "PADDLES"
+"Controller.MouseAxis" "01"
+""

@@ -1,0 +1,8 @@
+"Cartridge.MD5" "056f5d886a4e7e6fdd83650554997d0d"
+"Cartridge.Manufacturer" "Parker Brothers, Ed Temple"
+"Cartridge.ModelNo" "931504"
+"Cartridge.Name" "Amidar (1982) (Parker Bros) (PAL)"
+"Cartridge.Rarity" "Uncommon"
+"Console.LeftDifficulty" "A"
+"Console.RightDifficulty" "A"
+""

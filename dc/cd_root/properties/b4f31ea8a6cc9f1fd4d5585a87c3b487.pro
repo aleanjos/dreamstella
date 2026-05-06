@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b4f31ea8a6cc9f1fd4d5585a87c3b487"
+"Cartridge.Manufacturer" "Mystique - American Multiple Industries, Joel H. Martin"
+"Cartridge.Name" "Beat 'Em & Eat 'Em (1982) (Mystique) (PAL)"
+"Cartridge.Note" "Uses the Paddle Controller (left only)"
+"Controller.Left" "PADDLES"
+""

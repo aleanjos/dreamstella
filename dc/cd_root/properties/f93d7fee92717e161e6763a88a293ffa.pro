@@ -1,0 +1,6 @@
+"Cartridge.MD5" "f93d7fee92717e161e6763a88a293ffa"
+"Cartridge.Manufacturer" "20th Century Fox Video Games - Lazer Micro Systems - Dunhill Electronic Media Corp., B. Winston Hendrickson, Randall Hyde, Mark V. Rhoads, John Simonds"
+"Cartridge.ModelNo" "11013"
+"Cartridge.Name" "Porky's (1983) (20th Century Fox)"
+"Cartridge.Rarity" "Rare"
+""

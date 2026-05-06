@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2d15b092e8350912ec4b2e5e750fa1c6"
+"Cartridge.Manufacturer" "Wizard Video Games, Bob Davis, Robert H. O'Neil"
+"Cartridge.Name" "Texas Chainsaw Massacre, The (1982) (Wizard Video Games) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

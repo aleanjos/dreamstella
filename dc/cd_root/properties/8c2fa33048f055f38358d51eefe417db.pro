@@ -1,0 +1,8 @@
+"Cartridge.MD5" "8c2fa33048f055f38358d51eefe417db"
+"Cartridge.Manufacturer" "Home Vision - Gem International Corp."
+"Cartridge.ModelNo" "VCS83137"
+"Cartridge.Name" "Teddy Apple (1983) (Home Vision) (PAL)"
+"Cartridge.Note" "AKA Open Sesame"
+"Display.YStart" "42"
+"Display.Phosphor" "YES"
+""

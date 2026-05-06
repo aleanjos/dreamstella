@@ -1,0 +1,6 @@
+"Cartridge.MD5" "fa2be8125c3c60ab83e1c0fe56922fcb"
+"Cartridge.Manufacturer" "DSD-Camelot - Johnson & Johnson, Michael Doherty, Clyde Hager"
+"Cartridge.Name" "Tooth Protectors (1983) (DSD-Camelot)"
+"Display.YStart" "26"
+"Display.Phosphor" "YES"
+""

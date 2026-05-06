@@ -1,0 +1,5 @@
+"Cartridge.MD5" "be929419902e21bd7830a7a7d746195d"
+"Cartridge.Manufacturer" "Activision, Garry Kitchen"
+"Cartridge.ModelNo" "AX-025, AX-025-04"
+"Cartridge.Name" "Keystone Kapers (1983) (Activision)"
+""

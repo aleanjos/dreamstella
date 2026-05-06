@@ -1,0 +1,5 @@
+"Cartridge.MD5" "d5e5b3ec074fff8976017ef121d26129"
+"Cartridge.Manufacturer" "Star Game"
+"Cartridge.ModelNo" "003"
+"Cartridge.Name" "River Raid (Star Game)"
+""

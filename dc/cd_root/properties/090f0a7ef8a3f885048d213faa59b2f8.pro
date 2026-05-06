@@ -1,0 +1,5 @@
+"Cartridge.MD5" "090f0a7ef8a3f885048d213faa59b2f8"
+"Cartridge.Manufacturer" "Carrere Video - Teldec"
+"Cartridge.ModelNo" "USC1012"
+"Cartridge.Name" "M.A.D. (1983) (Carrere Video) (PAL)"
+""

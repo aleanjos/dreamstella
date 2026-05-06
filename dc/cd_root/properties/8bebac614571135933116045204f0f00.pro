@@ -1,0 +1,8 @@
+"Cartridge.MD5" "8bebac614571135933116045204f0f00"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Missile Command (CX-22 Trackball) (2002) (TJ) (PAL)"
+"Cartridge.Note" "Uses CX-22 Trackball Controller"
+"Cartridge.Rarity" "Homebrew"
+"Controller.Left" "TRACKBALL22"
+"Display.Phosphor" "YES"
+""

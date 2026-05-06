@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b80d50ecee73919a507498d0a4d922ae"
+"Cartridge.Manufacturer" "20th Century Fox Video Games, David Lubar"
+"Cartridge.ModelNo" "11008"
+"Cartridge.Name" "Fantastic Voyage (1982) (20th Century Fox)"
+"Display.YStart" "28"
+""

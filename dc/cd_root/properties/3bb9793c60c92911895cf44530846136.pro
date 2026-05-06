@@ -1,0 +1,6 @@
+"Cartridge.MD5" "3bb9793c60c92911895cf44530846136"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Dragster (Jone Yuan) (4K)"
+"Cartridge.Note" "2600 Screen Search Console"
+"Display.YStart" "27"
+""

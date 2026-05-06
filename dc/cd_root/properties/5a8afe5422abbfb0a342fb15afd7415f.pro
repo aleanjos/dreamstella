@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5a8afe5422abbfb0a342fb15afd7415f"
+"Cartridge.Manufacturer" "Atari, Robert C. Polaro"
+"Cartridge.ModelNo" "CX26155"
+"Cartridge.Name" "Sprint Master (1988) (Atari)"
+"Display.YStart" "24"
+""

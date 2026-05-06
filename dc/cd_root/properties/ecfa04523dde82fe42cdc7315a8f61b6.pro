@@ -1,0 +1,6 @@
+"Cartridge.MD5" "ecfa04523dde82fe42cdc7315a8f61b6"
+"Cartridge.Manufacturer" "Activision, David Crane - Ariola"
+"Cartridge.ModelNo" "EAG-004, PAG-004 - 711 004-715"
+"Cartridge.Name" "Fishing Derby (1980) (Activision) (PAL) (4K)"
+"Cartridge.Note" "AKA Schneller als der Hai"
+""

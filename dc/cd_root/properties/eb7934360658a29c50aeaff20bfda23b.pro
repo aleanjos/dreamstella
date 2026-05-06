@@ -1,0 +1,6 @@
+"Cartridge.MD5" "eb7934360658a29c50aeaff20bfda23b"
+"Cartridge.Manufacturer" "Activision, John Van Ryzin"
+"Cartridge.ModelNo" "EAZ-036-04"
+"Cartridge.Name" "H.E.R.O. (1984) (Activision) (SECAM)"
+"Display.Format" "SECAM"
+""

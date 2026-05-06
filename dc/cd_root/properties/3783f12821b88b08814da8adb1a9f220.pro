@@ -1,0 +1,8 @@
+"Cartridge.MD5" "3783f12821b88b08814da8adb1a9f220"
+"Cartridge.Name" "Mission Survive (PAL) (Genesis)"
+"Cartridge.Note" "Genesis controller (C is vertical fire)"
+"Cartridge.Rarity" "Hack of Mission Survive)"
+"Console.RightDifficulty" "A"
+"Controller.Left" "GENESIS"
+"Display.Phosphor" "YES"
+""

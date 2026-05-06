@@ -1,0 +1,6 @@
+"Cartridge.MD5" "8a183b6357987db5170c5cf9f4a113e5"
+"Cartridge.Manufacturer" "Atari, Joe Gaucher"
+"Cartridge.ModelNo" "CX2679"
+"Cartridge.Name" "RealSports Basketball (1983) (Atari) (Prototype) (PAL)"
+"Cartridge.Rarity" "Prototype"
+""

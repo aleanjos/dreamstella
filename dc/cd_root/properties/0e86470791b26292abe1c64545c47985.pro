@@ -1,0 +1,8 @@
+"Cartridge.MD5" "0e86470791b26292abe1c64545c47985"
+"Cartridge.Manufacturer" "Arcadia Corporation, Dennis Caswell"
+"Cartridge.ModelNo" "AR-4302"
+"Cartridge.Name" "Party Mix - Down on the Line (3 of 3) (1983) (Arcadia) (PAL)"
+"Cartridge.Note" "Uses Paddle Controllers"
+"Controller.Left" "PADDLES_IAXIS"
+"Controller.MouseAxis" "01"
+""

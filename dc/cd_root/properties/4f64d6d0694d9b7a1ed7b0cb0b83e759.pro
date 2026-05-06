@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4f64d6d0694d9b7a1ed7b0cb0b83e759"
+"Cartridge.Manufacturer" "20th Century Fox Video Games, John Russell"
+"Cartridge.ModelNo" "11016"
+"Cartridge.Name" "Revenge of the Beefsteak Tomatoes (1982) (20th Century Fox)"
+""

@@ -1,0 +1,7 @@
+"Cartridge.MD5" "cf9069f92a43f719974ee712c50cd932"
+"Cartridge.Manufacturer" "Video Gems"
+"Cartridge.ModelNo" "VG-04"
+"Cartridge.Name" "Mission Survive (1983) (Video Gems) (PAL)"
+"Console.RightDifficulty" "A"
+"Display.Phosphor" "YES"
+""

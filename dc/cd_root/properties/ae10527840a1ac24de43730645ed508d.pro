@@ -1,0 +1,6 @@
+"Cartridge.MD5" "ae10527840a1ac24de43730645ed508d"
+"Cartridge.Manufacturer" "Charles Morgan"
+"Cartridge.Name" "Planet Invaders (Charles Morgan) (Hack)"
+"Cartridge.Note" "Hack of Space Invaders"
+"Cartridge.Rarity" "Hack"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "4c8832ed387bbafc055320c05205bc08"
+"Cartridge.Manufacturer" "Atari, Joe Decuir, Steve Mayer, Larry Wagner - Sears"
+"Cartridge.ModelNo" "CX2601 - 99801, 6-99801, 49-75124"
+"Cartridge.Name" "Combat (1977) (Atari)"
+""

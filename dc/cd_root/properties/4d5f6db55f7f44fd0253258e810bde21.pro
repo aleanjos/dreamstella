@@ -1,0 +1,6 @@
+"Cartridge.MD5" "4d5f6db55f7f44fd0253258e810bde21"
+"Cartridge.Manufacturer" "Fabrizio Zavagli"
+"Cartridge.Name" "Betterblast (Fabrizio Zavagli) (Hack)"
+"Cartridge.Note" "Hack of Astroblast"
+"Cartridge.Rarity" "Hack"
+""

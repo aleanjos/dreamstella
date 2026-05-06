@@ -1,0 +1,7 @@
+"Cartridge.MD5" "3f039981255691d3859d04ef813a1264"
+"Cartridge.Manufacturer" "Xonox, John Perkins"
+"Cartridge.ModelNo" "6230, 7210, 06004, 99004"
+"Cartridge.Name" "Artillery Duel (1983) (Xonox) [a]"
+"Cartridge.Rarity" "Extremely Rare"
+"Display.YStart" "20"
+""

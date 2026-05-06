@@ -1,0 +1,5 @@
+"Cartridge.MD5" "02ced7ea2b7cb509748db6bfa227ebec"
+"Cartridge.Manufacturer" "Parker Brothers, Ed English, David Lamkins"
+"Cartridge.ModelNo" "931502"
+"Cartridge.Name" "Frogger (1982) (Parker Bros) (PAL)"
+""

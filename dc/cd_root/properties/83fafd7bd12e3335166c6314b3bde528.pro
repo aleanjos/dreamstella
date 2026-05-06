@@ -1,0 +1,5 @@
+"Cartridge.MD5" "83fafd7bd12e3335166c6314b3bde528"
+"Cartridge.Manufacturer" "Epyx, Steven A. Baker, Tod Frye, Peter Engelbrite"
+"Cartridge.ModelNo" "80561-00251"
+"Cartridge.Name" "Winter Games (1987) (Epyx)"
+""

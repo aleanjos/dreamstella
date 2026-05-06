@@ -1,0 +1,7 @@
+"Cartridge.MD5" "2cccc079c15e9af94246f867ffc7e9bf"
+"Cartridge.Manufacturer" "PlayAround - J.H.M."
+"Cartridge.ModelNo" "203"
+"Cartridge.Name" "Jungle Fever (1982) (PlayAround)"
+"Display.YStart" "24"
+"Display.Phosphor" "YES"
+""

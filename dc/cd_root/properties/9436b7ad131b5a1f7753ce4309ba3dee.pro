@@ -1,0 +1,6 @@
+"Cartridge.MD5" "9436b7ad131b5a1f7753ce4309ba3dee"
+"Cartridge.Manufacturer" "Kyle Pittman"
+"Cartridge.Name" "War of The Worlds (Kyle Pittman) (Hack)"
+"Cartridge.Note" "Hack of Defender"
+"Cartridge.Rarity" "Hack"
+""

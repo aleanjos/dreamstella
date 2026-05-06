@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5494b9ee403d9757f0fd1f749e80214a"
+"Cartridge.Manufacturer" "Larry Petit"
+"Cartridge.Name" "Xenophobe Arcade (2003) (Larry Petit) (Hack)"
+"Cartridge.Note" "Hack of Xenophobe"
+"Cartridge.Rarity" "Hack"
+""

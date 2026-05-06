@@ -1,0 +1,7 @@
+"Cartridge.MD5" "d071d2ec86b9d52b585cc0382480b351"
+"Cartridge.Manufacturer" "UA Limited"
+"Cartridge.Name" "Cat Trax (1983) (UA Limited) (Prototype) [a]"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "30"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "c830f6ae7ee58bcc2a6712fb33e92d55"
+"Cartridge.Manufacturer" "Atari, Carla Meninsky"
+"Cartridge.ModelNo" "CX2687"
+"Cartridge.Name" "Tempest (01-05-1984) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

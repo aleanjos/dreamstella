@@ -1,0 +1,5 @@
+"Cartridge.MD5" "200a9d2a7cb4441ce4f002df6aa47e38"
+"Cartridge.Name" "Doomzerk (PD) (Hack)"
+"Cartridge.Note" "Hack of Berzerk"
+"Cartridge.Rarity" "Hack"
+""

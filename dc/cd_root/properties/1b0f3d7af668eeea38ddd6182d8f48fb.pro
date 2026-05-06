@@ -1,0 +1,7 @@
+"Cartridge.MD5" "1b0f3d7af668eeea38ddd6182d8f48fb"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Cosmic Swarm (Jone Yuan) (4K)"
+"Cartridge.Note" "2600 Screen Search Console"
+"Display.YStart" "30"
+"Display.Phosphor" "YES"
+""

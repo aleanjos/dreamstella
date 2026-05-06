@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e18abe87035379c56b435bfe8175077b"
+"Cartridge.Manufacturer" "Grimlock"
+"Cartridge.Name" "Rumble 2600 (Grimlock) (Hack)"
+"Cartridge.Note" "Hack of Mario Bros."
+"Cartridge.Rarity" "Hack"
+""

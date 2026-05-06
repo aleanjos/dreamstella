@@ -1,0 +1,5 @@
+"Cartridge.MD5" "eed9eaf1a0b6a2b9bc4c8032cb43e3fb"
+"Cartridge.Manufacturer" "Atari - Axlon, Steve DeFrisco"
+"Cartridge.ModelNo" "CX26192"
+"Cartridge.Name" "Klax (1990) (Atari) (PAL)"
+""

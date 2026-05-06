@@ -1,0 +1,8 @@
+"Cartridge.MD5" "8e7241bfc8380aac3c0ef1b6881cdded"
+"Cartridge.Manufacturer" "Atari, Howard Scott Warshaw - Sears"
+"Cartridge.ModelNo" "CX2655 - 49-75167"
+"Cartridge.Name" "Yars' Revenge (09-01-81) (Atari) (Prototype)"
+"Cartridge.Note" "Time Freeze"
+"Cartridge.Rarity" "Prototype"
+"Display.Phosphor" "YES"
+""

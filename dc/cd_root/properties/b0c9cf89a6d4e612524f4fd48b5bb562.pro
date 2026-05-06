@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b0c9cf89a6d4e612524f4fd48b5bb562"
+"Cartridge.Manufacturer" "Atari - GCC"
+"Cartridge.ModelNo" "CX26156"
+"Cartridge.Name" "Combat Two (1982) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

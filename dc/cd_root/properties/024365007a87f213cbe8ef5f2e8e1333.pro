@@ -1,0 +1,5 @@
+"Cartridge.MD5" "024365007a87f213cbe8ef5f2e8e1333"
+"Cartridge.Manufacturer" "Atari, Frank Hausman, Steve Woita"
+"Cartridge.ModelNo" "CX2686"
+"Cartridge.Name" "Quadrun (1983) (Atari)"
+""

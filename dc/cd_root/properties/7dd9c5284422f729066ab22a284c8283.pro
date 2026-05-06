@@ -1,0 +1,8 @@
+"Cartridge.MD5" "7dd9c5284422f729066ab22a284c8283"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-833"
+"Cartridge.Name" "Target Practice (1983) (CCE) [a]"
+"Cartridge.Note" "AKA Carnival"
+"Display.YStart" "26"
+"Display.Height" "214"
+""

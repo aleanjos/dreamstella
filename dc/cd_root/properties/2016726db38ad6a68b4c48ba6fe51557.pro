@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2016726db38ad6a68b4c48ba6fe51557"
+"Cartridge.Manufacturer" "Piero Cavina, Erik Mooney"
+"Cartridge.Name" "INV 2 (Piero Cavina, Erik Mooney)"
+"Cartridge.Rarity" "New Release"
+""

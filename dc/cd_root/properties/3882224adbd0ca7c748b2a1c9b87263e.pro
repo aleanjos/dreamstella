@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3882224adbd0ca7c748b2a1c9b87263e"
+"Cartridge.Manufacturer" "Atari, Tod Frye"
+"Cartridge.ModelNo" "CX2657"
+"Cartridge.Name" "SwordQuest - FireWorld (1982) (Atari) (PAL) [a]"
+""

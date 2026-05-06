@@ -1,0 +1,6 @@
+"Cartridge.MD5" "c74bfd02c7f1877bbe712c1da5c4c194"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "River Raid Tanks (Thomas Jentzsch) (Hack)"
+"Cartridge.Note" "Hack of River Raid"
+"Cartridge.Rarity" "Hack"
+""

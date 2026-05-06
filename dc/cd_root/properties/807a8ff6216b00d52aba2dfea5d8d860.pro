@@ -1,0 +1,7 @@
+"Cartridge.MD5" "807a8ff6216b00d52aba2dfea5d8d860"
+"Cartridge.Manufacturer" "John Payson"
+"Cartridge.Name" "Strat-O-Gems Deluxe (2005) (J. Payson)"
+"Cartridge.Note" "Uses the AtariVox controller"
+"Cartridge.Rarity" "Homebrew"
+"Controller.Right" "ATARIVOX"
+""

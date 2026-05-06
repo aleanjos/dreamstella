@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6272f348a9a7f2d500a4006aa93e0d08"
+"Cartridge.Manufacturer" "Atari, Jerome Domurat, Michael Sierchio"
+"Cartridge.ModelNo" "CX2667, CX2667P"
+"Cartridge.Name" "RealSports Soccer (1983) (Atari) (PAL) [a]"
+"Display.Phosphor" "YES"
+""

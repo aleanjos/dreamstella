@@ -1,0 +1,6 @@
+"Cartridge.MD5" "27c6a2ca16ad7d814626ceea62fa8fb4"
+"Cartridge.Manufacturer" "Parker Brothers, Mark Lesser"
+"Cartridge.ModelNo" "PB5590"
+"Cartridge.Name" "Frogger II (1984) (Parker Bros)"
+"Display.Phosphor" "YES"
+""

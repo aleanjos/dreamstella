@@ -1,0 +1,6 @@
+"Cartridge.MD5" "35156407e54f67eb1f625450d5c093e1"
+"Cartridge.Name" "Mouse Trap (Genesis)"
+"Cartridge.Note" "Genesis controller (C changes to dog)"
+"Cartridge.Rarity" "Hack of Mouse Trap"
+"Controller.Left" "GENESIS"
+""

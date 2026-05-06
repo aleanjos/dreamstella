@@ -1,0 +1,6 @@
+"Cartridge.MD5" "3577e19714921912685bb0e32ddf943c"
+"Cartridge.Manufacturer" "TechnoVision"
+"Cartridge.ModelNo" "TVS1003"
+"Cartridge.Name" "Pharaoh's Curse (1983) (TechnoVision) (PAL)"
+"Display.Phosphor" "YES"
+""

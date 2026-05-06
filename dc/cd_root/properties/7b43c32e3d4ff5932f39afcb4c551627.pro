@@ -1,0 +1,7 @@
+"Cartridge.MD5" "7b43c32e3d4ff5932f39afcb4c551627"
+"Cartridge.Manufacturer" "Syncro, Dan Wolf"
+"Cartridge.Name" "Kamikaze Saucers (1983) (Syncro) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "38"
+"Display.Height" "220"
+""

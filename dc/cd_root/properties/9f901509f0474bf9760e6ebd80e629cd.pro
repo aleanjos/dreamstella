@@ -1,0 +1,6 @@
+"Cartridge.MD5" "9f901509f0474bf9760e6ebd80e629cd"
+"Cartridge.Manufacturer" "Atari, Bob Whitehead - Sears"
+"Cartridge.ModelNo" "CX2623 - 6-99819, 49-75108, 49-75125"
+"Cartridge.Name" "Home Run (1978) (Atari) (4K)"
+"Console.SwapPorts" "YES"
+""

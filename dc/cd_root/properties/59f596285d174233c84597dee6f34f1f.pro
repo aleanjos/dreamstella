@@ -1,0 +1,5 @@
+"Cartridge.MD5" "59f596285d174233c84597dee6f34f1f"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-811"
+"Cartridge.Name" "River Raid (1983) (CCE)"
+""

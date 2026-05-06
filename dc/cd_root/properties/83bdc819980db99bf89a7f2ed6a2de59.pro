@@ -1,0 +1,5 @@
+"Cartridge.MD5" "83bdc819980db99bf89a7f2ed6a2de59"
+"Cartridge.Manufacturer" "Atari, Carla Meninsky - Sears"
+"Cartridge.ModelNo" "CX2637 - 49-75158"
+"Cartridge.Name" "Dodge 'Em (1980) (Atari) [fixed]"
+""

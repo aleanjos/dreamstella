@@ -1,0 +1,7 @@
+"Cartridge.MD5" "b2d3bcee001cff2bd2d8a21b2cb55109"
+"Cartridge.Manufacturer" "Atari - GCC, Mike Feinstein, Kevin Osborn"
+"Cartridge.ModelNo" "CX2691"
+"Cartridge.Name" "Joust (08-09-1983) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.Phosphor" "YES"
+""

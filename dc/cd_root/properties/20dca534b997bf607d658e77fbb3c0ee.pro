@@ -1,0 +1,5 @@
+"Cartridge.MD5" "20dca534b997bf607d658e77fbb3c0ee"
+"Cartridge.Manufacturer" "Mythicon, Bill Bryner, Bruce de Graaf"
+"Cartridge.ModelNo" "MA1002"
+"Cartridge.Name" "Fire Fly (1983) (Mythicon)"
+""

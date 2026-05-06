@@ -1,0 +1,5 @@
+"Cartridge.MD5" "9afdfe1cff7f37f1c971fe3f0c900606"
+"Cartridge.Manufacturer" "Funvision - Fund. International Co."
+"Cartridge.Name" "Plug Attack (Funvision)"
+"Cartridge.Note" "AKA Plaque Attack"
+""

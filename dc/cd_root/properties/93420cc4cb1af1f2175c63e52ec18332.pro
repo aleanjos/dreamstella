@@ -1,0 +1,6 @@
+"Cartridge.MD5" "93420cc4cb1af1f2175c63e52ec18332"
+"Cartridge.Manufacturer" "Tim Snider"
+"Cartridge.Name" "Blair Witch Project (Tim Snider) (Hack)"
+"Cartridge.Note" "Hack of Haunted House"
+"Cartridge.Rarity" "Hack"
+""

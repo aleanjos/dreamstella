@@ -1,0 +1,5 @@
+"Cartridge.MD5" "98ef1593624b409b9fb83a1c272a0aa7"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-831"
+"Cartridge.Name" "Cosmic Ark (1983) (CCE)"
+""

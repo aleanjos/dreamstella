@@ -1,0 +1,6 @@
+"Cartridge.MD5" "3f58f972276d1e4e0e09582521ed7a5b"
+"Cartridge.Manufacturer" "Telegames"
+"Cartridge.ModelNo" "6082 A145"
+"Cartridge.Name" "Kung Fu Superkicks (1989) (Telegames)"
+"Cartridge.Note" "AKA Chuck Norris Superkicks"
+""

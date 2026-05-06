@@ -1,0 +1,7 @@
+"Cartridge.MD5" "d57eb282d7540051bc9b5427cf966f03"
+"Cartridge.Manufacturer" "Atari Troll"
+"Cartridge.Name" "Custer's Viagra (Atari Troll) (Hack)"
+"Cartridge.Note" "Hack of Custer's Revenge"
+"Cartridge.Rarity" "Hack"
+"Display.YStart" "32"
+""

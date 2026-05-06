@@ -1,0 +1,5 @@
+"Cartridge.MD5" "1da2da7974d2ca73a823523f82f517b3"
+"Cartridge.Manufacturer" "Spectravision, Spectravideo, David Lubar"
+"Cartridge.ModelNo" "SA-206"
+"Cartridge.Name" "Challenge of.... Nexar, The (1982) (Spectravision) (PAL)"
+""

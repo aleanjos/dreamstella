@@ -1,0 +1,7 @@
+"Cartridge.MD5" "a7b584937911d60c120677fe0d47f36f"
+"Cartridge.Manufacturer" "M Network, Hal Finney - INTV"
+"Cartridge.ModelNo" "MT5661"
+"Cartridge.Name" "Armor Ambush (1982) (M Network)"
+"Cartridge.Note" "AKA Tank Battle"
+"Cartridge.Rarity" "Common"
+""

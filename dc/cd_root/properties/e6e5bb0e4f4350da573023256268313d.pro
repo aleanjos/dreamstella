@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e6e5bb0e4f4350da573023256268313d"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Missile Control (Thomas Jentzsch)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Homebrew"
+""

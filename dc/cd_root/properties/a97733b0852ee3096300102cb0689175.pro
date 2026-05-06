@@ -1,0 +1,5 @@
+"Cartridge.MD5" "a97733b0852ee3096300102cb0689175"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-834"
+"Cartridge.Name" "Fast Eddie (1983) (CCE)"
+""

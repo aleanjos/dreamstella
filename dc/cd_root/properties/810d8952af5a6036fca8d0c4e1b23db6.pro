@@ -1,0 +1,5 @@
+"Cartridge.MD5" "810d8952af5a6036fca8d0c4e1b23db6"
+"Cartridge.Manufacturer" "Tiger Vision - Eram"
+"Cartridge.Name" "Keystone (Tiger Vision)"
+"Cartridge.Note" "AKA Keystone Kapers"
+""

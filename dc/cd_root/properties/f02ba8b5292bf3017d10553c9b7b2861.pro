@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f02ba8b5292bf3017d10553c9b7b2861"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26172"
+"Cartridge.Name" "Xenophobe (1990) (Atari) (PAL)"
+""

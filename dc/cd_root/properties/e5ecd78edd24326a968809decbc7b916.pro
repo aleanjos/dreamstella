@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e5ecd78edd24326a968809decbc7b916"
+"Cartridge.Manufacturer" "Imagic, Bob Smith"
+"Cartridge.ModelNo" "720020-1A, IA3611"
+"Cartridge.Name" "Cheese (Dragonfire Beta) (05-21-1982) (Imagic) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

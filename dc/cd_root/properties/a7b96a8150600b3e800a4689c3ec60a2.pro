@@ -1,0 +1,8 @@
+"Cartridge.MD5" "a7b96a8150600b3e800a4689c3ec60a2"
+"Cartridge.Manufacturer" "Atari, Mike Lorenzen - Sears"
+"Cartridge.ModelNo" "CX2630 - 49-75122"
+"Cartridge.Name" "Circus Atari (1980) (Atari)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES"
+"Controller.MouseAxis" "01"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "484b0076816a104875e00467d431c2d2"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26150"
+"Cartridge.Name" "Q-bert (1987) (Atari)"
+"Display.YStart" "40"
+""

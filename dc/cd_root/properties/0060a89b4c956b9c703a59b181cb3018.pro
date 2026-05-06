@@ -1,0 +1,6 @@
+"Cartridge.MD5" "0060a89b4c956b9c703a59b181cb3018"
+"Cartridge.Manufacturer" "CommaVid, Irwin Gaines - Ariola"
+"Cartridge.ModelNo" "CM-008 - 712 008-720"
+"Cartridge.Name" "Cakewalk (1983) (CommaVid) (PAL)"
+"Cartridge.Note" "AKA Alarm in der Backstube"
+""

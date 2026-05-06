@@ -1,0 +1,7 @@
+"Cartridge.MD5" "203b1efc6101d4b9d83bb6cc1c71f67f"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "685.996 1"
+"Cartridge.Name" "Teller-Jonglieren! (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Dancing Plate"
+"Display.Phosphor" "YES"
+""

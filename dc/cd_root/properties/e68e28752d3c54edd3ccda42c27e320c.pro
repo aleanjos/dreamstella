@@ -1,0 +1,8 @@
+"Cartridge.MD5" "E68E28752D3C54EDD3CCDA42C27E320C"
+"Cartridge.Manufacturer" "Xonox - K-Tel Software, Anthony R. Henderson"
+"Cartridge.ModelNo" "99007, 6240"
+"Cartridge.Name" "Tomarc the Barbarian (1983) (Xonox)"
+"Cartridge.Note" "Genesis controller (B is jump and throw, C switches between players)"
+"Cartridge.Rarity" "Hack of Tomarc the Barbarian"
+"Controller.Left" "GENESIS"
+""

@@ -1,0 +1,7 @@
+"Cartridge.MD5" "2a1b454a5c3832b0240111e7fd73de8a"
+"Cartridge.Manufacturer" "Tigervision, Bill Hogue"
+"Cartridge.ModelNo" "7-011"
+"Cartridge.Name" "Miner 2049er Volume II (1983) (Tigervision)"
+"Display.YStart" "28"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "c032c2bd7017fdfbba9a105ec50f800e"
+"Cartridge.Manufacturer" "Activision, Charlie Heath"
+"Cartridge.Name" "Thwocker (04-09-1984) (Activision) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

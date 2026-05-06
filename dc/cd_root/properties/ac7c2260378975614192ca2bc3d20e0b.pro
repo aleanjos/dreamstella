@@ -1,0 +1,6 @@
+"Cartridge.MD5" "ac7c2260378975614192ca2bc3d20e0b"
+"Cartridge.Manufacturer" "Activision, David Crane"
+"Cartridge.ModelNo" "AG-930004, AZ-030"
+"Cartridge.Name" "Decathlon (1983) (Activision)"
+"Cartridge.Rarity" "Rare"
+""

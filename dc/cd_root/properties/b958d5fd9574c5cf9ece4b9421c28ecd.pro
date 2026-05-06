@@ -1,0 +1,5 @@
+"Cartridge.MD5" "b958d5fd9574c5cf9ece4b9421c28ecd"
+"Cartridge.Manufacturer" "Piero Cavina"
+"Cartridge.Name" "Multi-Sprite Game V1.0 (Piero Cavina) (PD)"
+"Cartridge.Rarity" "New Release"
+""

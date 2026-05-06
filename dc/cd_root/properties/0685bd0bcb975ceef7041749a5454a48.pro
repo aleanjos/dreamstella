@@ -1,0 +1,5 @@
+"Cartridge.MD5" "0685bd0bcb975ceef7041749a5454a48"
+"Cartridge.Manufacturer" "Piero Cavina"
+"Cartridge.Name" "11 Sprite Demo (Piero Cavina) (PD)"
+"Cartridge.Rarity" "Homebrew"
+""

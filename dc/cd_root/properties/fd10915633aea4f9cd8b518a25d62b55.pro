@@ -1,0 +1,5 @@
+"Cartridge.MD5" "fd10915633aea4f9cd8b518a25d62b55"
+"Cartridge.Manufacturer" "Atari, John Dunn"
+"Cartridge.ModelNo" "CX2631, CX2631P"
+"Cartridge.Name" "Superman (1979) (Atari) (PAL) [a]"
+""

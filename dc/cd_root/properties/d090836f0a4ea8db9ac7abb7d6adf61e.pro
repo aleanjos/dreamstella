@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d090836f0a4ea8db9ac7abb7d6adf61e"
+"Cartridge.Manufacturer" "Hozer Video Games"
+"Cartridge.Name" "Yahtzee (Hozer Video Games)"
+"Cartridge.Rarity" "New Release"
+"Display.Phosphor" "YES"
+""

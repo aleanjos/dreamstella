@@ -1,0 +1,7 @@
+"Cartridge.MD5" "28d5df3ed036ed63d33a31d0d8b85c47"
+"Cartridge.Manufacturer" "Goliath"
+"Cartridge.ModelNo" "5"
+"Cartridge.Name" "Open Sesame (1983) (Goliath) (PAL) [a]"
+"Cartridge.Note" "AKA Open, Sesame!"
+"Display.Phosphor" "YES"
+""

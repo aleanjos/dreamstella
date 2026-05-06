@@ -1,0 +1,7 @@
+"Cartridge.MD5" "daef7d8e5a09981c4aa81573d4dbb380"
+"Cartridge.Manufacturer" "Adam Thornton"
+"Cartridge.Name" "Lord of the Rings (Adam Thornton) (Hack)"
+"Cartridge.Note" "Hack of Dark Mage"
+"Cartridge.Rarity" "Hack"
+"Display.Phosphor" "YES"
+""

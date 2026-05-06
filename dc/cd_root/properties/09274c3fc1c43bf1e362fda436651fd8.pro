@@ -1,0 +1,8 @@
+"Cartridge.MD5" "09274c3fc1c43bf1e362fda436651fd8"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Acid Drop (TJ)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Homebrew"
+"Display.YStart" "8"
+"Display.Height" "240"
+""

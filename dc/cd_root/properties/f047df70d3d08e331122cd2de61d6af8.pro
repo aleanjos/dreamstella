@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f047df70d3d08e331122cd2de61d6af8"
+"Cartridge.Manufacturer" "Dave Neuman"
+"Cartridge.Name" "Space Battle (NTSC)"
+"Cartridge.Rarity" "Homebrew"
+""

@@ -1,0 +1,7 @@
+"Cartridge.MD5" "6b4eb5b3df80995b8d9117cb7e9aeb3c"
+"Cartridge.Manufacturer" "Gameworld"
+"Cartridge.ModelNo" "133-006"
+"Cartridge.Name" "Journey Escape (1983) (Gameworld) (PAL)"
+"Cartridge.Note" "AKA Rock 'n' Roll Escape"
+"Display.Phosphor" "YES"
+""

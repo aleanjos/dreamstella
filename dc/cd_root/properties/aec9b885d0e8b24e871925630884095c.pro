@@ -1,0 +1,7 @@
+"Cartridge.MD5" "aec9b885d0e8b24e871925630884095c"
+"Cartridge.Manufacturer" "Amiga"
+"Cartridge.ModelNo" "3125"
+"Cartridge.Name" "Surf's Up (1983) (Amiga) (Prototype)"
+"Cartridge.Note" "Uses the Amiga Joyboard"
+"Cartridge.Rarity" "Prototype"
+""

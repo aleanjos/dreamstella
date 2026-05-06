@@ -1,0 +1,6 @@
+"Cartridge.MD5" "1a624e236526c4c8f31175e9c89b2a22"
+"Cartridge.Manufacturer" "Rainbow Vision - Suntek"
+"Cartridge.ModelNo" "SS-007"
+"Cartridge.Name" "Space Raid (Rainbow Vision) (PAL) [a]"
+"Cartridge.Note" "AKA MegaMania"
+""

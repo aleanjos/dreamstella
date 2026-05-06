@@ -1,0 +1,5 @@
+"Cartridge.MD5" "eae6a5510055341d3abeb45667bb3e9b"
+"Cartridge.Manufacturer" "HES"
+"Cartridge.Name" "Wall Defender (HES) (PAL)"
+"Cartridge.Note" "AKA Wall Break"
+""

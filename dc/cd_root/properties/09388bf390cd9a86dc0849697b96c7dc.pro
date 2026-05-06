@@ -1,0 +1,5 @@
+"Cartridge.MD5" "09388bf390cd9a86dc0849697b96c7dc"
+"Cartridge.Manufacturer" "Absolute Entertainment, Alex DeMeo"
+"Cartridge.ModelNo" "AG-045-04, AK-045-04"
+"Cartridge.Name" "Pete Rose Baseball (1988) (Absolute)"
+""

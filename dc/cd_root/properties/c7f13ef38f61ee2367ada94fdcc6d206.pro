@@ -1,0 +1,6 @@
+"Cartridge.MD5" "c7f13ef38f61ee2367ada94fdcc6d206"
+"Cartridge.Manufacturer" "Parker Brothers, Joe Gaucher"
+"Cartridge.ModelNo" "PB5370"
+"Cartridge.Name" "Popeye (1983) (Parker Bros)"
+"Display.Phosphor" "YES"
+""

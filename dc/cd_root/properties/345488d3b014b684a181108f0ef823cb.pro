@@ -1,0 +1,7 @@
+"Cartridge.MD5" "345488d3b014b684a181108f0ef823cb"
+"Cartridge.Manufacturer" "CBS Electronics, Tom DiDomenico"
+"Cartridge.ModelNo" "4L 2486 5000"
+"Cartridge.Name" "Blueprint (1983) (CBS Electronics) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+"Display.YStart" "31"
+""

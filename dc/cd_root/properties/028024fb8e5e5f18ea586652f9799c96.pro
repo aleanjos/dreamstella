@@ -1,0 +1,7 @@
+"Cartridge.MD5" "028024fb8e5e5f18ea586652f9799c96"
+"Cartridge.Manufacturer" "Coleco, Steve 'Jessica' Kitchen"
+"Cartridge.ModelNo" "2468"
+"Cartridge.Name" "Carnival (1982) (Coleco)"
+"Display.YStart" "26"
+"Display.Height" "214"
+""

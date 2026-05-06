@@ -1,0 +1,7 @@
+"Cartridge.MD5" "17ee23e5da931be82f733917adcb6386"
+"Cartridge.Manufacturer" "Salu, Dennis M. Kiss"
+"Cartridge.ModelNo" "460758"
+"Cartridge.Name" "Acid Drop (1992) (Salu) (PAL)"
+"Cartridge.Rarity" "Extremely Rare"
+"Display.YStart" "54"
+""

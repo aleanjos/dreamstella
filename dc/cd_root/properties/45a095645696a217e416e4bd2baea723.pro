@@ -1,0 +1,5 @@
+"Cartridge.MD5" "45a095645696a217e416e4bd2baea723"
+"Cartridge.Manufacturer" "Digivision"
+"Cartridge.Name" "Snoopy (Digivision)"
+"Cartridge.Note" "AKA Snoopy and the Red Baron"
+""

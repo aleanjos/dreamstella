@@ -1,0 +1,6 @@
+"Cartridge.MD5" "95e542a7467c94b1e4ab24a3ebe907f1"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "719.252 9"
+"Cartridge.Name" "Im Schutz der Drachen (1983) (Quelle) (PAL)"
+"Display.Phosphor" "YES"
+""

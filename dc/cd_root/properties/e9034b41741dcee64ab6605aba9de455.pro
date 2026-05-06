@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e9034b41741dcee64ab6605aba9de455"
+"Cartridge.Manufacturer" "Digivision"
+"Cartridge.Name" "Phanton Tank (Digivision)"
+"Cartridge.Note" "AKA Phantom Tank"
+"Display.YStart" "30"
+""

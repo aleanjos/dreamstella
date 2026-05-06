@@ -1,0 +1,7 @@
+"Cartridge.MD5" "5188fee071d3c5ef0d66fb45c123e4a5"
+"Cartridge.Manufacturer" "Gameworld"
+"Cartridge.ModelNo" "133-001"
+"Cartridge.Name" "Encounter at L-5 (1983) (Gameworld) (PAL)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES"
+""

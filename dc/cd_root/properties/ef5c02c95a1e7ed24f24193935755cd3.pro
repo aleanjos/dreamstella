@@ -1,0 +1,7 @@
+"Cartridge.MD5" "ef5c02c95a1e7ed24f24193935755cd3"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Jammed Demo (1999) (Hozer Video Games)"
+"Cartridge.Note" "Won't work with Stella < V1.2"
+"Cartridge.Rarity" "New Release"
+"Display.YStart" "24"
+""

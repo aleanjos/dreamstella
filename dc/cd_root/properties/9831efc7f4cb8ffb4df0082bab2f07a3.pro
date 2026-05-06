@@ -1,0 +1,5 @@
+"Cartridge.MD5" "9831efc7f4cb8ffb4df0082bab2f07a3"
+"Cartridge.Manufacturer" "Activision, Steve Cartwright - Ariola"
+"Cartridge.ModelNo" "EAX-031, EAX-031-04B - 711 031-717"
+"Cartridge.Name" "Frostbite (1983) (Activision) (PAL) (8K)"
+""

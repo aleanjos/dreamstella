@@ -1,0 +1,7 @@
+"Cartridge.MD5" "9efa877a98dd5a075e058214da428abb"
+"Cartridge.Manufacturer" "Hozer Video Games"
+"Cartridge.Name" "SCSIcide (1.32) (Hozer Video Games)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Cartridge.Rarity" "New Release"
+"Controller.Left" "PADDLES_IAXDR"
+""

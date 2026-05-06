@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e7a758bb0b43d0f7004e92b9abf4bc83"
+"Cartridge.Name" "Troll's Adventure (Hack)"
+"Cartridge.Note" "Hack of Adventure"
+"Cartridge.Rarity" "Hack"
+""

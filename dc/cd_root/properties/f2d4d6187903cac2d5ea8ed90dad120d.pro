@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f2d4d6187903cac2d5ea8ed90dad120d"
+"Cartridge.Manufacturer" "Digimax"
+"Cartridge.Name" "River Raid II (Digimax)"
+"Cartridge.Note" "AKA River Raid"
+""

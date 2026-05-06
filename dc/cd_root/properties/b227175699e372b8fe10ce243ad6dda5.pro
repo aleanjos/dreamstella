@@ -1,0 +1,7 @@
+"Cartridge.MD5" "b227175699e372b8fe10ce243ad6dda5"
+"Cartridge.Manufacturer" "Atari, Brad Stewart - Sears"
+"Cartridge.ModelNo" "CX2649, 49-75163"
+"Cartridge.Name" "Asteroids (1981) (Atari) [a1]"
+"Cartridge.Rarity" "Common"
+"Display.Phosphor" "YES"
+""

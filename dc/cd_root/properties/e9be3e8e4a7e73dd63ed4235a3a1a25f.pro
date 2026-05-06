@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e9be3e8e4a7e73dd63ed4235a3a1a25f"
+"Cartridge.Name" "MMetall (Hack)"
+"Cartridge.Note" "Hack of Miniature Golf"
+"Cartridge.Rarity" "Hack"
+""

@@ -1,0 +1,8 @@
+"Cartridge.MD5" "104468e44898b8e9fa4a1500fde8d4cb"
+"Cartridge.Manufacturer" "AtariAge, Chris Spry"
+"Cartridge.ModelNo" "26200"
+"Cartridge.Name" "Princess Rescue (2013) (Sprybug)"
+"Cartridge.Note" "Compatible with Genesis controller"
+"Cartridge.Rarity" "Homebrew"
+"Display.Phosphor" "YES"
+""

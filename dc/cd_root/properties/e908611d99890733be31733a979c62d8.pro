@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e908611d99890733be31733a979c62d8"
+"Cartridge.Manufacturer" "Atari, Dan Hitchens"
+"Cartridge.ModelNo" "CX2697"
+"Cartridge.Name" "Mario Bros. (1983) (Atari)"
+""

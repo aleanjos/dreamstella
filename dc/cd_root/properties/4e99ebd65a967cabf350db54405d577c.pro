@@ -1,0 +1,6 @@
+"Cartridge.MD5" "4e99ebd65a967cabf350db54405d577c"
+"Cartridge.Manufacturer" "Coleco"
+"Cartridge.ModelNo" "2663"
+"Cartridge.Name" "Time Pilot (1983) (Coleco) [b1]"
+"Cartridge.Rarity" "Rare"
+""

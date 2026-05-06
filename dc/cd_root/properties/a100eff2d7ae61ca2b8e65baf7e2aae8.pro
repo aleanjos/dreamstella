@@ -1,0 +1,7 @@
+"Cartridge.MD5" "a100eff2d7ae61ca2b8e65baf7e2aae8"
+"Cartridge.Manufacturer" "David Marli"
+"Cartridge.Name" "Muncher (David Marli) (Hack)"
+"Cartridge.Note" "Hack of Pac-Man"
+"Cartridge.Rarity" "Hack"
+"Display.YStart" "33"
+""

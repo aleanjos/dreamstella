@@ -1,0 +1,6 @@
+"Cartridge.MD5" "76ee917d817ef9a654bc4783e0273ac4"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "311377"
+"Cartridge.Name" "Fox & Goat (Double-Game Package) (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Nuts"
+""

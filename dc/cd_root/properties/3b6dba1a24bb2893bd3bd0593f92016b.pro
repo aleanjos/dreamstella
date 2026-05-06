@@ -1,0 +1,6 @@
+"Cartridge.MD5" "3b6dba1a24bb2893bd3bd0593f92016b"
+"Cartridge.Manufacturer" "CBS Electronics / Thomas Jentzsch"
+"Cartridge.Name" "Omega Race JS (TJ)"
+"Cartridge.Note" "Hack of Omega Race (CBS Electronics)"
+"Cartridge.Rarity" "New Release (Hack)"
+""

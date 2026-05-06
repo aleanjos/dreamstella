@@ -1,0 +1,5 @@
+"Cartridge.MD5" "e275cbe7d4e11e62c3bfcfb38fca3d49"
+"Cartridge.Manufacturer" "M Network, Ken Smith - INTV"
+"Cartridge.ModelNo" "MT5658"
+"Cartridge.Name" "Super Challenge Football (1982) (M Network)"
+""

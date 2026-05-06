@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e5f17b3e62a21d0df1ca9aee1aa8c7c5"
+"Cartridge.Manufacturer" "CommaVid, John Bronstein"
+"Cartridge.ModelNo" "CM-003"
+"Cartridge.Name" "Cosmic Swarm (1982) (CommaVid)"
+"Display.Phosphor" "YES"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "551a64a945d7d6ece81e9c1047acedbc"
+"Cartridge.Manufacturer" "Matthias Jaap"
+"Cartridge.Name" "Coffee Cup Soccer (Matthias Jaap) (Hack)"
+"Cartridge.Note" "Hack of Pele's Soccer"
+"Cartridge.Rarity" "Hack"
+""

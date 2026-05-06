@@ -1,0 +1,5 @@
+"Cartridge.MD5" "6c658b52d03e01828b9d2d4718a998ac"
+"Cartridge.Name" "Hangman Invader Biglist2 (Hack)"
+"Cartridge.Note" "Hack of Hangman"
+"Cartridge.Rarity" "Hack"
+""

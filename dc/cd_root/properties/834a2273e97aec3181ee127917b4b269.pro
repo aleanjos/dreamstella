@@ -1,0 +1,6 @@
+"Cartridge.MD5" "834a2273e97aec3181ee127917b4b269"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "043.151 0, 874.382 5"
+"Cartridge.Name" "Die hungrigen Froesche (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Frogs and Flies"
+""

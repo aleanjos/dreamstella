@@ -1,0 +1,5 @@
+"Cartridge.MD5" "66c2380c71709efa7b166621e5bb4558"
+"Cartridge.Manufacturer" "Parker Brothers, Dave Engman, Dawn Stockbridge"
+"Cartridge.ModelNo" "931509"
+"Cartridge.Name" "Tutankham (1983) (Parker Bros) (PAL)"
+""

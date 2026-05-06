@@ -1,0 +1,7 @@
+"Cartridge.MD5" "159e5cd6ccb968015f49aed5adbc91eb"
+"Cartridge.Manufacturer" "Justin J. Scott"
+"Cartridge.Name" "Yar's Defeat (2002) (Justin J. Scott) (Hack)"
+"Cartridge.Note" "Hack of Yars' Revenge"
+"Cartridge.Rarity" "Hack"
+"Display.Phosphor" "YES"
+""

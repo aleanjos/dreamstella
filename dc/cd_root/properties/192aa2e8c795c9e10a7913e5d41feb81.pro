@@ -1,0 +1,7 @@
+"Cartridge.MD5" "192aa2e8c795c9e10a7913e5d41feb81"
+"Cartridge.Manufacturer" "Atari - GCC, Jaques Hugon, Seth Lipkin"
+"Cartridge.ModelNo" "CX26125"
+"Cartridge.Name" "Los Angeles 1984 Games (1984) (Atari) (Prototype) (PAL)"
+"Cartridge.Note" "AKA Track and Field (Uses Track & Field Controller)"
+"Cartridge.Rarity" "Prototype"
+""

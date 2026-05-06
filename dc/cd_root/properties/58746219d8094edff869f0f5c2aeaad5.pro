@@ -1,0 +1,5 @@
+"Cartridge.MD5" "58746219d8094edff869f0f5c2aeaad5"
+"Cartridge.Manufacturer" "Jone Yuan Telephonic Enterprise Co"
+"Cartridge.Name" "Bowling (Jone Yuan) (4K)"
+"Cartridge.Note" "2600 Screen Search Console"
+""

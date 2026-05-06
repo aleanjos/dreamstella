@@ -1,0 +1,5 @@
+"Cartridge.MD5" "d5f965c159e26a1fb49a22a47fbd1dd0"
+"Cartridge.Manufacturer" "Supergame"
+"Cartridge.Name" "River Raid II (Supergame)"
+"Cartridge.Note" "AKA River Raid"
+""

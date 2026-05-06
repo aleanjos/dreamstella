@@ -1,0 +1,6 @@
+"Cartridge.MD5" "75a303fd46ad12457ed8e853016815a0"
+"Cartridge.Manufacturer" "ZiMAG - Emag - Vidco"
+"Cartridge.ModelNo" "715-111 - GN-060"
+"Cartridge.Name" "Immies & Aggies (1983) (ZiMAG) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

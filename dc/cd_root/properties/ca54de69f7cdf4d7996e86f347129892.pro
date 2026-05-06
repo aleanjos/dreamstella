@@ -1,0 +1,7 @@
+"Cartridge.MD5" "ca54de69f7cdf4d7996e86f347129892"
+"Cartridge.Manufacturer" "PlayAround - J.H.M."
+"Cartridge.ModelNo" "201"
+"Cartridge.Name" "Philly Flasher (1982) (PlayAround)"
+"Cartridge.Note" "Uses the Paddle Controllers, AKA Beat 'Em & Eat 'Em"
+"Controller.Left" "PADDLES"
+""

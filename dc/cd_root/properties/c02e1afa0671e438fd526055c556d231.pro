@@ -1,0 +1,6 @@
+"Cartridge.MD5" "c02e1afa0671e438fd526055c556d231"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.Name" "A-Team (Atari) (Prototype) (PAL60)"
+"Cartridge.Rarity" "Prototype"
+"Display.Format" "PAL60"
+""

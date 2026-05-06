@@ -1,0 +1,6 @@
+"Cartridge.MD5" "651d2b6743a3a18b426bce2c881af212"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-812"
+"Cartridge.Name" "Pac Man (1983) (CCE) [a]"
+"Display.YStart" "33"
+""

@@ -1,0 +1,5 @@
+"Cartridge.MD5" "149b543c917c180a1b02d33c12415206"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-857"
+"Cartridge.Name" "Superman (1983) (CCE)"
+""

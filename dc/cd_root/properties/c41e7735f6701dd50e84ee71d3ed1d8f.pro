@@ -1,0 +1,5 @@
+"Cartridge.MD5" "c41e7735f6701dd50e84ee71d3ed1d8f"
+"Cartridge.Manufacturer" "Dynacom"
+"Cartridge.Name" "Spider Fighter (1983) (Dynacom)"
+"Display.YStart" "30"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d47387658ed450db77c3f189b969cc00"
+"Cartridge.Manufacturer" "PlayAround - J.H.M."
+"Cartridge.ModelNo" "206"
+"Cartridge.Name" "Westward Ho (1982) (PlayAround) (PAL)"
+"Cartridge.Note" "AKA Custer's Revenge"
+""

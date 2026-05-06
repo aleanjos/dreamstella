@@ -1,0 +1,6 @@
+"Cartridge.MD5" "00ce76ad69cdc2fa36ada01ae092d5a6"
+"Cartridge.Manufacturer" "Bit Corporation"
+"Cartridge.ModelNo" "PGP214"
+"Cartridge.Name" "Cosmic Avenger (4 Game in One) (1983) (BitCorp) (PAL)"
+"Cartridge.Note" "AKA StarMaster"
+""

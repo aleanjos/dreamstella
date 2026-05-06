@@ -1,0 +1,5 @@
+"Cartridge.MD5" "bc5389839857612cfabeb810ba7effdc"
+"Cartridge.Manufacturer" "Atari, Tod Frye"
+"Cartridge.ModelNo" "CX2671"
+"Cartridge.Name" "SwordQuest - WaterWorld (1983) (Atari)"
+""

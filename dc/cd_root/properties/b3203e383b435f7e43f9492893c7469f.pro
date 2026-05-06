@@ -1,0 +1,5 @@
+"Cartridge.MD5" "b3203e383b435f7e43f9492893c7469f"
+"Cartridge.Manufacturer" "Gameworld"
+"Cartridge.ModelNo" "133-003"
+"Cartridge.Name" "Sssnake (1983) (Gameworld) (PAL)"
+""

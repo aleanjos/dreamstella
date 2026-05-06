@@ -1,0 +1,5 @@
+"Cartridge.MD5" "5eeb81292992e057b290a5cd196f155d"
+"Cartridge.Manufacturer" "Wizard Video Games, Ed Salvo"
+"Cartridge.ModelNo" "008"
+"Cartridge.Name" "Texas Chainsaw Massacre, The (1983) (Wizard Video)"
+""

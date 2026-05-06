@@ -1,0 +1,6 @@
+"Cartridge.MD5" "a7523db9a33e9417637be0e71fa4377c"
+"Cartridge.Manufacturer" "Videospielkassette - Ariola"
+"Cartridge.ModelNo" "PGP238"
+"Cartridge.Name" "Gangster (Ariola) (PAL)"
+"Cartridge.Note" "AKA Outlaw"
+""

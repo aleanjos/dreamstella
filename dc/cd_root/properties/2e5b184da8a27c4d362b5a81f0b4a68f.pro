@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2e5b184da8a27c4d362b5a81f0b4a68f"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.Name" "Rabbit Transit (08-29-1983) (Atari) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

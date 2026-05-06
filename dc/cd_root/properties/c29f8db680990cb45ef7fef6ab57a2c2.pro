@@ -1,0 +1,5 @@
+"Cartridge.MD5" "c29f8db680990cb45ef7fef6ab57a2c2"
+"Cartridge.Manufacturer" "Parker Brothers, Paul Crowley"
+"Cartridge.ModelNo" "PB5320"
+"Cartridge.Name" "Super Cobra (1982) (Parker Bros)"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "34ca2fcbc8ba4a0b544acd94991cfb50"
+"Cartridge.Manufacturer" "Atari, Robert C. Polaro"
+"Cartridge.Name" "Dukes of Hazzard (1980) (Atari) (Prototype) (4K)"
+"Cartridge.Note" "AKA Stunt Cycle"
+"Cartridge.Rarity" "Prototype"
+""

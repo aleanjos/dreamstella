@@ -1,0 +1,6 @@
+"Cartridge.MD5" "eb503cc64c3560cd78b7051188b7ba56"
+"Cartridge.Manufacturer" "Star Game"
+"Cartridge.ModelNo" "043"
+"Cartridge.Name" "Moto Laser (Star Game)"
+"Cartridge.Note" "AKA Mega Force"
+""

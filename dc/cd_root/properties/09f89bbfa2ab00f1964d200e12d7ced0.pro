@@ -1,0 +1,6 @@
+"Cartridge.MD5" "09f89bbfa2ab00f1964d200e12d7ced0"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "MA017600"
+"Cartridge.Name" "Diagnostic Test Cartridge 2.6 (1982) (Atari) (Prototype) (4K)"
+"Cartridge.Rarity" "Prototype"
+""

@@ -1,0 +1,7 @@
+"Cartridge.MD5" "0ef64cdbecccb7049752a3de0b7ade14"
+"Cartridge.Manufacturer" "Atari, Joe Decuir, Steve Mayer, Larry Wagner"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Combat (32 in 1) (1988) (Atari) (PAL)"
+"Display.YStart" "39"
+"Display.Height" "256"
+""

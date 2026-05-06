@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e72eb8d4410152bdcb69e7fba327b420"
+"Cartridge.Manufacturer" "Atari, Douglas Neubauer"
+"Cartridge.ModelNo" "CX26136"
+"Cartridge.Name" "Solaris (1986) (Atari)"
+"Cartridge.Note" "AKA Universe, Star Raiders II, The Last Starfighter"
+""

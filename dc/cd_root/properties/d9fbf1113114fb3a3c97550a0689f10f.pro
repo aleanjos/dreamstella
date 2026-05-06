@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d9fbf1113114fb3a3c97550a0689f10f"
+"Cartridge.Manufacturer" "ZiMAG - Emag - Vidco"
+"Cartridge.ModelNo" "713-111 - GN-050"
+"Cartridge.Name" "Pizza Chef (1983) (ZiMAG) (Prototype)"
+"Cartridge.Note" "AKA Pizza Time"
+""

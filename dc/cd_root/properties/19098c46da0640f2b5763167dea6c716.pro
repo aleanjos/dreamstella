@@ -1,0 +1,5 @@
+"Cartridge.MD5" "19098c46da0640f2b5763167dea6c716"
+"Cartridge.Manufacturer" "Andrew Wallace"
+"Cartridge.Name" "Laseresal 2002 (NTSC) (PD)"
+"Cartridge.Rarity" "New Release"
+""

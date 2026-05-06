@@ -1,0 +1,6 @@
+"Cartridge.MD5" "b1486e12de717013376447ac6f7f3a80"
+"Cartridge.Manufacturer" "Quelle"
+"Cartridge.ModelNo" "292.542 8"
+"Cartridge.Name" "Marspatrouille (1983) (Quelle) (PAL)"
+"Cartridge.Note" "AKA Gas Hog"
+""

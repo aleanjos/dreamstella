@@ -1,0 +1,5 @@
+"Cartridge.MD5" "ee681f566aad6c07c61bbbfc66d74a27"
+"Cartridge.Manufacturer" "Activision"
+"Cartridge.Name" "Unknown Activision Game #1 (10-29-1982) (Activision) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

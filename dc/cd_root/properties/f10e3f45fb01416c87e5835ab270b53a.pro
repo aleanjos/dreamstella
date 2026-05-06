@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f10e3f45fb01416c87e5835ab270b53a"
+"Cartridge.Manufacturer" "Video Game Cartridge - Ariola"
+"Cartridge.ModelNo" "TP-607"
+"Cartridge.Name" "Ski Run (Ariola) (PAL)"
+""

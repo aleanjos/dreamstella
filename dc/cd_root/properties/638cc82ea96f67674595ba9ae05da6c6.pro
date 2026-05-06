@@ -1,0 +1,6 @@
+"Cartridge.MD5" "638cc82ea96f67674595ba9ae05da6c6"
+"Cartridge.Manufacturer" "Rainbow Vision - Suntek"
+"Cartridge.ModelNo" "SS-011"
+"Cartridge.Name" "Super Ferrari (Rainbow Vision) (PAL)"
+"Cartridge.Note" "AKA Enduro"
+""

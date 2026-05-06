@@ -1,0 +1,6 @@
+"Cartridge.MD5" "85bbefb90e16bf386b304c1e9a1f6084"
+"Cartridge.Manufacturer" "Champ Games"
+"Cartridge.Name" "Conquest Of Mars (PAL60)"
+"Cartridge.Rarity" "Homebrew"
+"Display.Format" "PAL60"
+""

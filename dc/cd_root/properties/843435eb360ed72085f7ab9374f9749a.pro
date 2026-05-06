@@ -1,0 +1,7 @@
+"Cartridge.MD5" "843435eb360ed72085f7ab9374f9749a"
+"Cartridge.Manufacturer" "Joe Grand"
+"Cartridge.Name" "SCSIcide (1.31) (Joe Grand)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Cartridge.Rarity" "New Release"
+"Controller.Left" "PADDLES_IAXDR"
+""

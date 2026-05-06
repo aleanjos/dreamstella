@@ -1,0 +1,6 @@
+"Cartridge.MD5" "1a8204a2bcd793f539168773d9ad6230"
+"Cartridge.Manufacturer" "Atari, Rob Fulop - Sears"
+"Cartridge.ModelNo" "CX2638 - 49-75166"
+"Cartridge.Name" "Missile Command (1981) (Atari) [no initials]"
+"Cartridge.Rarity" "Prototype"
+""

@@ -1,0 +1,8 @@
+"Cartridge.MD5" "b676a9b7094e0345a76ef027091d916b"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Mission Survive (Thomas Jentzsch)"
+"Cartridge.Note" "NTSC Conversion"
+"Cartridge.Rarity" "Homebrew"
+"Console.RightDifficulty" "A"
+"Display.Phosphor" "YES"
+""

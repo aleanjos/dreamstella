@@ -1,0 +1,5 @@
+"Cartridge.MD5" "13aa1f9ac4249947e4af61319d9a08f2"
+"Cartridge.Manufacturer" "Atari - GCC"
+"Cartridge.ModelNo" "CX2680, CX2680P"
+"Cartridge.Name" "RealSports Tennis (1983) (Atari) (PAL) [a1]"
+""

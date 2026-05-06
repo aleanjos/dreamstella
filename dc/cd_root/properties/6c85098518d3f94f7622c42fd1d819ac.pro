@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6c85098518d3f94f7622c42fd1d819ac"
+"Cartridge.Manufacturer" "Suntek"
+"Cartridge.ModelNo" "SS-028"
+"Cartridge.Name" "Firebug (Suntek) (PAL)"
+"Cartridge.Note" "AKA Spinning Fireball"
+""

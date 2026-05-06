@@ -1,0 +1,6 @@
+"Cartridge.MD5" "d69559f9c9dc6ef528d841bf9d91b275"
+"Cartridge.Manufacturer" "Activision, Alan Miller"
+"Cartridge.ModelNo" "AX-016"
+"Cartridge.Name" "StarMaster (1982) (Activision)"
+"Cartridge.Note" "Use Color/BW switch to change between galactic chart and front views"
+""

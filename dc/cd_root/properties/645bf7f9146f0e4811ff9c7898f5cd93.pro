@@ -1,0 +1,5 @@
+"Cartridge.MD5" "645bf7f9146f0e4811ff9c7898f5cd93"
+"Cartridge.Manufacturer" "Xonox - K-Tel Software"
+"Cartridge.ModelNo" "6230, 6250"
+"Cartridge.Name" "Super Kung-Fu (1983) (Xonox) (PAL)"
+""

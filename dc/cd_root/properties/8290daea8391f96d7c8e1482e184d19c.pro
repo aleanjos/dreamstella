@@ -1,0 +1,5 @@
+"Cartridge.MD5" "8290daea8391f96d7c8e1482e184d19c"
+"Cartridge.Manufacturer" "Eckhard Stolberg"
+"Cartridge.Name" "Frame Timed Sound Effects (Eckhard Stolberg)"
+"Cartridge.Rarity" "New Release"
+""

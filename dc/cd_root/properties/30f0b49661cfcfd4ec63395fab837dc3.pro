@@ -1,0 +1,6 @@
+"Cartridge.MD5" "30f0b49661cfcfd4ec63395fab837dc3"
+"Cartridge.Manufacturer" "Sega, Jeff Lorenz - Teldec"
+"Cartridge.ModelNo" "004-01"
+"Cartridge.Name" "Star Trek - Strategic Operations Simulator (1983) (Sega) (PAL)"
+"Display.Phosphor" "YES"
+""

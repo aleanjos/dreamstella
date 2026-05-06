@@ -1,0 +1,6 @@
+"Cartridge.MD5" "e28113d10c0c14cc3b5f430b0d142fcb"
+"Cartridge.Manufacturer" "CCE"
+"Cartridge.ModelNo" "C-816"
+"Cartridge.Name" "Keystone Kappers (1983) (CCE) [a]"
+"Cartridge.Note" "AKA Keystone Kapers"
+""

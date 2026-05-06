@@ -1,0 +1,5 @@
+"Cartridge.MD5" "2f2f9061398a74c80420b99ddecf6448"
+"Cartridge.Manufacturer" "Rentacom - Brazil"
+"Cartridge.Name" "Bobby Is Going Home (Rentacom)"
+"Display.YStart" "31"
+""

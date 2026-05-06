@@ -1,0 +1,5 @@
+"Cartridge.MD5" "51e390424f20e468d2b480030ce95d7b"
+"Cartridge.Manufacturer" "Video Game Program"
+"Cartridge.Name" "Fire Bird (Video Game Program) (PAL)"
+"Cartridge.Note" "AKA Phoenix"
+""

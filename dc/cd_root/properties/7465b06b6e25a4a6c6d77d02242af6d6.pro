@@ -1,0 +1,8 @@
+"Cartridge.MD5" "7465b06b6e25a4a6c6d77d02242af6d6"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26193"
+"Cartridge.Name" "8 in 1 (01-16-92) (Atari) (Prototype)"
+"Cartridge.Note" "Game 2 is Centipede, but doesn't work"
+"Cartridge.Rarity" "Prototype"
+"Cartridge.Type" "8IN1"
+""

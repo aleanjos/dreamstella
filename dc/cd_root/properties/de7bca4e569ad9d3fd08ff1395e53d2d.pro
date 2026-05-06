@@ -1,0 +1,7 @@
+"Cartridge.MD5" "de7bca4e569ad9d3fd08ff1395e53d2d"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Thrust (V1.22) (2000) (TJ)"
+"Cartridge.Note" "Won't work with Stella < V1.2, supports Booster Grip"
+"Cartridge.Rarity" "New Release"
+"Controller.Left" "BOOSTERGRIP"
+""

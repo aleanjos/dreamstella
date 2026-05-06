@@ -1,0 +1,5 @@
+"Cartridge.MD5" "01293bd90a4579abb7aed2f7d440681f"
+"Cartridge.Manufacturer" "Century"
+"Cartridge.Name" "Snoopy (1983) (Century) (PAL)"
+"Cartridge.Note" "AKA Snoopy and the Red Baron"
+""

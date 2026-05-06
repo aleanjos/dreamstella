@@ -1,0 +1,6 @@
+"Cartridge.MD5" "7ff53f6922708119e7bf478d7d618c86"
+"Cartridge.Manufacturer" "Suntek"
+"Cartridge.ModelNo" "SS-032"
+"Cartridge.Name" "Walker (Suntek) (PAL)"
+"Cartridge.Note" "AKA Clown Down Town"
+""

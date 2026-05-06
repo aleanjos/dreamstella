@@ -1,0 +1,6 @@
+"Cartridge.MD5" "cff578e5c60de8caecbee7f2c9bbb57b"
+"Cartridge.Manufacturer" "George Veeder"
+"Cartridge.Name" "Suicide Adventure (George Veeder) (Hack)"
+"Cartridge.Note" "Hack of Adventure"
+"Cartridge.Rarity" "Hack"
+""

@@ -1,0 +1,6 @@
+"Cartridge.MD5" "6333ef5b5cbb77acd47f558c8b7a95d3"
+"Cartridge.Manufacturer" "Greg Troutman"
+"Cartridge.Name" "Dark Mage (Greg Troutman) (PD) (8K)"
+"Cartridge.Rarity" "Homebrew"
+"Display.Phosphor" "YES"
+""

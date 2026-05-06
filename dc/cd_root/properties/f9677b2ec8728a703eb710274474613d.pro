@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f9677b2ec8728a703eb710274474613d"
+"Cartridge.Manufacturer" "Atari, Ian Shepard"
+"Cartridge.ModelNo" "CX2604, CX2604P"
+"Cartridge.Name" "Space War (1978) (Atari) (PAL)"
+""

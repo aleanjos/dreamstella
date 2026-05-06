@@ -1,0 +1,8 @@
+"Cartridge.MD5" "260c787e8925bf3649c8aeae5b97dcc0"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Hell Driver (Thomas Jentzsch)"
+"Cartridge.Note" "NTSC Conversion, joystick ports swapped"
+"Cartridge.Rarity" "Homebrew"
+"Console.SwapPorts" "YES"
+"Display.YStart" "36"
+""

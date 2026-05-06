@@ -1,0 +1,6 @@
+"Cartridge.MD5" "5336f86f6b982cc925532f2e80aa1e17"
+"Cartridge.Manufacturer" "Parker Brothers, Ray Miller, Todd Marshall"
+"Cartridge.ModelNo" "PB5060"
+"Cartridge.Name" "Star Wars - Death Star Battle (1983) (Parker Bros)"
+"Display.Phosphor" "YES"
+""

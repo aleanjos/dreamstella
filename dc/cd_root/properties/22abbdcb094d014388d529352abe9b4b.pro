@@ -1,0 +1,7 @@
+"Cartridge.MD5" "22abbdcb094d014388d529352abe9b4b"
+"Cartridge.Manufacturer" "Apollo"
+"Cartridge.ModelNo" "AP-2012"
+"Cartridge.Name" "Squoosh (1983) (Apollo) (Prototype) [a]"
+"Cartridge.Note" "AKA Vat's Incredible!, The Grape Escape"
+"Cartridge.Rarity" "Prototype"
+""

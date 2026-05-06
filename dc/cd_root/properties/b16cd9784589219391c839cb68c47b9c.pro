@@ -1,0 +1,5 @@
+"Cartridge.MD5" "b16cd9784589219391c839cb68c47b9c"
+"Cartridge.Manufacturer" "Video Soft, Jerry Lawson, Dan McElroy"
+"Cartridge.Name" "Golf Diagnostic (1983) (Video Soft) (Prototype)"
+"Cartridge.Rarity" "Prototype"
+""

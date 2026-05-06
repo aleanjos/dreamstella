@@ -1,0 +1,5 @@
+"Cartridge.MD5" "d2c4f8a4a98a905a9deef3ba7380ed64"
+"Cartridge.Manufacturer" "Mythicon, Bill Bryner, Bruce de Graaf"
+"Cartridge.ModelNo" "MA1001"
+"Cartridge.Name" "Sorcerer (1983) (Mythicon)"
+""

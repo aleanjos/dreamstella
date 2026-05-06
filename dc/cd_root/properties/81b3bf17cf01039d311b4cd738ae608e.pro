@@ -1,0 +1,6 @@
+"Cartridge.MD5" "81b3bf17cf01039d311b4cd738ae608e"
+"Cartridge.Manufacturer" "CBS Electronics, Joe Gaucher, Alex Leavens"
+"Cartridge.ModelNo" "M8776, M8793"
+"Cartridge.Name" "Gorf (1982) (CBS Electronics)"
+"Display.Phosphor" "YES"
+""

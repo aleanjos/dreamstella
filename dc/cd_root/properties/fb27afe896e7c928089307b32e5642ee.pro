@@ -1,0 +1,5 @@
+"Cartridge.MD5" "fb27afe896e7c928089307b32e5642ee"
+"Cartridge.Manufacturer" "M Network, Jeff Ronne, Brett Stutz - INTV"
+"Cartridge.ModelNo" "MT5662"
+"Cartridge.Name" "TRON - Deadly Discs (1982) (M Network)"
+""

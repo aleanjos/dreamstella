@@ -1,0 +1,5 @@
+"Cartridge.MD5" "f16c709df0a6c52f47ff52b9d95b7d8d"
+"Cartridge.Manufacturer" "Atari, Alan Miller - Sears"
+"Cartridge.ModelNo" "CX2662 - 6-99811"
+"Cartridge.Name" "Hangman (1978) (Atari)"
+""

@@ -1,0 +1,7 @@
+"Cartridge.MD5" "17c0a63f9a680e7a61beba81692d9297"
+"Cartridge.Manufacturer" "U.S. Games Corporation, Tom Sloper"
+"Cartridge.ModelNo" "VC2004"
+"Cartridge.Name" "Picnic (1982) (U.S. Games)"
+"Cartridge.Note" "Uses the Paddle Controllers"
+"Controller.Left" "PADDLES"
+""

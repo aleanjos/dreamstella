@@ -1,0 +1,5 @@
+"Cartridge.MD5" "df62a658496ac98a3aa4a6ee5719c251"
+"Cartridge.Manufacturer" "Atari - Sears"
+"Cartridge.ModelNo" "CX2626 - 6-99829, 49-75116"
+"Cartridge.Name" "Miniature Golf (1979) (Atari)"
+""

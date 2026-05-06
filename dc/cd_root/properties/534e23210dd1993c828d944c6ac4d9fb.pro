@@ -1,0 +1,6 @@
+"Cartridge.MD5" "534e23210dd1993c828d944c6ac4d9fb"
+"Cartridge.Manufacturer" "M Network, Stephen Tatsumi, Jane Terjung - Kool Aid"
+"Cartridge.ModelNo" "MT4648"
+"Cartridge.Name" "Kool-Aid Man (1983) (M Network)"
+"Cartridge.Note" "AKA Kool Aid Pitcher Man"
+""

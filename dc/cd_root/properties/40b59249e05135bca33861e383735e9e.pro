@@ -1,0 +1,5 @@
+"Cartridge.MD5" "40b59249e05135bca33861e383735e9e"
+"Cartridge.Manufacturer" "Atari"
+"Cartridge.ModelNo" "CX26163P"
+"Cartridge.Name" "Skiing (32 in 1) (1988) (Atari) (PAL) (4K)"
+""

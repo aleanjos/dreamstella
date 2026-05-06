@@ -1,0 +1,5 @@
+"Cartridge.MD5" "3b8aacf5f5638492b926b5124de19f18"
+"Cartridge.Manufacturer" "Atari, Tod Frye - Sears"
+"Cartridge.ModelNo" "CX2646 - 49-75185"
+"Cartridge.Name" "Pac-Man (1981) (Atari) (8K)"
+""

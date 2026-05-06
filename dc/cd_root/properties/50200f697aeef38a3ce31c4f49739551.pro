@@ -1,0 +1,5 @@
+"Cartridge.MD5" "50200f697aeef38a3ce31c4f49739551"
+"Cartridge.Manufacturer" "Mystique - American Multiple Industries, Joel H. Martin"
+"Cartridge.Name" "Custer's Revenge (1982) (Mystique) (PAL60)"
+"Display.Format" "PAL60"
+""

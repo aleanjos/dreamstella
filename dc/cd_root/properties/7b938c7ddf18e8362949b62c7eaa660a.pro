@@ -1,0 +1,5 @@
+"Cartridge.MD5" "7b938c7ddf18e8362949b62c7eaa660a"
+"Cartridge.Manufacturer" "Atari, Bob Whitehead - Sears"
+"Cartridge.ModelNo" "CX2603 - 99803, 49-75601"
+"Cartridge.Name" "Star Ship (1977) (Atari) (4K)"
+""

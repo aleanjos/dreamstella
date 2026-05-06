@@ -1,0 +1,7 @@
+"Cartridge.MD5" "e723ad8f406cb258b89681ef4cef0eff"
+"Cartridge.Manufacturer" "Thomas Jentzsch"
+"Cartridge.Name" "Sadoom (TJ) (PAL) (Hack)"
+"Cartridge.Note" "Hack of Kaboom!"
+"Cartridge.Rarity" "Hack"
+"Controller.Left" "PADDLES"
+""

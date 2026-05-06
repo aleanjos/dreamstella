@@ -1,0 +1,7 @@
+"Cartridge.MD5" "90578a63441de4520be5324e8f015352"
+"Cartridge.Manufacturer" "Bit Corporation"
+"Cartridge.ModelNo" "PGP204"
+"Cartridge.Name" "Open Sesame (4 Game in One Dark Green) (1983) (BitCorp) (PAL)"
+"Display.Height" "256"
+"Display.Phosphor" "YES"
+""

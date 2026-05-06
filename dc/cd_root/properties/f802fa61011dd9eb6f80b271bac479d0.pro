@@ -1,0 +1,7 @@
+"Cartridge.MD5" "f802fa61011dd9eb6f80b271bac479d0"
+"Cartridge.Manufacturer" "Suntek"
+"Cartridge.ModelNo" "SS-023"
+"Cartridge.Name" "Mole Hunter (Suntek) (PAL)"
+"Cartridge.Note" "AKA Topy"
+"Display.YStart" "60"
+""

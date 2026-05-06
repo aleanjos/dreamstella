@@ -1,0 +1,5 @@
+"Cartridge.MD5" "384f5fbf57b5e92ed708935ebf8a8610"
+"Cartridge.Manufacturer" "20th Century Fox Video Games, John W.S. Marvin"
+"Cartridge.ModelNo" "11009"
+"Cartridge.Name" "Crypts of Chaos (1982) (20th Century Fox)"
+""

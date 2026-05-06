@@ -1,0 +1,6 @@
+"Cartridge.MD5" "9e192601829f5f5c2d3b51f8ae25dbe5"
+"Cartridge.Manufacturer" "PlayAround - J.H.M."
+"Cartridge.ModelNo" "201"
+"Cartridge.Name" "Cathouse Blues (1982) (PlayAround)"
+"Display.Phosphor" "YES"
+""

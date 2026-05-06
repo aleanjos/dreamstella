@@ -1,0 +1,6 @@
+"Cartridge.MD5" "7f07cd2e89dda5a3a90d3ab064bfd1f6"
+"Cartridge.Manufacturer" "Videospielkassette - Ariola"
+"Cartridge.ModelNo" "PGP234"
+"Cartridge.Name" "Boxen (Ariola) (PAL)"
+"Cartridge.Note" "AKA Boxing"
+""
