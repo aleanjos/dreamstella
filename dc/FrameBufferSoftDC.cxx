@@ -101,7 +101,6 @@ void FrameBufferSoftDC::drawTIA(bool fullRedraw)
     for (uInt32 y = 0; y < 240; ++y)
     {
         uInt32 currentFBY = 0;
-        bool fillBlack = false;
 
         if (drawHeight > 240)
         {
@@ -112,7 +111,7 @@ void FrameBufferSoftDC::drawTIA(bool fullRedraw)
         {
             uInt32 offset = (240 - drawHeight) / 2;
             if (y < offset || y >= (offset + drawHeight))
-                fillBlack = true;
+                continue;
             else
                 currentFBY = y - offset;
         }
@@ -122,25 +121,6 @@ void FrameBufferSoftDC::drawTIA(bool fullRedraw)
         }
 
         volatile uint32_t *sq = (volatile uint32_t *)(0xe0000000 | (((uint32_t)vram_s + (y * 640)) & 0x03ffffe0));
-
-        if (fillBlack)
-        {
-            for (int x = 0; x < 20; ++x)
-            {
-                sq[0] = 0;
-                sq[1] = 0;
-                sq[2] = 0;
-                sq[3] = 0;
-                sq[4] = 0;
-                sq[5] = 0;
-                sq[6] = 0;
-                sq[7] = 0;
-                __asm__ volatile("pref @%0" : : "r"(sq));
-                sq += 8;
-            }
-
-            continue;
-        }
 
         uInt8 *pixelAtari = currentFB + (currentFBY * 160);
 
