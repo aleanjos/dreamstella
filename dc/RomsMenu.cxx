@@ -102,32 +102,32 @@ void RomsMenuDC::showRomsMenu()
                         cursorPosition++;
                         if (cursorPosition >= (int)romList.size())
                             cursorPosition = 0;
-                        inputDelay = 4;
+                        inputDelay = 3;
                     }
                     else if (contState->buttons & CONT_DPAD_UP)
                     {
                         cursorPosition--;
                         if (cursorPosition < 0)
                             cursorPosition = (int)romList.size() - 1;
-                        inputDelay = 4;
+                        inputDelay = 3;
                     }
                     else if (contState->buttons & CONT_DPAD_RIGHT)
                     {
                         cursorPosition += 15;
                         if (cursorPosition >= (int)romList.size())
                             cursorPosition = (int)romList.size() - 1;
-                        inputDelay = 4;
+                        inputDelay = 3;
                     }
                     else if (contState->buttons & CONT_DPAD_LEFT)
                     {
                         cursorPosition -= 15;
                         if (cursorPosition < 0)
                             cursorPosition = 0;
-                        inputDelay = 4;
+                        inputDelay = 3;
                     }
                     else if (contState->buttons & (CONT_A))
                     {
-                        inputDelay = 8;
+                        inputDelay = 5;
 
                         if (romList[cursorPosition].isDirectory)
                         {
@@ -154,7 +154,7 @@ void RomsMenuDC::showRomsMenu()
                     }
                     else if (contState->buttons & CONT_B)
                     {
-                        inputDelay = 8;
+                        inputDelay = 5;
                         if (currentDirectory != "/cd/roms" && currentDirectory != "/cd")
                         {
                             size_t lastSlash = currentDirectory.find_last_of("/");
