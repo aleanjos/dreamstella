@@ -54,12 +54,6 @@ FilesystemNode::FilesystemNode(const string& p)
 }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-// bool FilesystemNode::exists() const
-// {
-//   return _realNode ? _realNode->exists() : false;
-// }
-
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 bool FilesystemNode::getChildren(FSList& fslist, ListMode mode, bool hidden) const
 {
   if (!_realNode || !_realNode->isDirectory())
