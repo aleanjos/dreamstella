@@ -14,15 +14,15 @@ KOS_CPPFLAGS += -I$(KOS_PORTS)/include -I. -I$(EMUCORE) -I$(COMMON) \
 
 CORE_FILES = Main Disc GraphicsUtils SplashScreen RomsMenu OptionsMenu FSNode FSNodePOSIX MD5 Base Settings EventHandlerDC Serializer StateManager \
              System OSystemDC Cart Props PropsSet Random Console M6502 TIA TIATables FrameBuffer FrameBufferSoftDC \
-             M6532 NullDev Control Switches Joystick Paddles Stubs TIASnd SoundDC Thumbulator
+             M6532 NullDev Control Switches Joystick Paddles TIASnd SoundDC Thumbulator
              
 CART_FILES = Cart2K Cart3E Cart3F Cart4K Cart4KSC CartF4SC Cart4A50 CartF4 CartUA CartDPCPlus \
              CartF6 CartF8 CartF8SC CartFE CartE0 CartDPC CartMC CartE7 CartCV CartEF \
              CartEFSC Cart0840 CartSB CartDF CartBFSC CartDFSC CartF0 CartX07 CartFA CartFA2 \
              CartF6SC CartBF CartCTY CartAR
 
-NAMES = $(CORE_FILES) $(CART_FILES)
-OBJS = $(addprefix $(OBJDIR)/, $(addsuffix .o, $(NAMES)))
+FILES_NAMES = $(CORE_FILES) $(CART_FILES)
+OBJS = $(addprefix $(OBJDIR)/, $(addsuffix .o, $(FILES_NAMES)))
 DEPS = $(OBJS:.o=.d)
 
 include $(KOS_BASE)/Makefile.rules

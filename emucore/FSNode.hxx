@@ -128,7 +128,7 @@ class FilesystemNode
      *
      * @return bool true if the path exists, false otherwise.
      */
-    virtual bool exists() const;
+    //virtual bool exists() const;
 
     /**
      * Return a list of child nodes of this directory node. If called on a node
@@ -191,46 +191,6 @@ class FilesystemNode
      */
     virtual bool isFile() const;
 
-    /**
-     * Indicates whether the object referred by this path can be read from or not.
-     *
-     * If the path refers to a directory, readability implies being able to read
-     * and list the directory entries.
-     *
-     * If the path refers to a file, readability implies being able to read the
-     * contents of the file.
-     *
-     * @return bool true if the object can be read, false otherwise.
-     */
-    virtual bool isReadable() const;
-
-    /**
-     * Indicates whether the object referred by this path can be written to or not.
-     *
-     * If the path refers to a directory, writability implies being able to modify
-     * the directory entry (i.e. rename the directory, remove it or write files
-     * inside of it).
-     *
-     * If the path refers to a file, writability implies being able to write data
-     * to the file.
-     *
-     * @return bool true if the object can be written to, false otherwise.
-     */
-    virtual bool isWritable() const;
-
-    /**
-     * Create a directory from the current node path.
-     *
-     * @return bool true if the directory was created, false otherwise.
-     */
-    virtual bool makeDir();
-
-    /**
-     * Rename the current node path with the new given name.
-     *
-     * @return bool true if the node was renamed, false otherwise.
-     */
-    virtual bool rename(const string& newfile);
 
     /**
      * Read data (binary format) into the given buffer.
@@ -283,11 +243,6 @@ class AbstractFSNode
      */
     virtual ~AbstractFSNode() {}
 
-    /*
-     * Indicates whether the object referred by this path exists in the
-     * filesystem or not.
-     */
-    virtual bool exists() const = 0;
 
     /**
      * Return a list of child nodes of this directory node. If called on a node
@@ -335,46 +290,6 @@ class AbstractFSNode
      */
     virtual bool isFile() const = 0;
 
-    /**
-     * Indicates whether the object referred by this path can be read from or not.
-     *
-     * If the path refers to a directory, readability implies being able to read
-     * and list the directory entries.
-     *
-     * If the path refers to a file, readability implies being able to read the
-     * contents of the file.
-     *
-     * @return bool true if the object can be read, false otherwise.
-     */
-    virtual bool isReadable() const = 0;
-
-    /**
-     * Indicates whether the object referred by this path can be written to or not.
-     *
-     * If the path refers to a directory, writability implies being able to modify
-     * the directory entry (i.e. rename the directory, remove it or write files
-     * inside of it).
-     *
-     * If the path refers to a file, writability implies being able to write data
-     * to the file.
-     *
-     * @return bool true if the object can be written to, false otherwise.
-     */
-    virtual bool isWritable() const = 0;
-
-    /**
-     * Create a directory from the current node path.
-     *
-     * @return bool true if the directory was created, false otherwise.
-     */
-    virtual bool makeDir() = 0;
-
-    /**
-     * Rename the current node path with the new given name.
-     *
-     * @return bool true if the node was renamed, false otherwise.
-     */
-    virtual bool rename(const string& newfile) = 0;
 
     /**
      * Read data (binary format) into the given buffer.

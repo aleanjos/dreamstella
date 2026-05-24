@@ -207,53 +207,6 @@ bool FilesystemNodePOSIX::getChildren(AbstractFSList& myList, ListMode mode,
   return true;
 }
 
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-bool FilesystemNodePOSIX::makeDir()
-{
-  if(mkdir(_path.c_str(), 0777) == 0)
-  {
-    // Get absolute path  
-    char buf[MAXPATHLEN];
-    if(realpath(_path.c_str(), buf))
-      _path = buf;
-
-    _displayName = lastPathComponent(_path);
-    setFlags();
-
-    // Add a trailing slash, if necessary
-    if (_path.length() > 0 && _path[_path.length()-1] != '/')
-      _path += '/';
-    
-    return true;
-  }
-  else
-    return false;
-}
-
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-bool FilesystemNodePOSIX::rename(const string& newfile)
-{
-  if(std::rename(_path.c_str(), newfile.c_str()) == 0)
-  {
-    _path = newfile;
-
-    // Get absolute path  
-    char buf[MAXPATHLEN];
-    if(realpath(_path.c_str(), buf))
-      _path = buf;
-
-    _displayName = lastPathComponent(_path);
-    setFlags();
-
-    // Add a trailing slash, if necessary
-    if (_isDirectory && _path.length() > 0 && _path[_path.length()-1] != '/')
-      _path += '/';
-    
-    return true;
-  }
-  else
-    return false;
-}
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 AbstractFSNode* FilesystemNodePOSIX::getParent() const

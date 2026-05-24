@@ -54,10 +54,10 @@ FilesystemNode::FilesystemNode(const string& p)
 }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-bool FilesystemNode::exists() const
-{
-  return _realNode ? _realNode->exists() : false;
-}
+// bool FilesystemNode::exists() const
+// {
+//   return _realNode ? _realNode->exists() : false;
+// }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 bool FilesystemNode::getChildren(FSList& fslist, ListMode mode, bool hidden) const
@@ -152,29 +152,6 @@ bool FilesystemNode::isFile() const
   return _realNode ? _realNode->isFile() : false;
 }
 
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-bool FilesystemNode::isReadable() const
-{
-  return _realNode ? _realNode->isReadable() : false;
-}
-
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-bool FilesystemNode::isWritable() const
-{
-  return _realNode ? _realNode->isWritable() : false;
-}
-
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-bool FilesystemNode::makeDir()
-{
-  return (_realNode && !_realNode->exists()) ? _realNode->makeDir() : false;
-}
-
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-bool FilesystemNode::rename(const string& newfile)
-{
-  return (_realNode && _realNode->exists()) ? _realNode->rename(newfile) : false;
-}
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 uInt32 FilesystemNode::read(uInt8*& image) const
@@ -183,11 +160,6 @@ uInt32 FilesystemNode::read(uInt8*& image) const
 
   if((size = _realNode->read(image)) > 0)
     return size;
-
-  if (!(exists() && isReadable())) {
-    printf("File not found/readable");
-    return 0;
-  }
 
   FILE* f = fopen(getPath().c_str(), "rb");
   if (f)

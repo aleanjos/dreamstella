@@ -395,17 +395,6 @@ void OSystem::resetLoopTiming()
 	myTimingInfo.totalFrames = 0;
 }
 
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-void OSystem::validatePath(string &path, const string &setting,
-									const string &defaultpath)
-{
-	const string &s = mySettings->getString(setting) == "" ? defaultpath : mySettings->getString(setting);
-	FilesystemNode node(s);
-	if (!node.isDirectory())
-		node.makeDir();
-
-	path = node.getPath();
-}
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 void OSystem::setDefaultJoymap(Event::Type event, EventMode mode)
