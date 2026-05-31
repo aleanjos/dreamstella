@@ -138,7 +138,7 @@ const char* Properties::ourDefaultProperties[LastPropType] = {
   "AUTO",      // Cartridge.Type
   "B",         // Console.LeftDifficulty
   "B",         // Console.RightDifficulty
-  "COLOR",     // Console.TelevisionType
+  "COLOR",     // Console.TelevisionType  
   "NO",        // Console.SwapPorts
   "JOYSTICK",  // Controller.Left
   "JOYSTICK",  // Controller.Right

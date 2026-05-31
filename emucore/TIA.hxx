@@ -74,7 +74,7 @@ public:
   virtual ~TIA();
 
 public:
-   bool isPAL() { return float(myPALFrameCounter) / myFrameCounter >= (25.0 / 60.0); }
+  bool isPAL() { return float(myPALFrameCounter) / myFrameCounter >= (25.0 / 60.0); }
 
   uInt32 ystart() const { return 34; }
   void setYStart(uInt32 y) {}
@@ -516,7 +516,7 @@ private:
   // The framerate currently in use by the Console
   float myFramerate;
 
-    // Number of PAL frames displayed by this TIA
+  // Number of PAL frames displayed by this TIA
   uInt32 myPALFrameCounter;
 
 private:

@@ -102,12 +102,7 @@ void FrameBufferSoftDC::drawTIA(bool fullRedraw)
     {
         uInt32 currentFBY = 0;
 
-        if (drawHeight > 240)
-        {
-            uInt32 excess = (drawHeight - 240) / 2;
-            currentFBY = y + excess;
-        }
-        else if (drawHeight < 240)
+        if (drawHeight < 240)
         {
             uInt32 offset = (240 - drawHeight) / 2;
             if (y < offset || y >= (offset + drawHeight))

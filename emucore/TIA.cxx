@@ -205,26 +205,17 @@ void TIA::frameReset()
   // Make sure all these are within bounds
   myFrameWidth = 160;
   myFrameYStart = atoi(myConsole.properties().get(Display_YStart).c_str());
-  if (myFrameYStart < 0)
-    myFrameYStart = 0;
-  if (myFrameYStart > 64)
-    myFrameYStart = 64;
-
   myFrameHeight = atoi(myConsole.properties().get(Display_Height).c_str());
 
-  if (myFramerate <= 55.0f)
+  if (myMaximumNumberOfScanlines == 342)
   {
-    if (myFrameHeight < 240)
-      myFrameHeight = 240;
-    if (myFrameHeight > 240)
-      myFrameHeight = 256;
-  }
-  else
-  {
-    if (myFrameHeight < 210)
-      myFrameHeight = 210;
-    if (myFrameHeight > 256)
-      myFrameHeight = 256;
+    myFrameHeight = 240;
+
+    if (myScanlineCountForLastFrame < 320)
+      myFrameYStart = 42;
+
+    if (myScanlineCountForLastFrame >= 320)
+      myFrameYStart = 60;
   }
 
   // Calculate color clock offsets for starting and stoping frame drawing
@@ -573,7 +564,6 @@ inline void TIA::endFrame()
   if (myScanlineCountForLastFrame >= 287)
     myPALFrameCounter++;
 }
-
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 inline void TIA::updateFrameScanline(uInt32 clocksToUpdate, uInt32 hpos)
