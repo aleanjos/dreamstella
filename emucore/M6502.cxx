@@ -22,54 +22,52 @@
 // $Id$
 //============================================================================
 
-
 // Flags for disassembly types
-#define DISASM_CODE  0
-#define DISASM_GFX   0
-#define DISASM_PGFX  0
-#define DISASM_DATA  0
-#define DISASM_ROW   0
-#define DISASM_NONE  0
+#define DISASM_CODE 0
+#define DISASM_GFX 0
+#define DISASM_PGFX 0
+#define DISASM_DATA 0
+#define DISASM_ROW 0
+#define DISASM_NONE 0
 
 #include "Settings.hxx"
 
 #include "M6502.hxx"
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-M6502::M6502(uInt32 systemCyclesPerProcessorCycle, const Settings& settings)
-   : myExecutionStatus(0),
-   mySystem(0),
-   mySettings(settings),
-   mySystemCyclesPerProcessorCycle(systemCyclesPerProcessorCycle),
-   myLastAccessWasRead(true),
-   myTotalInstructionCount(0),
-   myNumberOfDistinctAccesses(0),
-   myLastAddress(0),
-   myLastPeekAddress(0),
-   myLastPokeAddress(0),
-   myLastSrcAddressS(-1),
-   myLastSrcAddressA(-1),
-   myLastSrcAddressX(-1),
-   myLastSrcAddressY(-1),
-   myDataAddressForPoke(0)
+M6502::M6502(uInt32 systemCyclesPerProcessorCycle, const Settings &settings)
+    : myExecutionStatus(0),
+      mySystem(0),
+      mySettings(settings),
+      mySystemCyclesPerProcessorCycle(systemCyclesPerProcessorCycle),
+      myLastAccessWasRead(true),
+      myTotalInstructionCount(0),
+      myNumberOfDistinctAccesses(0),
+      myLastAddress(0),
+      myLastPeekAddress(0),
+      myLastPokeAddress(0),
+      myLastSrcAddressS(-1),
+      myLastSrcAddressA(-1),
+      myLastSrcAddressX(-1),
+      myLastSrcAddressY(-1),
+      myDataAddressForPoke(0)
 {
 
    // Compute the System Cycle table
    for (uInt32 t = 0; t < 256; ++t)
    {
       myInstructionSystemCycleTable[t] = ourInstructionCycleTable[t] *
-         mySystemCyclesPerProcessorCycle;
+                                         mySystemCyclesPerProcessorCycle;
    }
 }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 M6502::~M6502()
 {
-
 }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-void M6502::install(System& system)
+void M6502::install(System &system)
 {
    // Remember which system I'm installed in
    mySystem = &system;
@@ -106,7 +104,7 @@ void M6502::reset()
 
    myLastAddress = myLastPeekAddress = myLastPokeAddress = 0;
    myLastSrcAddressS = myLastSrcAddressA =
-      myLastSrcAddressX = myLastSrcAddressY = -1;
+       myLastSrcAddressX = myLastSrcAddressY = -1;
    myDataAddressForPoke = 0;
 }
 
@@ -125,7 +123,7 @@ bool M6502::execute(uInt32 number)
    {
       while (!myExecutionStatus && num != 0)
       {
-         IR = peek(PC++, 0); 
+         IR = peek(PC++, 0);
 
          switch (IR)
          {
@@ -161,6 +159,19 @@ bool M6502::execute(uInt32 number)
    }
 }
 
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+uInt8 M6502::peek(uInt16 address, uInt8 flags)
+{
+   mySystem->incrementCycles(mySystemCyclesPerProcessorCycle);
+   return mySystem->peek(address);
+}
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+void M6502::poke(uInt16 address, uInt8 value)
+{
+   mySystem->incrementCycles(mySystemCyclesPerProcessorCycle);
+   mySystem->poke(address, value);
+}
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 void M6502::interruptHandler()
@@ -191,19 +202,19 @@ void M6502::interruptHandler()
 }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-bool M6502::save(Serializer& out) const
+bool M6502::save(Serializer &out) const
 {
-   const string& CPU = name();
+   const string &CPU = name();
 
    // Removido o try/catch para compatibilidade com -fno-exceptions
    out.putString(CPU);
 
-   out.putByte(A);    // Accumulator
-   out.putByte(X);    // X index register
-   out.putByte(Y);    // Y index register
-   out.putByte(SP);   // Stack Pointer
-   out.putByte(IR);   // Instruction register
-   out.putShort(PC);  // Program Counter
+   out.putByte(A);   // Accumulator
+   out.putByte(X);   // X index register
+   out.putByte(Y);   // Y index register
+   out.putByte(SP);  // Stack Pointer
+   out.putByte(IR);  // Instruction register
+   out.putShort(PC); // Program Counter
 
    out.putBool(N);    // N flag for processor status register
    out.putBool(V);    // V flag for processor status register
@@ -229,20 +240,20 @@ bool M6502::save(Serializer& out) const
 }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-bool M6502::load(Serializer& in)
+bool M6502::load(Serializer &in)
 {
-   const string& CPU = name();
+   const string &CPU = name();
 
    // Removido o try/catch
    if (in.getString() != CPU)
       return false;
 
-   A = in.getByte();    // Accumulator
-   X = in.getByte();    // X index register
-   Y = in.getByte();    // Y index register
-   SP = in.getByte();   // Stack Pointer
-   IR = in.getByte();   // Instruction register
-   PC = in.getShort();  // Program Counter
+   A = in.getByte();   // Accumulator
+   X = in.getByte();   // X index register
+   Y = in.getByte();   // Y index register
+   SP = in.getByte();  // Stack Pointer
+   IR = in.getByte();  // Instruction register
+   PC = in.getShort(); // Program Counter
 
    N = in.getBool();    // N flag for processor status register
    V = in.getBool();    // V flag for processor status register
@@ -267,25 +278,23 @@ bool M6502::load(Serializer& in)
    return true;
 }
 
-
-
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 uInt32 M6502::ourInstructionCycleTable[256] = {
-   //  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
-       7, 6, 2, 8, 3, 3, 5, 5, 3, 2, 2, 2, 4, 4, 6, 6,  // 0
-       2, 5, 2, 8, 4, 4, 6, 6, 2, 4, 2, 7, 4, 4, 7, 7,  // 1
-       6, 6, 2, 8, 3, 3, 5, 5, 4, 2, 2, 2, 4, 4, 6, 6,  // 2
-       2, 5, 2, 8, 4, 4, 6, 6, 2, 4, 2, 7, 4, 4, 7, 7,  // 3
-       6, 6, 2, 8, 3, 3, 5, 5, 3, 2, 2, 2, 3, 4, 6, 6,  // 4
-       2, 5, 2, 8, 4, 4, 6, 6, 2, 4, 2, 7, 4, 4, 7, 7,  // 5
-       6, 6, 2, 8, 3, 3, 5, 5, 4, 2, 2, 2, 5, 4, 6, 6,  // 6
-       2, 5, 2, 8, 4, 4, 6, 6, 2, 4, 2, 7, 4, 4, 7, 7,  // 7
-       2, 6, 2, 6, 3, 3, 3, 3, 2, 2, 2, 2, 4, 4, 4, 4,  // 8
-       2, 6, 2, 6, 4, 4, 4, 4, 2, 5, 2, 5, 5, 5, 5, 5,  // 9
-       2, 6, 2, 6, 3, 3, 3, 4, 2, 2, 2, 2, 4, 4, 4, 4,  // a
-       2, 5, 2, 5, 4, 4, 4, 4, 2, 4, 2, 4, 4, 4, 4, 4,  // b
-       2, 6, 2, 8, 3, 3, 5, 5, 2, 2, 2, 2, 4, 4, 6, 6,  // c
-       2, 5, 2, 8, 4, 4, 6, 6, 2, 4, 2, 7, 4, 4, 7, 7,  // d
-       2, 6, 2, 8, 3, 3, 5, 5, 2, 2, 2, 2, 4, 4, 6, 6,  // e
-       2, 5, 2, 8, 4, 4, 6, 6, 2, 4, 2, 7, 4, 4, 7, 7   // f
+    //  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
+    7, 6, 2, 8, 3, 3, 5, 5, 3, 2, 2, 2, 4, 4, 6, 6, // 0
+    2, 5, 2, 8, 4, 4, 6, 6, 2, 4, 2, 7, 4, 4, 7, 7, // 1
+    6, 6, 2, 8, 3, 3, 5, 5, 4, 2, 2, 2, 4, 4, 6, 6, // 2
+    2, 5, 2, 8, 4, 4, 6, 6, 2, 4, 2, 7, 4, 4, 7, 7, // 3
+    6, 6, 2, 8, 3, 3, 5, 5, 3, 2, 2, 2, 3, 4, 6, 6, // 4
+    2, 5, 2, 8, 4, 4, 6, 6, 2, 4, 2, 7, 4, 4, 7, 7, // 5
+    6, 6, 2, 8, 3, 3, 5, 5, 4, 2, 2, 2, 5, 4, 6, 6, // 6
+    2, 5, 2, 8, 4, 4, 6, 6, 2, 4, 2, 7, 4, 4, 7, 7, // 7
+    2, 6, 2, 6, 3, 3, 3, 3, 2, 2, 2, 2, 4, 4, 4, 4, // 8
+    2, 6, 2, 6, 4, 4, 4, 4, 2, 5, 2, 5, 5, 5, 5, 5, // 9
+    2, 6, 2, 6, 3, 3, 3, 4, 2, 2, 2, 2, 4, 4, 4, 4, // a
+    2, 5, 2, 5, 4, 4, 4, 4, 2, 4, 2, 4, 4, 4, 4, 4, // b
+    2, 6, 2, 8, 3, 3, 5, 5, 2, 2, 2, 2, 4, 4, 6, 6, // c
+    2, 5, 2, 8, 4, 4, 6, 6, 2, 4, 2, 7, 4, 4, 7, 7, // d
+    2, 6, 2, 8, 3, 3, 5, 5, 2, 2, 2, 2, 4, 4, 6, 6, // e
+    2, 5, 2, 8, 4, 4, 6, 6, 2, 4, 2, 7, 4, 4, 7, 7  // f
 };

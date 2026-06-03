@@ -234,41 +234,9 @@ public:
     return (myDataBusState | (myRandom->next() | hmask)) & zmask;
   }
 
-inline uInt8 peek(uInt16 addr, uInt8 flags = 0) __attribute__((always_inline))
-  {
-    PageAccess *access = myPageAccessTable + ((addr & myAddressMask) >> myPageShift);
+  uInt8 peek(uInt16 addr, uInt8 flags = 0);
 
-    uInt8 result;
-    
-    if (__builtin_expect(access->directPeekBase != 0, 1))
-    {
-      result = access->directPeekBase[addr & myPageMask];
-    }
-    else
-    {
-      result = access->device->peek(addr);
-    }
-
-    return (myDataBusState = result);
-  }
-
-inline void poke(uInt16 addr, uInt8 value) __attribute__((always_inline))
-  {
-    uInt16 page = (addr & myAddressMask) >> myPageShift;
-    PageAccess *access = myPageAccessTable + page;
-
-    if (__builtin_expect(access->directPokeBase != 0, 0))
-    {
-      access->directPokeBase[addr & myPageMask] = value;
-      myPageIsDirtyTable[page] = true;
-    }
-    else
-    {
-      myPageIsDirtyTable[page] = access->device->poke(addr, value);
-    }
-
-    myDataBusState = value;
-  }
+  void poke(uInt16 addr, uInt8 value);
 
   /**
     Lock/unlock the data bus. When the bus is locked, peek() and

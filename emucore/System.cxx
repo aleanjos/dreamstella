@@ -53,7 +53,7 @@ System::System(uInt16 n, uInt16 m)
 	myNumberOfDevices = 0;
 
 	// Make sure the arguments are reasonable
-	//assert((1 <= m) && (m <= n) && (n <= 16));
+	// assert((1 <= m) && (m <= n) && (n <= 16));
 
 	// Create a new random number generator
 	myRandom = new Random();
@@ -117,7 +117,7 @@ void System::reset(bool autodetect)
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 void System::attach(Device *device)
 {
-	//assert(myNumberOfDevices < 100);
+	// assert(myNumberOfDevices < 100);
 
 	// Add device to my collection of devices
 	myDevices[myNumberOfDevices++] = device;
@@ -167,13 +167,51 @@ void System::resetCycles()
 }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+uInt8 System::peek(uInt16 addr, uInt8 flags)
+{
+	PageAccess *access = myPageAccessTable + ((addr & myAddressMask) >> myPageShift);
+
+	uInt8 result;
+
+	if (access->directPeekBase != 0)
+	{
+		result = access->directPeekBase[addr & myPageMask];
+	}
+	else
+	{
+		result = access->device->peek(addr);
+	}
+
+	return (myDataBusState = result);
+}
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+void System::poke(uInt16 addr, uInt8 value)
+{
+	uInt16 page = (addr & myAddressMask) >> myPageShift;
+	PageAccess *access = myPageAccessTable + page;
+
+	if (access->directPokeBase != 0)
+	{
+		access->directPokeBase[addr & myPageMask] = value;
+		myPageIsDirtyTable[page] = true;
+	}
+	else
+	{
+		myPageIsDirtyTable[page] = access->device->poke(addr, value);
+	}
+
+	myDataBusState = value;
+}
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 void System::setPageAccess(uInt16 page, const PageAccess &access)
 {
 	// Make sure the page is within range
-	//assert(page < myNumberOfPages);
+	// assert(page < myNumberOfPages);
 
 	// Make sure the access methods make sense
-	//assert(access.device != 0);
+	// assert(access.device != 0);
 
 	myPageAccessTable[page] = access;
 }
@@ -182,7 +220,7 @@ void System::setPageAccess(uInt16 page, const PageAccess &access)
 const System::PageAccess &System::getPageAccess(uInt16 page) const
 {
 	// Make sure the page is within range
-	//assert(page < myNumberOfPages);
+	// assert(page < myNumberOfPages);
 
 	return myPageAccessTable[page];
 }
@@ -197,7 +235,7 @@ System::PageAccessType System::getPageAccessType(uInt16 addr) const
 void System::setDirtyPage(uInt16 addr)
 {
 	return;
-	//myPageIsDirtyTable[(addr & myAddressMask) >> myPageShift] = true;
+	// myPageIsDirtyTable[(addr & myAddressMask) >> myPageShift] = true;
 }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -219,7 +257,6 @@ void System::clearDirtyPages()
 	for (uInt32 i = 0; i < myNumberOfPages; ++i)
 		myPageIsDirtyTable[i] = false;
 }
-
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 uInt8 System::getAccessFlags(uInt16 addr)
@@ -290,12 +327,12 @@ System::System(const System &s)
 		myPageMask(s.myPageMask),
 		myNumberOfPages(s.myNumberOfPages)
 {
-	//assert(false);
+	// assert(false);
 }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 System &System::operator=(const System &)
 {
-	//assert(false);
+	// assert(false);
 	return *this;
 }

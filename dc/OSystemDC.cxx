@@ -75,8 +75,6 @@ OSystem::OSystem()
 	myMillisAtStart = (uInt32)(time(NULL) * 1000);
 
 	initGuiColors();
-
-	myFeatures += "Sound ";
 }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

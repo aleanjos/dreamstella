@@ -566,7 +566,7 @@ inline void TIA::endFrame()
 }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-inline void TIA::updateFrameScanline(uInt32 clocksToUpdate, uInt32 hpos)
+void TIA::updateFrameScanline(uInt32 clocksToUpdate, uInt32 hpos)
 {
   // Calculate the ending frame pointer value
   uInt8 *ending = myFramePointer + clocksToUpdate;
@@ -1343,9 +1343,7 @@ void TIA::updateFrame(Int32 clock)
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 inline void TIA::waitHorizontalSync()
 {
-  uInt32 cyclesToEndOfLine = 76 - ((mySystem->cycles() -
-                                    (myClockWhenFrameStarted / 3)) %
-                                   76);
+  uInt32 cyclesToEndOfLine = 76 - ((mySystem->cycles() - (myClockWhenFrameStarted / 3)) % 76);
 
   if (cyclesToEndOfLine < 76)
   {

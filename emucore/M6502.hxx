@@ -209,16 +209,9 @@ public:
   string name() const { return "M6502"; }
 
 public:
+  inline uInt8 peek(uInt16 address, uInt8 flags = 0);
 
-inline uInt8 peek(uInt16 address, uInt8 flags = 0) __attribute__((always_inline)) {
-       mySystem->incrementCycles(mySystemCyclesPerProcessorCycle);
-       return mySystem->peek(address);
-    }
-
-    inline void poke(uInt16 address, uInt8 value) __attribute__((always_inline)) {
-       mySystem->incrementCycles(mySystemCyclesPerProcessorCycle);
-       mySystem->poke(address, value);
-    }
+  inline void poke(uInt16 address, uInt8 value);
 
 private:
   /**

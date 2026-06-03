@@ -112,7 +112,7 @@ void CartridgeDPC::install(System &system)
 }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-inline void CartridgeDPC::updateMusicModeDataFetchers()
+void CartridgeDPC::updateMusicModeDataFetchers()
 {
 	uInt32 currentCycles = mySystem->cycles();
 	Int32 cycles = currentCycles - mySystemCycles;
