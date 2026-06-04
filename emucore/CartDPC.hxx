@@ -31,7 +31,7 @@ class System;
 #include "Cart.hxx"
 
 /**
-  Cartridge class used for Pitfall II.  There are two 4K program banks, a
+  Cartridge class used for Pitfall II.  There are two 4K program banks, a 
   2K display bank, and the DPC chip.  The bankswitching itself is the same
   as F8 scheme (hotspots at $1FF8 and $1FF9).  DPC chip access is mapped to
   $1000 - $1080 ($1000 - $103F is read port, $1040 - $107F is write port).
@@ -46,172 +46,168 @@ class CartridgeDPC : public Cartridge
 {
   friend class CartridgeDPCWidget;
 
-public:
-  /**
-    Create a new cartridge using the specified image
+  public:
+    /**
+      Create a new cartridge using the specified image
 
-    @param image     Pointer to the ROM image
-    @param size      The size of the ROM image
-    @param settings  A reference to the various settings (read-only)
-  */
-  CartridgeDPC(const uInt8 *image, uInt32 size, const Settings &settings);
+      @param image     Pointer to the ROM image
+      @param size      The size of the ROM image
+      @param settings  A reference to the various settings (read-only)
+    */
+    CartridgeDPC(const uInt8* image, uInt32 size, const Settings& settings);
+ 
+    /**
+      Destructor
+    */
+    virtual ~CartridgeDPC();
 
-  /**
-    Destructor
-  */
-  virtual ~CartridgeDPC();
+  public:
+    /**
+      Reset device to its power-on state
+    */
+    void reset();
 
-public:
-  /**
-    Reset device to its power-on state
-  */
-  void reset();
+    /**
+      Notification method invoked by the system right before the
+      system resets its cycle counter to zero.  It may be necessary
+      to override this method for devices that remember cycle counts.
+    */
+    void systemCyclesReset();
 
-  /**
-    Notification method invoked by the system right before the
-    system resets its cycle counter to zero.  It may be necessary
-    to override this method for devices that remember cycle counts.
-  */
-  void systemCyclesReset();
+    /**
+      Install cartridge in the specified system.  Invoked by the system
+      when the cartridge is attached to it.
 
-  /**
-    Install cartridge in the specified system.  Invoked by the system
-    when the cartridge is attached to it.
+      @param system The system the device should install itself in
+    */
+    void install(System& system);
 
-    @param system The system the device should install itself in
-  */
-  void install(System &system);
+    /**
+      Install pages for the specified bank in the system.
 
-  /**
-    Install pages for the specified bank in the system.
+      @param bank The bank that should be installed in the system
+    */
+    bool bank(uInt16 bank);
 
-    @param bank The bank that should be installed in the system
-  */
-  bool bank(uInt16 bank);
+    /**
+      Get the current bank.
+    */
+    uInt16 bank() const;
 
-  /**
-    Get the current bank.
-  */
-  uInt16 bank() const;
+    /**
+      Query the number of banks supported by the cartridge.
+    */
+    uInt16 bankCount() const;
 
-  /**
-    Query the number of banks supported by the cartridge.
-  */
-  uInt16 bankCount() const;
+    /**
+      Patch the cartridge ROM.
 
-  /**
-    Patch the cartridge ROM.
+      @param address  The ROM address to patch
+      @param value    The value to place into the address
+      @return    Success or failure of the patch operation
+    */
+    bool patch(uInt16 address, uInt8 value);
 
-    @param address  The ROM address to patch
-    @param value    The value to place into the address
-    @return    Success or failure of the patch operation
-  */
-  bool patch(uInt16 address, uInt8 value);
+    /**
+      Access the internal ROM image for this cartridge.
 
-  /**
-    Access the internal ROM image for this cartridge.
+      @param size  Set to the size of the internal ROM image data
+      @return  A pointer to the internal ROM image data
+    */
+    const uInt8* getImage(int& size) const;
 
-    @param size  Set to the size of the internal ROM image data
-    @return  A pointer to the internal ROM image data
-  */
-  const uInt8 *getImage(int &size) const;
+    /**
+      Save the current state of this cart to the given Serializer.
 
-  /**
-    Save the current state of this cart to the given Serializer.
+      @param out  The Serializer object to use
+      @return  False on any errors, else true
+    */
+    bool save(Serializer& out) const;
 
-    @param out  The Serializer object to use
-    @return  False on any errors, else true
-  */
-  bool save(Serializer &out) const;
+    /**
+      Load the current state of this cart from the given Serializer.
 
-  /**
-    Load the current state of this cart from the given Serializer.
+      @param in  The Serializer object to use
+      @return  False on any errors, else true
+    */
+    bool load(Serializer& in);
 
-    @param in  The Serializer object to use
-    @return  False on any errors, else true
-  */
-  bool load(Serializer &in);
+    /**
+      Get a descriptor for the device name (used in error checking).
 
-  /**
-    Get a descriptor for the device name (used in error checking).
+      @return The name of the object
+    */
+    string name() const { return "CartridgeDPC"; }
 
-    @return The name of the object
-  */
-  string name() const { return "CartridgeDPC"; }
 
-public:
-  /**
-    Get the byte at the specified address.
+  public:
+    /**
+      Get the byte at the specified address.
 
-    @return The byte at the specified address
-  */
-  uInt8 peek(uInt16 address);
+      @return The byte at the specified address
+    */
+    uInt8 peek(uInt16 address);
 
-  /**
-    Change the byte at the specified address to the given value
+    /**
+      Change the byte at the specified address to the given value
 
-    @param address The address where the value should be stored
-    @param value The value to be stored at the address
-    @return  True if the poke changed the device address space, else false
-  */
-  bool poke(uInt16 address, uInt8 value);
+      @param address The address where the value should be stored
+      @param value The value to be stored at the address
+      @return  True if the poke changed the device address space, else false
+    */
+    bool poke(uInt16 address, uInt8 value);
 
-private:
-  /**
-    Clocks the random number generator to move it to its next state
-  */
-  inline void clockRandomNumberGenerator()
-  {
-    myRandomNumber = (myRandomNumber << 1) | (~((myRandomNumber >> 4) ^ (myRandomNumber >> 5)) & 0x01);
-  }
+  private:
+    /** 
+      Clocks the random number generator to move it to its next state
+    */
+    void clockRandomNumberGenerator();
 
-  /**
-    Updates any data fetchers in music mode based on the number of
-    CPU cycles which have passed since the last update.
-  */
-  void updateMusicModeDataFetchers();
+    /** 
+      Updates any data fetchers in music mode based on the number of
+      CPU cycles which have passed since the last update.
+    */
+    void updateMusicModeDataFetchers();
 
-private:
-  // The ROM image
-  uInt8 myImage[8192 + 2048 + 256];
+  private:
+    // The ROM image
+    uInt8 myImage[8192 + 2048 + 256];
 
-  // (Actual) Size of the ROM image
-  uInt32 mySize;
+    // (Actual) Size of the ROM image
+    uInt32 mySize;
 
-  // Pointer to the 8K program ROM image of the cartridge
-  uInt8 *myProgramImage;
+    // Pointer to the 8K program ROM image of the cartridge
+    uInt8* myProgramImage;
 
-  // Pointer to the 2K display ROM image of the cartridge
-  uInt8 *myDisplayImage;
+    // Pointer to the 2K display ROM image of the cartridge
+    uInt8* myDisplayImage;
 
-  // Indicates which bank is currently active
-  uInt16 myCurrentBank;
+    // Indicates which bank is currently active
+    uInt16 myCurrentBank;
 
-  // The top registers for the data fetchers
-  uInt8 myTops[8];
+    // The top registers for the data fetchers
+    uInt8 myTops[8];
 
-  // The bottom registers for the data fetchers
-  uInt8 myBottoms[8];
+    // The bottom registers for the data fetchers
+    uInt8 myBottoms[8];
 
-  // The counter registers for the data fetchers
-  uInt16 myCounters[8];
+    // The counter registers for the data fetchers
+    uInt16 myCounters[8];
 
-  // The flag registers for the data fetchers
-  uInt8 myFlags[8];
+    // The flag registers for the data fetchers
+    uInt8 myFlags[8];
 
-  // The music mode DF5, DF6, & DF7 enabled flags
-  bool myMusicMode[3];
+    // The music mode DF5, DF6, & DF7 enabled flags
+    bool myMusicMode[3];
 
-  // The random number generator register
-  uInt8 myRandomNumber;
+    // The random number generator register
+    uInt8 myRandomNumber;
 
-  // System cycle count when the last update to music data fetchers occurred
-  Int32 mySystemCycles;
+    // System cycle count when the last update to music data fetchers occurred
+    Int32 mySystemCycles;
 
-  // Fractional DPC music OSC clocks unused during the last update
-  uInt32 myFractionalClocks;
-
-  bool myDecrementEnable[8];
+    // Fractional DPC music OSC clocks unused during the last update
+    uInt32 myFractionalClocks;
 };
 
 #endif
