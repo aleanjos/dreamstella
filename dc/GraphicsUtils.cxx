@@ -18,8 +18,8 @@ GraphicsUtils::GraphicsUtils()
         _font16px.table[i] = {0, 0, 0, 0, 0, 0, 8};
     }
 
-    _font11px = loadFont("/cd/theme/font11px.fnt", "/cd/theme/font11px.png");
-    _font16px = loadFont("/cd/theme/font16px.fnt", "/cd/theme/font16px.png");
+    _font11px = loadFont("/rd/theme/font11px.fnt", "/rd/theme/font11px.png");
+    _font16px = loadFont("/rd/theme/font16px.fnt", "/rd/theme/font16px.png");
 }
 
 GraphicsUtils::~GraphicsUtils()
