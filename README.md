@@ -55,5 +55,9 @@ You will need a configured Dreamcast development environment. I recommend using 
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/aleanjos/dreamstella.git
+
+2. Navigate to the `dc` folder and run `make` to generate the `.cdi` file, `make debug` to generate the `.elf` file, or `make clean` to clean up all files generated during compilation:
+   ```bash
    cd dc
    make
+   
