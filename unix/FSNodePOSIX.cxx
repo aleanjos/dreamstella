@@ -93,11 +93,6 @@ FilesystemNodePOSIX::FilesystemNodePOSIX(const string& p, bool verify)
       _path.replace(0, 1, home);
   }
 
-  // Get absolute path  
-  char buf[MAXPATHLEN];
-  if(realpath(_path.c_str(), buf))
-    _path = buf;
-
   _displayName = lastPathComponent(_path);
 
   if(verify)
