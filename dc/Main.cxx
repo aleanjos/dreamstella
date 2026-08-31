@@ -14,6 +14,9 @@
 
 KOS_INIT_FLAGS(INIT_DEFAULT);
 
+extern uint8 romdisk[];
+
+
 OSystem *theOSystem = nullptr;
 Settings *settings = nullptr;
 GraphicsUtils *graphicsUtils = nullptr;
@@ -22,9 +25,11 @@ RomsMenuDC *romsMenu = nullptr;
 
 int main(int argc, char *argv[])
 {
+    fs_romdisk_mount("/rd", romdisk, 0);
+
     scanRoms();
 
-    showSplashScreen("/cd/theme/splash-screen.png", 5000);
+    showSplashScreen("/rd/theme/splash-screen.png", 5000);
 
     graphicsUtils = new GraphicsUtils();
     romsMenu = new RomsMenuDC();
