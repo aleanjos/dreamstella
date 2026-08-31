@@ -6,6 +6,14 @@
 #include "GraphicsUtils.hxx"
 #include "RomsMenu.hxx"
 
+#ifdef DEBUG_MODE
+    const std::string ROMS_DIR = "/rd/roms";
+    const std::string COVERS_DIR = "/rd/covers";
+#else
+    const std::string ROMS_DIR = "/cd/roms";
+    const std::string COVERS_DIR = "/cd/covers";
+#endif
+
 static int cursorPosition = 0;
 
 RomsMenuDC::RomsMenuDC()
@@ -43,7 +51,7 @@ void RomsMenuDC::showRomsMenu()
     int inputDelay = 0;
     int selectedPrevious = -1;
 
-    Image backgroundImage = graph.loadImage("/cd/theme/background.png");
+    Image backgroundImage = graph.loadImage("/rd/theme/background.png");
     Image coverImage = {nullptr, 0, 0};
 
     int coverTimer = 0;
@@ -72,11 +80,11 @@ void RomsMenuDC::showRomsMenu()
                 std::string baseName = (dot != std::string::npos) ? fileName.substr(0, dot) : fileName;
 
                 std::string subFolder = "";
-                if (currentDirectory.find("/cd/roms") == 0)
+                if (currentDirectory.find(ROMS_DIR) == 0)
                     subFolder = currentDirectory.substr(8);
 
                 char coverPath[256];
-                snprintf(coverPath, sizeof(coverPath), "/cd/covers%s/%s.png", subFolder.c_str(), baseName.c_str());
+                snprintf(coverPath, sizeof(coverPath), "%s%s/%s.png", COVERS_DIR.c_str(), subFolder.c_str(), baseName.c_str());
 
                 coverImage = graph.loadImage(coverPath);
                 loadedCover = true;
@@ -92,6 +100,12 @@ void RomsMenuDC::showRomsMenu()
             cont_state_t *contState = (cont_state_t *)maple_dev_status(joysticA);
             if (contState)
             {
+                if ((contState->ltrig > 120 && contState->rtrig > 120) && (contState->buttons &  CONT_START))
+                {
+                    arch_set_exit_path(ARCH_EXIT_MENU);
+                    arch_exit();
+                }
+
                 if (!(contState->buttons & (CONT_DPAD_DOWN | CONT_DPAD_UP | CONT_DPAD_LEFT | CONT_DPAD_RIGHT | CONT_A | CONT_B)))
                     inputDelay = 0;
 
@@ -134,7 +148,7 @@ void RomsMenuDC::showRomsMenu()
                             if (romList[cursorPosition].fullPath == "..")
                             {
                                 size_t lastSlash = currentDirectory.find_last_of("/");
-                                if (lastSlash != std::string::npos && currentDirectory != "/cd/roms")
+                                if (lastSlash != std::string::npos && currentDirectory != ROMS_DIR)
                                 {
                                     currentDirectory = currentDirectory.substr(0, lastSlash);
                                 }
@@ -155,7 +169,7 @@ void RomsMenuDC::showRomsMenu()
                     else if (contState->buttons & CONT_B)
                     {
                         inputDelay = 5;
-                        if (currentDirectory != "/cd/roms" && currentDirectory != "/cd")
+                        if (currentDirectory != ROMS_DIR && (currentDirectory != "/cd") && (currentDirectory != "/rd"))
                         {
                             size_t lastSlash = currentDirectory.find_last_of("/");
                             if (lastSlash != std::string::npos)
