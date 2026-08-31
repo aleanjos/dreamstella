@@ -6,8 +6,14 @@
 
 #include "Disc.hxx"
 
+#ifdef DEBUG_MODE
+    const std::string ROMS_DIR = "/rd/roms";
+#else
+    const std::string ROMS_DIR = "/cd/roms";
+#endif
+
 std::vector<FileEntry> romList;
-std::string currentDirectory = "/cd/roms";
+std::string currentDirectory = ROMS_DIR;
 
 bool compareEntries(const FileEntry& a, const FileEntry& b) {
     if (a.isDirectory != b.isDirectory) return a.isDirectory > b.isDirectory;
@@ -20,9 +26,21 @@ void scanRoms()
 
     DIR *dir = opendir(currentDirectory.c_str());
     if (!dir)
-        return;
+    {
+        if (currentDirectory == "/cd/roms")
+        {
+            currentDirectory = "/rd/roms";
+            dir = opendir(currentDirectory.c_str());
+        }    
+            if (!dir) {
+                currentDirectory = "/";
+                dir = opendir(currentDirectory.c_str());
+                
+                if (!dir) return;
+            }
+        }
 
-    if (currentDirectory != "/cd/roms" && currentDirectory != "/cd") {
+    if (currentDirectory != ROMS_DIR && (currentDirectory != "/cd") && (currentDirectory != "/rd")) {
         FileEntry up;
         up.name = "Return to previous folder";
         up.fullPath = "..";
