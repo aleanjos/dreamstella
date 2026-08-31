@@ -21,6 +21,12 @@ dc/cd_root/roms/*
 dc/cd_root/covers/*
 !dc/cd_root/covers/.gitkeep
 
+dc/romdisk/covers/*
+!dc/romdisk/covers/.gitkeep
+
+dc/romdisk/roms/*
+!dc/romdisk/roms/.gitkeep
+
 .DS_Store
 Thumbs.db
 
