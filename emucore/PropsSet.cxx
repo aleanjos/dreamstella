@@ -131,7 +131,7 @@ bool PropertiesSet::getMD5(const string &md5, Properties &properties,
 	bool found = false;
 
 	char path[128];
-	sprintf(path, "/cd/properties/%s.pro", md5.c_str());
+	sprintf(path, "/rd/properties/%s.pro", md5.c_str());
 
 	FILE *f = fopen(path, "r");
 	if (f)
