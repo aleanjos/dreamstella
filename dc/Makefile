@@ -1,15 +1,18 @@
 TARGET = DreamStella.elf
-OBJDIR = obj
+OBJ_DIR = ./obj
 BUILD_DIR = ./build
+CDROOT_DIR = ./cd_root
+ROMDISK_DIR = ./romdisk
 
-EMUCORE     = ../emucore
-COMMON      = ../common
+EMUCORE_DIR     = ../emucore
+COMMON_DIR      = ../common
 UNIX_DIR    = ../unix
 
-KOS_CPPFLAGS += -I$(KOS_PORTS)/include -I. -I$(EMUCORE) -I$(COMMON) \
-                -DUNIX -DBS_LITTLE_ENDIAN -DNDEBUG -g0 -MMD -MP \
+KOS_CPPFLAGS += -I$(KOS_PORTS)/include -I. -I$(EMUCORE_DIR) -I$(COMMON_DIR) \
+                -DUNIX -DBS_LITTLE_ENDIAN -MMD -MP \
                 -O2 -fomit-frame-pointer -ffast-math -m4-single-only \
-                -fno-exceptions -fno-rtti -fno-threadsafe-statics -flto \
+                -fno-exceptions -fno-rtti -fno-threadsafe-statics \
+                -fno-strict-aliasing -std=c++17 -fpermissive \
                 -DTHUMB_SUPPORT
 
 CORE_FILES = Main Disc GraphicsUtils SplashScreen RomsMenu OptionsMenu FSNode FSNodePOSIX MD5 Base Settings EventHandlerDC Serializer StateManager \
@@ -22,49 +25,63 @@ CART_FILES = Cart2K Cart3E Cart3F Cart4K Cart4KSC CartF4SC Cart4A50 CartF4 CartU
              CartF6SC CartBF CartCTY CartAR
 
 FILES_NAMES = $(CORE_FILES) $(CART_FILES)
-OBJS = $(addprefix $(OBJDIR)/, $(addsuffix .o, $(FILES_NAMES)))
+OBJS = $(addprefix $(OBJ_DIR)/, $(addsuffix .o, $(FILES_NAMES)))
 DEPS = $(OBJS:.o=.d)
+
+ROMDISK_IMG = $(BUILD_DIR)/romdisk.img
+ROMDISK_OBJ = $(OBJ_DIR)/romdisk.o
 
 include $(KOS_BASE)/Makefile.rules
 
-KOS_LDFLAGS += -s -flto
+.PHONY: all setup dist clean dev
 
-.PHONY: all setup dist clean
+all: KOS_CPPFLAGS += -DNDEBUG -g0
+all: KOS_LDFLAGS += -s
+
+dist: KOS_CPPFLAGS += -DNDEBUG -g0
+dist: KOS_LDFLAGS += -s
+
+debug: KOS_CPPFLAGS += -DDEBUG_MODE -g
 
 all: setup dist
 
+debug: setup $(TARGET)
+
 setup:
-	@mkdir -p $(OBJDIR)
+	@mkdir -p $(OBJ_DIR)
 	@mkdir -p $(BUILD_DIR)
+	@mkdir -p $(CDROOT_DIR)
+	@mkdir -p $(ROMDISK_DIR)
 
-$(TARGET): $(OBJS) 
+$(TARGET): $(ROMDISK_OBJ) $(OBJS) 
 	$(KOS_CCPLUS) $(KOS_CPPFLAGS) $(KOS_LDFLAGS) -o $(BUILD_DIR)/$(TARGET) $(KOS_START) \
-      $(OBJS) \
-      -lstdc++ \
-      $(KOS_LIBS)
+	$(OBJS) $(ROMDISK_OBJ) \
+	-lstdc++ \
+	$(KOS_LIBS)
 
-$(OBJDIR)/%.o: %.cxx | setup
+$(ROMDISK_IMG):
+	$(KOS_GENROMFS) -f $(ROMDISK_IMG) -d $(ROMDISK_DIR) -v
+
+$(ROMDISK_OBJ): $(ROMDISK_IMG)
+	$(KOS_BASE)/utils/bin2o/bin2o $(ROMDISK_IMG) romdisk $(ROMDISK_OBJ)
+
+$(OBJ_DIR)/%.o: %.cxx | setup
 	$(KOS_CCPLUS) $(KOS_CPPFLAGS) $(KOS_CFLAGS) -c $< -o $@
 
-$(OBJDIR)/%.o: $(EMUCORE)/%.cxx | setup
+$(OBJ_DIR)/%.o: $(EMUCORE_DIR)/%.cxx | setup
 	$(KOS_CCPLUS) $(KOS_CPPFLAGS) $(KOS_CFLAGS) -c $< -o $@
 
-$(OBJDIR)/%.o: $(COMMON)/%.cxx | setup
+$(OBJ_DIR)/%.o: $(COMMON_DIR)/%.cxx | setup
 	$(KOS_CCPLUS) $(KOS_CPPFLAGS) $(KOS_CFLAGS) -c $< -o $@
 
-$(OBJDIR)/%.o: $(UNIX_DIR)/%.cxx | setup
+$(OBJ_DIR)/%.o: $(UNIX_DIR)/%.cxx | setup
 	$(KOS_CCPLUS) $(KOS_CPPFLAGS) $(KOS_CFLAGS) -c $< -o $@
 
 dist: $(TARGET)
-	kos-objcopy -O binary $(BUILD_DIR)/$(TARGET) $(BUILD_DIR)/DreamStella.bin
-	mkdir -p cd_root
-	scramble $(BUILD_DIR)/DreamStella.bin cd_root/1ST_READ.bin
-	mkisofs -C 0,11702 -V "DreamStella" -G IP.bin -r -J -l -o $(BUILD_DIR)/DreamStella.iso cd_root/
-	cdi4dc $(BUILD_DIR)/DreamStella.iso $(BUILD_DIR)/DreamStella.cdi
+	@mkdcdisc -e $(BUILD_DIR)/$(TARGET) -D $(CDROOT_DIR) -o $(BUILD_DIR)/DreamStella.cdi -V "DreamStella" --disable-data-track-padding --allow-overwrite
 
 clean:
-	-rm -rf $(OBJDIR)
-	-rm -rf $(BUILD_DIR)
-	-rm -f cd_root/1ST_READ.bin
+	-rm -rf $(OBJ_DIR)/*
+	-rm -rf $(BUILD_DIR)/*
 
 -include $(DEPS)
